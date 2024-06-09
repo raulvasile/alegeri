@@ -78,7 +78,7 @@ const getData = (url) => {
           });
         }
 
-        console.log(`total_votes ${bla[1]} = ${total_votes} | total_voturi_valide ${total_voturi_valide}`);
+        console.log(`total_votes ${bla[1]} = ${total_votes} | total_voturi_valide ${total_voturi_valide} | procent judet: ${parseFloat(total_votes * 100 / total_voturi_valide).toFixed(2)}%`);
         total_voturi_v.push(total_voturi_valide);
 
         total.push(total_votes);
@@ -88,9 +88,9 @@ const getData = (url) => {
           let total_voturi = total.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
           let t_v_v = total_voturi_v.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
 
-          console.log('TOTAL VOTURI NS = ', total_voturi);
-          console.log('TOTAL VOTURI VALIDE = ', t_v_v);
-          console.log('Procent: ', (total_voturi / t_v_v) * 100);
+          console.log('TOTAL VOTURI NS = ', total_voturi.toLocaleString('en-US'));
+          console.log('TOTAL VOTURI VALIDE = ', t_v_v.toLocaleString('en-US'));
+          console.log(`Procent:  ${parseFloat((total_voturi / t_v_v) * 100).toFixed(2)}%`);
         }
       });
   });
