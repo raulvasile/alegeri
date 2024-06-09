@@ -54,9 +54,6 @@ let total = [];
 let count = 0;
 let total_voturi_v = [];
 
-// const prezenta_tara = 9444903;
-// const prezenta_diaspora = 215139;
-
 const getData = (url) => {
   return new Promise((resolve, reject) => {
     let whatever = url.split('/');
@@ -87,13 +84,9 @@ const getData = (url) => {
         total.push(total_votes);
         count++;
         if (count == judete.length) {
-          // const prezenta_total = prezenta_tara + prezenta_diaspora;
 
           let total_voturi = total.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
           let t_v_v = total_voturi_v.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
-          // console.log('bla', total_voturi_v);
-
-          // const procent = (total_voturi * 100) / prezenta_tara;
 
           console.log('TOTAL VOTURI NS = ', total_voturi);
           console.log('TOTAL VOTURI VALIDE = ', t_v_v);
