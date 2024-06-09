@@ -52,6 +52,10 @@ const judete = [
 
 let total = [];
 let count = 0;
+let total_voturi_v = [];
+
+// const prezenta_tara = 9444903;
+// const prezenta_diaspora = 215139;
 
 const getData = (url) => {
   return new Promise((resolve, reject) => {
@@ -63,22 +67,37 @@ const getData = (url) => {
       .then((res) => res.json())
       .then((data) => {
         let total_votes = 0;
+        let total_voturi_valide = 0;
         const table = data.stages.PROV?.scopes?.PRCNCT?.categories?.EUP?.table;
 
         if (table) {
           Object.keys(table).forEach((item) => {
-            let a = table[item].votes.filter((tab) => tab.candidate == 'ȘTEFĂNUȚĂ NICOLAE-BOGDĂNEL');
-            total_votes += parseInt(a[0].votes, 10);
+            let voturi_nicu = table[item].votes.filter((tab) => tab.candidate == 'ȘTEFĂNUȚĂ NICOLAE-BOGDĂNEL');
+            total_votes += parseInt(voturi_nicu[0].votes, 10);
+
+            let voturi_valide = table[item].fields.filter((tab) => tab.name == 'e');
+            total_voturi_valide += parseInt(voturi_valide[0].value);
+
           });
         }
 
-        console.log(`total_votes ${bla[1]} = ${total_votes}`);
+        console.log(`total_votes ${bla[1]} = ${total_votes} | total_voturi_valide ${total_voturi_valide}`);
+        total_voturi_v.push(total_voturi_valide);
 
         total.push(total_votes);
         count++;
         if (count == judete.length) {
+          // const prezenta_total = prezenta_tara + prezenta_diaspora;
+
           let total_voturi = total.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
-          console.log('TOTAL VOTURI = ', total_voturi);
+          let t_v_v = total_voturi_v.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
+          // console.log('bla', total_voturi_v);
+
+          // const procent = (total_voturi * 100) / prezenta_tara;
+
+          console.log('TOTAL VOTURI NS = ', total_voturi);
+          console.log('TOTAL VOTURI VALIDE = ', t_v_v);
+          console.log('Procent: ', (total_voturi / t_v_v) * 100);
         }
       });
   });
