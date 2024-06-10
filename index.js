@@ -56,9 +56,9 @@ let total_voturi_v = [];
 
 const getData = (url) => {
   return new Promise((resolve, reject) => {
-    let whatever = url.split('/');
-    let jd = whatever.slice(-1)[0];
-    let bla = jd.split('_');
+    let baza_judet = url.split('/');
+    let baza_judet_el = baza_judet.slice(-1)[0];
+    let judet = baza_judet_el.split('_');
 
     fetch(url)
       .then((res) => res.json())
@@ -78,7 +78,7 @@ const getData = (url) => {
           });
         }
 
-        console.log(`total_votes ${bla[1]} = ${total_votes} | total_voturi_valide ${total_voturi_valide} | procent judet: ${parseFloat(total_votes * 100 / total_voturi_valide).toFixed(2)}%`);
+        console.log(`total_votes ${judet[1]} = ${total_votes} | total_voturi_valide ${total_voturi_valide} | procent judet: ${parseFloat(total_votes * 100 / total_voturi_valide).toFixed(2)}%`);
         total_voturi_v.push(total_voturi_valide);
 
         total.push(total_votes);
@@ -97,7 +97,7 @@ const getData = (url) => {
 };
 
 
-judete.forEach((item) => {
-  getData(item);
+judete.forEach((judet) => {
+  getData(judet);
 });
 
