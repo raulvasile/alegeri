@@ -85,12 +85,7 @@ const denumire_sectii = [
   'https://prezenta.roaep.ro/europarlamentare09062024/data/json/simpv/lists/precincts_ph.json',
   'https://prezenta.roaep.ro/europarlamentare09062024/data/json/simpv/lists/precincts_sj.json',
   'https://prezenta.roaep.ro/europarlamentare09062024/data/json/simpv/lists/precincts_sm.json',
-  /*'https://prezenta.roaep.ro/europarlamentare09062024/data/json/simpv/lists/precincts_s1.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/simpv/lists/precincts_s2.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/simpv/lists/precincts_s3.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/simpv/lists/precincts_s4.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/simpv/lists/precincts_s5.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/simpv/lists/precincts_s6.json',*/
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/simpv/lists/precincts_b.json',
   'https://prezenta.roaep.ro/europarlamentare09062024/data/json/simpv/lists/precincts_sb.json',
   'https://prezenta.roaep.ro/europarlamentare09062024/data/json/simpv/lists/precincts_tr.json',
   'https://prezenta.roaep.ro/europarlamentare09062024/data/json/simpv/lists/precincts_tm.json',
