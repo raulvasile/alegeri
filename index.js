@@ -1,5 +1,55 @@
 const time = 900000;
 
+const JUDETE_ABV = [
+  'ab',
+  'ar',
+  'ag',
+  'bc',
+  'bh',
+  'bn',
+  'bt',
+  'br',
+  'bv',
+  'bz',
+  'cl',
+  'cs',
+  'cj',
+  'ct',
+  'cv',
+  'db',
+  'dj',
+  'gl',
+  'gr',
+  'hr',
+  'hd',
+  'il',
+  'is',
+  'if',
+  'mm',
+  'mh',
+  'ms',
+  'nt',
+  'ot',
+  'ph',
+  'sj',
+  'sm',
+  's1',
+  's2',
+  's3',
+  's4',
+  's5',
+  's6',
+  'sb',
+  'sv',
+  'tr',
+  'tm',
+  'tl',
+  'vl',
+  'vs',
+  'vn',
+  'sr'
+];
+
 const judete = [
   'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ab_final.json',
   'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ar_final.json',
@@ -172,10 +222,8 @@ const getData = (url, date_sectii) => {
           console.log(`Procent Nicu Stefanuta:  ${parseFloat((total_voturi / t_v_v) * 100).toFixed(4)}%`);
           console.log(`Procent voturi numarate (aproximativ): ${parseFloat(((t_v_v + total_n) / total_prezenta) * 100).toFixed(4)}%`);
 
-          // console.log(sectii);
           const jsonArray = Object.entries(sectii);
 
-          // Sort the array based on the procent_nule key
           jsonArray.sort((b, a) => a[1].procent_nule - b[1].procent_nule);
 
           fs.writeFileSync('sectii.json', JSON.stringify(jsonArray));
@@ -200,6 +248,58 @@ Promise.all(promises).then((sectii) => {
   });
 });
 
+function sortObject(data) {
+  const entries = Object.entries(data);
+
+  entries.sort(([, a], [, b]) => a.totalVoturiNS - b.totalVoturiNS);
+
+  const sortedData = Object.fromEntries(entries);
+
+  return sortedData;
+}
+
+const getCountyUrl = (county_code) => {
+  return `https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_${county_code}_final.json`;
+}
+
+const getCountyVotes = (url, county_code) => {
+  fetch(url)
+    .then((data) => data.json())
+    .then((res) => {
+      const sectii = {};
+
+      const rawData = res.stages.FINAL.scopes.PRCNCT.categories.EUP.table;
+
+      Object.keys(rawData).forEach((sectie) => {
+        if (rawData[sectie].county_code.toLowerCase() == county_code.toLowerCase()) {
+          let total_voturi = 0;
+          let total_voturi_ns = 0;
+          let voturi_valide = rawData[sectie].fields.filter((tab) => tab.name == 'e');
+          let voturi_nicu = rawData[sectie].votes.filter((tab) => tab.candidate == 'ȘTEFĂNUȚĂ NICOLAE-BOGDĂNEL');
+          total_voturi_ns += parseInt(voturi_nicu[0].votes, 10);
+          total_voturi += parseInt(voturi_valide[0].value, 10);
+
+          sectii[sectie] = {
+            localitate: rawData[sectie].uat_name,
+            nume_sectie: rawData[sectie].precinct_name,
+            totalVoturi: total_voturi,
+            totalVoturiNS: total_voturi_ns,
+            procent: `${parseFloat(
+              (total_voturi_ns / total_voturi) * 100
+            ).toFixed(2)}%`,
+          };
+        }
+      });
+
+      fs.writeFileSync(`./judete/${county_code}.json`, JSON.stringify(sortObject(sectii)), 'utf8', (err) => {
+        console.log('There was an error with ', county_code, err);
+      });
+  });
+}
+
+JUDETE_ABV.forEach((judet) => {
+  getCountyVotes(getCountyUrl(judet), judet)
+});
 
 const ABROAD_URL = "https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_sr_final.json";
 
@@ -250,6 +350,4 @@ fetch(ABROAD_URL)
       procent: `${parseFloat((total_voturi_ns / total_voturi) * 100).toFixed(2)}%`
     };
   });
-
-  console.log('outcome', outcome)
 });

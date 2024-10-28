@@ -1,0 +1,4482 @@
+{
+  "21498": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 9",
+    "totalVoturi": 617,
+    "totalVoturiNS": 30,
+    "procent": "4.86%"
+  },
+  "21499": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 9",
+    "totalVoturi": 491,
+    "totalVoturiNS": 24,
+    "procent": "4.89%"
+  },
+  "21500": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGETA MIRCEA CANCICOV”",
+    "totalVoturi": 587,
+    "totalVoturiNS": 31,
+    "procent": "5.28%"
+  },
+  "21501": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGETA MIRCEA CANCICOV”",
+    "totalVoturi": 576,
+    "totalVoturiNS": 18,
+    "procent": "3.13%"
+  },
+  "21502": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGETA MIRCEA CANCICOV”",
+    "totalVoturi": 538,
+    "totalVoturiNS": 22,
+    "procent": "4.09%"
+  },
+  "21503": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGETA MIRCEA CANCICOV”",
+    "totalVoturi": 589,
+    "totalVoturiNS": 17,
+    "procent": "2.89%"
+  },
+  "21504": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIHAI DRĂGAN”",
+    "totalVoturi": 540,
+    "totalVoturiNS": 22,
+    "procent": "4.07%"
+  },
+  "21505": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM PRELUNGIT ”CRAI NOU”",
+    "totalVoturi": 351,
+    "totalVoturiNS": 18,
+    "procent": "5.13%"
+  },
+  "21506": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM PRELUNGIT ”CRAI NOU”",
+    "totalVoturi": 381,
+    "totalVoturiNS": 16,
+    "procent": "4.20%"
+  },
+  "21507": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIHAIL SADOVEANU”",
+    "totalVoturi": 477,
+    "totalVoturiNS": 18,
+    "procent": "3.77%"
+  },
+  "21508": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIHAIL SADOVEANU”",
+    "totalVoturi": 479,
+    "totalVoturiNS": 16,
+    "procent": "3.34%"
+  },
+  "21509": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIHAIL SADOVEANU”",
+    "totalVoturi": 592,
+    "totalVoturiNS": 22,
+    "procent": "3.72%"
+  },
+  "21510": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIHAIL SADOVEANU”",
+    "totalVoturi": 817,
+    "totalVoturiNS": 33,
+    "procent": "4.04%"
+  },
+  "21511": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGETA MIRCEA CANCICOV”",
+    "totalVoturi": 419,
+    "totalVoturiNS": 19,
+    "procent": "4.53%"
+  },
+  "21512": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGETA MIRCEA CANCICOV”",
+    "totalVoturi": 446,
+    "totalVoturiNS": 10,
+    "procent": "2.24%"
+  },
+  "21513": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIHAI DRĂGAN”",
+    "totalVoturi": 505,
+    "totalVoturiNS": 18,
+    "procent": "3.56%"
+  },
+  "21514": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIHAI DRĂGAN”",
+    "totalVoturi": 461,
+    "totalVoturiNS": 12,
+    "procent": "2.60%"
+  },
+  "21515": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIHAI DRĂGAN”",
+    "totalVoturi": 525,
+    "totalVoturiNS": 26,
+    "procent": "4.95%"
+  },
+  "21516": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIHAI DRĂGAN”",
+    "totalVoturi": 94,
+    "totalVoturiNS": 4,
+    "procent": "4.26%"
+  },
+  "21517": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIHAI DRĂGAN”",
+    "totalVoturi": 516,
+    "totalVoturiNS": 24,
+    "procent": "4.65%"
+  },
+  "21518": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ADMINISTRAȚIA FINANȚELOR PUBLICE BACĂU",
+    "totalVoturi": 362,
+    "totalVoturiNS": 15,
+    "procent": "4.14%"
+  },
+  "21519": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL NAŢIONAL ”GHEORGHE VRÂNCEANU”",
+    "totalVoturi": 641,
+    "totalVoturiNS": 33,
+    "procent": "5.15%"
+  },
+  "21520": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL NAŢIONAL ”GHEORGHE VRÂNCEANU”",
+    "totalVoturi": 451,
+    "totalVoturiNS": 24,
+    "procent": "5.32%"
+  },
+  "21521": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ALEXANDRU IOAN CUZA”",
+    "totalVoturi": 512,
+    "totalVoturiNS": 14,
+    "procent": "2.73%"
+  },
+  "21522": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL NAŢIONAL ”FERDINAND I”",
+    "totalVoturi": 430,
+    "totalVoturiNS": 17,
+    "procent": "3.95%"
+  },
+  "21523": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL NAŢIONAL ”FERDINAND I”",
+    "totalVoturi": 364,
+    "totalVoturiNS": 13,
+    "procent": "3.57%"
+  },
+  "21524": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL NAŢIONAL ”FERDINAND I”",
+    "totalVoturi": 541,
+    "totalVoturiNS": 22,
+    "procent": "4.07%"
+  },
+  "21525": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL NAȚIONAL ”FERDINAND I”",
+    "totalVoturi": 455,
+    "totalVoturiNS": 23,
+    "procent": "5.05%"
+  },
+  "21526": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL NAȚIONAL ”FERDINAND I”",
+    "totalVoturi": 626,
+    "totalVoturiNS": 24,
+    "procent": "3.83%"
+  },
+  "21527": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "DIRECŢIA PENTRU AGRICULTURĂ BACĂU",
+    "totalVoturi": 629,
+    "totalVoturiNS": 34,
+    "procent": "5.41%"
+  },
+  "21528": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRADINITA CU PROGRAM PRELUNGIT NR.29",
+    "totalVoturi": 453,
+    "totalVoturiNS": 15,
+    "procent": "3.31%"
+  },
+  "21529": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRADINITA CU PROGRAM PRELUNGIT NR.29",
+    "totalVoturi": 445,
+    "totalVoturiNS": 9,
+    "procent": "2.02%"
+  },
+  "21530": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRADINITA CU PROGRAM PRELUNGIT NR.29",
+    "totalVoturi": 394,
+    "totalVoturiNS": 16,
+    "procent": "4.06%"
+  },
+  "21531": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”ION CREANGĂ”",
+    "totalVoturi": 479,
+    "totalVoturiNS": 14,
+    "procent": "2.92%"
+  },
+  "21532": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”ION CREANGĂ”",
+    "totalVoturi": 517,
+    "totalVoturiNS": 13,
+    "procent": "2.51%"
+  },
+  "21533": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”ION CREANGĂ”",
+    "totalVoturi": 578,
+    "totalVoturiNS": 30,
+    "procent": "5.19%"
+  },
+  "21534": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL ”N.VASILESCU-KARPEN”",
+    "totalVoturi": 593,
+    "totalVoturiNS": 20,
+    "procent": "3.37%"
+  },
+  "21535": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL ”N.VASILESCU-KARPEN”",
+    "totalVoturi": 619,
+    "totalVoturiNS": 19,
+    "procent": "3.07%"
+  },
+  "21536": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL ”N.VASILESCU-KARPEN”",
+    "totalVoturi": 215,
+    "totalVoturiNS": 8,
+    "procent": "3.72%"
+  },
+  "21537": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL ”N.VASILESCU-KARPEN”",
+    "totalVoturi": 605,
+    "totalVoturiNS": 28,
+    "procent": "4.63%"
+  },
+  "21538": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL TEHNOLOGIC ”ANGHEL SALIGNY” - CORPUL F",
+    "totalVoturi": 703,
+    "totalVoturiNS": 23,
+    "procent": "3.27%"
+  },
+  "21539": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL TEHNOLOGIC ”ANGHEL SALIGNY” - CORPUL F",
+    "totalVoturi": 584,
+    "totalVoturiNS": 17,
+    "procent": "2.91%"
+  },
+  "21540": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL ”MIHAI EMINESCU”",
+    "totalVoturi": 495,
+    "totalVoturiNS": 16,
+    "procent": "3.23%"
+  },
+  "21541": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL ”MIHAI EMINESCU”",
+    "totalVoturi": 446,
+    "totalVoturiNS": 15,
+    "procent": "3.36%"
+  },
+  "21542": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "SCOALA GIMNAZIALĂ ”ALEXANDRU CEL BUN”",
+    "totalVoturi": 551,
+    "totalVoturiNS": 16,
+    "procent": "2.90%"
+  },
+  "21543": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.12",
+    "totalVoturi": 354,
+    "totalVoturiNS": 8,
+    "procent": "2.26%"
+  },
+  "21544": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL NATIONAL ”VASILE ALECSANDRI”",
+    "totalVoturi": 329,
+    "totalVoturiNS": 17,
+    "procent": "5.17%"
+  },
+  "21545": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL NATIONAL ”VASILE ALECSANDRI”",
+    "totalVoturi": 330,
+    "totalVoturiNS": 23,
+    "procent": "6.97%"
+  },
+  "21546": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL NAȚIONAL DE ARTĂ ”GEORGE APOSTU”",
+    "totalVoturi": 287,
+    "totalVoturiNS": 14,
+    "procent": "4.88%"
+  },
+  "21547": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL NAȚIONAL PEDAGOGIC ”ŞTEFAN CEL MARE”",
+    "totalVoturi": 499,
+    "totalVoturiNS": 10,
+    "procent": "2.00%"
+  },
+  "21548": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL NAȚIONAL PEDAGOGIC ”ŞTEFAN CEL MARE”",
+    "totalVoturi": 565,
+    "totalVoturiNS": 13,
+    "procent": "2.30%"
+  },
+  "21549": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
+    "totalVoturi": 457,
+    "totalVoturiNS": 12,
+    "procent": "2.63%"
+  },
+  "21550": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
+    "totalVoturi": 396,
+    "totalVoturiNS": 21,
+    "procent": "5.30%"
+  },
+  "21551": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
+    "totalVoturi": 363,
+    "totalVoturiNS": 12,
+    "procent": "3.31%"
+  },
+  "21552": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
+    "totalVoturi": 390,
+    "totalVoturiNS": 18,
+    "procent": "4.62%"
+  },
+  "21553": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
+    "totalVoturi": 423,
+    "totalVoturiNS": 13,
+    "procent": "3.07%"
+  },
+  "21554": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”DOMNIȚA MARIA”",
+    "totalVoturi": 585,
+    "totalVoturiNS": 23,
+    "procent": "3.93%"
+  },
+  "21555": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”DOMNIȚA MARIA”",
+    "totalVoturi": 497,
+    "totalVoturiNS": 17,
+    "procent": "3.42%"
+  },
+  "21556": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”DOMNIȚA MARIA”",
+    "totalVoturi": 511,
+    "totalVoturiNS": 26,
+    "procent": "5.09%"
+  },
+  "21557": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”DOMNIȚA MARIA”",
+    "totalVoturi": 483,
+    "totalVoturiNS": 22,
+    "procent": "4.55%"
+  },
+  "21558": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”DOMNIȚA MARIA”",
+    "totalVoturi": 705,
+    "totalVoturiNS": 31,
+    "procent": "4.40%"
+  },
+  "21559": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”DR.ALEXANDRU ŞAFRAN”",
+    "totalVoturi": 390,
+    "totalVoturiNS": 17,
+    "procent": "4.36%"
+  },
+  "21560": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”DR.ALEXANDRU ŞAFRAN”",
+    "totalVoturi": 521,
+    "totalVoturiNS": 21,
+    "procent": "4.03%"
+  },
+  "21561": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRADINITA CU PROGRAM PRELUNGIT NR.24",
+    "totalVoturi": 575,
+    "totalVoturiNS": 22,
+    "procent": "3.83%"
+  },
+  "21562": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”DUMITRU MANGERON”",
+    "totalVoturi": 456,
+    "totalVoturiNS": 13,
+    "procent": "2.85%"
+  },
+  "21563": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”DUMITRU MANGERON”",
+    "totalVoturi": 492,
+    "totalVoturiNS": 23,
+    "procent": "4.67%"
+  },
+  "21564": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "CLĂDIRE CĂMIN (CARE A APARȚINUT FOSTULUI COLEGIU TEHNIC ”LETEA”",
+    "totalVoturi": 620,
+    "totalVoturiNS": 19,
+    "procent": "3.06%"
+  },
+  "21565": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "CLĂDIRE CĂMIN (CARE A APARȚINUT FOSTULUI COLEGIU TEHNIC ”LETEA”",
+    "totalVoturi": 522,
+    "totalVoturiNS": 24,
+    "procent": "4.60%"
+  },
+  "21566": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "CLĂDIRE CĂMIN (CARE A APARȚINUT FOSTULUI COLEGIU TEHNIC ”LETEA”",
+    "totalVoturi": 544,
+    "totalVoturiNS": 18,
+    "procent": "3.31%"
+  },
+  "21567": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.10",
+    "totalVoturi": 526,
+    "totalVoturiNS": 27,
+    "procent": "5.13%"
+  },
+  "21568": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.10",
+    "totalVoturi": 490,
+    "totalVoturiNS": 14,
+    "procent": "2.86%"
+  },
+  "21569": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.10",
+    "totalVoturi": 318,
+    "totalVoturiNS": 19,
+    "procent": "5.97%"
+  },
+  "21570": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”DUMITRU MANGERON”",
+    "totalVoturi": 498,
+    "totalVoturiNS": 25,
+    "procent": "5.02%"
+  },
+  "21571": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”DUMITRU MANGERON”",
+    "totalVoturi": 510,
+    "totalVoturiNS": 22,
+    "procent": "4.31%"
+  },
+  "21572": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA PRIMARĂ NR.1",
+    "totalVoturi": 372,
+    "totalVoturiNS": 6,
+    "procent": "1.61%"
+  },
+  "21573": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA PRIMARĂ NR.1",
+    "totalVoturi": 332,
+    "totalVoturiNS": 13,
+    "procent": "3.92%"
+  },
+  "21574": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "SCOALA GIMNAZIALĂ ”OCTAVIAN VOICU”",
+    "totalVoturi": 378,
+    "totalVoturiNS": 9,
+    "procent": "2.38%"
+  },
+  "21575": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "SCOALA GIMNAZIALĂ ”OCTAVIAN VOICU”",
+    "totalVoturi": 361,
+    "totalVoturiNS": 24,
+    "procent": "6.65%"
+  },
+  "21576": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "SCOALA GIMNAZIALĂ ”OCTAVIAN VOICU”",
+    "totalVoturi": 424,
+    "totalVoturiNS": 15,
+    "procent": "3.54%"
+  },
+  "21577": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "SCOALA GIMNAZIALĂ ”OCTAVIAN VOICU”",
+    "totalVoturi": 387,
+    "totalVoturiNS": 12,
+    "procent": "3.10%"
+  },
+  "21578": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT ”DUMBRAVA MINUNATĂ”",
+    "totalVoturi": 377,
+    "totalVoturiNS": 13,
+    "procent": "3.45%"
+  },
+  "21579": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT ”DUMBRAVA MINUNATĂ”",
+    "totalVoturi": 374,
+    "totalVoturiNS": 21,
+    "procent": "5.61%"
+  },
+  "21580": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.31",
+    "totalVoturi": 386,
+    "totalVoturiNS": 11,
+    "procent": "2.85%"
+  },
+  "21581": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”NICOLAE IORGA”",
+    "totalVoturi": 463,
+    "totalVoturiNS": 26,
+    "procent": "5.62%"
+  },
+  "21582": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”NICOLAE IORGA”",
+    "totalVoturi": 374,
+    "totalVoturiNS": 14,
+    "procent": "3.74%"
+  },
+  "21583": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”NICOLAE IORGA”",
+    "totalVoturi": 508,
+    "totalVoturiNS": 18,
+    "procent": "3.54%"
+  },
+  "21584": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”NICOLAE IORGA”",
+    "totalVoturi": 483,
+    "totalVoturiNS": 18,
+    "procent": "3.73%"
+  },
+  "21585": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.21 (CORPUL I)",
+    "totalVoturi": 354,
+    "totalVoturiNS": 18,
+    "procent": "5.08%"
+  },
+  "21586": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "UNIVERSITATEA ”VASILE ALECSANDRI” - CORPUL A",
+    "totalVoturi": 381,
+    "totalVoturiNS": 21,
+    "procent": "5.51%"
+  },
+  "21587": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "UNIVERSITATEA ”VASILE ALECSANDRI” - CANTINĂ STUDENȚEASCĂ",
+    "totalVoturi": 313,
+    "totalVoturiNS": 6,
+    "procent": "1.92%"
+  },
+  "21588": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRĂDNIŢA CU PROGRAM PRELUNGIT NR.30",
+    "totalVoturi": 370,
+    "totalVoturiNS": 17,
+    "procent": "4.59%"
+  },
+  "21589": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRĂDNIŢA CU PROGRAM PRELUNGIT NR.30",
+    "totalVoturi": 362,
+    "totalVoturiNS": 15,
+    "procent": "4.14%"
+  },
+  "21590": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ION LUCA”",
+    "totalVoturi": 372,
+    "totalVoturiNS": 18,
+    "procent": "4.84%"
+  },
+  "21591": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ION LUCA”",
+    "totalVoturi": 471,
+    "totalVoturiNS": 22,
+    "procent": "4.67%"
+  },
+  "21592": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ION LUCA”",
+    "totalVoturi": 422,
+    "totalVoturiNS": 16,
+    "procent": "3.79%"
+  },
+  "21593": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ION LUCA”",
+    "totalVoturi": 379,
+    "totalVoturiNS": 14,
+    "procent": "3.69%"
+  },
+  "21594": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.27",
+    "totalVoturi": 417,
+    "totalVoturiNS": 10,
+    "procent": "2.40%"
+  },
+  "21595": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.27",
+    "totalVoturi": 462,
+    "totalVoturiNS": 18,
+    "procent": "3.90%"
+  },
+  "21596": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ALECU RUSSO”",
+    "totalVoturi": 455,
+    "totalVoturiNS": 21,
+    "procent": "4.62%"
+  },
+  "21597": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”ALECU RUSSO”",
+    "totalVoturi": 453,
+    "totalVoturiNS": 10,
+    "procent": "2.21%"
+  },
+  "21598": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ALECU RUSSO”",
+    "totalVoturi": 574,
+    "totalVoturiNS": 21,
+    "procent": "3.66%"
+  },
+  "21599": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "BAZINUL OLIMPIC BACĂU",
+    "totalVoturi": 346,
+    "totalVoturiNS": 20,
+    "procent": "5.78%"
+  },
+  "21600": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "BAZINUL OLIMPIC BACĂU",
+    "totalVoturi": 220,
+    "totalVoturiNS": 9,
+    "procent": "4.09%"
+  },
+  "21601": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "CASA NATIONALA DE ASIGURĂRI DE SĂNĂTATE BACĂU",
+    "totalVoturi": 298,
+    "totalVoturiNS": 13,
+    "procent": "4.36%"
+  },
+  "21602": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "CASA NATIONALĂ DE ASIGURĂRI DE SĂNĂTATE BACĂU",
+    "totalVoturi": 262,
+    "totalVoturiNS": 7,
+    "procent": "2.67%"
+  },
+  "21603": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "CENTRUL DE ZI ”CLUBUL PENSIONARILOR” BACĂU",
+    "totalVoturi": 551,
+    "totalVoturiNS": 9,
+    "procent": "1.63%"
+  },
+  "21604": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MIRON COSTIN”",
+    "totalVoturi": 381,
+    "totalVoturiNS": 12,
+    "procent": "3.15%"
+  },
+  "21605": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MIRON COSTIN”",
+    "totalVoturi": 501,
+    "totalVoturiNS": 13,
+    "procent": "2.59%"
+  },
+  "21606": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MIRON COSTIN”",
+    "totalVoturi": 499,
+    "totalVoturiNS": 14,
+    "procent": "2.81%"
+  },
+  "21607": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.23",
+    "totalVoturi": 380,
+    "totalVoturiNS": 13,
+    "procent": "3.42%"
+  },
+  "21608": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.23",
+    "totalVoturi": 409,
+    "totalVoturiNS": 24,
+    "procent": "5.87%"
+  },
+  "21609": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.33",
+    "totalVoturi": 513,
+    "totalVoturiNS": 14,
+    "procent": "2.73%"
+  },
+  "21610": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "LICEUL CU PROGRAM SPORTIV",
+    "totalVoturi": 422,
+    "totalVoturiNS": 13,
+    "procent": "3.08%"
+  },
+  "21611": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "LICEUL CU PROGRAM SPORTIV",
+    "totalVoturi": 490,
+    "totalVoturiNS": 17,
+    "procent": "3.47%"
+  },
+  "21612": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "LICEUL CU PROGRAM SPORTIV",
+    "totalVoturi": 512,
+    "totalVoturiNS": 17,
+    "procent": "3.32%"
+  },
+  "21613": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”COSTANTIN PLATON”",
+    "totalVoturi": 563,
+    "totalVoturiNS": 20,
+    "procent": "3.55%"
+  },
+  "21614": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”COSTANTIN PLATON”",
+    "totalVoturi": 557,
+    "totalVoturiNS": 16,
+    "procent": "2.87%"
+  },
+  "21615": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”COSTANTIN PLATON”",
+    "totalVoturi": 647,
+    "totalVoturiNS": 22,
+    "procent": "3.40%"
+  },
+  "21616": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL ECONOMIC ”ION GHICA”",
+    "totalVoturi": 594,
+    "totalVoturiNS": 16,
+    "procent": "2.69%"
+  },
+  "21617": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "COLEGIUL ECONOMIC ”ION GHICA”",
+    "totalVoturi": 302,
+    "totalVoturiNS": 10,
+    "procent": "3.31%"
+  },
+  "21618": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”PETRU RAREȘ”",
+    "totalVoturi": 610,
+    "totalVoturiNS": 30,
+    "procent": "4.92%"
+  },
+  "21619": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”PETRU RAREȘ”",
+    "totalVoturi": 456,
+    "totalVoturiNS": 25,
+    "procent": "5.48%"
+  },
+  "21620": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”NICU ENEA”",
+    "totalVoturi": 511,
+    "totalVoturiNS": 17,
+    "procent": "3.33%"
+  },
+  "21621": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”NICU ENEA”",
+    "totalVoturi": 550,
+    "totalVoturiNS": 40,
+    "procent": "7.27%"
+  },
+  "21622": {
+    "localitate": "MUNICIPIUL BACĂU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”NICU ENEA”",
+    "totalVoturi": 667,
+    "totalVoturiNS": 22,
+    "procent": "3.30%"
+  },
+  "21623": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "LICEUL ”SPIRU HARET”",
+    "totalVoturi": 430,
+    "totalVoturiNS": 6,
+    "procent": "1.40%"
+  },
+  "21624": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "LICEUL ”SPIRU HARET”",
+    "totalVoturi": 410,
+    "totalVoturiNS": 13,
+    "procent": "3.17%"
+  },
+  "21625": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "SALA DE SPORT A LICEULUI ”SPIRU HARET”",
+    "totalVoturi": 533,
+    "totalVoturiNS": 18,
+    "procent": "3.38%"
+  },
+  "21626": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "ŞCOALA ”ŞTEFAN LUCHIAN”",
+    "totalVoturi": 475,
+    "totalVoturiNS": 6,
+    "procent": "1.26%"
+  },
+  "21627": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "ŞCOALA „ŞTEFAN LUCHIAN”",
+    "totalVoturi": 510,
+    "totalVoturiNS": 22,
+    "procent": "4.31%"
+  },
+  "21628": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "BIBLIOTECA MUNICIPALĂ ” PROFESOR CONSTANTIN LOVIN”",
+    "totalVoturi": 472,
+    "totalVoturiNS": 7,
+    "procent": "1.48%"
+  },
+  "21629": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "ŞCOALA GEORGE ENESCU",
+    "totalVoturi": 563,
+    "totalVoturiNS": 6,
+    "procent": "1.07%"
+  },
+  "21630": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "ŞCOALA GEORGE ENESCU",
+    "totalVoturi": 452,
+    "totalVoturiNS": 10,
+    "procent": "2.21%"
+  },
+  "21631": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "ŞCOALA GEORGE ENESCU",
+    "totalVoturi": 485,
+    "totalVoturiNS": 20,
+    "procent": "4.12%"
+  },
+  "21632": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "CLUBUL ELEVILOR",
+    "totalVoturi": 511,
+    "totalVoturiNS": 6,
+    "procent": "1.17%"
+  },
+  "21633": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "ŞCOALA TRISTAN TZARA",
+    "totalVoturi": 489,
+    "totalVoturiNS": 10,
+    "procent": "2.04%"
+  },
+  "21634": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "ŞCOALA TRISTAN TZARA",
+    "totalVoturi": 510,
+    "totalVoturiNS": 6,
+    "procent": "1.18%"
+  },
+  "21635": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "FOSTA ȘCOALĂ DE ARTE ȘI MESERII",
+    "totalVoturi": 473,
+    "totalVoturiNS": 10,
+    "procent": "2.11%"
+  },
+  "21636": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "ŞCOALA ”ALEXANDRU SEVER”",
+    "totalVoturi": 297,
+    "totalVoturiNS": 10,
+    "procent": "3.37%"
+  },
+  "21637": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "ŞCOALA ”ALEXANDRU SEVER”",
+    "totalVoturi": 495,
+    "totalVoturiNS": 14,
+    "procent": "2.83%"
+  },
+  "21638": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "ŞCOALA ”ALEXANDRU SEVER”",
+    "totalVoturi": 496,
+    "totalVoturiNS": 9,
+    "procent": "1.81%"
+  },
+  "21639": {
+    "localitate": "MUNICIPIUL MOINEŞTI",
+    "nume_sectie": "FOSTA ȘCOALĂ NR.8",
+    "totalVoturi": 426,
+    "totalVoturiNS": 8,
+    "procent": "1.88%"
+  },
+  "21640": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "COLEGIUL NAŢIONAL ”GRIGORE C.MOISIL”",
+    "totalVoturi": 513,
+    "totalVoturiNS": 33,
+    "procent": "6.43%"
+  },
+  "21641": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "COLEGIUL NAŢIONAL ”GRIGORE C.MOISIL”",
+    "totalVoturi": 354,
+    "totalVoturiNS": 4,
+    "procent": "1.13%"
+  },
+  "21642": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "COLEGIUL NAŢIONAL ”GRIGORE C.MOISIL”",
+    "totalVoturi": 361,
+    "totalVoturiNS": 3,
+    "procent": "0.83%"
+  },
+  "21643": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”SFÂNTUL VOIEVOD ȘTEFAN CEL MARE” (FOSTA NR.9)",
+    "totalVoturi": 409,
+    "totalVoturiNS": 9,
+    "procent": "2.20%"
+  },
+  "21644": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”SFÂNTUL VOIEVOD ȘTEFAN CEL MARE”(FOSTA NR.9)",
+    "totalVoturi": 507,
+    "totalVoturiNS": 13,
+    "procent": "2.56%"
+  },
+  "21645": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”EMIL RACOVIȚĂ” (FOSTA NR.10)",
+    "totalVoturi": 370,
+    "totalVoturiNS": 5,
+    "procent": "1.35%"
+  },
+  "21646": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”EMIL RACOVIȚĂ” (FOSTA NR.10)",
+    "totalVoturi": 454,
+    "totalVoturiNS": 17,
+    "procent": "3.74%"
+  },
+  "21647": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”EMIL RACOVIȚĂ” (FOSTA NR.10)",
+    "totalVoturi": 310,
+    "totalVoturiNS": 7,
+    "procent": "2.26%"
+  },
+  "21648": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "LICEUL TEHNOLOGIC (FOSTA NR.7)",
+    "totalVoturi": 379,
+    "totalVoturiNS": 13,
+    "procent": "3.43%"
+  },
+  "21649": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "LICEUL TEHNOLOGIC (FOSTA NR.7)",
+    "totalVoturi": 378,
+    "totalVoturiNS": 8,
+    "procent": "2.12%"
+  },
+  "21650": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "LICEUL TEHNOLOGIC (FOSTA NR.7)",
+    "totalVoturi": 374,
+    "totalVoturiNS": 12,
+    "procent": "3.21%"
+  },
+  "21651": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "LICEUL TEHNOLOGIC (FOSTA NR.7)",
+    "totalVoturi": 408,
+    "totalVoturiNS": 4,
+    "procent": "0.98%"
+  },
+  "21652": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”DACIA” (FOSTA NR.7)",
+    "totalVoturi": 466,
+    "totalVoturiNS": 16,
+    "procent": "3.43%"
+  },
+  "21653": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”DACIA” (FOSTA NR.7)",
+    "totalVoturi": 296,
+    "totalVoturiNS": 9,
+    "procent": "3.04%"
+  },
+  "21654": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”EMIL RACOVIȚĂ” (FOSTA NR.10)",
+    "totalVoturi": 572,
+    "totalVoturiNS": 11,
+    "procent": "1.92%"
+  },
+  "21655": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”EMIL RACOVIȚĂ” (FOSTA NR.10)",
+    "totalVoturi": 532,
+    "totalVoturiNS": 15,
+    "procent": "2.82%"
+  },
+  "21656": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "COLEGIUL NAȚIONAL ”GRIGORE C.MOISIL”",
+    "totalVoturi": 512,
+    "totalVoturiNS": 6,
+    "procent": "1.17%"
+  },
+  "21657": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "COLEGIUL NAȚIONAL ”DIMITRIE CANTEMIR”",
+    "totalVoturi": 499,
+    "totalVoturiNS": 15,
+    "procent": "3.01%"
+  },
+  "21658": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "LICEUL CU PROGRAM SPORTIV ”NADIA COMĂNECI”",
+    "totalVoturi": 487,
+    "totalVoturiNS": 14,
+    "procent": "2.87%"
+  },
+  "21659": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "LICEUL CU PROGRAM SPORTIV ”NADIA COMĂNECI”",
+    "totalVoturi": 473,
+    "totalVoturiNS": 10,
+    "procent": "2.11%"
+  },
+  "21660": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "LICEUL CU PROGRAM SPORTIV ”NADIA COMĂNECI”",
+    "totalVoturi": 479,
+    "totalVoturiNS": 8,
+    "procent": "1.67%"
+  },
+  "21661": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "LICEUL CU PROGRAM SPORTIV ”NADIA COMĂNECI”",
+    "totalVoturi": 355,
+    "totalVoturiNS": 11,
+    "procent": "3.10%"
+  },
+  "21662": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "COLEGIU NAŢIONAL ”DIMITRIE CANTEMIR”",
+    "totalVoturi": 443,
+    "totalVoturiNS": 9,
+    "procent": "2.03%"
+  },
+  "21663": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "COLEGIU NAŢIONAL ”DIMITRIE CANTEMIR”",
+    "totalVoturi": 486,
+    "totalVoturiNS": 7,
+    "procent": "1.44%"
+  },
+  "21664": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "COLEGIU NAŢIONAL ”DIMITRIE CANTEMIR”",
+    "totalVoturi": 409,
+    "totalVoturiNS": 18,
+    "procent": "4.40%"
+  },
+  "21665": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”PETRU PONI”",
+    "totalVoturi": 332,
+    "totalVoturiNS": 10,
+    "procent": "3.01%"
+  },
+  "21666": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”PETRU PONI”",
+    "totalVoturi": 314,
+    "totalVoturiNS": 16,
+    "procent": "5.10%"
+  },
+  "21667": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE CĂLINESCU” (FOSTĂ NR.8)",
+    "totalVoturi": 535,
+    "totalVoturiNS": 11,
+    "procent": "2.06%"
+  },
+  "21668": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE CĂLINESCU” (FOSTĂ NR.8)",
+    "totalVoturi": 502,
+    "totalVoturiNS": 8,
+    "procent": "1.59%"
+  },
+  "21669": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "COLEGIUL TEHNIC ”GHEORGHE ASACHI”",
+    "totalVoturi": 492,
+    "totalVoturiNS": 16,
+    "procent": "3.25%"
+  },
+  "21670": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "COLEGIUL TEHNIC ”GHEORGHE ASACHI”",
+    "totalVoturi": 416,
+    "totalVoturiNS": 12,
+    "procent": "2.88%"
+  },
+  "21671": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "LICEUL TEHNOLOGIC (TCR)",
+    "totalVoturi": 324,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21672": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "SERA BORZEŞTI",
+    "totalVoturi": 259,
+    "totalVoturiNS": 3,
+    "procent": "1.16%"
+  },
+  "21673": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "CENTRUL SOCIAL SLOBOZIA",
+    "totalVoturi": 422,
+    "totalVoturiNS": 10,
+    "procent": "2.37%"
+  },
+  "21674": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "COLEGIUL NAŢIONAL ”GRIGORE C.MOISIL”",
+    "totalVoturi": 302,
+    "totalVoturiNS": 6,
+    "procent": "1.99%"
+  },
+  "21675": {
+    "localitate": "MUNICIPIUL ONEŞTI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”SFÂNTUL VOIEVOD ȘTEFAN CEL MARE”(FOSTA NR.9)",
+    "totalVoturi": 460,
+    "totalVoturiNS": 20,
+    "procent": "4.35%"
+  },
+  "21676": {
+    "localitate": "ORAŞ BUHUŞI",
+    "nume_sectie": "PRIMĂRIA ORAŞ BUHUŞI",
+    "totalVoturi": 471,
+    "totalVoturiNS": 9,
+    "procent": "1.91%"
+  },
+  "21677": {
+    "localitate": "ORAŞ BUHUŞI",
+    "nume_sectie": "LICEUL TEORETIC ”ION BORCEA”",
+    "totalVoturi": 442,
+    "totalVoturiNS": 12,
+    "procent": "2.71%"
+  },
+  "21678": {
+    "localitate": "ORAŞ BUHUŞI",
+    "nume_sectie": "LICEUL TEORETIC ”ION BORCEA”",
+    "totalVoturi": 384,
+    "totalVoturiNS": 10,
+    "procent": "2.60%"
+  },
+  "21679": {
+    "localitate": "ORAŞ BUHUŞI",
+    "nume_sectie": "CASA DE CULTURĂ ”ELISABETA BOSTAN”",
+    "totalVoturi": 560,
+    "totalVoturiNS": 16,
+    "procent": "2.86%"
+  },
+  "21680": {
+    "localitate": "ORAŞ BUHUŞI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MIHAI EMINESCU”",
+    "totalVoturi": 498,
+    "totalVoturiNS": 10,
+    "procent": "2.01%"
+  },
+  "21681": {
+    "localitate": "ORAŞ BUHUŞI",
+    "nume_sectie": "BIBLIOTECA ORĂŞENEASCĂ ”GEORGE BACOVIA”",
+    "totalVoturi": 491,
+    "totalVoturiNS": 7,
+    "procent": "1.43%"
+  },
+  "21682": {
+    "localitate": "ORAŞ BUHUŞI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 2 BUHUȘI",
+    "totalVoturi": 438,
+    "totalVoturiNS": 1,
+    "procent": "0.23%"
+  },
+  "21683": {
+    "localitate": "ORAŞ BUHUŞI",
+    "nume_sectie": "COMPLEXUL DE SERVICII COMUNITARE ȘI CENTRUL DE CONSILIERE, INFORMARE ȘI SPRIJIN",
+    "totalVoturi": 439,
+    "totalVoturiNS": 7,
+    "procent": "1.59%"
+  },
+  "21684": {
+    "localitate": "ORAŞ BUHUŞI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ŞTEFAN CEL MARE",
+    "totalVoturi": 375,
+    "totalVoturiNS": 7,
+    "procent": "1.87%"
+  },
+  "21685": {
+    "localitate": "ORAŞ BUHUŞI",
+    "nume_sectie": "LICEUL TEORETIC ”ION BORCEA” BUHUȘI CORP B",
+    "totalVoturi": 497,
+    "totalVoturiNS": 8,
+    "procent": "1.61%"
+  },
+  "21686": {
+    "localitate": "ORAŞ BUHUŞI",
+    "nume_sectie": "SALA SPORT POLIVALENTĂ",
+    "totalVoturi": 474,
+    "totalVoturiNS": 13,
+    "procent": "2.74%"
+  },
+  "21687": {
+    "localitate": "ORAŞ BUHUŞI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ BUHUȘI",
+    "totalVoturi": 331,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21688": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "CENTRUL 5",
+    "totalVoturi": 496,
+    "totalVoturiNS": 19,
+    "procent": "3.83%"
+  },
+  "21689": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "ŞCOALA CIPRIAN PORUMBESCU",
+    "totalVoturi": 505,
+    "totalVoturiNS": 10,
+    "procent": "1.98%"
+  },
+  "21690": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "ȘCOALA CIPRIAN PORUMBESCU",
+    "totalVoturi": 532,
+    "totalVoturiNS": 10,
+    "procent": "1.88%"
+  },
+  "21691": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "SCOALA CIPRIAN PORUMBESCU",
+    "totalVoturi": 199,
+    "totalVoturiNS": 2,
+    "procent": "1.01%"
+  },
+  "21692": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "BIBLIOTECA ORAŞULUI COMĂNEȘTI",
+    "totalVoturi": 577,
+    "totalVoturiNS": 10,
+    "procent": "1.73%"
+  },
+  "21693": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "SCOALA LIVIU REBREANU",
+    "totalVoturi": 591,
+    "totalVoturiNS": 16,
+    "procent": "2.71%"
+  },
+  "21694": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "ŞCOALA LIVIU REBREANU",
+    "totalVoturi": 423,
+    "totalVoturiNS": 9,
+    "procent": "2.13%"
+  },
+  "21695": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "ŞCOALA LIVIU REBREANU",
+    "totalVoturi": 221,
+    "totalVoturiNS": 4,
+    "procent": "1.81%"
+  },
+  "21696": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "PRIMĂRIA ORAȘULUI COMĂNEȘTI",
+    "totalVoturi": 509,
+    "totalVoturiNS": 19,
+    "procent": "3.73%"
+  },
+  "21697": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "ŞCOALA ŞUPAN",
+    "totalVoturi": 601,
+    "totalVoturiNS": 13,
+    "procent": "2.16%"
+  },
+  "21698": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "ŞCOALA LĂLOAIA",
+    "totalVoturi": 546,
+    "totalVoturiNS": 6,
+    "procent": "1.10%"
+  },
+  "21699": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "ŞCOALA NR.5 BIS SUBLĂLOAIA",
+    "totalVoturi": 610,
+    "totalVoturiNS": 6,
+    "procent": "0.98%"
+  },
+  "21700": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "ŞCOALA COSTACHI S.CIOCAN LĂLOAIA",
+    "totalVoturi": 292,
+    "totalVoturiNS": 4,
+    "procent": "1.37%"
+  },
+  "21701": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "ŞCOALA NR.3 LEORDA",
+    "totalVoturi": 609,
+    "totalVoturiNS": 9,
+    "procent": "1.48%"
+  },
+  "21702": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "ŞCOALA DIMITRIE GHICA ZĂVOI",
+    "totalVoturi": 470,
+    "totalVoturiNS": 9,
+    "procent": "1.91%"
+  },
+  "21703": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "ŞCOALA VERMEŞTI",
+    "totalVoturi": 401,
+    "totalVoturiNS": 10,
+    "procent": "2.49%"
+  },
+  "21704": {
+    "localitate": "ORAŞ COMĂNEŞTI",
+    "nume_sectie": "CLĂDIRE ŞIPOTENI (FOSTĂ ȘCOALĂ ȘIPOTENI)",
+    "totalVoturi": 281,
+    "totalVoturiNS": 16,
+    "procent": "5.69%"
+  },
+  "21705": {
+    "localitate": "ORAŞ DĂRMĂNEŞTI",
+    "nume_sectie": "ŞCOALA NR.2",
+    "totalVoturi": 563,
+    "totalVoturiNS": 7,
+    "procent": "1.24%"
+  },
+  "21706": {
+    "localitate": "ORAŞ DĂRMĂNEŞTI",
+    "nume_sectie": "ŞCOALA NR.2",
+    "totalVoturi": 426,
+    "totalVoturiNS": 7,
+    "procent": "1.64%"
+  },
+  "21707": {
+    "localitate": "ORAŞ DĂRMĂNEŞTI",
+    "nume_sectie": "LICEUL TEHNOLOGIC DĂRMĂNEȘTI",
+    "totalVoturi": 631,
+    "totalVoturiNS": 12,
+    "procent": "1.90%"
+  },
+  "21708": {
+    "localitate": "ORAŞ DĂRMĂNEŞTI",
+    "nume_sectie": "SC MECANO ELECTRIC SERVICE SRL",
+    "totalVoturi": 342,
+    "totalVoturiNS": 4,
+    "procent": "1.17%"
+  },
+  "21709": {
+    "localitate": "ORAŞ DĂRMĂNEŞTI",
+    "nume_sectie": "ŞCOALA NR.3 DĂRMĂNEȘTI",
+    "totalVoturi": 248,
+    "totalVoturiNS": 1,
+    "procent": "0.40%"
+  },
+  "21710": {
+    "localitate": "ORAŞ DĂRMĂNEŞTI",
+    "nume_sectie": "ŞCOALA NR.3 DĂRMĂNEȘTI",
+    "totalVoturi": 387,
+    "totalVoturiNS": 8,
+    "procent": "2.07%"
+  },
+  "21711": {
+    "localitate": "ORAŞ DĂRMĂNEŞTI",
+    "nume_sectie": "SCOALA LAPOȘ",
+    "totalVoturi": 366,
+    "totalVoturiNS": 5,
+    "procent": "1.37%"
+  },
+  "21712": {
+    "localitate": "ORAŞ DĂRMĂNEŞTI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII PLOPU",
+    "totalVoturi": 488,
+    "totalVoturiNS": 7,
+    "procent": "1.43%"
+  },
+  "21713": {
+    "localitate": "ORAŞ DĂRMĂNEŞTI",
+    "nume_sectie": "GRĂDINIŢA SĂLĂTRUC",
+    "totalVoturi": 305,
+    "totalVoturiNS": 8,
+    "procent": "2.62%"
+  },
+  "21714": {
+    "localitate": "ORAŞ DĂRMĂNEŞTI",
+    "nume_sectie": "ŞCOALA CU CLASELE L-IV PĂGUBENI",
+    "totalVoturi": 156,
+    "totalVoturiNS": 2,
+    "procent": "1.28%"
+  },
+  "21715": {
+    "localitate": "ORAŞ DĂRMĂNEŞTI",
+    "nume_sectie": "PRIMĂRIA DĂRMĂNEȘTI",
+    "totalVoturi": 527,
+    "totalVoturiNS": 6,
+    "procent": "1.14%"
+  },
+  "21716": {
+    "localitate": "ORAŞ DĂRMĂNEŞTI",
+    "nume_sectie": "SCOALA CU CLASELE I-IV DĂRMĂNEASCA",
+    "totalVoturi": 310,
+    "totalVoturiNS": 4,
+    "procent": "1.29%"
+  },
+  "21717": {
+    "localitate": "ORAŞ SLĂNIC-MOLDOVA",
+    "nume_sectie": "SCOALA GIMNAZIALA NR. 3",
+    "totalVoturi": 633,
+    "totalVoturiNS": 18,
+    "procent": "2.84%"
+  },
+  "21718": {
+    "localitate": "ORAŞ SLĂNIC-MOLDOVA",
+    "nume_sectie": "SCOALA NR. 1 SLĂNIC",
+    "totalVoturi": 808,
+    "totalVoturiNS": 12,
+    "procent": "1.49%"
+  },
+  "21719": {
+    "localitate": "ORAŞ SLĂNIC-MOLDOVA",
+    "nume_sectie": "SCOALA NR. 2 CIRESOAIA",
+    "totalVoturi": 795,
+    "totalVoturiNS": 14,
+    "procent": "1.76%"
+  },
+  "21720": {
+    "localitate": "ORAŞ TÂRGU OCNA",
+    "nume_sectie": "SCOALA GENERALA NR. 1",
+    "totalVoturi": 680,
+    "totalVoturiNS": 22,
+    "procent": "3.24%"
+  },
+  "21721": {
+    "localitate": "ORAŞ TÂRGU OCNA",
+    "nume_sectie": "CLUBUL ELEVILOR",
+    "totalVoturi": 685,
+    "totalVoturiNS": 22,
+    "procent": "3.21%"
+  },
+  "21722": {
+    "localitate": "ORAŞ TÂRGU OCNA",
+    "nume_sectie": "COLEGIUL NATIONAL COSTACHE NEGRI",
+    "totalVoturi": 634,
+    "totalVoturiNS": 27,
+    "procent": "4.26%"
+  },
+  "21723": {
+    "localitate": "ORAŞ TÂRGU OCNA",
+    "nume_sectie": "GRADINITA NR. 2",
+    "totalVoturi": 600,
+    "totalVoturiNS": 8,
+    "procent": "1.33%"
+  },
+  "21724": {
+    "localitate": "ORAŞ TÂRGU OCNA",
+    "nume_sectie": "SCOALA GENERALA NR. 3",
+    "totalVoturi": 453,
+    "totalVoturiNS": 14,
+    "procent": "3.09%"
+  },
+  "21725": {
+    "localitate": "ORAŞ TÂRGU OCNA",
+    "nume_sectie": "CENTRU DE ZI PENTRU PERSOANE ADULTE CU DIZABILITATI",
+    "totalVoturi": 588,
+    "totalVoturiNS": 17,
+    "procent": "2.89%"
+  },
+  "21726": {
+    "localitate": "ORAŞ TÂRGU OCNA",
+    "nume_sectie": "SCOALA GENERALA NR. 5",
+    "totalVoturi": 354,
+    "totalVoturiNS": 6,
+    "procent": "1.69%"
+  },
+  "21727": {
+    "localitate": "ORAŞ TÂRGU OCNA",
+    "nume_sectie": "SCOALA GENERALA NR. 6",
+    "totalVoturi": 496,
+    "totalVoturiNS": 14,
+    "procent": "2.82%"
+  },
+  "21728": {
+    "localitate": "ORAŞ TÂRGU OCNA",
+    "nume_sectie": "SCOALA GENERALA NR. 3",
+    "totalVoturi": 400,
+    "totalVoturiNS": 12,
+    "procent": "3.00%"
+  },
+  "21729": {
+    "localitate": "AGĂŞ",
+    "nume_sectie": "CONSILIUL LOCAL AGĂŞ",
+    "totalVoturi": 613,
+    "totalVoturiNS": 6,
+    "procent": "0.98%"
+  },
+  "21730": {
+    "localitate": "AGĂŞ",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV COTUMBA",
+    "totalVoturi": 357,
+    "totalVoturiNS": 3,
+    "procent": "0.84%"
+  },
+  "21731": {
+    "localitate": "AGĂŞ",
+    "nume_sectie": "ŞCOALA GENERALĂ SULŢA",
+    "totalVoturi": 388,
+    "totalVoturiNS": 2,
+    "procent": "0.52%"
+  },
+  "21732": {
+    "localitate": "AGĂŞ",
+    "nume_sectie": "CĂMINUL CULTURAL COȘNEA",
+    "totalVoturi": 159,
+    "totalVoturiNS": 2,
+    "procent": "1.26%"
+  },
+  "21733": {
+    "localitate": "AGĂŞ",
+    "nume_sectie": "ŞCOALA GENERALĂ PRELUCI",
+    "totalVoturi": 538,
+    "totalVoturiNS": 7,
+    "procent": "1.30%"
+  },
+  "21734": {
+    "localitate": "AGĂŞ",
+    "nume_sectie": "ŞCOALA GENERALĂ GOIOASA",
+    "totalVoturi": 301,
+    "totalVoturiNS": 4,
+    "procent": "1.33%"
+  },
+  "21735": {
+    "localitate": "ARDEOANI",
+    "nume_sectie": "ŞCOALA NR.1 ARDEOANI",
+    "totalVoturi": 741,
+    "totalVoturiNS": 14,
+    "procent": "1.89%"
+  },
+  "21736": {
+    "localitate": "ARDEOANI",
+    "nume_sectie": "ŞCOALA LEONTINEŞTI",
+    "totalVoturi": 437,
+    "totalVoturiNS": 5,
+    "procent": "1.14%"
+  },
+  "21737": {
+    "localitate": "ASĂU",
+    "nume_sectie": "ŞCOALA GENERALA CU CLASELE I-VIII ASAU",
+    "totalVoturi": 364,
+    "totalVoturiNS": 3,
+    "procent": "0.82%"
+  },
+  "21738": {
+    "localitate": "ASĂU",
+    "nume_sectie": "ŞCOALA GENERALĂ CU CLASELE I-VIII ASAU",
+    "totalVoturi": 394,
+    "totalVoturiNS": 8,
+    "procent": "2.03%"
+  },
+  "21739": {
+    "localitate": "ASĂU",
+    "nume_sectie": "CASA PRAZNICALA A PAROHIEI ADORMIREA MAICII DOMNULUI",
+    "totalVoturi": 304,
+    "totalVoturiNS": 4,
+    "procent": "1.32%"
+  },
+  "21740": {
+    "localitate": "ASĂU",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV STRAJA",
+    "totalVoturi": 412,
+    "totalVoturiNS": 2,
+    "procent": "0.49%"
+  },
+  "21741": {
+    "localitate": "ASĂU",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV CIOBĂNUŞ",
+    "totalVoturi": 210,
+    "totalVoturiNS": 1,
+    "procent": "0.48%"
+  },
+  "21742": {
+    "localitate": "ASĂU",
+    "nume_sectie": "ŞCOALA GENERALĂ CU CLASELE I-VIII APA-ASĂU",
+    "totalVoturi": 360,
+    "totalVoturiNS": 9,
+    "procent": "2.50%"
+  },
+  "21743": {
+    "localitate": "ASĂU",
+    "nume_sectie": "ŞCOALA GENERALĂ CU CLASELE I-VIII APA-ASĂU",
+    "totalVoturi": 293,
+    "totalVoturiNS": 5,
+    "procent": "1.71%"
+  },
+  "21744": {
+    "localitate": "ASĂU",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV PĂLTINIŞ",
+    "totalVoturi": 277,
+    "totalVoturiNS": 2,
+    "procent": "0.72%"
+  },
+  "21745": {
+    "localitate": "BALCANI",
+    "nume_sectie": "BIBLIOTECA PUBLICA ”CALISTRAT HOGAS” BALCANI",
+    "totalVoturi": 448,
+    "totalVoturiNS": 6,
+    "procent": "1.34%"
+  },
+  "21746": {
+    "localitate": "BALCANI",
+    "nume_sectie": "GRĂDINIŢA FRUMOASA",
+    "totalVoturi": 392,
+    "totalVoturiNS": 7,
+    "procent": "1.79%"
+  },
+  "21747": {
+    "localitate": "BALCANI",
+    "nume_sectie": "GRĂDINIŢA FRUMOASA",
+    "totalVoturi": 426,
+    "totalVoturiNS": 7,
+    "procent": "1.64%"
+  },
+  "21748": {
+    "localitate": "BALCANI",
+    "nume_sectie": "GRĂDINIŢA FRUMOASA",
+    "totalVoturi": 285,
+    "totalVoturiNS": 8,
+    "procent": "2.81%"
+  },
+  "21749": {
+    "localitate": "BALCANI",
+    "nume_sectie": "GRADINITA NR.2 SCHITU-FRUMOASA",
+    "totalVoturi": 255,
+    "totalVoturiNS": 4,
+    "procent": "1.57%"
+  },
+  "21750": {
+    "localitate": "BALCANI",
+    "nume_sectie": "ŞCOALA GIMNAZIALA SCHITU-FRUMOASA",
+    "totalVoturi": 361,
+    "totalVoturiNS": 2,
+    "procent": "0.55%"
+  },
+  "21751": {
+    "localitate": "BALCANI",
+    "nume_sectie": "ŞCOALA GIMNAZIALA LUDAŞI",
+    "totalVoturi": 278,
+    "totalVoturiNS": 6,
+    "procent": "2.16%"
+  },
+  "21752": {
+    "localitate": "BÂRSĂNEŞTI",
+    "nume_sectie": "PRIMĂRIA BÎRSĂNEŞTI",
+    "totalVoturi": 602,
+    "totalVoturiNS": 8,
+    "procent": "1.33%"
+  },
+  "21753": {
+    "localitate": "BÂRSĂNEŞTI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ALBELE",
+    "totalVoturi": 203,
+    "totalVoturiNS": 2,
+    "procent": "0.99%"
+  },
+  "21754": {
+    "localitate": "BÂRSĂNEŞTI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ BRĂTEŞTI",
+    "totalVoturi": 371,
+    "totalVoturiNS": 5,
+    "procent": "1.35%"
+  },
+  "21755": {
+    "localitate": "BÂRSĂNEŞTI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ CARACLĂU",
+    "totalVoturi": 403,
+    "totalVoturiNS": 1,
+    "procent": "0.25%"
+  },
+  "21756": {
+    "localitate": "BEREŞTI-BISTRIŢA",
+    "nume_sectie": "SCOALA GIMNAZIALA ”VASILE BORCEA”",
+    "totalVoturi": 485,
+    "totalVoturiNS": 11,
+    "procent": "2.27%"
+  },
+  "21757": {
+    "localitate": "BEREŞTI-BISTRIŢA",
+    "nume_sectie": "SCOALA CU CLASELE I-IV PĂDURENI",
+    "totalVoturi": 159,
+    "totalVoturiNS": 2,
+    "procent": "1.26%"
+  },
+  "21758": {
+    "localitate": "BEREŞTI-BISTRIŢA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV CLIMEŞTI",
+    "totalVoturi": 137,
+    "totalVoturiNS": 1,
+    "procent": "0.73%"
+  },
+  "21759": {
+    "localitate": "BEREŞTI-BISTRIŢA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV BRAD",
+    "totalVoturi": 88,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21760": {
+    "localitate": "BEREŞTI-TAZLĂU",
+    "nume_sectie": "ŞCOALA CU CLASELEI-VIII BEREŞTI-TAZLĂU",
+    "totalVoturi": 404,
+    "totalVoturiNS": 2,
+    "procent": "0.50%"
+  },
+  "21761": {
+    "localitate": "BEREŞTI-TAZLĂU",
+    "nume_sectie": "ŞCOALA GENERALĂ BOŞOTENI",
+    "totalVoturi": 168,
+    "totalVoturiNS": 1,
+    "procent": "0.60%"
+  },
+  "21762": {
+    "localitate": "BEREŞTI-TAZLĂU",
+    "nume_sectie": "ŞCOALA GENERALĂ ENĂCHEŞTI",
+    "totalVoturi": 295,
+    "totalVoturiNS": 3,
+    "procent": "1.02%"
+  },
+  "21763": {
+    "localitate": "BEREŞTI-TAZLĂU",
+    "nume_sectie": "ŞCOALA GENERALĂ PRISACA",
+    "totalVoturi": 197,
+    "totalVoturiNS": 2,
+    "procent": "1.02%"
+  },
+  "21764": {
+    "localitate": "BEREŞTI-TAZLĂU",
+    "nume_sectie": "ŞCOALA GENERALĂ ROMÂNEŞTI",
+    "totalVoturi": 232,
+    "totalVoturiNS": 2,
+    "procent": "0.86%"
+  },
+  "21765": {
+    "localitate": "BEREŞTI-TAZLĂU",
+    "nume_sectie": "ŞCOALA GENERALĂ TESCANI",
+    "totalVoturi": 291,
+    "totalVoturiNS": 4,
+    "procent": "1.37%"
+  },
+  "21766": {
+    "localitate": "BEREŞTI-TAZLĂU",
+    "nume_sectie": "ŞCOALA GENERALĂ TURLUIANU",
+    "totalVoturi": 453,
+    "totalVoturiNS": 4,
+    "procent": "0.88%"
+  },
+  "21767": {
+    "localitate": "BERZUNŢI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII ALEXANDRU CEL BUN BERZUNŢI",
+    "totalVoturi": 707,
+    "totalVoturiNS": 5,
+    "procent": "0.71%"
+  },
+  "21768": {
+    "localitate": "BERZUNŢI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV NR. 2 BERZUNŢI",
+    "totalVoturi": 321,
+    "totalVoturiNS": 3,
+    "procent": "0.93%"
+  },
+  "21769": {
+    "localitate": "BERZUNŢI",
+    "nume_sectie": "SCOALA CU CLASELE I-IV NR. 1 DRAGOMIR",
+    "totalVoturi": 491,
+    "totalVoturiNS": 5,
+    "procent": "1.02%"
+  },
+  "21770": {
+    "localitate": "BERZUNŢI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII NR.2 DRAGOMIR",
+    "totalVoturi": 126,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21771": {
+    "localitate": "BERZUNŢI",
+    "nume_sectie": "SCOALA CU CLASELE I-IV BUDA",
+    "totalVoturi": 195,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21772": {
+    "localitate": "BLĂGEŞTI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII NR.1 BLĂGEŞTI",
+    "totalVoturi": 390,
+    "totalVoturiNS": 5,
+    "procent": "1.28%"
+  },
+  "21773": {
+    "localitate": "BLĂGEŞTI",
+    "nume_sectie": "ŞCOALA CU CLASELE .I-VIII NR.1 BLĂGEŞTI",
+    "totalVoturi": 400,
+    "totalVoturiNS": 2,
+    "procent": "0.50%"
+  },
+  "21774": {
+    "localitate": "BLĂGEŞTI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII NR.1 BUDA",
+    "totalVoturi": 591,
+    "totalVoturiNS": 4,
+    "procent": "0.68%"
+  },
+  "21775": {
+    "localitate": "BLĂGEŞTI",
+    "nume_sectie": "ŞCOALA CU CLASELE.I-VIII NR.1 VALEA LUI ION",
+    "totalVoturi": 520,
+    "totalVoturiNS": 5,
+    "procent": "0.96%"
+  },
+  "21776": {
+    "localitate": "BLĂGEŞTI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV ŢÎRDENII MARI",
+    "totalVoturi": 248,
+    "totalVoturiNS": 4,
+    "procent": "1.61%"
+  },
+  "21777": {
+    "localitate": "BLĂGEŞTI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV POIANA NEGUSTORULUI",
+    "totalVoturi": 323,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21778": {
+    "localitate": "BOGDĂNEŞTI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ BOGDĂNEŞTI",
+    "totalVoturi": 417,
+    "totalVoturiNS": 3,
+    "procent": "0.72%"
+  },
+  "21779": {
+    "localitate": "BOGDĂNEŞTI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ BOGDĂNEŞTI",
+    "totalVoturi": 402,
+    "totalVoturiNS": 3,
+    "procent": "0.75%"
+  },
+  "21780": {
+    "localitate": "BOGDĂNEŞTI",
+    "nume_sectie": "GRĂDINIŢA FILIPEŞTI",
+    "totalVoturi": 202,
+    "totalVoturiNS": 4,
+    "procent": "1.98%"
+  },
+  "21781": {
+    "localitate": "BRUSTUROASA",
+    "nume_sectie": "PRIMĂRIA BRUSTUROASA",
+    "totalVoturi": 628,
+    "totalVoturiNS": 7,
+    "procent": "1.11%"
+  },
+  "21782": {
+    "localitate": "BRUSTUROASA",
+    "nume_sectie": "ŞCOALA PRIMARĂ CAMENCA",
+    "totalVoturi": 426,
+    "totalVoturiNS": 1,
+    "procent": "0.23%"
+  },
+  "21783": {
+    "localitate": "BRUSTUROASA",
+    "nume_sectie": "ŞCOALA PRIMARĂ CUCHINIŞ",
+    "totalVoturi": 287,
+    "totalVoturiNS": 4,
+    "procent": "1.39%"
+  },
+  "21784": {
+    "localitate": "BUCIUMI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ BUCIUMI",
+    "totalVoturi": 518,
+    "totalVoturiNS": 7,
+    "procent": "1.35%"
+  },
+  "21785": {
+    "localitate": "BUCIUMI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ RĂCĂUŢI",
+    "totalVoturi": 743,
+    "totalVoturiNS": 4,
+    "procent": "0.54%"
+  },
+  "21786": {
+    "localitate": "BUHOCI",
+    "nume_sectie": "ŞCOALA GIMNAZIALA ”CONSTANTIN POPOVICI” BUHOCI(GRADINITA CU PROGRAM NORMAL BUHOCI)",
+    "totalVoturi": 694,
+    "totalVoturiNS": 6,
+    "procent": "0.86%"
+  },
+  "21787": {
+    "localitate": "BUHOCI",
+    "nume_sectie": "SCOALA CU CLASELE I-VIII BIJGHIR",
+    "totalVoturi": 433,
+    "totalVoturiNS": 16,
+    "procent": "3.70%"
+  },
+  "21788": {
+    "localitate": "BUHOCI",
+    "nume_sectie": "SCOALA CU CLASELE I-VIII BIJGHIR",
+    "totalVoturi": 338,
+    "totalVoturiNS": 12,
+    "procent": "3.55%"
+  },
+  "21789": {
+    "localitate": "BUHOCI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV COTENI",
+    "totalVoturi": 311,
+    "totalVoturiNS": 4,
+    "procent": "1.29%"
+  },
+  "21790": {
+    "localitate": "CAŞIN",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ N.PÂSLARU CAŞIN",
+    "totalVoturi": 732,
+    "totalVoturiNS": 11,
+    "procent": "1.50%"
+  },
+  "21791": {
+    "localitate": "CAŞIN",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ N.PÂSLARU CAŞIN",
+    "totalVoturi": 652,
+    "totalVoturiNS": 10,
+    "procent": "1.53%"
+  },
+  "21792": {
+    "localitate": "CAŞIN",
+    "nume_sectie": "GRĂDINIŢA CURIŢA",
+    "totalVoturi": 355,
+    "totalVoturiNS": 10,
+    "procent": "2.82%"
+  },
+  "21793": {
+    "localitate": "CĂIUŢI",
+    "nume_sectie": "SCOALA GIMNAZIALA CAIUTI",
+    "totalVoturi": 614,
+    "totalVoturiNS": 9,
+    "procent": "1.47%"
+  },
+  "21794": {
+    "localitate": "CĂIUŢI",
+    "nume_sectie": "ŞCOALA POPENI",
+    "totalVoturi": 357,
+    "totalVoturiNS": 7,
+    "procent": "1.96%"
+  },
+  "21795": {
+    "localitate": "CĂIUŢI",
+    "nume_sectie": "ŞCOALA BLIDARI",
+    "totalVoturi": 295,
+    "totalVoturiNS": 2,
+    "procent": "0.68%"
+  },
+  "21796": {
+    "localitate": "CĂIUŢI",
+    "nume_sectie": "ŞCOALA PRALEA",
+    "totalVoturi": 436,
+    "totalVoturiNS": 1,
+    "procent": "0.23%"
+  },
+  "21797": {
+    "localitate": "CĂIUŢI",
+    "nume_sectie": "ŞCOALA BOIŞTEA",
+    "totalVoturi": 81,
+    "totalVoturiNS": 2,
+    "procent": "2.47%"
+  },
+  "21798": {
+    "localitate": "CĂIUŢI",
+    "nume_sectie": "ŞCOALA HELTIU",
+    "totalVoturi": 155,
+    "totalVoturiNS": 1,
+    "procent": "0.65%"
+  },
+  "21799": {
+    "localitate": "CĂIUŢI",
+    "nume_sectie": "ŞCOALA VRÂNCENI",
+    "totalVoturi": 145,
+    "totalVoturiNS": 3,
+    "procent": "2.07%"
+  },
+  "21800": {
+    "localitate": "CĂIUŢI",
+    "nume_sectie": "SCOALA PRIMARA MARCESTI",
+    "totalVoturi": 69,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21801": {
+    "localitate": "CLEJA",
+    "nume_sectie": "ŞCOALA NR.1 CLEJA",
+    "totalVoturi": 298,
+    "totalVoturiNS": 14,
+    "procent": "4.70%"
+  },
+  "21802": {
+    "localitate": "CLEJA",
+    "nume_sectie": "SCOALA NR.1 CLEJA",
+    "totalVoturi": 555,
+    "totalVoturiNS": 17,
+    "procent": "3.06%"
+  },
+  "21803": {
+    "localitate": "CLEJA",
+    "nume_sectie": "ŞCOALA NR.2 CLEJA",
+    "totalVoturi": 594,
+    "totalVoturiNS": 32,
+    "procent": "5.39%"
+  },
+  "21804": {
+    "localitate": "CLEJA",
+    "nume_sectie": "ŞCOALA SOMUŞCA",
+    "totalVoturi": 433,
+    "totalVoturiNS": 12,
+    "procent": "2.77%"
+  },
+  "21805": {
+    "localitate": "CLEJA",
+    "nume_sectie": "ŞCOALA VALEA MICĂ",
+    "totalVoturi": 217,
+    "totalVoturiNS": 5,
+    "procent": "2.30%"
+  },
+  "21806": {
+    "localitate": "COLONEŞTI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ COLONEŞTI",
+    "totalVoturi": 520,
+    "totalVoturiNS": 2,
+    "procent": "0.38%"
+  },
+  "21807": {
+    "localitate": "COLONEŞTI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ SPRIA",
+    "totalVoturi": 131,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21808": {
+    "localitate": "COLONEŞTI",
+    "nume_sectie": "ŞCOALA PRIMARĂ SATU NOU",
+    "totalVoturi": 135,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21809": {
+    "localitate": "CORBASCA",
+    "nume_sectie": "SCOALA GIMNAZIALA CU CLASELE I - VIII",
+    "totalVoturi": 259,
+    "totalVoturiNS": 2,
+    "procent": "0.77%"
+  },
+  "21810": {
+    "localitate": "CORBASCA",
+    "nume_sectie": "ŞCOALA CU CLASELE I -IV SCARISOARA",
+    "totalVoturi": 314,
+    "totalVoturiNS": 2,
+    "procent": "0.64%"
+  },
+  "21811": {
+    "localitate": "CORBASCA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII MARVILA",
+    "totalVoturi": 195,
+    "totalVoturiNS": 8,
+    "procent": "4.10%"
+  },
+  "21812": {
+    "localitate": "CORBASCA",
+    "nume_sectie": "ŞCOALA CU CLASELE.I-IV VÎLCELE",
+    "totalVoturi": 175,
+    "totalVoturiNS": 4,
+    "procent": "2.29%"
+  },
+  "21813": {
+    "localitate": "CORBASCA",
+    "nume_sectie": "ŞCOALA CU CLASELE.I-VIII BĂCIOIU",
+    "totalVoturi": 386,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21814": {
+    "localitate": "CORBASCA",
+    "nume_sectie": "ŞCOALA CU CLASELE .I-IV ROGOAZA",
+    "totalVoturi": 120,
+    "totalVoturiNS": 1,
+    "procent": "0.83%"
+  },
+  "21815": {
+    "localitate": "COŢOFĂNEŞTI",
+    "nume_sectie": "CĂMIN CULTURAL COȚOFĂNEȘTI",
+    "totalVoturi": 551,
+    "totalVoturiNS": 4,
+    "procent": "0.73%"
+  },
+  "21816": {
+    "localitate": "COŢOFĂNEŞTI",
+    "nume_sectie": "CĂMINUL CULTURAL DIN SATUL BORŞANI",
+    "totalVoturi": 320,
+    "totalVoturiNS": 1,
+    "procent": "0.31%"
+  },
+  "21817": {
+    "localitate": "COŢOFĂNEŞTI",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM NORMAL BÎLCA",
+    "totalVoturi": 309,
+    "totalVoturiNS": 2,
+    "procent": "0.65%"
+  },
+  "21818": {
+    "localitate": "COŢOFĂNEŞTI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV TĂMĂSOAIA",
+    "totalVoturi": 202,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21819": {
+    "localitate": "DĂMIENEŞTI",
+    "nume_sectie": "ŞCOALA GENERALĂ CU CLASELE I-IV DĂMIENEŞTI",
+    "totalVoturi": 261,
+    "totalVoturiNS": 2,
+    "procent": "0.77%"
+  },
+  "21820": {
+    "localitate": "DĂMIENEŞTI",
+    "nume_sectie": "ŞCOALA GENERALĂ CU CLASELE I-VIII CĂLUGĂRENI",
+    "totalVoturi": 386,
+    "totalVoturiNS": 9,
+    "procent": "2.33%"
+  },
+  "21821": {
+    "localitate": "DĂMIENEŞTI",
+    "nume_sectie": "GRADINITA CU PROGRAM NORMAL DRĂGEŞTI",
+    "totalVoturi": 117,
+    "totalVoturiNS": 2,
+    "procent": "1.71%"
+  },
+  "21822": {
+    "localitate": "DEALU MORII",
+    "nume_sectie": "CAMIN CULTURAL DEALU MORII",
+    "totalVoturi": 499,
+    "totalVoturiNS": 8,
+    "procent": "1.60%"
+  },
+  "21823": {
+    "localitate": "DEALU MORII",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV CĂUIA",
+    "totalVoturi": 254,
+    "totalVoturiNS": 5,
+    "procent": "1.97%"
+  },
+  "21824": {
+    "localitate": "DEALU MORII",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII NEGULEŞTI",
+    "totalVoturi": 251,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21825": {
+    "localitate": "DEALU MORII",
+    "nume_sectie": "ŞCOALA TĂVĂDĂRĂŞTI",
+    "totalVoturi": 163,
+    "totalVoturiNS": 1,
+    "procent": "0.61%"
+  },
+  "21826": {
+    "localitate": "DOFTEANA",
+    "nume_sectie": "SCOALA SCARLAT LONGHIN DOFTEANA",
+    "totalVoturi": 769,
+    "totalVoturiNS": 11,
+    "procent": "1.43%"
+  },
+  "21827": {
+    "localitate": "DOFTEANA",
+    "nume_sectie": "SCOALA SCARLAT LONGHIN DOFTEANA",
+    "totalVoturi": 539,
+    "totalVoturiNS": 11,
+    "procent": "2.04%"
+  },
+  "21828": {
+    "localitate": "DOFTEANA",
+    "nume_sectie": "ŞCOALA GENERALA CU CLASELE I-VIII HĂGHIAC",
+    "totalVoturi": 619,
+    "totalVoturiNS": 2,
+    "procent": "0.32%"
+  },
+  "21829": {
+    "localitate": "DOFTEANA",
+    "nume_sectie": "CAMINUL CULTURAL BOGATA",
+    "totalVoturi": 352,
+    "totalVoturiNS": 1,
+    "procent": "0.28%"
+  },
+  "21830": {
+    "localitate": "DOFTEANA",
+    "nume_sectie": "SCOALA GENERALA CU CLASELE I-VIII CUCUIETI",
+    "totalVoturi": 468,
+    "totalVoturiNS": 6,
+    "procent": "1.28%"
+  },
+  "21831": {
+    "localitate": "DOFTEANA",
+    "nume_sectie": "SCOALA GENERALA CU CLASELE I-VIII CUCUIETI",
+    "totalVoturi": 528,
+    "totalVoturiNS": 9,
+    "procent": "1.70%"
+  },
+  "21832": {
+    "localitate": "DOFTEANA",
+    "nume_sectie": "ŞCOALA GENERALA CU CLASELE I-VIII LARGA",
+    "totalVoturi": 595,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21833": {
+    "localitate": "DOFTEANA",
+    "nume_sectie": "ŞCOALA GENERALA CU CLASELE I-IV ŞTEFAN VODĂ",
+    "totalVoturi": 421,
+    "totalVoturiNS": 6,
+    "procent": "1.43%"
+  },
+  "21834": {
+    "localitate": "DOFTEANA",
+    "nume_sectie": "ŞCOALA GENERALA CU CLASELE I-IV SEACA",
+    "totalVoturi": 209,
+    "totalVoturiNS": 1,
+    "procent": "0.48%"
+  },
+  "21835": {
+    "localitate": "FARAOANI",
+    "nume_sectie": "ŞCOALA GIMNAZIALA NR.1 FARAOANI",
+    "totalVoturi": 422,
+    "totalVoturiNS": 15,
+    "procent": "3.55%"
+  },
+  "21836": {
+    "localitate": "FARAOANI",
+    "nume_sectie": "ŞCOALA GIMNAZIALA NR.1 FARAOANI",
+    "totalVoturi": 498,
+    "totalVoturiNS": 17,
+    "procent": "3.41%"
+  },
+  "21837": {
+    "localitate": "FARAOANI",
+    "nume_sectie": "ŞCOALA GIMNAZIALA NR.2 FARAOANI",
+    "totalVoturi": 469,
+    "totalVoturiNS": 22,
+    "procent": "4.69%"
+  },
+  "21838": {
+    "localitate": "FARAOANI",
+    "nume_sectie": "ŞCOALA GIMNAZIALA NR.2 FARAOANI",
+    "totalVoturi": 320,
+    "totalVoturiNS": 10,
+    "procent": "3.13%"
+  },
+  "21839": {
+    "localitate": "FILIPENI",
+    "nume_sectie": "PRIMĂRIA FILIPENI",
+    "totalVoturi": 390,
+    "totalVoturiNS": 3,
+    "procent": "0.77%"
+  },
+  "21840": {
+    "localitate": "FILIPENI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV MĂRĂŞTI",
+    "totalVoturi": 331,
+    "totalVoturiNS": 1,
+    "procent": "0.30%"
+  },
+  "21841": {
+    "localitate": "FILIPENI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV FRUNTEŞTI",
+    "totalVoturi": 252,
+    "totalVoturiNS": 1,
+    "procent": "0.40%"
+  },
+  "21842": {
+    "localitate": "FILIPEŞTI",
+    "nume_sectie": "CASA DE CULTURA ”RADU BELIGAN” FILIPESTI",
+    "totalVoturi": 479,
+    "totalVoturiNS": 13,
+    "procent": "2.71%"
+  },
+  "21843": {
+    "localitate": "FILIPEŞTI",
+    "nume_sectie": "ŞCOALA GALBENI",
+    "totalVoturi": 275,
+    "totalVoturiNS": 2,
+    "procent": "0.73%"
+  },
+  "21844": {
+    "localitate": "FILIPEŞTI",
+    "nume_sectie": "ŞCOALA CÎRLIGI",
+    "totalVoturi": 471,
+    "totalVoturiNS": 4,
+    "procent": "0.85%"
+  },
+  "21845": {
+    "localitate": "FILIPEŞTI",
+    "nume_sectie": "CENTRU MULTIFUNCȚIONAL ONIȘCANI",
+    "totalVoturi": 241,
+    "totalVoturiNS": 4,
+    "procent": "1.66%"
+  },
+  "21846": {
+    "localitate": "FILIPEŞTI",
+    "nume_sectie": "CĂMINUL CULTURAL BOANŢA",
+    "totalVoturi": 131,
+    "totalVoturiNS": 3,
+    "procent": "2.29%"
+  },
+  "21847": {
+    "localitate": "FILIPEŞTI",
+    "nume_sectie": "CENTRU CULTURAL HÂRLEȘTI",
+    "totalVoturi": 387,
+    "totalVoturiNS": 11,
+    "procent": "2.84%"
+  },
+  "21848": {
+    "localitate": "GĂICEANA",
+    "nume_sectie": "PRIMĂRIA GĂICEANA",
+    "totalVoturi": 417,
+    "totalVoturiNS": 5,
+    "procent": "1.20%"
+  },
+  "21849": {
+    "localitate": "GĂICEANA",
+    "nume_sectie": "ŞCOALA ARINI",
+    "totalVoturi": 502,
+    "totalVoturiNS": 8,
+    "procent": "1.59%"
+  },
+  "21850": {
+    "localitate": "GĂICEANA",
+    "nume_sectie": "ŞCOALA HUŢU",
+    "totalVoturi": 278,
+    "totalVoturiNS": 1,
+    "procent": "0.36%"
+  },
+  "21851": {
+    "localitate": "GÂRLENI",
+    "nume_sectie": "ŞCOALA CU CL.I-VIII GÎRLENII DE SUS",
+    "totalVoturi": 658,
+    "totalVoturiNS": 14,
+    "procent": "2.13%"
+  },
+  "21852": {
+    "localitate": "GÂRLENI",
+    "nume_sectie": "ŞCOALA CU CL.I-VIII GÎRLENI",
+    "totalVoturi": 485,
+    "totalVoturiNS": 10,
+    "procent": "2.06%"
+  },
+  "21853": {
+    "localitate": "GÂRLENI",
+    "nume_sectie": "ŞCOALA CU CL.I-VIII GÎRLENI",
+    "totalVoturi": 428,
+    "totalVoturiNS": 17,
+    "procent": "3.97%"
+  },
+  "21854": {
+    "localitate": "GÂRLENI",
+    "nume_sectie": "ŞCOALA CU CL.I-VIII LESPEZI",
+    "totalVoturi": 345,
+    "totalVoturiNS": 5,
+    "procent": "1.45%"
+  },
+  "21855": {
+    "localitate": "GÂRLENI",
+    "nume_sectie": "ŞCOALA CU CL.I-VIII LESPEZI",
+    "totalVoturi": 547,
+    "totalVoturiNS": 17,
+    "procent": "3.11%"
+  },
+  "21856": {
+    "localitate": "GHIMEŞ-FĂGET",
+    "nume_sectie": "CĂMIN CULTURAL FĂGET",
+    "totalVoturi": 564,
+    "totalVoturiNS": 1,
+    "procent": "0.18%"
+  },
+  "21857": {
+    "localitate": "GHIMEŞ-FĂGET",
+    "nume_sectie": "ŞCOALA GENERALA CU CLASELE I-VIII TĂRHĂUŞI",
+    "totalVoturi": 286,
+    "totalVoturiNS": 1,
+    "procent": "0.35%"
+  },
+  "21858": {
+    "localitate": "GHIMEŞ-FĂGET",
+    "nume_sectie": "ŞCOALA GENERALA CU CLASELE I-VIII GHIMEŞ",
+    "totalVoturi": 528,
+    "totalVoturiNS": 3,
+    "procent": "0.57%"
+  },
+  "21859": {
+    "localitate": "GHIMEŞ-FĂGET",
+    "nume_sectie": "ŞCOALA GENERALA CU CLASELE I-IV FĂGETUL DE SUS",
+    "totalVoturi": 116,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21860": {
+    "localitate": "GHIMEŞ-FĂGET",
+    "nume_sectie": "ŞCOALA GENERALA CU CLASELE I-VIII BOLOVĂNIŞ",
+    "totalVoturi": 325,
+    "totalVoturiNS": 3,
+    "procent": "0.92%"
+  },
+  "21861": {
+    "localitate": "GHIMEŞ-FĂGET",
+    "nume_sectie": "ŞCOALA GENERALA CU CLASELE I-IV RĂCHITIŞ",
+    "totalVoturi": 107,
+    "totalVoturiNS": 5,
+    "procent": "4.67%"
+  },
+  "21862": {
+    "localitate": "GIOSENI",
+    "nume_sectie": "ŞCOALA GENERALA CU CLASELE I-VIII ION STRAT GIOSENI",
+    "totalVoturi": 348,
+    "totalVoturiNS": 3,
+    "procent": "0.86%"
+  },
+  "21863": {
+    "localitate": "GIOSENI",
+    "nume_sectie": "ŞCOALA GENERALA CU CLASELE I-VIII ION STRAT GIOSENI",
+    "totalVoturi": 559,
+    "totalVoturiNS": 6,
+    "procent": "1.07%"
+  },
+  "21864": {
+    "localitate": "GIOSENI",
+    "nume_sectie": "SCOALA GENERALA CU CLASELE I-VIII ION STRAT GIOSENI",
+    "totalVoturi": 411,
+    "totalVoturiNS": 5,
+    "procent": "1.22%"
+  },
+  "21865": {
+    "localitate": "GLĂVĂNEŞTI",
+    "nume_sectie": "CĂMINUL CULTURAL GLĂVĂNEŞTI",
+    "totalVoturi": 690,
+    "totalVoturiNS": 15,
+    "procent": "2.17%"
+  },
+  "21866": {
+    "localitate": "GLĂVĂNEŞTI",
+    "nume_sectie": "CĂMINUL CULTURAL FRUMUŞELU",
+    "totalVoturi": 569,
+    "totalVoturiNS": 9,
+    "procent": "1.58%"
+  },
+  "21867": {
+    "localitate": "GLĂVĂNEŞTI",
+    "nume_sectie": "SCOALA MUNCELU",
+    "totalVoturi": 130,
+    "totalVoturiNS": 2,
+    "procent": "1.54%"
+  },
+  "21868": {
+    "localitate": "GURA VĂII",
+    "nume_sectie": "PRIMĂRIA GURA VĂII",
+    "totalVoturi": 588,
+    "totalVoturiNS": 7,
+    "procent": "1.19%"
+  },
+  "21869": {
+    "localitate": "GURA VĂII",
+    "nume_sectie": "GRĂDINIŢA PĂTRĂŞCANI",
+    "totalVoturi": 178,
+    "totalVoturiNS": 3,
+    "procent": "1.69%"
+  },
+  "21870": {
+    "localitate": "GURA VĂII",
+    "nume_sectie": "CLĂDIRE ADMINISTRATIVĂ",
+    "totalVoturi": 55,
+    "totalVoturiNS": 1,
+    "procent": "1.82%"
+  },
+  "21871": {
+    "localitate": "GURA VĂII",
+    "nume_sectie": "ŞCOALA TEMELIA",
+    "totalVoturi": 264,
+    "totalVoturiNS": 2,
+    "procent": "0.76%"
+  },
+  "21872": {
+    "localitate": "GURA VĂII",
+    "nume_sectie": "ŞCOALA PĂLTINATA",
+    "totalVoturi": 186,
+    "totalVoturiNS": 1,
+    "procent": "0.54%"
+  },
+  "21873": {
+    "localitate": "GURA VĂII",
+    "nume_sectie": "CĂMIN CULTURAL",
+    "totalVoturi": 446,
+    "totalVoturiNS": 4,
+    "procent": "0.90%"
+  },
+  "21874": {
+    "localitate": "GURA VĂII",
+    "nume_sectie": "ŞCOALA CAPĂTA",
+    "totalVoturi": 154,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21875": {
+    "localitate": "HELEGIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ HELEGIU",
+    "totalVoturi": 431,
+    "totalVoturiNS": 3,
+    "procent": "0.70%"
+  },
+  "21876": {
+    "localitate": "HELEGIU",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM NORMAL BRĂTILA",
+    "totalVoturi": 294,
+    "totalVoturiNS": 6,
+    "procent": "2.04%"
+  },
+  "21877": {
+    "localitate": "HELEGIU",
+    "nume_sectie": "CENTRU RECREERE",
+    "totalVoturi": 340,
+    "totalVoturiNS": 10,
+    "procent": "2.94%"
+  },
+  "21878": {
+    "localitate": "HELEGIU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ DELENI",
+    "totalVoturi": 548,
+    "totalVoturiNS": 4,
+    "procent": "0.73%"
+  },
+  "21879": {
+    "localitate": "HELEGIU",
+    "nume_sectie": "CAMIN CULTURAL DRĂGUGEŞTI",
+    "totalVoturi": 499,
+    "totalVoturiNS": 6,
+    "procent": "1.20%"
+  },
+  "21880": {
+    "localitate": "HELEGIU",
+    "nume_sectie": "ŞCOALA DRĂGUGEŞTI 2",
+    "totalVoturi": 137,
+    "totalVoturiNS": 1,
+    "procent": "0.73%"
+  },
+  "21881": {
+    "localitate": "HEMEIUŞ",
+    "nume_sectie": "CĂMINUL CULTURAL HEMEIUŞ",
+    "totalVoturi": 777,
+    "totalVoturiNS": 30,
+    "procent": "3.86%"
+  },
+  "21882": {
+    "localitate": "HEMEIUŞ",
+    "nume_sectie": "ŞCOALA GENERALA GRIGORE TĂBĂCARU HEMEIUŞ",
+    "totalVoturi": 674,
+    "totalVoturiNS": 27,
+    "procent": "4.01%"
+  },
+  "21883": {
+    "localitate": "HEMEIUŞ",
+    "nume_sectie": "SCOALA GENERALA ION SIMIONESCU, LILIECI",
+    "totalVoturi": 703,
+    "totalVoturiNS": 24,
+    "procent": "3.41%"
+  },
+  "21884": {
+    "localitate": "HEMEIUŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALA ION SIMIONESCU LILIECI",
+    "totalVoturi": 740,
+    "totalVoturiNS": 31,
+    "procent": "4.19%"
+  },
+  "21885": {
+    "localitate": "HORGEŞTI",
+    "nume_sectie": "PRIMĂRIA HORGEŞTI",
+    "totalVoturi": 457,
+    "totalVoturiNS": 4,
+    "procent": "0.88%"
+  },
+  "21886": {
+    "localitate": "HORGEŞTI",
+    "nume_sectie": "ŞCOALA SOHODOR",
+    "totalVoturi": 500,
+    "totalVoturiNS": 1,
+    "procent": "0.20%"
+  },
+  "21887": {
+    "localitate": "HORGEŞTI",
+    "nume_sectie": "ŞCOALA RECEA",
+    "totalVoturi": 328,
+    "totalVoturiNS": 2,
+    "procent": "0.61%"
+  },
+  "21888": {
+    "localitate": "HORGEŞTI",
+    "nume_sectie": "ŞCOALA RĂCĂTĂU",
+    "totalVoturi": 423,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21889": {
+    "localitate": "HURUIEŞTI",
+    "nume_sectie": "PRIMĂRIA HURUIEŞTI",
+    "totalVoturi": 280,
+    "totalVoturiNS": 4,
+    "procent": "1.43%"
+  },
+  "21890": {
+    "localitate": "HURUIEŞTI",
+    "nume_sectie": "FOSTUL LOCAL AL ŞCOLII PERCHIU",
+    "totalVoturi": 63,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21891": {
+    "localitate": "HURUIEŞTI",
+    "nume_sectie": "FOSTUL LOCAL AL ŞCOLII PRADAIŞ",
+    "totalVoturi": 143,
+    "totalVoturiNS": 1,
+    "procent": "0.70%"
+  },
+  "21892": {
+    "localitate": "HURUIEŞTI",
+    "nume_sectie": "FOSTUL LOCAL AL ŞCOLII CAPOTEŞTI",
+    "totalVoturi": 98,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21893": {
+    "localitate": "HURUIEŞTI",
+    "nume_sectie": "LOCALUL ŞCOLII OCHENI",
+    "totalVoturi": 144,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21894": {
+    "localitate": "HURUIEŞTI",
+    "nume_sectie": "SEDIUL PRIMARIEI COMUNEI HURUIESTI, JUDETUL BACAU",
+    "totalVoturi": 52,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21895": {
+    "localitate": "HURUIEŞTI",
+    "nume_sectie": "LOCALUL ŞCOLII FUNDOAIA",
+    "totalVoturi": 147,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21896": {
+    "localitate": "ITEŞTI",
+    "nume_sectie": "CĂMINUL CULTURAL ITEŞTI",
+    "totalVoturi": 435,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21897": {
+    "localitate": "ITEŞTI",
+    "nume_sectie": "ŞCOALA DUMBRAVA",
+    "totalVoturi": 212,
+    "totalVoturiNS": 3,
+    "procent": "1.42%"
+  },
+  "21898": {
+    "localitate": "ITEŞTI",
+    "nume_sectie": "CĂMINUL CULTURAL CIUMAŞI",
+    "totalVoturi": 100,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21899": {
+    "localitate": "IZVORU BERHECIULUI",
+    "nume_sectie": "ŞCOALA CONSTANTIN MOSCU IZV.BERHECIULUI",
+    "totalVoturi": 329,
+    "totalVoturiNS": 1,
+    "procent": "0.30%"
+  },
+  "21900": {
+    "localitate": "IZVORU BERHECIULUI",
+    "nume_sectie": "ŞCOALA GENERALĂ ANTOHEŞTI",
+    "totalVoturi": 168,
+    "totalVoturiNS": 2,
+    "procent": "1.19%"
+  },
+  "21901": {
+    "localitate": "IZVORU BERHECIULUI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”CONSTANTIN MOSCU’’ IZVORU BERHECIULUI",
+    "totalVoturi": 176,
+    "totalVoturiNS": 2,
+    "procent": "1.14%"
+  },
+  "21902": {
+    "localitate": "LETEA VECHE",
+    "nume_sectie": "ŞCOALA COORDONATOARE LETEA VECHE",
+    "totalVoturi": 774,
+    "totalVoturiNS": 26,
+    "procent": "3.36%"
+  },
+  "21903": {
+    "localitate": "LETEA VECHE",
+    "nume_sectie": "SCOALA COORDONATOARE LETEA VECHE",
+    "totalVoturi": 869,
+    "totalVoturiNS": 23,
+    "procent": "2.65%"
+  },
+  "21904": {
+    "localitate": "LETEA VECHE",
+    "nume_sectie": "GRADINITA",
+    "totalVoturi": 753,
+    "totalVoturiNS": 17,
+    "procent": "2.26%"
+  },
+  "21905": {
+    "localitate": "LETEA VECHE",
+    "nume_sectie": "SALA DE EVENIMENTE",
+    "totalVoturi": 164,
+    "totalVoturiNS": 4,
+    "procent": "2.44%"
+  },
+  "21906": {
+    "localitate": "LETEA VECHE",
+    "nume_sectie": "ŞCOALA RUŞI CIUTEA",
+    "totalVoturi": 390,
+    "totalVoturiNS": 7,
+    "procent": "1.79%"
+  },
+  "21907": {
+    "localitate": "LETEA VECHE",
+    "nume_sectie": "ŞCOALA SIRETU",
+    "totalVoturi": 330,
+    "totalVoturiNS": 7,
+    "procent": "2.12%"
+  },
+  "21908": {
+    "localitate": "LIPOVA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII M.EMINESCU LIPOVA",
+    "totalVoturi": 243,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21909": {
+    "localitate": "LIPOVA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV VALEA HOGEI",
+    "totalVoturi": 123,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21910": {
+    "localitate": "LIPOVA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII SATU NOU",
+    "totalVoturi": 203,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21911": {
+    "localitate": "LIPOVA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV VALEA CASELOR",
+    "totalVoturi": 200,
+    "totalVoturiNS": 1,
+    "procent": "0.50%"
+  },
+  "21912": {
+    "localitate": "LIPOVA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII MÎLOSU",
+    "totalVoturi": 383,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21913": {
+    "localitate": "LIVEZI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.1 LIVEZI",
+    "totalVoturi": 319,
+    "totalVoturiNS": 4,
+    "procent": "1.25%"
+  },
+  "21914": {
+    "localitate": "LIVEZI",
+    "nume_sectie": "ŞCOALA PRIMARĂ ORĂŞA",
+    "totalVoturi": 348,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21915": {
+    "localitate": "LIVEZI",
+    "nume_sectie": "ŞCOALA PRIMARĂ PRĂJOAIA",
+    "totalVoturi": 321,
+    "totalVoturiNS": 1,
+    "procent": "0.31%"
+  },
+  "21916": {
+    "localitate": "LIVEZI",
+    "nume_sectie": "ŞCOALA PRIMARĂ SCĂRIGA",
+    "totalVoturi": 224,
+    "totalVoturiNS": 2,
+    "procent": "0.89%"
+  },
+  "21917": {
+    "localitate": "LIVEZI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ POIANA",
+    "totalVoturi": 282,
+    "totalVoturiNS": 1,
+    "procent": "0.35%"
+  },
+  "21918": {
+    "localitate": "LIVEZI",
+    "nume_sectie": "ŞCOALA PRIMARĂ BĂLĂNEASA",
+    "totalVoturi": 395,
+    "totalVoturiNS": 7,
+    "procent": "1.77%"
+  },
+  "21919": {
+    "localitate": "LUIZI-CĂLUGĂRA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII LUIZI CĂLUGĂRA",
+    "totalVoturi": 514,
+    "totalVoturiNS": 7,
+    "procent": "1.36%"
+  },
+  "21920": {
+    "localitate": "LUIZI-CĂLUGĂRA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII LUIZI CĂLUGĂRA",
+    "totalVoturi": 462,
+    "totalVoturiNS": 12,
+    "procent": "2.60%"
+  },
+  "21921": {
+    "localitate": "LUIZI-CĂLUGĂRA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII OSEBIŢI",
+    "totalVoturi": 371,
+    "totalVoturiNS": 5,
+    "procent": "1.35%"
+  },
+  "21922": {
+    "localitate": "LUIZI-CĂLUGĂRA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII OSEBIŢI",
+    "totalVoturi": 368,
+    "totalVoturiNS": 6,
+    "procent": "1.63%"
+  },
+  "21923": {
+    "localitate": "MĂGIREŞTI",
+    "nume_sectie": "CAMINUL CULTURAL MAGIRESTI",
+    "totalVoturi": 515,
+    "totalVoturiNS": 13,
+    "procent": "2.52%"
+  },
+  "21924": {
+    "localitate": "MĂGIREŞTI",
+    "nume_sectie": "ŞCOALA CU CLASELE.I-IV STĂNEŞTI (CORP NOU)",
+    "totalVoturi": 215,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21925": {
+    "localitate": "MĂGIREŞTI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII VALEA ARINILOR",
+    "totalVoturi": 451,
+    "totalVoturiNS": 10,
+    "procent": "2.22%"
+  },
+  "21926": {
+    "localitate": "MĂGIREŞTI",
+    "nume_sectie": "SCOALA CU CLASELE I-IV PRAJESTII",
+    "totalVoturi": 211,
+    "totalVoturiNS": 1,
+    "procent": "0.47%"
+  },
+  "21927": {
+    "localitate": "MĂGURA",
+    "nume_sectie": "ŞCOALA NR.2 MĂGURA-SALA 1",
+    "totalVoturi": 697,
+    "totalVoturiNS": 21,
+    "procent": "3.01%"
+  },
+  "21928": {
+    "localitate": "MĂGURA",
+    "nume_sectie": "SCOALA NR.2 SAT MAGURA - SALA 2",
+    "totalVoturi": 375,
+    "totalVoturiNS": 13,
+    "procent": "3.47%"
+  },
+  "21929": {
+    "localitate": "MĂGURA",
+    "nume_sectie": "GRĂDINIȚA CU 3 GRUPE, MĂGURA",
+    "totalVoturi": 840,
+    "totalVoturiNS": 29,
+    "procent": "3.45%"
+  },
+  "21930": {
+    "localitate": "MĂGURA",
+    "nume_sectie": "ȘCOALA GENERALĂ CRIHAN",
+    "totalVoturi": 581,
+    "totalVoturiNS": 22,
+    "procent": "3.79%"
+  },
+  "21931": {
+    "localitate": "MĂNĂSTIREA CAŞIN",
+    "nume_sectie": "CĂMINUL CULTURAL SATUL MĂNĂSTIREA CAŞIN",
+    "totalVoturi": 726,
+    "totalVoturiNS": 14,
+    "procent": "1.93%"
+  },
+  "21932": {
+    "localitate": "MĂNĂSTIREA CAŞIN",
+    "nume_sectie": "CĂMINUL CULTURAL SATUL MĂNĂSTIREA CAŞIN",
+    "totalVoturi": 272,
+    "totalVoturiNS": 3,
+    "procent": "1.10%"
+  },
+  "21933": {
+    "localitate": "MĂNĂSTIREA CAŞIN",
+    "nume_sectie": "ŞCOALA GENERALA.NR.2 MĂNĂSTIREA CAŞIN",
+    "totalVoturi": 839,
+    "totalVoturiNS": 20,
+    "procent": "2.38%"
+  },
+  "21934": {
+    "localitate": "MĂNĂSTIREA CAŞIN",
+    "nume_sectie": "ŞCOALA LUPEŞTI",
+    "totalVoturi": 300,
+    "totalVoturiNS": 6,
+    "procent": "2.00%"
+  },
+  "21935": {
+    "localitate": "MĂRGINENI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII MĂRGINENI",
+    "totalVoturi": 475,
+    "totalVoturiNS": 9,
+    "procent": "1.89%"
+  },
+  "21936": {
+    "localitate": "MĂRGINENI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII MĂRGINENI",
+    "totalVoturi": 571,
+    "totalVoturiNS": 25,
+    "procent": "4.38%"
+  },
+  "21937": {
+    "localitate": "MĂRGINENI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII MĂRGINENI",
+    "totalVoturi": 422,
+    "totalVoturiNS": 14,
+    "procent": "3.32%"
+  },
+  "21938": {
+    "localitate": "MĂRGINENI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII BARAŢI",
+    "totalVoturi": 723,
+    "totalVoturiNS": 10,
+    "procent": "1.38%"
+  },
+  "21939": {
+    "localitate": "MĂRGINENI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII TREBEŞ",
+    "totalVoturi": 294,
+    "totalVoturiNS": 6,
+    "procent": "2.04%"
+  },
+  "21940": {
+    "localitate": "MĂRGINENI",
+    "nume_sectie": "ŞCOALA CU CLASELE I - IV VALEA BUDULUI",
+    "totalVoturi": 247,
+    "totalVoturiNS": 7,
+    "procent": "2.83%"
+  },
+  "21941": {
+    "localitate": "MĂRGINENI",
+    "nume_sectie": "ŞCOALA CU CLASELE I - IV PĂDURENI",
+    "totalVoturi": 145,
+    "totalVoturiNS": 4,
+    "procent": "2.76%"
+  },
+  "21942": {
+    "localitate": "MĂRGINENI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII LUNCANI",
+    "totalVoturi": 461,
+    "totalVoturiNS": 11,
+    "procent": "2.39%"
+  },
+  "21943": {
+    "localitate": "MĂRGINENI",
+    "nume_sectie": "ŞCOALA CU CLASELE I - IV PODIȘ",
+    "totalVoturi": 242,
+    "totalVoturiNS": 4,
+    "procent": "1.65%"
+  },
+  "21944": {
+    "localitate": "MOTOŞENI",
+    "nume_sectie": "CASA SATULUI SI TRADITIILOR",
+    "totalVoturi": 407,
+    "totalVoturiNS": 1,
+    "procent": "0.25%"
+  },
+  "21945": {
+    "localitate": "MOTOŞENI",
+    "nume_sectie": "ŞCOALA SATUL ŢEPOAIA",
+    "totalVoturi": 234,
+    "totalVoturiNS": 2,
+    "procent": "0.85%"
+  },
+  "21946": {
+    "localitate": "MOTOŞENI",
+    "nume_sectie": "ŞCOALA SATUL COCIU",
+    "totalVoturi": 128,
+    "totalVoturiNS": 1,
+    "procent": "0.78%"
+  },
+  "21947": {
+    "localitate": "MOTOŞENI",
+    "nume_sectie": "ŞCOALA SATUL POIANA",
+    "totalVoturi": 138,
+    "totalVoturiNS": 1,
+    "procent": "0.72%"
+  },
+  "21948": {
+    "localitate": "MOTOŞENI",
+    "nume_sectie": "ŞCOALA SATUL FÎNTÎNELE",
+    "totalVoturi": 239,
+    "totalVoturiNS": 2,
+    "procent": "0.84%"
+  },
+  "21949": {
+    "localitate": "MOTOŞENI",
+    "nume_sectie": "ŞCOALA SATUL ŞENDREŞTI",
+    "totalVoturi": 172,
+    "totalVoturiNS": 2,
+    "procent": "1.16%"
+  },
+  "21950": {
+    "localitate": "NEGRI",
+    "nume_sectie": "ŞCOALA COSTACHE NEGRI SATUL NEGRI",
+    "totalVoturi": 466,
+    "totalVoturiNS": 2,
+    "procent": "0.43%"
+  },
+  "21951": {
+    "localitate": "NEGRI",
+    "nume_sectie": "ŞCOALA ION IONESCU DE LA BRAD SATUL POIANA-NEGRI",
+    "totalVoturi": 520,
+    "totalVoturiNS": 5,
+    "procent": "0.96%"
+  },
+  "21952": {
+    "localitate": "NICOLAE BĂLCESCU",
+    "nume_sectie": "SCOALA NICOLAE BALCESCU",
+    "totalVoturi": 510,
+    "totalVoturiNS": 22,
+    "procent": "4.31%"
+  },
+  "21953": {
+    "localitate": "NICOLAE BĂLCESCU",
+    "nume_sectie": "SCOALA NICOLAE BALCESCU",
+    "totalVoturi": 673,
+    "totalVoturiNS": 16,
+    "procent": "2.38%"
+  },
+  "21954": {
+    "localitate": "NICOLAE BĂLCESCU",
+    "nume_sectie": "SCOALA NICOLAE BALCESCU",
+    "totalVoturi": 640,
+    "totalVoturiNS": 32,
+    "procent": "5.00%"
+  },
+  "21955": {
+    "localitate": "NICOLAE BĂLCESCU",
+    "nume_sectie": "ŞCOALA SATUL GALBENI",
+    "totalVoturi": 535,
+    "totalVoturiNS": 19,
+    "procent": "3.55%"
+  },
+  "21956": {
+    "localitate": "NICOLAE BĂLCESCU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.1 VALEA-SEACĂ",
+    "totalVoturi": 275,
+    "totalVoturiNS": 4,
+    "procent": "1.45%"
+  },
+  "21957": {
+    "localitate": "NICOLAE BĂLCESCU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.1 VALEA-SEACĂ",
+    "totalVoturi": 406,
+    "totalVoturiNS": 13,
+    "procent": "3.20%"
+  },
+  "21958": {
+    "localitate": "NICOLAE BĂLCESCU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.1 VALEA-SEACĂ",
+    "totalVoturi": 243,
+    "totalVoturiNS": 8,
+    "procent": "3.29%"
+  },
+  "21959": {
+    "localitate": "NICOLAE BĂLCESCU",
+    "nume_sectie": "ŞCOALA SATUL LĂRGUŢA",
+    "totalVoturi": 85,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21960": {
+    "localitate": "ODOBEŞTI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV ODOBEŞTI",
+    "totalVoturi": 213,
+    "totalVoturiNS": 5,
+    "procent": "2.35%"
+  },
+  "21961": {
+    "localitate": "ODOBEŞTI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII TISA SILVESTRI",
+    "totalVoturi": 559,
+    "totalVoturiNS": 6,
+    "procent": "1.07%"
+  },
+  "21962": {
+    "localitate": "ODOBEŞTI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII CIUTUREŞTI",
+    "totalVoturi": 352,
+    "totalVoturiNS": 3,
+    "procent": "0.85%"
+  },
+  "21963": {
+    "localitate": "OITUZ",
+    "nume_sectie": "ȘCOALĂ GIMNAZIALĂ COMUNA OITUZ ( GRĂDINIȚA NR.2 OITUZ)",
+    "totalVoturi": 244,
+    "totalVoturiNS": 4,
+    "procent": "1.64%"
+  },
+  "21964": {
+    "localitate": "OITUZ",
+    "nume_sectie": "SCOALA GIMNAZIALA NR. 1 OITUZ",
+    "totalVoturi": 556,
+    "totalVoturiNS": 11,
+    "procent": "1.98%"
+  },
+  "21965": {
+    "localitate": "OITUZ",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.1 OITUZ",
+    "totalVoturi": 580,
+    "totalVoturiNS": 7,
+    "procent": "1.21%"
+  },
+  "21966": {
+    "localitate": "OITUZ",
+    "nume_sectie": "ȘCOALĂ GIMNAZIALĂ COMUNA OITUZ ( GRĂDINIȚA NR.2 OITUZ)",
+    "totalVoturi": 380,
+    "totalVoturiNS": 4,
+    "procent": "1.05%"
+  },
+  "21967": {
+    "localitate": "OITUZ",
+    "nume_sectie": "CĂMINUL CULTURAL ”OLGA MARIA TUDORACHE” OITUZ",
+    "totalVoturi": 370,
+    "totalVoturiNS": 5,
+    "procent": "1.35%"
+  },
+  "21968": {
+    "localitate": "OITUZ",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL MARGINEA",
+    "totalVoturi": 284,
+    "totalVoturiNS": 5,
+    "procent": "1.76%"
+  },
+  "21969": {
+    "localitate": "OITUZ",
+    "nume_sectie": "GRĂDINIŢA CĂLCÂI",
+    "totalVoturi": 182,
+    "totalVoturiNS": 4,
+    "procent": "2.20%"
+  },
+  "21970": {
+    "localitate": "OITUZ",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM NORMAL FERESTRĂU",
+    "totalVoturi": 390,
+    "totalVoturiNS": 6,
+    "procent": "1.54%"
+  },
+  "21971": {
+    "localitate": "OITUZ",
+    "nume_sectie": "ASOCIAȚIA ”SFÂNTUL VOIEVOD ŞTEFAN CEL MARE- HÂRJA”",
+    "totalVoturi": 86,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21972": {
+    "localitate": "OITUZ",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM NORMAL POIANA-SĂRATĂ",
+    "totalVoturi": 128,
+    "totalVoturiNS": 4,
+    "procent": "3.13%"
+  },
+  "21973": {
+    "localitate": "ONCEŞTI",
+    "nume_sectie": "CĂMINUL CULTURAL SATUL ONCEŞTI",
+    "totalVoturi": 355,
+    "totalVoturiNS": 1,
+    "procent": "0.28%"
+  },
+  "21974": {
+    "localitate": "ONCEŞTI",
+    "nume_sectie": "SALA DE FESTIVITĂŢI SATUL TARNIŢA",
+    "totalVoturi": 291,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21975": {
+    "localitate": "ORBENI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII SATUL ORBENI",
+    "totalVoturi": 422,
+    "totalVoturiNS": 10,
+    "procent": "2.37%"
+  },
+  "21976": {
+    "localitate": "ORBENI",
+    "nume_sectie": "ŞCOALA PRIMARĂ NR.2 SATUL ORBENI",
+    "totalVoturi": 292,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21977": {
+    "localitate": "ORBENI",
+    "nume_sectie": "ŞCOALA GIMNAZIALA NR. 1 SATUL SCURTA",
+    "totalVoturi": 253,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21978": {
+    "localitate": "PALANCA",
+    "nume_sectie": "PRIMĂRIA PALANCA",
+    "totalVoturi": 545,
+    "totalVoturiNS": 3,
+    "procent": "0.55%"
+  },
+  "21979": {
+    "localitate": "PALANCA",
+    "nume_sectie": "CĂMINUL CULTURAL SATUL CIUGHEŞ",
+    "totalVoturi": 646,
+    "totalVoturiNS": 5,
+    "procent": "0.77%"
+  },
+  "21980": {
+    "localitate": "PALANCA",
+    "nume_sectie": "ŞCOALA SATUL CĂDĂRĂŞTI",
+    "totalVoturi": 44,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21981": {
+    "localitate": "PARAVA",
+    "nume_sectie": "PRIMARIA COMUNEI PARAVA (SALA DE FESTIVITATI)",
+    "totalVoturi": 358,
+    "totalVoturiNS": 3,
+    "procent": "0.84%"
+  },
+  "21982": {
+    "localitate": "PARAVA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ SATUL DRĂGUŞANI",
+    "totalVoturi": 334,
+    "totalVoturiNS": 2,
+    "procent": "0.60%"
+  },
+  "21983": {
+    "localitate": "PARAVA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ SATUL RĂDOAIA",
+    "totalVoturi": 197,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21984": {
+    "localitate": "PARAVA",
+    "nume_sectie": "ŞCOALA GIMNAZIALA PARAVA (GRADINITA CU PROGRAM NORMAL PARAVA)",
+    "totalVoturi": 155,
+    "totalVoturiNS": 2,
+    "procent": "1.29%"
+  },
+  "21985": {
+    "localitate": "PARINCEA",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”G.J.CANCICOV” PARINCEA",
+    "totalVoturi": 354,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21986": {
+    "localitate": "PARINCEA",
+    "nume_sectie": "ŞCOALA VĂLENI",
+    "totalVoturi": 152,
+    "totalVoturiNS": 6,
+    "procent": "3.95%"
+  },
+  "21987": {
+    "localitate": "PARINCEA",
+    "nume_sectie": "ŞCOALA GIMNAZIALA VLADNIC",
+    "totalVoturi": 323,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21988": {
+    "localitate": "PARINCEA",
+    "nume_sectie": "ŞCOALA NĂNEŞTI",
+    "totalVoturi": 300,
+    "totalVoturiNS": 3,
+    "procent": "1.00%"
+  },
+  "21989": {
+    "localitate": "PARINCEA",
+    "nume_sectie": "CENTRU EVENIMENTE POIENI",
+    "totalVoturi": 91,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21990": {
+    "localitate": "PARINCEA",
+    "nume_sectie": "ŞCOALA MILEŞTII DE JOS",
+    "totalVoturi": 107,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21991": {
+    "localitate": "PÂNCEŞTI",
+    "nume_sectie": "ŞCOALA NR.1 PÎNCEŞTI",
+    "totalVoturi": 461,
+    "totalVoturiNS": 6,
+    "procent": "1.30%"
+  },
+  "21992": {
+    "localitate": "PÂNCEŞTI",
+    "nume_sectie": "ŞCOALA SATUL DIENEŢ",
+    "totalVoturi": 248,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21993": {
+    "localitate": "PÂNCEŞTI",
+    "nume_sectie": "ŞCOALA GENERALĂ SATUL PETREŞTI",
+    "totalVoturi": 299,
+    "totalVoturiNS": 1,
+    "procent": "0.33%"
+  },
+  "21994": {
+    "localitate": "PÂNCEŞTI",
+    "nume_sectie": "ŞCOALA GENERALĂ SATUL SOCI",
+    "totalVoturi": 311,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21995": {
+    "localitate": "PÂNCEŞTI",
+    "nume_sectie": "ŞCOALA GENERALĂ SATUL FULGERIŞ",
+    "totalVoturi": 129,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "21996": {
+    "localitate": "PÂRGĂREŞTI",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL SATUL PÎRÎU BOGHII",
+    "totalVoturi": 173,
+    "totalVoturiNS": 4,
+    "procent": "2.31%"
+  },
+  "21997": {
+    "localitate": "PÂRGĂREŞTI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ DUMITRU MĂRTINAŞ SATUL PÎRGĂREŞTI",
+    "totalVoturi": 277,
+    "totalVoturiNS": 3,
+    "procent": "1.08%"
+  },
+  "21998": {
+    "localitate": "PÂRGĂREŞTI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ VASILE GH.RADUSATUL SATU NOU",
+    "totalVoturi": 457,
+    "totalVoturiNS": 4,
+    "procent": "0.88%"
+  },
+  "21999": {
+    "localitate": "PÂRGĂREŞTI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ CONSTANTIN MUŞAT SATUL NICOREŞTI",
+    "totalVoturi": 274,
+    "totalVoturiNS": 8,
+    "procent": "2.92%"
+  },
+  "22000": {
+    "localitate": "PÂRGĂREŞTI",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL BAHNA",
+    "totalVoturi": 175,
+    "totalVoturiNS": 1,
+    "procent": "0.57%"
+  },
+  "22001": {
+    "localitate": "PÂRJOL",
+    "nume_sectie": "ŞCOALA SATUL PÎRJOL",
+    "totalVoturi": 241,
+    "totalVoturiNS": 3,
+    "procent": "1.24%"
+  },
+  "22002": {
+    "localitate": "PÂRJOL",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ TĂRÂȚA",
+    "totalVoturi": 331,
+    "totalVoturiNS": 9,
+    "procent": "2.72%"
+  },
+  "22003": {
+    "localitate": "PÂRJOL",
+    "nume_sectie": "ŞCOALA SATUL BĂHNĂŞENI",
+    "totalVoturi": 334,
+    "totalVoturiNS": 3,
+    "procent": "0.90%"
+  },
+  "22004": {
+    "localitate": "PÂRJOL",
+    "nume_sectie": "ŞCOALA SATUL BĂRNEŞTI",
+    "totalVoturi": 76,
+    "totalVoturiNS": 1,
+    "procent": "1.32%"
+  },
+  "22005": {
+    "localitate": "PÂRJOL",
+    "nume_sectie": "ŞCOALA SATUL BĂSEŞTI",
+    "totalVoturi": 156,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22006": {
+    "localitate": "PÂRJOL",
+    "nume_sectie": "ŞCOALA SATUL HĂINEALA",
+    "totalVoturi": 81,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22007": {
+    "localitate": "PÂRJOL",
+    "nume_sectie": "ŞCOALA SATUL CÎMPENI",
+    "totalVoturi": 196,
+    "totalVoturiNS": 3,
+    "procent": "1.53%"
+  },
+  "22008": {
+    "localitate": "PÂRJOL",
+    "nume_sectie": "GRĂDINIŢA PUSTIANA",
+    "totalVoturi": 223,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22009": {
+    "localitate": "PÂRJOL",
+    "nume_sectie": "ŞCOALA CU CLASELE .I-VIII PUSTIANA",
+    "totalVoturi": 266,
+    "totalVoturiNS": 1,
+    "procent": "0.38%"
+  },
+  "22010": {
+    "localitate": "PLOPANA",
+    "nume_sectie": "PRIMĂRIA PLOPANA",
+    "totalVoturi": 342,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22011": {
+    "localitate": "PLOPANA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV SATUL FUNDU TUTOVEI",
+    "totalVoturi": 201,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22012": {
+    "localitate": "PLOPANA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV SATUL IŢCANI",
+    "totalVoturi": 313,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22013": {
+    "localitate": "PLOPANA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII SATUL RUSENII-RĂZEŞI",
+    "totalVoturi": 168,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22014": {
+    "localitate": "PLOPANA",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV SATUL STRĂMINOASA",
+    "totalVoturi": 159,
+    "totalVoturiNS": 2,
+    "procent": "1.26%"
+  },
+  "22015": {
+    "localitate": "PODU TURCULUI",
+    "nume_sectie": "CĂMINUL CULTURAL PODU TURCULUI",
+    "totalVoturi": 935,
+    "totalVoturiNS": 20,
+    "procent": "2.14%"
+  },
+  "22016": {
+    "localitate": "PODU TURCULUI",
+    "nume_sectie": "ȘCOALA GENERALĂ NR. 3 PODU TURCULUI",
+    "totalVoturi": 304,
+    "totalVoturiNS": 4,
+    "procent": "1.32%"
+  },
+  "22017": {
+    "localitate": "PODU TURCULUI",
+    "nume_sectie": "CĂMINUL CULTURAL SATUL CĂBEŞTI",
+    "totalVoturi": 363,
+    "totalVoturiNS": 5,
+    "procent": "1.38%"
+  },
+  "22018": {
+    "localitate": "PODU TURCULUI",
+    "nume_sectie": "CAMINUL CULTURAL SAT LEHANCEA",
+    "totalVoturi": 240,
+    "totalVoturiNS": 3,
+    "procent": "1.25%"
+  },
+  "22019": {
+    "localitate": "PODU TURCULUI",
+    "nume_sectie": "ŞCOALA GENERALĂ SATUL SÎRBI",
+    "totalVoturi": 195,
+    "totalVoturiNS": 3,
+    "procent": "1.54%"
+  },
+  "22020": {
+    "localitate": "PODURI",
+    "nume_sectie": "ŞCOALA SATUL PODURI",
+    "totalVoturi": 512,
+    "totalVoturiNS": 10,
+    "procent": "1.95%"
+  },
+  "22021": {
+    "localitate": "PODURI",
+    "nume_sectie": "ŞCOALA SATUL PODURI",
+    "totalVoturi": 501,
+    "totalVoturiNS": 10,
+    "procent": "2.00%"
+  },
+  "22022": {
+    "localitate": "PODURI",
+    "nume_sectie": "ŞCOALA SATUL VALEA ŞOSII",
+    "totalVoturi": 410,
+    "totalVoturiNS": 6,
+    "procent": "1.46%"
+  },
+  "22023": {
+    "localitate": "PODURI",
+    "nume_sectie": "ŞCOALA SATUL PROHOZEŞTI",
+    "totalVoturi": 365,
+    "totalVoturiNS": 2,
+    "procent": "0.55%"
+  },
+  "22024": {
+    "localitate": "PODURI",
+    "nume_sectie": "ŞCOALA SATUL BUCŞEŞTI",
+    "totalVoturi": 543,
+    "totalVoturiNS": 8,
+    "procent": "1.47%"
+  },
+  "22025": {
+    "localitate": "PODURI",
+    "nume_sectie": "ŞCOALA SATUL CERNU",
+    "totalVoturi": 462,
+    "totalVoturiNS": 5,
+    "procent": "1.08%"
+  },
+  "22026": {
+    "localitate": "PRĂJEŞTI",
+    "nume_sectie": "SCOALA GIMNAZIALA GHEORGHE AVRAMESCU PRAJESTI",
+    "totalVoturi": 484,
+    "totalVoturiNS": 11,
+    "procent": "2.27%"
+  },
+  "22027": {
+    "localitate": "PRĂJEŞTI",
+    "nume_sectie": "SCOALA GIMNAZIALA GHEORGHE AVRAMESCU PRĂJEŞTI",
+    "totalVoturi": 418,
+    "totalVoturiNS": 9,
+    "procent": "2.15%"
+  },
+  "22028": {
+    "localitate": "RACOVA",
+    "nume_sectie": "ŞCOALA NR.1 IOAN BORCEA RACOVA",
+    "totalVoturi": 603,
+    "totalVoturiNS": 5,
+    "procent": "0.83%"
+  },
+  "22029": {
+    "localitate": "RACOVA",
+    "nume_sectie": "ŞCOALA NR.2 RACOVA-ŞES",
+    "totalVoturi": 336,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22030": {
+    "localitate": "RACOVA",
+    "nume_sectie": "ŞCOALA SATUL GURA VĂII",
+    "totalVoturi": 443,
+    "totalVoturiNS": 6,
+    "procent": "1.35%"
+  },
+  "22031": {
+    "localitate": "RĂCĂCIUNI",
+    "nume_sectie": "BAZA SPORTIVA ”LIA MANOLIU” RĂCĂCIUNI",
+    "totalVoturi": 662,
+    "totalVoturiNS": 34,
+    "procent": "5.14%"
+  },
+  "22032": {
+    "localitate": "RĂCĂCIUNI",
+    "nume_sectie": "GRĂDINIŢA NR.2 SATUL RĂCĂCIUNI",
+    "totalVoturi": 545,
+    "totalVoturiNS": 10,
+    "procent": "1.83%"
+  },
+  "22033": {
+    "localitate": "RĂCĂCIUNI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII SATUL GHEORGHE DOJA",
+    "totalVoturi": 353,
+    "totalVoturiNS": 7,
+    "procent": "1.98%"
+  },
+  "22034": {
+    "localitate": "RĂCĂCIUNI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII SATUL GÎŞTENI",
+    "totalVoturi": 403,
+    "totalVoturiNS": 16,
+    "procent": "3.97%"
+  },
+  "22035": {
+    "localitate": "RĂCĂCIUNI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII SATUL FUNDU RĂCĂCIUNI",
+    "totalVoturi": 562,
+    "totalVoturiNS": 11,
+    "procent": "1.96%"
+  },
+  "22036": {
+    "localitate": "RĂCĂCIUNI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV SATUL CIUCANI",
+    "totalVoturi": 204,
+    "totalVoturiNS": 6,
+    "procent": "2.94%"
+  },
+  "22037": {
+    "localitate": "RĂCHITOASA",
+    "nume_sectie": "CĂMINUL CULTURAL SATUL RĂCHITOASA",
+    "totalVoturi": 509,
+    "totalVoturiNS": 1,
+    "procent": "0.20%"
+  },
+  "22038": {
+    "localitate": "RĂCHITOASA",
+    "nume_sectie": "ŞCOALA CU CLASELE .I-IV SATUL FUNDĂTURA-RĂCHITOASA",
+    "totalVoturi": 93,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22039": {
+    "localitate": "RĂCHITOASA",
+    "nume_sectie": "ȘCOALA PRIMARĂ DUMBRAVA",
+    "totalVoturi": 225,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22040": {
+    "localitate": "RĂCHITOASA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ BURDUSACI",
+    "totalVoturi": 305,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22041": {
+    "localitate": "RĂCHITOASA",
+    "nume_sectie": "ŞCOALA PRIMARĂ BARCANA",
+    "totalVoturi": 191,
+    "totalVoturiNS": 1,
+    "procent": "0.52%"
+  },
+  "22042": {
+    "localitate": "RĂCHITOASA",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM NORMAL BUDA",
+    "totalVoturi": 247,
+    "totalVoturiNS": 1,
+    "procent": "0.40%"
+  },
+  "22043": {
+    "localitate": "ROŞIORI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.1 SATUL ROŞIORI",
+    "totalVoturi": 558,
+    "totalVoturiNS": 5,
+    "procent": "0.90%"
+  },
+  "22044": {
+    "localitate": "ROŞIORI",
+    "nume_sectie": "ŞCOALA PRIMARĂ SATUL POIENI",
+    "totalVoturi": 154,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22045": {
+    "localitate": "ROŞIORI",
+    "nume_sectie": "ŞCOALA PRIMARĂ SATUL VALEA MARE",
+    "totalVoturi": 271,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22046": {
+    "localitate": "SASCUT",
+    "nume_sectie": "LICEUL JACQUES MENACHEN ELIAS SASCUT",
+    "totalVoturi": 614,
+    "totalVoturiNS": 11,
+    "procent": "1.79%"
+  },
+  "22047": {
+    "localitate": "SASCUT",
+    "nume_sectie": "LICEUL JACQUES MENACHEN ELIAS SASCUT",
+    "totalVoturi": 492,
+    "totalVoturiNS": 4,
+    "procent": "0.81%"
+  },
+  "22048": {
+    "localitate": "SASCUT",
+    "nume_sectie": "SCOALA GENERALA CU CLASELE I-IV BERESTI",
+    "totalVoturi": 591,
+    "totalVoturiNS": 5,
+    "procent": "0.85%"
+  },
+  "22049": {
+    "localitate": "SASCUT",
+    "nume_sectie": "CENTRU DE SOCIALIZARE PENTRU PERSOANE VÂRSNICE DIN SAT CONȚEȘTI",
+    "totalVoturi": 214,
+    "totalVoturiNS": 2,
+    "procent": "0.93%"
+  },
+  "22050": {
+    "localitate": "SASCUT",
+    "nume_sectie": "SCOALA CU CLASELE I-VIII NR 1 PANCESTI",
+    "totalVoturi": 399,
+    "totalVoturiNS": 9,
+    "procent": "2.26%"
+  },
+  "22051": {
+    "localitate": "SASCUT",
+    "nume_sectie": "SCOALA CU CLASELE I-VIII NR 1 PANCESTI",
+    "totalVoturi": 535,
+    "totalVoturiNS": 4,
+    "procent": "0.75%"
+  },
+  "22052": {
+    "localitate": "SASCUT",
+    "nume_sectie": "SCOALA CU CLASELE I-VIII SATUL SASCUT-SAT",
+    "totalVoturi": 366,
+    "totalVoturiNS": 6,
+    "procent": "1.64%"
+  },
+  "22053": {
+    "localitate": "SASCUT",
+    "nume_sectie": "SCOALA CU CLASELE I-VIII SATUL SASCUT-SAT",
+    "totalVoturi": 396,
+    "totalVoturiNS": 7,
+    "procent": "1.77%"
+  },
+  "22054": {
+    "localitate": "SĂNDULENI",
+    "nume_sectie": "ŞOALA GENERALĂ CU CLASELE I-VIII SĂNDULENI",
+    "totalVoturi": 674,
+    "totalVoturiNS": 15,
+    "procent": "2.23%"
+  },
+  "22055": {
+    "localitate": "SĂNDULENI",
+    "nume_sectie": "ŞCOALA GENERALA CU CLASELE I-VIII VERŞEŞTI",
+    "totalVoturi": 297,
+    "totalVoturiNS": 1,
+    "procent": "0.34%"
+  },
+  "22056": {
+    "localitate": "SĂNDULENI",
+    "nume_sectie": "ŞCOALA GENERALĂ CU CLASELE I-VIII COMAN",
+    "totalVoturi": 385,
+    "totalVoturiNS": 3,
+    "procent": "0.78%"
+  },
+  "22057": {
+    "localitate": "SĂNDULENI",
+    "nume_sectie": "ŞCOALA GENERALĂ CU CLASELE I-IV STUFU",
+    "totalVoturi": 129,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22058": {
+    "localitate": "SĂRATA",
+    "nume_sectie": "SCOALA NR. 1 SĂRATA",
+    "totalVoturi": 283,
+    "totalVoturiNS": 2,
+    "procent": "0.71%"
+  },
+  "22059": {
+    "localitate": "SĂRATA",
+    "nume_sectie": "SCOALA NR. 2 SĂRATA",
+    "totalVoturi": 458,
+    "totalVoturiNS": 9,
+    "procent": "1.97%"
+  },
+  "22060": {
+    "localitate": "SĂRATA",
+    "nume_sectie": "SCOALA NR. 3 SĂRATA",
+    "totalVoturi": 187,
+    "totalVoturiNS": 6,
+    "procent": "3.21%"
+  },
+  "22061": {
+    "localitate": "SĂUCEŞTI",
+    "nume_sectie": "CAMIN CULTURAL SAUCESTI",
+    "totalVoturi": 563,
+    "totalVoturiNS": 11,
+    "procent": "1.95%"
+  },
+  "22062": {
+    "localitate": "SĂUCEŞTI",
+    "nume_sectie": "CENTRU TIP AFTER SCHOOL SĂUCEȘTI",
+    "totalVoturi": 496,
+    "totalVoturiNS": 13,
+    "procent": "2.62%"
+  },
+  "22063": {
+    "localitate": "SĂUCEŞTI",
+    "nume_sectie": "ŞCOALA SATUL SCHINENI",
+    "totalVoturi": 321,
+    "totalVoturiNS": 8,
+    "procent": "2.49%"
+  },
+  "22064": {
+    "localitate": "SĂUCEŞTI",
+    "nume_sectie": "ŞCOALA SATUL SIRETU",
+    "totalVoturi": 281,
+    "totalVoturiNS": 1,
+    "procent": "0.36%"
+  },
+  "22065": {
+    "localitate": "SĂUCEŞTI",
+    "nume_sectie": "ŞCOALA SATUL ŞERBEŞTI",
+    "totalVoturi": 254,
+    "totalVoturiNS": 4,
+    "procent": "1.57%"
+  },
+  "22066": {
+    "localitate": "SĂUCEŞTI",
+    "nume_sectie": "ŞCOALA SATUL BOGDAN VODĂ",
+    "totalVoturi": 377,
+    "totalVoturiNS": 14,
+    "procent": "3.71%"
+  },
+  "22067": {
+    "localitate": "SCORŢENI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII SATUL SCORŢENI",
+    "totalVoturi": 654,
+    "totalVoturiNS": 6,
+    "procent": "0.92%"
+  },
+  "22068": {
+    "localitate": "SCORŢENI",
+    "nume_sectie": "CAMIN CULTURAL GRIGORENI",
+    "totalVoturi": 366,
+    "totalVoturiNS": 6,
+    "procent": "1.64%"
+  },
+  "22069": {
+    "localitate": "SCORŢENI",
+    "nume_sectie": "CAMIN CULTURAL FLORESTI",
+    "totalVoturi": 293,
+    "totalVoturiNS": 2,
+    "procent": "0.68%"
+  },
+  "22070": {
+    "localitate": "SECUIENI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ SATUL SECUIENI",
+    "totalVoturi": 650,
+    "totalVoturiNS": 17,
+    "procent": "2.62%"
+  },
+  "22071": {
+    "localitate": "SECUIENI",
+    "nume_sectie": "ŞCOALA SATUL FUNDENI",
+    "totalVoturi": 224,
+    "totalVoturiNS": 5,
+    "procent": "2.23%"
+  },
+  "22072": {
+    "localitate": "SECUIENI",
+    "nume_sectie": "ŞCOALA SATUL CHITICENI",
+    "totalVoturi": 87,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22073": {
+    "localitate": "SECUIENI",
+    "nume_sectie": "ŞCOALA SATUL GLODIŞOARELE",
+    "totalVoturi": 147,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22074": {
+    "localitate": "SOLONŢ",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII SATUL SOLONŢ",
+    "totalVoturi": 520,
+    "totalVoturiNS": 8,
+    "procent": "1.54%"
+  },
+  "22075": {
+    "localitate": "SOLONŢ",
+    "nume_sectie": "CABINET MEDICAL",
+    "totalVoturi": 262,
+    "totalVoturiNS": 2,
+    "procent": "0.76%"
+  },
+  "22076": {
+    "localitate": "SOLONŢ",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII SATUL CUCUIEȚI",
+    "totalVoturi": 459,
+    "totalVoturiNS": 10,
+    "procent": "2.18%"
+  },
+  "22077": {
+    "localitate": "STĂNIŞEŞTI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE APOSTU” STĂNIȘEȘTI",
+    "totalVoturi": 333,
+    "totalVoturiNS": 4,
+    "procent": "1.20%"
+  },
+  "22078": {
+    "localitate": "STĂNIŞEŞTI",
+    "nume_sectie": "SCOALA BENESTI",
+    "totalVoturi": 170,
+    "totalVoturiNS": 1,
+    "procent": "0.59%"
+  },
+  "22079": {
+    "localitate": "STĂNIŞEŞTI",
+    "nume_sectie": "SCOALA SATUL CRĂIEŞTI",
+    "totalVoturi": 178,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22080": {
+    "localitate": "STĂNIŞEŞTI",
+    "nume_sectie": "CONTAINER MODULAR",
+    "totalVoturi": 188,
+    "totalVoturiNS": 3,
+    "procent": "1.60%"
+  },
+  "22081": {
+    "localitate": "STĂNIŞEŞTI",
+    "nume_sectie": "ŞCOALA 1 SATUL SLOBOZIA",
+    "totalVoturi": 274,
+    "totalVoturiNS": 4,
+    "procent": "1.46%"
+  },
+  "22082": {
+    "localitate": "STĂNIŞEŞTI",
+    "nume_sectie": "ŞCOALA SATUL SLOBOZIA NOUĂ",
+    "totalVoturi": 271,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22083": {
+    "localitate": "STRUGARI",
+    "nume_sectie": "ŞCOALA GENERALĂ SATUL STRUGARI",
+    "totalVoturi": 431,
+    "totalVoturiNS": 4,
+    "procent": "0.93%"
+  },
+  "22084": {
+    "localitate": "STRUGARI",
+    "nume_sectie": "ŞCOALA GENERALĂ SATUL RĂCHITIŞ",
+    "totalVoturi": 204,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22085": {
+    "localitate": "STRUGARI",
+    "nume_sectie": "ŞCOALA GENERALĂ SATUL PETRICICA",
+    "totalVoturi": 259,
+    "totalVoturiNS": 4,
+    "procent": "1.54%"
+  },
+  "22086": {
+    "localitate": "STRUGARI",
+    "nume_sectie": "SCOALA GENERALA CETATUIA",
+    "totalVoturi": 126,
+    "totalVoturiNS": 1,
+    "procent": "0.79%"
+  },
+  "22087": {
+    "localitate": "ŞTEFAN CEL MARE",
+    "nume_sectie": "CAMIN CULTURAL",
+    "totalVoturi": 359,
+    "totalVoturiNS": 4,
+    "procent": "1.11%"
+  },
+  "22088": {
+    "localitate": "ŞTEFAN CEL MARE",
+    "nume_sectie": "SCOALA GENERALA SATUL BOGDANA",
+    "totalVoturi": 253,
+    "totalVoturiNS": 1,
+    "procent": "0.40%"
+  },
+  "22089": {
+    "localitate": "ŞTEFAN CEL MARE",
+    "nume_sectie": "GRADINITA CU PROGRAM NORMAL NEGOIESTI",
+    "totalVoturi": 358,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22090": {
+    "localitate": "ŞTEFAN CEL MARE",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL SATUL VIIŞOARA",
+    "totalVoturi": 223,
+    "totalVoturiNS": 1,
+    "procent": "0.45%"
+  },
+  "22091": {
+    "localitate": "ŞTEFAN CEL MARE",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL SATUL GUTINAŞ",
+    "totalVoturi": 161,
+    "totalVoturiNS": 3,
+    "procent": "1.86%"
+  },
+  "22092": {
+    "localitate": "ŞTEFAN CEL MARE",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL SATUL RĂDEANA",
+    "totalVoturi": 464,
+    "totalVoturiNS": 3,
+    "procent": "0.65%"
+  },
+  "22093": {
+    "localitate": "TAMAŞI",
+    "nume_sectie": "CENTRUL EDUCAŢIONAL ÎNV.DUMITRU NEDIŢĂ TAMAŞI",
+    "totalVoturi": 357,
+    "totalVoturiNS": 1,
+    "procent": "0.28%"
+  },
+  "22094": {
+    "localitate": "TAMAŞI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-VIII SATUL CHETRIŞ",
+    "totalVoturi": 401,
+    "totalVoturiNS": 12,
+    "procent": "2.99%"
+  },
+  "22095": {
+    "localitate": "TAMAŞI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV SATUL FURNICARI",
+    "totalVoturi": 266,
+    "totalVoturiNS": 2,
+    "procent": "0.75%"
+  },
+  "22096": {
+    "localitate": "TAMAŞI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 1 TAMAȘI",
+    "totalVoturi": 294,
+    "totalVoturiNS": 3,
+    "procent": "1.02%"
+  },
+  "22097": {
+    "localitate": "TĂTĂRĂŞTI",
+    "nume_sectie": "PRIMĂRIA TĂTĂRĂŞTI",
+    "totalVoturi": 245,
+    "totalVoturiNS": 1,
+    "procent": "0.41%"
+  },
+  "22098": {
+    "localitate": "TĂTĂRĂŞTI",
+    "nume_sectie": "ŞCOALA GIMNAZIALA SATUL CORNII DE SUS",
+    "totalVoturi": 335,
+    "totalVoturiNS": 1,
+    "procent": "0.30%"
+  },
+  "22099": {
+    "localitate": "TĂTĂRĂŞTI",
+    "nume_sectie": "ŞCOALA PRIMARA SATUL GIURGENI",
+    "totalVoturi": 136,
+    "totalVoturiNS": 3,
+    "procent": "2.21%"
+  },
+  "22100": {
+    "localitate": "TĂTĂRĂŞTI",
+    "nume_sectie": "ŞCOALA PRIMARA SATUL DRĂGEŞTI",
+    "totalVoturi": 186,
+    "totalVoturiNS": 3,
+    "procent": "1.61%"
+  },
+  "22101": {
+    "localitate": "TĂTĂRĂŞTI",
+    "nume_sectie": "ŞCOALA PRIMARA SATUL GHERDANA",
+    "totalVoturi": 168,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22102": {
+    "localitate": "TÂRGU TROTUŞ",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL SATUL VIIŞOARA",
+    "totalVoturi": 470,
+    "totalVoturiNS": 4,
+    "procent": "0.85%"
+  },
+  "22103": {
+    "localitate": "TÂRGU TROTUŞ",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL TG.TROTUŞ",
+    "totalVoturi": 466,
+    "totalVoturiNS": 17,
+    "procent": "3.65%"
+  },
+  "22104": {
+    "localitate": "TÂRGU TROTUŞ",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL TG.TROTUŞ",
+    "totalVoturi": 424,
+    "totalVoturiNS": 13,
+    "procent": "3.07%"
+  },
+  "22105": {
+    "localitate": "TÂRGU TROTUŞ",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL SATUL TUTA",
+    "totalVoturi": 468,
+    "totalVoturiNS": 4,
+    "procent": "0.85%"
+  },
+  "22106": {
+    "localitate": "TÂRGU TROTUŞ",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL SATUL TUTA",
+    "totalVoturi": 481,
+    "totalVoturiNS": 9,
+    "procent": "1.87%"
+  },
+  "22107": {
+    "localitate": "TRAIAN",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ TRAIAN (ȘCOALA CU CLASELE I-IV, CORP B TRAIAN)",
+    "totalVoturi": 675,
+    "totalVoturiNS": 13,
+    "procent": "1.93%"
+  },
+  "22108": {
+    "localitate": "TRAIAN",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV SATUL BOGDĂNEŞTI",
+    "totalVoturi": 152,
+    "totalVoturiNS": 5,
+    "procent": "3.29%"
+  },
+  "22109": {
+    "localitate": "TRAIAN",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV SATUL ZĂPODIA",
+    "totalVoturi": 176,
+    "totalVoturiNS": 4,
+    "procent": "2.27%"
+  },
+  "22110": {
+    "localitate": "TRAIAN",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV SATUL HERTIOANA DE JOS",
+    "totalVoturi": 90,
+    "totalVoturiNS": 8,
+    "procent": "8.89%"
+  },
+  "22111": {
+    "localitate": "UNGURENI",
+    "nume_sectie": "CĂMINUL CULTURAL UNGURENI",
+    "totalVoturi": 393,
+    "totalVoturiNS": 4,
+    "procent": "1.02%"
+  },
+  "22112": {
+    "localitate": "UNGURENI",
+    "nume_sectie": "SCOALA VIFORENI",
+    "totalVoturi": 181,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22113": {
+    "localitate": "UNGURENI",
+    "nume_sectie": "ŞCOALA SATUL BĂRTĂŞEŞTI",
+    "totalVoturi": 106,
+    "totalVoturiNS": 1,
+    "procent": "0.94%"
+  },
+  "22114": {
+    "localitate": "UNGURENI",
+    "nume_sectie": "CĂMINUL CULTURAL SATUL BOTEŞTI",
+    "totalVoturi": 318,
+    "totalVoturiNS": 1,
+    "procent": "0.31%"
+  },
+  "22115": {
+    "localitate": "UNGURENI",
+    "nume_sectie": "SCOALA BIBIRESTI II",
+    "totalVoturi": 440,
+    "totalVoturiNS": 6,
+    "procent": "1.36%"
+  },
+  "22116": {
+    "localitate": "URECHEŞTI",
+    "nume_sectie": "SALA DE CEREMONII",
+    "totalVoturi": 622,
+    "totalVoturiNS": 12,
+    "procent": "1.93%"
+  },
+  "22117": {
+    "localitate": "URECHEŞTI",
+    "nume_sectie": "CĂMINUL CULTURAL SATUL CORNĂŢEL",
+    "totalVoturi": 339,
+    "totalVoturiNS": 7,
+    "procent": "2.06%"
+  },
+  "22118": {
+    "localitate": "URECHEŞTI",
+    "nume_sectie": "GRĂDINIŢA SATUL SLOBOZIA",
+    "totalVoturi": 212,
+    "totalVoturiNS": 5,
+    "procent": "2.36%"
+  },
+  "22119": {
+    "localitate": "URECHEŞTI",
+    "nume_sectie": "ŞCOALA GENERALA CU CASELE I-IV SATUL LUNCA DOCHIEI",
+    "totalVoturi": 124,
+    "totalVoturiNS": 1,
+    "procent": "0.81%"
+  },
+  "22120": {
+    "localitate": "URECHEŞTI",
+    "nume_sectie": "ŞCOALA GENERALA CU CLASELE I-IV SATUL SATU NOU",
+    "totalVoturi": 135,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22121": {
+    "localitate": "VALEA SEACĂ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.1 VALEA SEACĂ",
+    "totalVoturi": 354,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22122": {
+    "localitate": "VALEA SEACĂ",
+    "nume_sectie": "ŞCOALA PRIMARĂ NR.2 VALEA SEACĂ",
+    "totalVoturi": 329,
+    "totalVoturiNS": 5,
+    "procent": "1.52%"
+  },
+  "22123": {
+    "localitate": "VALEA SEACĂ",
+    "nume_sectie": "ŞCOALA PRIMARĂ NR.3 VALEA SEACĂ",
+    "totalVoturi": 328,
+    "totalVoturiNS": 3,
+    "procent": "0.91%"
+  },
+  "22124": {
+    "localitate": "VALEA SEACĂ",
+    "nume_sectie": "ŞCOALA PRIMARĂ CUCOVA",
+    "totalVoturi": 236,
+    "totalVoturiNS": 1,
+    "procent": "0.42%"
+  },
+  "22125": {
+    "localitate": "VULTURENI",
+    "nume_sectie": "SCOALA VULTURENI",
+    "totalVoturi": 229,
+    "totalVoturiNS": 1,
+    "procent": "0.44%"
+  },
+  "22126": {
+    "localitate": "VULTURENI",
+    "nume_sectie": "CENTRU DE ZI LICHITISENI",
+    "totalVoturi": 235,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22127": {
+    "localitate": "VULTURENI",
+    "nume_sectie": "GRADINIȚA CU PROGRAM NORMAL GODINEŞTII DE JOS",
+    "totalVoturi": 175,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22128": {
+    "localitate": "VULTURENI",
+    "nume_sectie": "ŞCOALA MEDELENI",
+    "totalVoturi": 100,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22129": {
+    "localitate": "VULTURENI",
+    "nume_sectie": "ŞCOALA GHILĂVEŞTI",
+    "totalVoturi": 142,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "22130": {
+    "localitate": "ZEMEŞ",
+    "nume_sectie": "ŞCOALA MIHAI EMINESCU ZEMEŞ",
+    "totalVoturi": 488,
+    "totalVoturiNS": 2,
+    "procent": "0.41%"
+  },
+  "22131": {
+    "localitate": "ZEMEŞ",
+    "nume_sectie": "ŞCOALA ŞTEFAN CEL MARE ZEMEŞ",
+    "totalVoturi": 570,
+    "totalVoturiNS": 17,
+    "procent": "2.98%"
+  },
+  "22132": {
+    "localitate": "ZEMEŞ",
+    "nume_sectie": "ŞCOALA ŞTEFAN CEL MARE ZEMEŞ",
+    "totalVoturi": 322,
+    "totalVoturiNS": 4,
+    "procent": "1.24%"
+  },
+  "22133": {
+    "localitate": "ZEMEŞ",
+    "nume_sectie": "ŞCOALA ION CREANGĂ ZEMEŞ",
+    "totalVoturi": 457,
+    "totalVoturiNS": 1,
+    "procent": "0.22%"
+  },
+  "38893": {
+    "localitate": "FILIPENI",
+    "nume_sectie": "ȘCOALA PRIMARĂ VALEA BOȚULUI",
+    "totalVoturi": 131,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39045": {
+    "localitate": "ORBENI",
+    "nume_sectie": "SCOALA PRIMARA NR 3 SCURTA",
+    "totalVoturi": 360,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39836": {
+    "localitate": "MĂGIREŞTI",
+    "nume_sectie": "SALA DE SPORT DIN SATUL ȘESURI",
+    "totalVoturi": 225,
+    "totalVoturiNS": 1,
+    "procent": "0.44%"
+  },
+  "39942": {
+    "localitate": "STĂNIŞEŞTI",
+    "nume_sectie": "CONTAINER MODULAR",
+    "totalVoturi": 70,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  }
+}

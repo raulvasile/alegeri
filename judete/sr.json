@@ -1,0 +1,6407 @@
+{
+  "39053": {
+    "localitate": "AFRICA DE SUD",
+    "nume_sectie": "PRETORIA - AMBASADĂ",
+    "totalVoturi": 56,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39054": {
+    "localitate": "AFRICA DE SUD",
+    "nume_sectie": "CAPE TOWN - CONSULAT GENERAL",
+    "totalVoturi": 22,
+    "totalVoturiNS": 1,
+    "procent": "4.55%"
+  },
+  "39055": {
+    "localitate": "REPUBLICA ALBANIA",
+    "nume_sectie": "TIRANA - AMBASADĂ",
+    "totalVoturi": 54,
+    "totalVoturiNS": 11,
+    "procent": "20.37%"
+  },
+  "39056": {
+    "localitate": "ALGERIA",
+    "nume_sectie": "ALGER - AMBASADĂ",
+    "totalVoturi": 9,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39057": {
+    "localitate": "ANGOLA",
+    "nume_sectie": "LUANDA - AMBASADĂ",
+    "totalVoturi": 21,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39058": {
+    "localitate": "REGATUL ARABIEI SAUDITE",
+    "nume_sectie": "RIYADH - AMBASADĂ",
+    "totalVoturi": 36,
+    "totalVoturiNS": 4,
+    "procent": "11.11%"
+  },
+  "39059": {
+    "localitate": "ARGENTINA",
+    "nume_sectie": "BUENOS AIRES - AMBASADĂ",
+    "totalVoturi": 15,
+    "totalVoturiNS": 2,
+    "procent": "13.33%"
+  },
+  "39060": {
+    "localitate": "ARMENIA",
+    "nume_sectie": "EREVAN - AMBASADĂ",
+    "totalVoturi": 14,
+    "totalVoturiNS": 2,
+    "procent": "14.29%"
+  },
+  "39061": {
+    "localitate": "AUSTRALIA",
+    "nume_sectie": "CANBERRA - AMBASADĂ",
+    "totalVoturi": 13,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39062": {
+    "localitate": "AUSTRALIA",
+    "nume_sectie": "MELBOURNE - CONSULAT",
+    "totalVoturi": 68,
+    "totalVoturiNS": 2,
+    "procent": "2.94%"
+  },
+  "39063": {
+    "localitate": "AUSTRALIA",
+    "nume_sectie": "ADELAIDE - ALTELE",
+    "totalVoturi": 19,
+    "totalVoturiNS": 1,
+    "procent": "5.26%"
+  },
+  "39064": {
+    "localitate": "AUSTRALIA",
+    "nume_sectie": "PERTH - ALTELE",
+    "totalVoturi": 71,
+    "totalVoturiNS": 1,
+    "procent": "1.41%"
+  },
+  "39065": {
+    "localitate": "AUSTRALIA",
+    "nume_sectie": "SYDNEY - CONSULAT GENERAL",
+    "totalVoturi": 43,
+    "totalVoturiNS": 3,
+    "procent": "6.98%"
+  },
+  "39066": {
+    "localitate": "AUSTRALIA",
+    "nume_sectie": "SURFERS PARADISE - ALTELE",
+    "totalVoturi": 34,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39067": {
+    "localitate": "NOUA ZEELANDĂ",
+    "nume_sectie": "AUCKLAND - ALTELE",
+    "totalVoturi": 35,
+    "totalVoturiNS": 3,
+    "procent": "8.57%"
+  },
+  "39068": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "VIENA 1 - AMBASADĂ",
+    "totalVoturi": 907,
+    "totalVoturiNS": 104,
+    "procent": "11.47%"
+  },
+  "39069": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "VIENA 2 - AMBASADĂ",
+    "totalVoturi": 615,
+    "totalVoturiNS": 78,
+    "procent": "12.68%"
+  },
+  "39070": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "VIENA 3 - CONSULAT",
+    "totalVoturi": 798,
+    "totalVoturiNS": 61,
+    "procent": "7.64%"
+  },
+  "39071": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "VIENA 4 - ICR",
+    "totalVoturi": 159,
+    "totalVoturiNS": 25,
+    "procent": "15.72%"
+  },
+  "39072": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "VIENA 5 - ICR",
+    "totalVoturi": 181,
+    "totalVoturiNS": 35,
+    "procent": "19.34%"
+  },
+  "39073": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "VIENA 6 - ALTELE",
+    "totalVoturi": 259,
+    "totalVoturiNS": 28,
+    "procent": "10.81%"
+  },
+  "39074": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "GRAZ 1 - ALTELE",
+    "totalVoturi": 418,
+    "totalVoturiNS": 19,
+    "procent": "4.55%"
+  },
+  "39075": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "GRAZ 2 - ALTELE",
+    "totalVoturi": 384,
+    "totalVoturiNS": 16,
+    "procent": "4.17%"
+  },
+  "39076": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "EISENSTADT - ALTELE",
+    "totalVoturi": 206,
+    "totalVoturiNS": 3,
+    "procent": "1.46%"
+  },
+  "39077": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "SANKT PÖLTEN - ALTELE",
+    "totalVoturi": 346,
+    "totalVoturiNS": 12,
+    "procent": "3.47%"
+  },
+  "39078": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "SALZBURG 1 - CONSULAT GENERAL",
+    "totalVoturi": 229,
+    "totalVoturiNS": 14,
+    "procent": "6.11%"
+  },
+  "39079": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "SALZBURG 2 - CONSULAT GENERAL",
+    "totalVoturi": 225,
+    "totalVoturiNS": 7,
+    "procent": "3.11%"
+  },
+  "39080": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "LINZ 1 - ALTELE",
+    "totalVoturi": 516,
+    "totalVoturiNS": 29,
+    "procent": "5.62%"
+  },
+  "39081": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "LINZ 2 - ALTELE",
+    "totalVoturi": 445,
+    "totalVoturiNS": 11,
+    "procent": "2.47%"
+  },
+  "39082": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "INNSBRUCK - ALTELE",
+    "totalVoturi": 230,
+    "totalVoturiNS": 13,
+    "procent": "5.65%"
+  },
+  "39083": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "KLAGENFURT - ALTELE",
+    "totalVoturi": 289,
+    "totalVoturiNS": 16,
+    "procent": "5.54%"
+  },
+  "39084": {
+    "localitate": "AUSTRIA",
+    "nume_sectie": "BREGENZ - ALTELE",
+    "totalVoturi": 243,
+    "totalVoturiNS": 16,
+    "procent": "6.58%"
+  },
+  "39085": {
+    "localitate": "AZERBAIDJAN",
+    "nume_sectie": "BAKU - AMBASADĂ",
+    "totalVoturi": 20,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39086": {
+    "localitate": "REPUBLICA BELARUS",
+    "nume_sectie": "MINSK - AMBASADĂ",
+    "totalVoturi": 8,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39087": {
+    "localitate": "BELGIA",
+    "nume_sectie": "BRUXELLES 1 - AMBASADĂ",
+    "totalVoturi": 431,
+    "totalVoturiNS": 43,
+    "procent": "9.98%"
+  },
+  "39088": {
+    "localitate": "BELGIA",
+    "nume_sectie": "BRUXELLES 2 - SECȚIE CONSULARĂ",
+    "totalVoturi": 1499,
+    "totalVoturiNS": 143,
+    "procent": "9.54%"
+  },
+  "39089": {
+    "localitate": "BELGIA",
+    "nume_sectie": "BRUXELLES 3 - REPREZENTANȚĂ PERMANENTĂ",
+    "totalVoturi": 562,
+    "totalVoturiNS": 40,
+    "procent": "7.12%"
+  },
+  "39090": {
+    "localitate": "BELGIA",
+    "nume_sectie": "BRUXELLES 4 - ICR",
+    "totalVoturi": 297,
+    "totalVoturiNS": 27,
+    "procent": "9.09%"
+  },
+  "39091": {
+    "localitate": "BELGIA",
+    "nume_sectie": "BRUXELLES 5 - ALTELE",
+    "totalVoturi": 257,
+    "totalVoturiNS": 24,
+    "procent": "9.34%"
+  },
+  "39092": {
+    "localitate": "BELGIA",
+    "nume_sectie": "BRUXELLES 6 - ALTELE",
+    "totalVoturi": 147,
+    "totalVoturiNS": 11,
+    "procent": "7.48%"
+  },
+  "39093": {
+    "localitate": "BELGIA",
+    "nume_sectie": "BRUXELLES 7 - ALTELE",
+    "totalVoturi": 589,
+    "totalVoturiNS": 87,
+    "procent": "14.77%"
+  },
+  "39094": {
+    "localitate": "BELGIA",
+    "nume_sectie": "BRUXELLES 8 - ALTELE",
+    "totalVoturi": 254,
+    "totalVoturiNS": 30,
+    "procent": "11.81%"
+  },
+  "39095": {
+    "localitate": "BELGIA",
+    "nume_sectie": "BRUXELLES 9 - ALTELE",
+    "totalVoturi": 287,
+    "totalVoturiNS": 41,
+    "procent": "14.29%"
+  },
+  "39096": {
+    "localitate": "BELGIA",
+    "nume_sectie": "BRUXELLES 10 - ALTELE",
+    "totalVoturi": 837,
+    "totalVoturiNS": 31,
+    "procent": "3.70%"
+  },
+  "39097": {
+    "localitate": "BELGIA",
+    "nume_sectie": "LIÈGE - ALTELE",
+    "totalVoturi": 254,
+    "totalVoturiNS": 16,
+    "procent": "6.30%"
+  },
+  "39098": {
+    "localitate": "BELGIA",
+    "nume_sectie": "ANTWERPEN 1 - ALTELE",
+    "totalVoturi": 352,
+    "totalVoturiNS": 31,
+    "procent": "8.81%"
+  },
+  "39099": {
+    "localitate": "BELGIA",
+    "nume_sectie": "ANTWERPEN 2 - ALTELE",
+    "totalVoturi": 339,
+    "totalVoturiNS": 32,
+    "procent": "9.44%"
+  },
+  "39100": {
+    "localitate": "BELGIA",
+    "nume_sectie": "MONS - ALTELE",
+    "totalVoturi": 219,
+    "totalVoturiNS": 12,
+    "procent": "5.48%"
+  },
+  "39101": {
+    "localitate": "BELGIA",
+    "nume_sectie": "CHARLEROI - ALTELE",
+    "totalVoturi": 202,
+    "totalVoturiNS": 12,
+    "procent": "5.94%"
+  },
+  "39102": {
+    "localitate": "BELGIA",
+    "nume_sectie": "BRUGGE - ALTELE",
+    "totalVoturi": 437,
+    "totalVoturiNS": 16,
+    "procent": "3.66%"
+  },
+  "39103": {
+    "localitate": "BELGIA",
+    "nume_sectie": "GENT - ALTELE",
+    "totalVoturi": 280,
+    "totalVoturiNS": 41,
+    "procent": "14.64%"
+  },
+  "39104": {
+    "localitate": "BELGIA",
+    "nume_sectie": "ROESELARE - ALTELE",
+    "totalVoturi": 667,
+    "totalVoturiNS": 33,
+    "procent": "4.95%"
+  },
+  "39105": {
+    "localitate": "BELGIA",
+    "nume_sectie": "GEEL - ALTELE",
+    "totalVoturi": 162,
+    "totalVoturiNS": 2,
+    "procent": "1.23%"
+  },
+  "39106": {
+    "localitate": "BELGIA",
+    "nume_sectie": "HASSELT - ALTELE",
+    "totalVoturi": 184,
+    "totalVoturiNS": 10,
+    "procent": "5.43%"
+  },
+  "39107": {
+    "localitate": "BELGIA",
+    "nume_sectie": "NAMUR - ALTELE",
+    "totalVoturi": 109,
+    "totalVoturiNS": 12,
+    "procent": "11.01%"
+  },
+  "39108": {
+    "localitate": "BELGIA",
+    "nume_sectie": "TURNHOUT - ALTELE",
+    "totalVoturi": 644,
+    "totalVoturiNS": 24,
+    "procent": "3.73%"
+  },
+  "39109": {
+    "localitate": "BELGIA",
+    "nume_sectie": "ARLON - ALTELE",
+    "totalVoturi": 95,
+    "totalVoturiNS": 9,
+    "procent": "9.47%"
+  },
+  "39110": {
+    "localitate": "BELGIA",
+    "nume_sectie": "SINT-NIKLAAS - ALTELE",
+    "totalVoturi": 198,
+    "totalVoturiNS": 11,
+    "procent": "5.56%"
+  },
+  "39111": {
+    "localitate": "BOSNIA ȘI HERȚEGOVINA",
+    "nume_sectie": "SARAJEVO - AMBASADĂ",
+    "totalVoturi": 196,
+    "totalVoturiNS": 11,
+    "procent": "5.61%"
+  },
+  "39112": {
+    "localitate": "BRAZILIA",
+    "nume_sectie": "BRASILIA - AMBASADĂ",
+    "totalVoturi": 4,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39113": {
+    "localitate": "BRAZILIA",
+    "nume_sectie": "IPORA DO OESTE - ALTELE",
+    "totalVoturi": 42,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39114": {
+    "localitate": "BRAZILIA",
+    "nume_sectie": "RIO DE JANEIRO - CONSULAT GENERAL",
+    "totalVoturi": 10,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39115": {
+    "localitate": "BRAZILIA",
+    "nume_sectie": "SAO PAULO - ALTELE",
+    "totalVoturi": 11,
+    "totalVoturiNS": 1,
+    "procent": "9.09%"
+  },
+  "39116": {
+    "localitate": "BULGARIA",
+    "nume_sectie": "SOFIA - AMBASADĂ",
+    "totalVoturi": 114,
+    "totalVoturiNS": 11,
+    "procent": "9.65%"
+  },
+  "39117": {
+    "localitate": "CANADA",
+    "nume_sectie": "OTTAWA - AMBASADĂ",
+    "totalVoturi": 141,
+    "totalVoturiNS": 3,
+    "procent": "2.13%"
+  },
+  "39118": {
+    "localitate": "CANADA",
+    "nume_sectie": "CALGARY - ALTELE",
+    "totalVoturi": 105,
+    "totalVoturiNS": 2,
+    "procent": "1.90%"
+  },
+  "39119": {
+    "localitate": "CANADA",
+    "nume_sectie": "QUEBEC - ALTELE",
+    "totalVoturi": 26,
+    "totalVoturiNS": 1,
+    "procent": "3.85%"
+  },
+  "39120": {
+    "localitate": "CANADA",
+    "nume_sectie": "DIEPPE - ALTELE",
+    "totalVoturi": 21,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39121": {
+    "localitate": "CANADA",
+    "nume_sectie": "TORONTO - CONSULAT GENERAL",
+    "totalVoturi": 355,
+    "totalVoturiNS": 8,
+    "procent": "2.25%"
+  },
+  "39122": {
+    "localitate": "CANADA",
+    "nume_sectie": "KITCHENER - ALTELE",
+    "totalVoturi": 146,
+    "totalVoturiNS": 1,
+    "procent": "0.68%"
+  },
+  "39123": {
+    "localitate": "CANADA",
+    "nume_sectie": "WINDSOR - ALTELE",
+    "totalVoturi": 74,
+    "totalVoturiNS": 2,
+    "procent": "2.70%"
+  },
+  "39124": {
+    "localitate": "CANADA",
+    "nume_sectie": "WINNIPEG - ALTELE",
+    "totalVoturi": 34,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39125": {
+    "localitate": "CANADA",
+    "nume_sectie": "MONTREAL 1 - CONSULAT GENERAL",
+    "totalVoturi": 204,
+    "totalVoturiNS": 4,
+    "procent": "1.96%"
+  },
+  "39126": {
+    "localitate": "CANADA",
+    "nume_sectie": "MONTREAL 2 - ALTELE",
+    "totalVoturi": 163,
+    "totalVoturiNS": 9,
+    "procent": "5.52%"
+  },
+  "39127": {
+    "localitate": "CANADA",
+    "nume_sectie": "VANCOUVER - CONSULAT GENERAL",
+    "totalVoturi": 129,
+    "totalVoturiNS": 5,
+    "procent": "3.88%"
+  },
+  "39128": {
+    "localitate": "CANADA",
+    "nume_sectie": "EDMONTON - ALTELE",
+    "totalVoturi": 63,
+    "totalVoturiNS": 3,
+    "procent": "4.76%"
+  },
+  "39129": {
+    "localitate": "REPUBLICA CEHĂ",
+    "nume_sectie": "PRAGA 1 - AMBASADĂ",
+    "totalVoturi": 255,
+    "totalVoturiNS": 49,
+    "procent": "19.22%"
+  },
+  "39130": {
+    "localitate": "REPUBLICA CEHĂ",
+    "nume_sectie": "PRAGA 2 - AMBASADĂ",
+    "totalVoturi": 247,
+    "totalVoturiNS": 50,
+    "procent": "20.24%"
+  },
+  "39131": {
+    "localitate": "CHILE",
+    "nume_sectie": "SANTIAGO - AMBASADĂ",
+    "totalVoturi": 39,
+    "totalVoturiNS": 2,
+    "procent": "5.13%"
+  },
+  "39132": {
+    "localitate": "REPUBLICA POPULARĂ CHINEZĂ",
+    "nume_sectie": "BEIJING - AMBASADĂ",
+    "totalVoturi": 40,
+    "totalVoturiNS": 8,
+    "procent": "20.00%"
+  },
+  "39133": {
+    "localitate": "REPUBLICA POPULARĂ CHINEZĂ",
+    "nume_sectie": "HONG KONG - CONSULAT GENERAL",
+    "totalVoturi": 20,
+    "totalVoturiNS": 2,
+    "procent": "10.00%"
+  },
+  "39134": {
+    "localitate": "REPUBLICA POPULARĂ CHINEZĂ",
+    "nume_sectie": "SHANGHAI - CONSULAT GENERAL",
+    "totalVoturi": 39,
+    "totalVoturiNS": 7,
+    "procent": "17.95%"
+  },
+  "39135": {
+    "localitate": "REPUBLICA CIPRU",
+    "nume_sectie": "NICOSIA 1 - AMBASADĂ",
+    "totalVoturi": 170,
+    "totalVoturiNS": 8,
+    "procent": "4.71%"
+  },
+  "39136": {
+    "localitate": "REPUBLICA CIPRU",
+    "nume_sectie": "NICOSIA 2 - SECȚIE CONSULARĂ",
+    "totalVoturi": 118,
+    "totalVoturiNS": 3,
+    "procent": "2.54%"
+  },
+  "39137": {
+    "localitate": "REPUBLICA CIPRU",
+    "nume_sectie": "LARNACA - ALTELE",
+    "totalVoturi": 112,
+    "totalVoturiNS": 9,
+    "procent": "8.04%"
+  },
+  "39138": {
+    "localitate": "REPUBLICA CIPRU",
+    "nume_sectie": "LIMASSOL - ALTELE",
+    "totalVoturi": 235,
+    "totalVoturiNS": 4,
+    "procent": "1.70%"
+  },
+  "39139": {
+    "localitate": "REPUBLICA CIPRU",
+    "nume_sectie": "PAFOS - ALTELE",
+    "totalVoturi": 98,
+    "totalVoturiNS": 11,
+    "procent": "11.22%"
+  },
+  "39140": {
+    "localitate": "REPUBLICA CIPRU",
+    "nume_sectie": "PARALIMNI - ALTELE",
+    "totalVoturi": 64,
+    "totalVoturiNS": 2,
+    "procent": "3.13%"
+  },
+  "39141": {
+    "localitate": "REPUBLICA CIPRU",
+    "nume_sectie": "POLI CRYSOCHOUS - ALTELE",
+    "totalVoturi": 42,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39142": {
+    "localitate": "REPUBLICA COLUMBIA",
+    "nume_sectie": "BOGOTA - AMBASADĂ",
+    "totalVoturi": 13,
+    "totalVoturiNS": 1,
+    "procent": "7.69%"
+  },
+  "39143": {
+    "localitate": "REPUBLICA COREEA",
+    "nume_sectie": "SEOUL - AMBASADĂ",
+    "totalVoturi": 37,
+    "totalVoturiNS": 3,
+    "procent": "8.11%"
+  },
+  "39144": {
+    "localitate": "REPUBLICA CROAȚIA",
+    "nume_sectie": "ZAGREB - AMBASADĂ",
+    "totalVoturi": 48,
+    "totalVoturiNS": 7,
+    "procent": "14.58%"
+  },
+  "39145": {
+    "localitate": "CUBA",
+    "nume_sectie": "HAVANA - AMBASADĂ",
+    "totalVoturi": 6,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39146": {
+    "localitate": "DANEMARCA",
+    "nume_sectie": "COPENHAGA 1 - ALTELE",
+    "totalVoturi": 327,
+    "totalVoturiNS": 69,
+    "procent": "21.10%"
+  },
+  "39147": {
+    "localitate": "DANEMARCA",
+    "nume_sectie": "COPENHAGA 2 - ALTELE",
+    "totalVoturi": 311,
+    "totalVoturiNS": 73,
+    "procent": "23.47%"
+  },
+  "39148": {
+    "localitate": "DANEMARCA",
+    "nume_sectie": "TAASTRUP - ALTELE",
+    "totalVoturi": 279,
+    "totalVoturiNS": 35,
+    "procent": "12.54%"
+  },
+  "39149": {
+    "localitate": "DANEMARCA",
+    "nume_sectie": "HILLERØD - ALTELE",
+    "totalVoturi": 132,
+    "totalVoturiNS": 11,
+    "procent": "8.33%"
+  },
+  "39150": {
+    "localitate": "DANEMARCA",
+    "nume_sectie": "RINGSTED - ALTELE",
+    "totalVoturi": 167,
+    "totalVoturiNS": 9,
+    "procent": "5.39%"
+  },
+  "39151": {
+    "localitate": "DANEMARCA",
+    "nume_sectie": "ODENSE - ALTELE",
+    "totalVoturi": 163,
+    "totalVoturiNS": 20,
+    "procent": "12.27%"
+  },
+  "39152": {
+    "localitate": "DANEMARCA",
+    "nume_sectie": "AABENRAA - ALTELE",
+    "totalVoturi": 175,
+    "totalVoturiNS": 11,
+    "procent": "6.29%"
+  },
+  "39153": {
+    "localitate": "DANEMARCA",
+    "nume_sectie": "ESBJERG - ALTELE",
+    "totalVoturi": 148,
+    "totalVoturiNS": 21,
+    "procent": "14.19%"
+  },
+  "39154": {
+    "localitate": "DANEMARCA",
+    "nume_sectie": "VEJLE - ALTELE",
+    "totalVoturi": 303,
+    "totalVoturiNS": 20,
+    "procent": "6.60%"
+  },
+  "39155": {
+    "localitate": "DANEMARCA",
+    "nume_sectie": "RINGKØBING - ALTELE",
+    "totalVoturi": 103,
+    "totalVoturiNS": 9,
+    "procent": "8.74%"
+  },
+  "39156": {
+    "localitate": "DANEMARCA",
+    "nume_sectie": "AARHUS - ALTELE",
+    "totalVoturi": 361,
+    "totalVoturiNS": 66,
+    "procent": "18.28%"
+  },
+  "39157": {
+    "localitate": "DANEMARCA",
+    "nume_sectie": "SKIVE - ALTELE",
+    "totalVoturi": 71,
+    "totalVoturiNS": 3,
+    "procent": "4.23%"
+  },
+  "39158": {
+    "localitate": "DANEMARCA",
+    "nume_sectie": "AALBORG - ALTELE",
+    "totalVoturi": 153,
+    "totalVoturiNS": 21,
+    "procent": "13.73%"
+  },
+  "39159": {
+    "localitate": "DANEMARCA",
+    "nume_sectie": "HERNING - ALTELE",
+    "totalVoturi": 163,
+    "totalVoturiNS": 16,
+    "procent": "9.82%"
+  },
+  "39160": {
+    "localitate": "EGIPT",
+    "nume_sectie": "CAIRO - AMBASADĂ",
+    "totalVoturi": 37,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39161": {
+    "localitate": "ELVEȚIA",
+    "nume_sectie": "GENEVA - ALTELE",
+    "totalVoturi": 334,
+    "totalVoturiNS": 27,
+    "procent": "8.08%"
+  },
+  "39162": {
+    "localitate": "ELVEȚIA",
+    "nume_sectie": "COLOGNY - MISIUNE PERMANENTĂ",
+    "totalVoturi": 111,
+    "totalVoturiNS": 7,
+    "procent": "6.31%"
+  },
+  "39163": {
+    "localitate": "ELVEȚIA",
+    "nume_sectie": "BERNA - ALTELE",
+    "totalVoturi": 336,
+    "totalVoturiNS": 31,
+    "procent": "9.23%"
+  },
+  "39164": {
+    "localitate": "ELVEȚIA",
+    "nume_sectie": "LAUSANNE - ALTELE",
+    "totalVoturi": 345,
+    "totalVoturiNS": 36,
+    "procent": "10.43%"
+  },
+  "39165": {
+    "localitate": "ELVEȚIA",
+    "nume_sectie": "BASEL - ALTELE",
+    "totalVoturi": 477,
+    "totalVoturiNS": 33,
+    "procent": "6.92%"
+  },
+  "39166": {
+    "localitate": "ELVEȚIA",
+    "nume_sectie": "BELLINZONA - ALTELE",
+    "totalVoturi": 83,
+    "totalVoturiNS": 10,
+    "procent": "12.05%"
+  },
+  "39167": {
+    "localitate": "ELVEȚIA",
+    "nume_sectie": "ZÜRICH 1 - ALTELE",
+    "totalVoturi": 469,
+    "totalVoturiNS": 68,
+    "procent": "14.50%"
+  },
+  "39168": {
+    "localitate": "ELVEȚIA",
+    "nume_sectie": "ZÜRICH 2 - ALTELE",
+    "totalVoturi": 689,
+    "totalVoturiNS": 76,
+    "procent": "11.03%"
+  },
+  "39169": {
+    "localitate": "EMIRATELE ARABE UNITE",
+    "nume_sectie": "ABU DHABI - AMBASADĂ",
+    "totalVoturi": 129,
+    "totalVoturiNS": 14,
+    "procent": "10.85%"
+  },
+  "39170": {
+    "localitate": "EMIRATELE ARABE UNITE",
+    "nume_sectie": "DUBAI 1 - CONSULAT GENERAL",
+    "totalVoturi": 165,
+    "totalVoturiNS": 12,
+    "procent": "7.27%"
+  },
+  "39171": {
+    "localitate": "EMIRATELE ARABE UNITE",
+    "nume_sectie": "DUBAI 2 - ALTELE",
+    "totalVoturi": 43,
+    "totalVoturiNS": 8,
+    "procent": "18.60%"
+  },
+  "39172": {
+    "localitate": "ESTONIA",
+    "nume_sectie": "TALLINN - AMBASADĂ",
+    "totalVoturi": 52,
+    "totalVoturiNS": 8,
+    "procent": "15.38%"
+  },
+  "39173": {
+    "localitate": "ETIOPIA",
+    "nume_sectie": "ADDIS ABEBA - AMBASADĂ",
+    "totalVoturi": 4,
+    "totalVoturiNS": 1,
+    "procent": "25.00%"
+  },
+  "39174": {
+    "localitate": "FILIPINE",
+    "nume_sectie": "MANILA - AMBASADĂ",
+    "totalVoturi": 15,
+    "totalVoturiNS": 1,
+    "procent": "6.67%"
+  },
+  "39175": {
+    "localitate": "FINLANDA",
+    "nume_sectie": "HELSINKI - AMBASADĂ",
+    "totalVoturi": 211,
+    "totalVoturiNS": 27,
+    "procent": "12.80%"
+  },
+  "39176": {
+    "localitate": "FINLANDA",
+    "nume_sectie": "MARIEHAMN - ALTELE",
+    "totalVoturi": 49,
+    "totalVoturiNS": 5,
+    "procent": "10.20%"
+  },
+  "39177": {
+    "localitate": "FINLANDA",
+    "nume_sectie": "TAMPERE - ALTELE",
+    "totalVoturi": 23,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39178": {
+    "localitate": "FINLANDA",
+    "nume_sectie": "TURKU - ALTELE",
+    "totalVoturi": 68,
+    "totalVoturiNS": 2,
+    "procent": "2.94%"
+  },
+  "39179": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "PARIS 1 - AMBASADĂ",
+    "totalVoturi": 555,
+    "totalVoturiNS": 58,
+    "procent": "10.45%"
+  },
+  "39180": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "PARIS 2 - CONSULAT GENERAL",
+    "totalVoturi": 381,
+    "totalVoturiNS": 65,
+    "procent": "17.06%"
+  },
+  "39181": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "PARIS 3 - ICR",
+    "totalVoturi": 158,
+    "totalVoturiNS": 36,
+    "procent": "22.78%"
+  },
+  "39182": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "PARIS 4 - ICR",
+    "totalVoturi": 88,
+    "totalVoturiNS": 18,
+    "procent": "20.45%"
+  },
+  "39183": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "PARIS 5 - ALTELE",
+    "totalVoturi": 58,
+    "totalVoturiNS": 15,
+    "procent": "25.86%"
+  },
+  "39184": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "ATHIS-MONS - ALTELE",
+    "totalVoturi": 263,
+    "totalVoturiNS": 5,
+    "procent": "1.90%"
+  },
+  "39185": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "ISSY-LES-MOULINEAUX - ALTELE",
+    "totalVoturi": 188,
+    "totalVoturiNS": 14,
+    "procent": "7.45%"
+  },
+  "39186": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "RUEIL-MALMAISON - ALTELE",
+    "totalVoturi": 207,
+    "totalVoturiNS": 9,
+    "procent": "4.35%"
+  },
+  "39187": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "DRANCY - ALTELE",
+    "totalVoturi": 168,
+    "totalVoturiNS": 4,
+    "procent": "2.38%"
+  },
+  "39188": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "LA COURNEUVE - ALTELE",
+    "totalVoturi": 109,
+    "totalVoturiNS": 3,
+    "procent": "2.75%"
+  },
+  "39189": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "LE BLANC-MESNIL 1 - ALTELE",
+    "totalVoturi": 148,
+    "totalVoturiNS": 3,
+    "procent": "2.03%"
+  },
+  "39190": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "LE BLANC-MESNIL 2 - ALTELE",
+    "totalVoturi": 129,
+    "totalVoturiNS": 3,
+    "procent": "2.33%"
+  },
+  "39191": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "LE BLANC-MESNIL 3 - ALTELE",
+    "totalVoturi": 139,
+    "totalVoturiNS": 2,
+    "procent": "1.44%"
+  },
+  "39192": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "MONTREUIL 1 - ALTELE",
+    "totalVoturi": 154,
+    "totalVoturiNS": 5,
+    "procent": "3.25%"
+  },
+  "39193": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "MONTREUIL 2 - ALTELE",
+    "totalVoturi": 23,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39194": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "PANTIN 1 - ALTELE",
+    "totalVoturi": 68,
+    "totalVoturiNS": 6,
+    "procent": "8.82%"
+  },
+  "39195": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "PANTIN 2 - ALTELE",
+    "totalVoturi": 92,
+    "totalVoturiNS": 5,
+    "procent": "5.43%"
+  },
+  "39196": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "BRY-SUR-MARNE - ALTELE",
+    "totalVoturi": 208,
+    "totalVoturiNS": 9,
+    "procent": "4.33%"
+  },
+  "39197": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "FONTAINEBLEAU - ALTELE",
+    "totalVoturi": 120,
+    "totalVoturiNS": 7,
+    "procent": "5.83%"
+  },
+  "39198": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "BREST - ALTELE",
+    "totalVoturi": 72,
+    "totalVoturiNS": 4,
+    "procent": "5.56%"
+  },
+  "39199": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "TRAPPES - ALTELE",
+    "totalVoturi": 141,
+    "totalVoturiNS": 8,
+    "procent": "5.67%"
+  },
+  "39200": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "LE MANS - ALTELE",
+    "totalVoturi": 55,
+    "totalVoturiNS": 2,
+    "procent": "3.64%"
+  },
+  "39201": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "CALAIS - ALTELE",
+    "totalVoturi": 51,
+    "totalVoturiNS": 1,
+    "procent": "1.96%"
+  },
+  "39202": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "BORDEAUX - ALTELE",
+    "totalVoturi": 175,
+    "totalVoturiNS": 13,
+    "procent": "7.43%"
+  },
+  "39203": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "PESSAC - ALTELE",
+    "totalVoturi": 74,
+    "totalVoturiNS": 4,
+    "procent": "5.41%"
+  },
+  "39204": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "CAEN - ALTELE",
+    "totalVoturi": 59,
+    "totalVoturiNS": 4,
+    "procent": "6.78%"
+  },
+  "39205": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "SAINT-HERBLAIN - ALTELE",
+    "totalVoturi": 98,
+    "totalVoturiNS": 7,
+    "procent": "7.14%"
+  },
+  "39206": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "LILLE 1 - ALTELE",
+    "totalVoturi": 115,
+    "totalVoturiNS": 3,
+    "procent": "2.61%"
+  },
+  "39207": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "LILLE 2 - ALTELE",
+    "totalVoturi": 109,
+    "totalVoturiNS": 8,
+    "procent": "7.34%"
+  },
+  "39208": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "LOUDÉAC - ALTELE",
+    "totalVoturi": 191,
+    "totalVoturiNS": 3,
+    "procent": "1.57%"
+  },
+  "39209": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "RENNES - ALTELE",
+    "totalVoturi": 148,
+    "totalVoturiNS": 15,
+    "procent": "10.14%"
+  },
+  "39210": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "NANTES - ALTELE",
+    "totalVoturi": 185,
+    "totalVoturiNS": 6,
+    "procent": "3.24%"
+  },
+  "39211": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "TROYES - ALTELE",
+    "totalVoturi": 62,
+    "totalVoturiNS": 6,
+    "procent": "9.68%"
+  },
+  "39212": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "AULNAY-SOUS-BOIS - ALTELE",
+    "totalVoturi": 134,
+    "totalVoturiNS": 6,
+    "procent": "4.48%"
+  },
+  "39213": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "GAGNY - ALTELE",
+    "totalVoturi": 132,
+    "totalVoturiNS": 3,
+    "procent": "2.27%"
+  },
+  "39214": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "VILLENEUVE-SAINT-GEORGES - ALTELE",
+    "totalVoturi": 97,
+    "totalVoturiNS": 2,
+    "procent": "2.06%"
+  },
+  "39215": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "CHAMPIGNY-SUR-MARNE - ALTELE",
+    "totalVoturi": 120,
+    "totalVoturiNS": 1,
+    "procent": "0.83%"
+  },
+  "39216": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "BONDY - ALTELE",
+    "totalVoturi": 144,
+    "totalVoturiNS": 2,
+    "procent": "1.39%"
+  },
+  "39217": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "TOURS - ALTELE",
+    "totalVoturi": 107,
+    "totalVoturiNS": 3,
+    "procent": "2.80%"
+  },
+  "39218": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "ORLÉANS - ALTELE",
+    "totalVoturi": 90,
+    "totalVoturiNS": 8,
+    "procent": "8.89%"
+  },
+  "39219": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "IVRY-SUR-SEINE - ALTELE",
+    "totalVoturi": 95,
+    "totalVoturiNS": 9,
+    "procent": "9.47%"
+  },
+  "39220": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "ROUEN - ALTELE",
+    "totalVoturi": 78,
+    "totalVoturiNS": 4,
+    "procent": "5.13%"
+  },
+  "39221": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "LA FERTÉ-SOUS-JOUARRE - ALTELE",
+    "totalVoturi": 87,
+    "totalVoturiNS": 2,
+    "procent": "2.30%"
+  },
+  "39222": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "LES CLAYES-SOUS-BOIS - ALTELE",
+    "totalVoturi": 50,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39223": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "SARCELLES - ALTELE",
+    "totalVoturi": 116,
+    "totalVoturiNS": 4,
+    "procent": "3.45%"
+  },
+  "39224": {
+    "localitate": "PRINCIPATUL MONACO",
+    "nume_sectie": "MONACO - ALTELE",
+    "totalVoturi": 99,
+    "totalVoturiNS": 7,
+    "procent": "7.07%"
+  },
+  "39225": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "LYON 1 - CONSULAT GENERAL",
+    "totalVoturi": 340,
+    "totalVoturiNS": 36,
+    "procent": "10.59%"
+  },
+  "39226": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "LYON 2 - ALTELE",
+    "totalVoturi": 51,
+    "totalVoturiNS": 5,
+    "procent": "9.80%"
+  },
+  "39227": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "SAINT-GENIS-LAVAL - ALTELE",
+    "totalVoturi": 46,
+    "totalVoturiNS": 1,
+    "procent": "2.17%"
+  },
+  "39228": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "SAINT-ETIENNE - ALTELE",
+    "totalVoturi": 44,
+    "totalVoturiNS": 1,
+    "procent": "2.27%"
+  },
+  "39229": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "ANNEMASSE/AMBILLY - ALTELE",
+    "totalVoturi": 136,
+    "totalVoturiNS": 6,
+    "procent": "4.41%"
+  },
+  "39230": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "DIJON - ALTELE",
+    "totalVoturi": 50,
+    "totalVoturiNS": 1,
+    "procent": "2.00%"
+  },
+  "39231": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "CLERMONT-FERRAND - ALTELE",
+    "totalVoturi": 53,
+    "totalVoturiNS": 1,
+    "procent": "1.89%"
+  },
+  "39232": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "GRENOBLE/SAINT-MARTIN-D'HERES - ALTELE",
+    "totalVoturi": 122,
+    "totalVoturiNS": 10,
+    "procent": "8.20%"
+  },
+  "39233": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "MARSILIA 1 - ALTELE",
+    "totalVoturi": 166,
+    "totalVoturiNS": 18,
+    "procent": "10.84%"
+  },
+  "39234": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "MARSILIA 2 - ALTELE",
+    "totalVoturi": 102,
+    "totalVoturiNS": 10,
+    "procent": "9.80%"
+  },
+  "39235": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "MARIGNANE - ALTELE",
+    "totalVoturi": 140,
+    "totalVoturiNS": 8,
+    "procent": "5.71%"
+  },
+  "39236": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "AJACCIO - ALTELE",
+    "totalVoturi": 116,
+    "totalVoturiNS": 3,
+    "procent": "2.59%"
+  },
+  "39237": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "BASTIA - ALTELE",
+    "totalVoturi": 79,
+    "totalVoturiNS": 2,
+    "procent": "2.53%"
+  },
+  "39238": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "NISA 1 - ALTELE",
+    "totalVoturi": 389,
+    "totalVoturiNS": 29,
+    "procent": "7.46%"
+  },
+  "39239": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "NISA 2 - ALTELE",
+    "totalVoturi": 231,
+    "totalVoturiNS": 17,
+    "procent": "7.36%"
+  },
+  "39240": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "MONTPELLIER - ALTELE",
+    "totalVoturi": 133,
+    "totalVoturiNS": 14,
+    "procent": "10.53%"
+  },
+  "39241": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "TOULOUSE - ALTELE",
+    "totalVoturi": 245,
+    "totalVoturiNS": 26,
+    "procent": "10.61%"
+  },
+  "39242": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "STRASBOURG 1 - CONSULAT GENERAL",
+    "totalVoturi": 230,
+    "totalVoturiNS": 22,
+    "procent": "9.57%"
+  },
+  "39243": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "STRASBOURG 2 - CONSULAT GENERAL",
+    "totalVoturi": 324,
+    "totalVoturiNS": 11,
+    "procent": "3.40%"
+  },
+  "39244": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "NANCY - ALTELE",
+    "totalVoturi": 90,
+    "totalVoturiNS": 7,
+    "procent": "7.78%"
+  },
+  "39245": {
+    "localitate": "FRANȚA",
+    "nume_sectie": "COLMAR - ALTELE",
+    "totalVoturi": 80,
+    "totalVoturiNS": 7,
+    "procent": "8.75%"
+  },
+  "39246": {
+    "localitate": "GEORGIA",
+    "nume_sectie": "TBILISI - AMBASADĂ",
+    "totalVoturi": 38,
+    "totalVoturiNS": 2,
+    "procent": "5.26%"
+  },
+  "39247": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "BERLIN 1 - AMBASADĂ",
+    "totalVoturi": 600,
+    "totalVoturiNS": 125,
+    "procent": "20.83%"
+  },
+  "39248": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "BERLIN 2 - AMBASADĂ",
+    "totalVoturi": 371,
+    "totalVoturiNS": 76,
+    "procent": "20.49%"
+  },
+  "39249": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "BERLIN 3 - AMBASADĂ",
+    "totalVoturi": 234,
+    "totalVoturiNS": 44,
+    "procent": "18.80%"
+  },
+  "39250": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "BRAUNSCHWEIG - ALTELE",
+    "totalVoturi": 178,
+    "totalVoturiNS": 9,
+    "procent": "5.06%"
+  },
+  "39251": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "BREMEN - ALTELE",
+    "totalVoturi": 309,
+    "totalVoturiNS": 17,
+    "procent": "5.50%"
+  },
+  "39252": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "DRESDEN - ALTELE",
+    "totalVoturi": 151,
+    "totalVoturiNS": 4,
+    "procent": "2.65%"
+  },
+  "39253": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "ERFURT - ALTELE",
+    "totalVoturi": 252,
+    "totalVoturiNS": 20,
+    "procent": "7.94%"
+  },
+  "39254": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "HAMBURG 1 - ALTELE",
+    "totalVoturi": 297,
+    "totalVoturiNS": 25,
+    "procent": "8.42%"
+  },
+  "39255": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "HAMBURG 2 - ALTELE",
+    "totalVoturi": 265,
+    "totalVoturiNS": 12,
+    "procent": "4.53%"
+  },
+  "39256": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "HANOVRA 1 - ALTELE",
+    "totalVoturi": 109,
+    "totalVoturiNS": 4,
+    "procent": "3.67%"
+  },
+  "39257": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "HANOVRA 2 - ALTELE",
+    "totalVoturi": 217,
+    "totalVoturiNS": 13,
+    "procent": "5.99%"
+  },
+  "39258": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "KIEL - ALTELE",
+    "totalVoturi": 100,
+    "totalVoturiNS": 4,
+    "procent": "4.00%"
+  },
+  "39259": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "LEIPZIG - ALTELE",
+    "totalVoturi": 263,
+    "totalVoturiNS": 21,
+    "procent": "7.98%"
+  },
+  "39260": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "LÜBECK - ALTELE",
+    "totalVoturi": 68,
+    "totalVoturiNS": 4,
+    "procent": "5.88%"
+  },
+  "39261": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "QUAKENBRÜCK 1 - ALTELE",
+    "totalVoturi": 363,
+    "totalVoturiNS": 20,
+    "procent": "5.51%"
+  },
+  "39262": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "QUAKENBRÜCK 2 - ALTELE",
+    "totalVoturi": 335,
+    "totalVoturiNS": 8,
+    "procent": "2.39%"
+  },
+  "39263": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "SÖGEL - ALTELE",
+    "totalVoturi": 359,
+    "totalVoturiNS": 10,
+    "procent": "2.79%"
+  },
+  "39264": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "SCHÜLLER - ALTELE",
+    "totalVoturi": 46,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39265": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "TRIER - ALTELE",
+    "totalVoturi": 285,
+    "totalVoturiNS": 18,
+    "procent": "6.32%"
+  },
+  "39266": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "NEUNKIRCHEN - ALTELE",
+    "totalVoturi": 223,
+    "totalVoturiNS": 3,
+    "procent": "1.35%"
+  },
+  "39267": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "NEUSTADT AN DER WEINSTRASSE - ALTELE",
+    "totalVoturi": 203,
+    "totalVoturiNS": 6,
+    "procent": "2.96%"
+  },
+  "39268": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "LUDWIGSHAFEN - ALTELE",
+    "totalVoturi": 331,
+    "totalVoturiNS": 14,
+    "procent": "4.23%"
+  },
+  "39269": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "MAINZ - ALTELE",
+    "totalVoturi": 411,
+    "totalVoturiNS": 26,
+    "procent": "6.33%"
+  },
+  "39270": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "OFFENBACH 1 - ALTELE",
+    "totalVoturi": 493,
+    "totalVoturiNS": 10,
+    "procent": "2.03%"
+  },
+  "39271": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "OFFENBACH 2 - ALTELE",
+    "totalVoturi": 156,
+    "totalVoturiNS": 7,
+    "procent": "4.49%"
+  },
+  "39272": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "FRANKFURT - ALTELE",
+    "totalVoturi": 608,
+    "totalVoturiNS": 42,
+    "procent": "6.91%"
+  },
+  "39273": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "LANGENSELBOLD - ALTELE",
+    "totalVoturi": 149,
+    "totalVoturiNS": 5,
+    "procent": "3.36%"
+  },
+  "39274": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "KASSEL - ALTELE",
+    "totalVoturi": 287,
+    "totalVoturiNS": 16,
+    "procent": "5.57%"
+  },
+  "39275": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "PADERBORN - ALTELE",
+    "totalVoturi": 211,
+    "totalVoturiNS": 8,
+    "procent": "3.79%"
+  },
+  "39276": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "GÜTERSLOH 1 - ALTELE",
+    "totalVoturi": 209,
+    "totalVoturiNS": 5,
+    "procent": "2.39%"
+  },
+  "39277": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "GÜTERSLOH 2 - ALTELE",
+    "totalVoturi": 440,
+    "totalVoturiNS": 20,
+    "procent": "4.55%"
+  },
+  "39278": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "BOCHUM - ALTELE",
+    "totalVoturi": 582,
+    "totalVoturiNS": 30,
+    "procent": "5.15%"
+  },
+  "39279": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "DÜSSELDORF - ALTELE",
+    "totalVoturi": 488,
+    "totalVoturiNS": 27,
+    "procent": "5.53%"
+  },
+  "39280": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "MÖNCHENGLADBACH - ALTELE",
+    "totalVoturi": 363,
+    "totalVoturiNS": 14,
+    "procent": "3.86%"
+  },
+  "39281": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "KÖLN - ALTELE",
+    "totalVoturi": 399,
+    "totalVoturiNS": 29,
+    "procent": "7.27%"
+  },
+  "39282": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "BONN 1 - CONSULAT GENERAL",
+    "totalVoturi": 105,
+    "totalVoturiNS": 8,
+    "procent": "7.62%"
+  },
+  "39283": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "BONN 2 - CONSULAT GENERAL",
+    "totalVoturi": 229,
+    "totalVoturiNS": 9,
+    "procent": "3.93%"
+  },
+  "39284": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "BONN 3 - CONSULAT GENERAL",
+    "totalVoturi": 219,
+    "totalVoturiNS": 4,
+    "procent": "1.83%"
+  },
+  "39285": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "ASCHAFFENBURG - ALTELE",
+    "totalVoturi": 269,
+    "totalVoturiNS": 9,
+    "procent": "3.35%"
+  },
+  "39286": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "AUGSBURG 1 - ALTELE",
+    "totalVoturi": 217,
+    "totalVoturiNS": 13,
+    "procent": "5.99%"
+  },
+  "39287": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "AUGSBURG 2 - ALTELE",
+    "totalVoturi": 189,
+    "totalVoturiNS": 6,
+    "procent": "3.17%"
+  },
+  "39288": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "AUGSBURG 3 - ALTELE",
+    "totalVoturi": 282,
+    "totalVoturiNS": 10,
+    "procent": "3.55%"
+  },
+  "39289": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "BAMBERG - ALTELE",
+    "totalVoturi": 181,
+    "totalVoturiNS": 16,
+    "procent": "8.84%"
+  },
+  "39290": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "DACHAU - ALTELE",
+    "totalVoturi": 178,
+    "totalVoturiNS": 8,
+    "procent": "4.49%"
+  },
+  "39291": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "DINKELSBÜHL - ALTELE",
+    "totalVoturi": 19,
+    "totalVoturiNS": 1,
+    "procent": "5.26%"
+  },
+  "39292": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "ERDING - ALTELE",
+    "totalVoturi": 137,
+    "totalVoturiNS": 5,
+    "procent": "3.65%"
+  },
+  "39293": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "FREISING - ALTELE",
+    "totalVoturi": 181,
+    "totalVoturiNS": 7,
+    "procent": "3.87%"
+  },
+  "39294": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "FÜRTH - ALTELE",
+    "totalVoturi": 286,
+    "totalVoturiNS": 21,
+    "procent": "7.34%"
+  },
+  "39295": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "INGOLSTADT 1 - ALTELE",
+    "totalVoturi": 245,
+    "totalVoturiNS": 14,
+    "procent": "5.71%"
+  },
+  "39296": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "INGOLSTADT 2 - ALTELE",
+    "totalVoturi": 183,
+    "totalVoturiNS": 8,
+    "procent": "4.37%"
+  },
+  "39297": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "KEMPTEN - ALTELE",
+    "totalVoturi": 259,
+    "totalVoturiNS": 19,
+    "procent": "7.34%"
+  },
+  "39298": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "LANDSHUT - ALTELE",
+    "totalVoturi": 437,
+    "totalVoturiNS": 12,
+    "procent": "2.75%"
+  },
+  "39299": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "MÜNCHEN 1 - ALTELE",
+    "totalVoturi": 465,
+    "totalVoturiNS": 40,
+    "procent": "8.60%"
+  },
+  "39300": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "MÜNCHEN 2 - ALTELE",
+    "totalVoturi": 329,
+    "totalVoturiNS": 35,
+    "procent": "10.64%"
+  },
+  "39301": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "MÜNCHEN 3 - ALTELE",
+    "totalVoturi": 239,
+    "totalVoturiNS": 16,
+    "procent": "6.69%"
+  },
+  "39302": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "MÜNCHEN 4 - ALTELE",
+    "totalVoturi": 286,
+    "totalVoturiNS": 25,
+    "procent": "8.74%"
+  },
+  "39303": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "MÜNCHEN 5 - ALTELE",
+    "totalVoturi": 202,
+    "totalVoturiNS": 29,
+    "procent": "14.36%"
+  },
+  "39304": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "NÜRNBERG 1 - ALTELE",
+    "totalVoturi": 452,
+    "totalVoturiNS": 19,
+    "procent": "4.20%"
+  },
+  "39305": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "NÜRNBERG 2 - ALTELE",
+    "totalVoturi": 246,
+    "totalVoturiNS": 15,
+    "procent": "6.10%"
+  },
+  "39306": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "NÜRNBERG 3 - ALTELE",
+    "totalVoturi": 192,
+    "totalVoturiNS": 14,
+    "procent": "7.29%"
+  },
+  "39307": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "NÜRNBERG 4 - ALTELE",
+    "totalVoturi": 259,
+    "totalVoturiNS": 10,
+    "procent": "3.86%"
+  },
+  "39308": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "REGENSBURG - ALTELE",
+    "totalVoturi": 377,
+    "totalVoturiNS": 30,
+    "procent": "7.96%"
+  },
+  "39309": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "ROSENHEIM - ALTELE",
+    "totalVoturi": 157,
+    "totalVoturiNS": 2,
+    "procent": "1.27%"
+  },
+  "39310": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "STRAUBING 1 - ALTELE",
+    "totalVoturi": 392,
+    "totalVoturiNS": 11,
+    "procent": "2.81%"
+  },
+  "39311": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "STRAUBING 2 - ALTELE",
+    "totalVoturi": 309,
+    "totalVoturiNS": 5,
+    "procent": "1.62%"
+  },
+  "39312": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "TRAUNREUT - ALTELE",
+    "totalVoturi": 205,
+    "totalVoturiNS": 9,
+    "procent": "4.39%"
+  },
+  "39313": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "VILSHOFEN AN DER DONAU - ALTELE",
+    "totalVoturi": 259,
+    "totalVoturiNS": 4,
+    "procent": "1.54%"
+  },
+  "39314": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "WÜRZBURG 1 - ALTELE",
+    "totalVoturi": 143,
+    "totalVoturiNS": 4,
+    "procent": "2.80%"
+  },
+  "39315": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "WÜRZBURG 2 - ALTELE",
+    "totalVoturi": 173,
+    "totalVoturiNS": 5,
+    "procent": "2.89%"
+  },
+  "39316": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "ESSLINGEN AM NECKAR - ALTELE",
+    "totalVoturi": 288,
+    "totalVoturiNS": 6,
+    "procent": "2.08%"
+  },
+  "39317": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "EPPELHEIM - ALTELE",
+    "totalVoturi": 194,
+    "totalVoturiNS": 16,
+    "procent": "8.25%"
+  },
+  "39318": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "FREIBURG IM BREISGAU - ALTELE",
+    "totalVoturi": 422,
+    "totalVoturiNS": 16,
+    "procent": "3.79%"
+  },
+  "39319": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "HEILBRONN - ALTELE",
+    "totalVoturi": 570,
+    "totalVoturiNS": 19,
+    "procent": "3.33%"
+  },
+  "39320": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "KARLSRUHE 1 - ALTELE",
+    "totalVoturi": 416,
+    "totalVoturiNS": 36,
+    "procent": "8.65%"
+  },
+  "39321": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "KARLSRUHE 2 - ALTELE",
+    "totalVoturi": 221,
+    "totalVoturiNS": 16,
+    "procent": "7.24%"
+  },
+  "39322": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "KONSTANZ - ALTELE",
+    "totalVoturi": 139,
+    "totalVoturiNS": 7,
+    "procent": "5.04%"
+  },
+  "39323": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "LUDWIGSBURG - ALTELE",
+    "totalVoturi": 251,
+    "totalVoturiNS": 8,
+    "procent": "3.19%"
+  },
+  "39324": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "MANNHEIM - ALTELE",
+    "totalVoturi": 400,
+    "totalVoturiNS": 18,
+    "procent": "4.50%"
+  },
+  "39325": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "PFORZHEIM - ALTELE",
+    "totalVoturi": 383,
+    "totalVoturiNS": 10,
+    "procent": "2.61%"
+  },
+  "39326": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "REUTLINGEN - ALTELE",
+    "totalVoturi": 294,
+    "totalVoturiNS": 20,
+    "procent": "6.80%"
+  },
+  "39327": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "SCHWÄBISCH HALL - ALTELE",
+    "totalVoturi": 280,
+    "totalVoturiNS": 13,
+    "procent": "4.64%"
+  },
+  "39328": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "SIGMARINGEN - ALTELE",
+    "totalVoturi": 252,
+    "totalVoturiNS": 9,
+    "procent": "3.57%"
+  },
+  "39329": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "SINGEN - ALTELE",
+    "totalVoturi": 351,
+    "totalVoturiNS": 7,
+    "procent": "1.99%"
+  },
+  "39330": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "STUTTGART - CONSULAT GENERAL",
+    "totalVoturi": 517,
+    "totalVoturiNS": 42,
+    "procent": "8.12%"
+  },
+  "39331": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "ULM 1 - ALTELE",
+    "totalVoturi": 324,
+    "totalVoturiNS": 16,
+    "procent": "4.94%"
+  },
+  "39332": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "ULM 2 - ALTELE",
+    "totalVoturi": 285,
+    "totalVoturiNS": 7,
+    "procent": "2.46%"
+  },
+  "39333": {
+    "localitate": "GERMANIA",
+    "nume_sectie": "WANGEN IM ALLGÄU - ALTELE",
+    "totalVoturi": 170,
+    "totalVoturiNS": 4,
+    "procent": "2.35%"
+  },
+  "39334": {
+    "localitate": "REPUBLICA ELENĂ",
+    "nume_sectie": "ATENA 1 - AMBASADĂ",
+    "totalVoturi": 220,
+    "totalVoturiNS": 8,
+    "procent": "3.64%"
+  },
+  "39335": {
+    "localitate": "REPUBLICA ELENĂ",
+    "nume_sectie": "ATENA 2 - ALTELE",
+    "totalVoturi": 239,
+    "totalVoturiNS": 14,
+    "procent": "5.86%"
+  },
+  "39336": {
+    "localitate": "REPUBLICA ELENĂ",
+    "nume_sectie": "ATENA 3 - ALTELE",
+    "totalVoturi": 81,
+    "totalVoturiNS": 6,
+    "procent": "7.41%"
+  },
+  "39337": {
+    "localitate": "REPUBLICA ELENĂ",
+    "nume_sectie": "PATRA - ALTELE",
+    "totalVoturi": 49,
+    "totalVoturiNS": 6,
+    "procent": "12.24%"
+  },
+  "39338": {
+    "localitate": "REPUBLICA ELENĂ",
+    "nume_sectie": "SPARTA - ALTELE",
+    "totalVoturi": 182,
+    "totalVoturiNS": 3,
+    "procent": "1.65%"
+  },
+  "39339": {
+    "localitate": "REPUBLICA ELENĂ",
+    "nume_sectie": "PREVEZA - ALTELE",
+    "totalVoturi": 39,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39340": {
+    "localitate": "REPUBLICA ELENĂ",
+    "nume_sectie": "CRETA/IRAKLIO - ALTELE",
+    "totalVoturi": 70,
+    "totalVoturiNS": 1,
+    "procent": "1.43%"
+  },
+  "39341": {
+    "localitate": "REPUBLICA ELENĂ",
+    "nume_sectie": "CRETA/CHANIA - ALTELE",
+    "totalVoturi": 125,
+    "totalVoturiNS": 12,
+    "procent": "9.60%"
+  },
+  "39342": {
+    "localitate": "REPUBLICA ELENĂ",
+    "nume_sectie": "SALONIC - CONSULAT GENERAL",
+    "totalVoturi": 135,
+    "totalVoturiNS": 10,
+    "procent": "7.41%"
+  },
+  "39343": {
+    "localitate": "REPUBLICA ELENĂ",
+    "nume_sectie": "LARISA - ALTELE",
+    "totalVoturi": 30,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39344": {
+    "localitate": "REPUBLICA INDIA",
+    "nume_sectie": "NEW DELHI - AMBASADĂ",
+    "totalVoturi": 23,
+    "totalVoturiNS": 1,
+    "procent": "4.35%"
+  },
+  "39345": {
+    "localitate": "REPUBLICA INDONEZIA",
+    "nume_sectie": "JAKARTA - AMBASADĂ",
+    "totalVoturi": 9,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39346": {
+    "localitate": "REGATUL HAȘEMIT AL IORDANIEI",
+    "nume_sectie": "AMMAN - AMBASADĂ",
+    "totalVoturi": 51,
+    "totalVoturiNS": 7,
+    "procent": "13.73%"
+  },
+  "39347": {
+    "localitate": "IRAK",
+    "nume_sectie": "BAGDAD - AMBASADĂ",
+    "totalVoturi": 30,
+    "totalVoturiNS": 1,
+    "procent": "3.33%"
+  },
+  "39348": {
+    "localitate": "IRAK",
+    "nume_sectie": "ERBIL - BIROU CONSULAR",
+    "totalVoturi": 13,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39349": {
+    "localitate": "REPUBLICA ISLAMICĂ IRAN",
+    "nume_sectie": "TEHERAN - SECȚIE CONSULARĂ",
+    "totalVoturi": 21,
+    "totalVoturiNS": 1,
+    "procent": "4.76%"
+  },
+  "39350": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "DUBLIN 1 - SECȚIE CONSULARĂ",
+    "totalVoturi": 369,
+    "totalVoturiNS": 29,
+    "procent": "7.86%"
+  },
+  "39351": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "DUBLIN 2 - SECȚIE CONSULARĂ",
+    "totalVoturi": 154,
+    "totalVoturiNS": 11,
+    "procent": "7.14%"
+  },
+  "39352": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "DUBLIN 3 - SECȚIE CONSULARĂ",
+    "totalVoturi": 118,
+    "totalVoturiNS": 10,
+    "procent": "8.47%"
+  },
+  "39353": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "DUBLIN 4 - SECȚIE CONSULARĂ",
+    "totalVoturi": 313,
+    "totalVoturiNS": 28,
+    "procent": "8.95%"
+  },
+  "39354": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "DUBLIN 5 - ALTELE",
+    "totalVoturi": 285,
+    "totalVoturiNS": 8,
+    "procent": "2.81%"
+  },
+  "39355": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "DUBLIN 6 - ALTELE",
+    "totalVoturi": 113,
+    "totalVoturiNS": 6,
+    "procent": "5.31%"
+  },
+  "39356": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "DUBLIN 7 - ALTELE",
+    "totalVoturi": 144,
+    "totalVoturiNS": 10,
+    "procent": "6.94%"
+  },
+  "39357": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "DUBLIN 8 - ALTELE",
+    "totalVoturi": 162,
+    "totalVoturiNS": 9,
+    "procent": "5.56%"
+  },
+  "39358": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "DUBLIN 9 - ALTELE",
+    "totalVoturi": 134,
+    "totalVoturiNS": 13,
+    "procent": "9.70%"
+  },
+  "39359": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "DUBLIN 10 - ALTELE",
+    "totalVoturi": 172,
+    "totalVoturiNS": 5,
+    "procent": "2.91%"
+  },
+  "39360": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "CORK - ALTELE",
+    "totalVoturi": 172,
+    "totalVoturiNS": 6,
+    "procent": "3.49%"
+  },
+  "39361": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "DROGHEDA - ALTELE",
+    "totalVoturi": 149,
+    "totalVoturiNS": 12,
+    "procent": "8.05%"
+  },
+  "39362": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "GALWAY - ALTELE",
+    "totalVoturi": 103,
+    "totalVoturiNS": 10,
+    "procent": "9.71%"
+  },
+  "39363": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "KILKENNY - ALTELE",
+    "totalVoturi": 119,
+    "totalVoturiNS": 11,
+    "procent": "9.24%"
+  },
+  "39364": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "LIMERICK - ALTELE",
+    "totalVoturi": 127,
+    "totalVoturiNS": 7,
+    "procent": "5.51%"
+  },
+  "39365": {
+    "localitate": "IRLANDA",
+    "nume_sectie": "WATERFORD - ALTELE",
+    "totalVoturi": 86,
+    "totalVoturiNS": 5,
+    "procent": "5.81%"
+  },
+  "39366": {
+    "localitate": "ISLANDA",
+    "nume_sectie": "REYKJAVIK - ALTELE",
+    "totalVoturi": 178,
+    "totalVoturiNS": 19,
+    "procent": "10.67%"
+  },
+  "39367": {
+    "localitate": "STATUL ISRAEL",
+    "nume_sectie": "TEL AVIV 1 - SECȚIE CONSULARĂ",
+    "totalVoturi": 75,
+    "totalVoturiNS": 1,
+    "procent": "1.33%"
+  },
+  "39368": {
+    "localitate": "STATUL ISRAEL",
+    "nume_sectie": "TEL AVIV 2 - ICR",
+    "totalVoturi": 76,
+    "totalVoturiNS": 3,
+    "procent": "3.95%"
+  },
+  "39369": {
+    "localitate": "STATUL ISRAEL",
+    "nume_sectie": "HAIFA - CONSULAT GENERAL",
+    "totalVoturi": 49,
+    "totalVoturiNS": 1,
+    "procent": "2.04%"
+  },
+  "39370": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ROMA 1 - AMBASADĂ",
+    "totalVoturi": 79,
+    "totalVoturiNS": 3,
+    "procent": "3.80%"
+  },
+  "39371": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ROMA 2 - AMBASADĂ",
+    "totalVoturi": 100,
+    "totalVoturiNS": 8,
+    "procent": "8.00%"
+  },
+  "39372": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ROMA 3 - ICR",
+    "totalVoturi": 384,
+    "totalVoturiNS": 55,
+    "procent": "14.32%"
+  },
+  "39373": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ROMA 4 - ICR",
+    "totalVoturi": 108,
+    "totalVoturiNS": 11,
+    "procent": "10.19%"
+  },
+  "39374": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ROMA 5 - CONSULAT GENERAL",
+    "totalVoturi": 225,
+    "totalVoturiNS": 16,
+    "procent": "7.11%"
+  },
+  "39375": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ROMA 6 - CONSULAT GENERAL",
+    "totalVoturi": 257,
+    "totalVoturiNS": 5,
+    "procent": "1.95%"
+  },
+  "39376": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ROMA 7 - CONSULAT GENERAL",
+    "totalVoturi": 239,
+    "totalVoturiNS": 12,
+    "procent": "5.02%"
+  },
+  "39377": {
+    "localitate": "ITALIA",
+    "nume_sectie": "OSTIA - ALTELE",
+    "totalVoturi": 294,
+    "totalVoturiNS": 13,
+    "procent": "4.42%"
+  },
+  "39378": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MONTEROTONDO - ALTELE",
+    "totalVoturi": 277,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39379": {
+    "localitate": "ITALIA",
+    "nume_sectie": "GUIDONIA - ALTELE",
+    "totalVoturi": 248,
+    "totalVoturiNS": 3,
+    "procent": "1.21%"
+  },
+  "39380": {
+    "localitate": "ITALIA",
+    "nume_sectie": "PALESTRINA - ALTELE",
+    "totalVoturi": 186,
+    "totalVoturiNS": 8,
+    "procent": "4.30%"
+  },
+  "39381": {
+    "localitate": "ITALIA",
+    "nume_sectie": "TIVOLI - ALTELE",
+    "totalVoturi": 153,
+    "totalVoturiNS": 11,
+    "procent": "7.19%"
+  },
+  "39382": {
+    "localitate": "ITALIA",
+    "nume_sectie": "RIGNANO FLAMINIO - ALTELE",
+    "totalVoturi": 117,
+    "totalVoturiNS": 2,
+    "procent": "1.71%"
+  },
+  "39383": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ALBANO LAZIALE - ALTELE",
+    "totalVoturi": 159,
+    "totalVoturiNS": 3,
+    "procent": "1.89%"
+  },
+  "39384": {
+    "localitate": "ITALIA",
+    "nume_sectie": "LADISPOLI - ALTELE",
+    "totalVoturi": 200,
+    "totalVoturiNS": 4,
+    "procent": "2.00%"
+  },
+  "39385": {
+    "localitate": "ITALIA",
+    "nume_sectie": "FROSINONE - ALTELE",
+    "totalVoturi": 82,
+    "totalVoturiNS": 1,
+    "procent": "1.22%"
+  },
+  "39386": {
+    "localitate": "ITALIA",
+    "nume_sectie": "LATINA - ALTELE",
+    "totalVoturi": 259,
+    "totalVoturiNS": 10,
+    "procent": "3.86%"
+  },
+  "39387": {
+    "localitate": "ITALIA",
+    "nume_sectie": "VITERBO - ALTELE",
+    "totalVoturi": 106,
+    "totalVoturiNS": 6,
+    "procent": "5.66%"
+  },
+  "39388": {
+    "localitate": "ITALIA",
+    "nume_sectie": "TERNI - ALTELE",
+    "totalVoturi": 210,
+    "totalVoturiNS": 2,
+    "procent": "0.95%"
+  },
+  "39389": {
+    "localitate": "ITALIA",
+    "nume_sectie": "PERUGIA - ALTELE",
+    "totalVoturi": 224,
+    "totalVoturiNS": 10,
+    "procent": "4.46%"
+  },
+  "39390": {
+    "localitate": "ITALIA",
+    "nume_sectie": "PESCARA - ALTELE",
+    "totalVoturi": 225,
+    "totalVoturiNS": 6,
+    "procent": "2.67%"
+  },
+  "39391": {
+    "localitate": "ITALIA",
+    "nume_sectie": "OLBIA - ALTELE",
+    "totalVoturi": 150,
+    "totalVoturiNS": 5,
+    "procent": "3.33%"
+  },
+  "39392": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CAGLIARI - ALTELE",
+    "totalVoturi": 95,
+    "totalVoturiNS": 14,
+    "procent": "14.74%"
+  },
+  "39393": {
+    "localitate": "ITALIA",
+    "nume_sectie": "NAPOLI - ALTELE",
+    "totalVoturi": 199,
+    "totalVoturiNS": 34,
+    "procent": "17.09%"
+  },
+  "39394": {
+    "localitate": "ITALIA",
+    "nume_sectie": "BARI 1 - CONSULAT GENERAL",
+    "totalVoturi": 89,
+    "totalVoturiNS": 10,
+    "procent": "11.24%"
+  },
+  "39395": {
+    "localitate": "ITALIA",
+    "nume_sectie": "BARI 2 - CONSULAT GENERAL",
+    "totalVoturi": 67,
+    "totalVoturiNS": 10,
+    "procent": "14.93%"
+  },
+  "39396": {
+    "localitate": "ITALIA",
+    "nume_sectie": "TRANI - ALTELE",
+    "totalVoturi": 46,
+    "totalVoturiNS": 5,
+    "procent": "10.87%"
+  },
+  "39397": {
+    "localitate": "ITALIA",
+    "nume_sectie": "FOGGIA - ALTELE",
+    "totalVoturi": 82,
+    "totalVoturiNS": 3,
+    "procent": "3.66%"
+  },
+  "39398": {
+    "localitate": "ITALIA",
+    "nume_sectie": "LECCE - ALTELE",
+    "totalVoturi": 56,
+    "totalVoturiNS": 2,
+    "procent": "3.57%"
+  },
+  "39399": {
+    "localitate": "ITALIA",
+    "nume_sectie": "TARANTO - ALTELE",
+    "totalVoturi": 31,
+    "totalVoturiNS": 3,
+    "procent": "9.68%"
+  },
+  "39400": {
+    "localitate": "ITALIA",
+    "nume_sectie": "GINOSA - ALTELE",
+    "totalVoturi": 81,
+    "totalVoturiNS": 1,
+    "procent": "1.23%"
+  },
+  "39401": {
+    "localitate": "ITALIA",
+    "nume_sectie": "COSENZA - ALTELE",
+    "totalVoturi": 75,
+    "totalVoturiNS": 1,
+    "procent": "1.33%"
+  },
+  "39402": {
+    "localitate": "ITALIA",
+    "nume_sectie": "REGGIO CALABRIA - ALTELE",
+    "totalVoturi": 130,
+    "totalVoturiNS": 3,
+    "procent": "2.31%"
+  },
+  "39403": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CROTONE - ALTELE",
+    "totalVoturi": 37,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39404": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CATANZARO - ALTELE",
+    "totalVoturi": 50,
+    "totalVoturiNS": 3,
+    "procent": "6.00%"
+  },
+  "39405": {
+    "localitate": "ITALIA",
+    "nume_sectie": "VIBO VALENTIA - ALTELE",
+    "totalVoturi": 35,
+    "totalVoturiNS": 1,
+    "procent": "2.86%"
+  },
+  "39406": {
+    "localitate": "ITALIA",
+    "nume_sectie": "POTENZA - ALTELE",
+    "totalVoturi": 30,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39407": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MATERA - ALTELE",
+    "totalVoturi": 49,
+    "totalVoturiNS": 3,
+    "procent": "6.12%"
+  },
+  "39408": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CAMPOBASSO - ALTELE",
+    "totalVoturi": 41,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39409": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ISERNIA - ALTELE",
+    "totalVoturi": 26,
+    "totalVoturiNS": 1,
+    "procent": "3.85%"
+  },
+  "39410": {
+    "localitate": "ITALIA",
+    "nume_sectie": "BOLOGNA 1 - CONSULAT GENERAL",
+    "totalVoturi": 385,
+    "totalVoturiNS": 21,
+    "procent": "5.45%"
+  },
+  "39411": {
+    "localitate": "ITALIA",
+    "nume_sectie": "BOLOGNA 2 (BORGO PANIGALE) - ALTELE",
+    "totalVoturi": 170,
+    "totalVoturiNS": 11,
+    "procent": "6.47%"
+  },
+  "39412": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ANCONA - ALTELE",
+    "totalVoturi": 199,
+    "totalVoturiNS": 1,
+    "procent": "0.50%"
+  },
+  "39413": {
+    "localitate": "ITALIA",
+    "nume_sectie": "AREZZO - ALTELE",
+    "totalVoturi": 123,
+    "totalVoturiNS": 7,
+    "procent": "5.69%"
+  },
+  "39414": {
+    "localitate": "ITALIA",
+    "nume_sectie": "BUDRIO - ALTELE",
+    "totalVoturi": 76,
+    "totalVoturiNS": 5,
+    "procent": "6.58%"
+  },
+  "39415": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CESENA - ALTELE",
+    "totalVoturi": 102,
+    "totalVoturiNS": 4,
+    "procent": "3.92%"
+  },
+  "39416": {
+    "localitate": "ITALIA",
+    "nume_sectie": "FERRARA - ALTELE",
+    "totalVoturi": 144,
+    "totalVoturiNS": 2,
+    "procent": "1.39%"
+  },
+  "39417": {
+    "localitate": "ITALIA",
+    "nume_sectie": "FIRENZE - ALTELE",
+    "totalVoturi": 295,
+    "totalVoturiNS": 34,
+    "procent": "11.53%"
+  },
+  "39418": {
+    "localitate": "ITALIA",
+    "nume_sectie": "FORLI - ALTELE",
+    "totalVoturi": 162,
+    "totalVoturiNS": 8,
+    "procent": "4.94%"
+  },
+  "39419": {
+    "localitate": "ITALIA",
+    "nume_sectie": "IMOLA - ALTELE",
+    "totalVoturi": 202,
+    "totalVoturiNS": 7,
+    "procent": "3.47%"
+  },
+  "39420": {
+    "localitate": "ITALIA",
+    "nume_sectie": "LIVORNO - ALTELE",
+    "totalVoturi": 132,
+    "totalVoturiNS": 4,
+    "procent": "3.03%"
+  },
+  "39421": {
+    "localitate": "ITALIA",
+    "nume_sectie": "LUCCA - ALTELE",
+    "totalVoturi": 125,
+    "totalVoturiNS": 8,
+    "procent": "6.40%"
+  },
+  "39422": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MACERATA - ALTELE",
+    "totalVoturi": 78,
+    "totalVoturiNS": 2,
+    "procent": "2.56%"
+  },
+  "39423": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MASSA - ALTELE",
+    "totalVoturi": 179,
+    "totalVoturiNS": 7,
+    "procent": "3.91%"
+  },
+  "39424": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MODENA - ALTELE",
+    "totalVoturi": 221,
+    "totalVoturiNS": 3,
+    "procent": "1.36%"
+  },
+  "39425": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MONTECATINI TERME - ALTELE",
+    "totalVoturi": 130,
+    "totalVoturiNS": 4,
+    "procent": "3.08%"
+  },
+  "39426": {
+    "localitate": "ITALIA",
+    "nume_sectie": "PARMA - ALTELE",
+    "totalVoturi": 264,
+    "totalVoturiNS": 18,
+    "procent": "6.82%"
+  },
+  "39427": {
+    "localitate": "ITALIA",
+    "nume_sectie": "PESARO - ALTELE",
+    "totalVoturi": 135,
+    "totalVoturiNS": 2,
+    "procent": "1.48%"
+  },
+  "39428": {
+    "localitate": "ITALIA",
+    "nume_sectie": "PIACENZA - ALTELE",
+    "totalVoturi": 406,
+    "totalVoturiNS": 8,
+    "procent": "1.97%"
+  },
+  "39429": {
+    "localitate": "ITALIA",
+    "nume_sectie": "PISA - ALTELE",
+    "totalVoturi": 108,
+    "totalVoturiNS": 5,
+    "procent": "4.63%"
+  },
+  "39430": {
+    "localitate": "ITALIA",
+    "nume_sectie": "PISTOIA - ALTELE",
+    "totalVoturi": 108,
+    "totalVoturiNS": 4,
+    "procent": "3.70%"
+  },
+  "39431": {
+    "localitate": "ITALIA",
+    "nume_sectie": "RAVENNA - ALTELE",
+    "totalVoturi": 167,
+    "totalVoturiNS": 1,
+    "procent": "0.60%"
+  },
+  "39432": {
+    "localitate": "ITALIA",
+    "nume_sectie": "RIMINI - ALTELE",
+    "totalVoturi": 164,
+    "totalVoturiNS": 8,
+    "procent": "4.88%"
+  },
+  "39433": {
+    "localitate": "ITALIA",
+    "nume_sectie": "SAN LAZZARO DI SAVENA - ALTELE",
+    "totalVoturi": 49,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39434": {
+    "localitate": "ITALIA",
+    "nume_sectie": "SIENA - ALTELE",
+    "totalVoturi": 130,
+    "totalVoturiNS": 7,
+    "procent": "5.38%"
+  },
+  "39435": {
+    "localitate": "ITALIA",
+    "nume_sectie": "SESTO FIORENTINO - ALTELE",
+    "totalVoturi": 103,
+    "totalVoturiNS": 1,
+    "procent": "0.97%"
+  },
+  "39436": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CATANIA 1 - CONSULAT",
+    "totalVoturi": 274,
+    "totalVoturiNS": 11,
+    "procent": "4.01%"
+  },
+  "39437": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CATANIA 2 - CONSULAT",
+    "totalVoturi": 339,
+    "totalVoturiNS": 17,
+    "procent": "5.01%"
+  },
+  "39438": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ALCAMO - ALTELE",
+    "totalVoturi": 72,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39439": {
+    "localitate": "ITALIA",
+    "nume_sectie": "VITTORIA - ALTELE",
+    "totalVoturi": 117,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39440": {
+    "localitate": "ITALIA",
+    "nume_sectie": "PALERMO - ALTELE",
+    "totalVoturi": 100,
+    "totalVoturiNS": 12,
+    "procent": "12.00%"
+  },
+  "39441": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CANICATTI - ALTELE",
+    "totalVoturi": 72,
+    "totalVoturiNS": 3,
+    "procent": "4.17%"
+  },
+  "39442": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MILANO 1 - ALTELE",
+    "totalVoturi": 183,
+    "totalVoturiNS": 18,
+    "procent": "9.84%"
+  },
+  "39443": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MILANO 2 - ALTELE",
+    "totalVoturi": 130,
+    "totalVoturiNS": 20,
+    "procent": "15.38%"
+  },
+  "39444": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MILANO 3 - ALTELE",
+    "totalVoturi": 137,
+    "totalVoturiNS": 25,
+    "procent": "18.25%"
+  },
+  "39445": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MILANO 4 - ALTELE",
+    "totalVoturi": 140,
+    "totalVoturiNS": 18,
+    "procent": "12.86%"
+  },
+  "39446": {
+    "localitate": "ITALIA",
+    "nume_sectie": "BERGAMO 1 - ALTELE",
+    "totalVoturi": 158,
+    "totalVoturiNS": 9,
+    "procent": "5.70%"
+  },
+  "39447": {
+    "localitate": "ITALIA",
+    "nume_sectie": "BERGAMO 2 - ALTELE",
+    "totalVoturi": 169,
+    "totalVoturiNS": 7,
+    "procent": "4.14%"
+  },
+  "39448": {
+    "localitate": "ITALIA",
+    "nume_sectie": "BOLZANO - ALTELE",
+    "totalVoturi": 185,
+    "totalVoturiNS": 6,
+    "procent": "3.24%"
+  },
+  "39449": {
+    "localitate": "ITALIA",
+    "nume_sectie": "BRESCIA 1 - ALTELE",
+    "totalVoturi": 133,
+    "totalVoturiNS": 3,
+    "procent": "2.26%"
+  },
+  "39450": {
+    "localitate": "ITALIA",
+    "nume_sectie": "BRESCIA 2 - ALTELE",
+    "totalVoturi": 122,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39451": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CLES - ALTELE",
+    "totalVoturi": 159,
+    "totalVoturiNS": 4,
+    "procent": "2.52%"
+  },
+  "39452": {
+    "localitate": "ITALIA",
+    "nume_sectie": "COMO - ALTELE",
+    "totalVoturi": 217,
+    "totalVoturiNS": 19,
+    "procent": "8.76%"
+  },
+  "39453": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CREMA - ALTELE",
+    "totalVoturi": 110,
+    "totalVoturiNS": 2,
+    "procent": "1.82%"
+  },
+  "39454": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CREMONA - ALTELE",
+    "totalVoturi": 139,
+    "totalVoturiNS": 6,
+    "procent": "4.32%"
+  },
+  "39455": {
+    "localitate": "ITALIA",
+    "nume_sectie": "LODI - ALTELE",
+    "totalVoturi": 261,
+    "totalVoturiNS": 7,
+    "procent": "2.68%"
+  },
+  "39456": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MANTOVA - ALTELE",
+    "totalVoturi": 132,
+    "totalVoturiNS": 5,
+    "procent": "3.79%"
+  },
+  "39457": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MONZA 1 - ALTELE",
+    "totalVoturi": 239,
+    "totalVoturiNS": 11,
+    "procent": "4.60%"
+  },
+  "39458": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MONZA 2 - ALTELE",
+    "totalVoturi": 226,
+    "totalVoturiNS": 10,
+    "procent": "4.42%"
+  },
+  "39459": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MONTICHIARI - ALTELE",
+    "totalVoturi": 235,
+    "totalVoturiNS": 8,
+    "procent": "3.40%"
+  },
+  "39460": {
+    "localitate": "ITALIA",
+    "nume_sectie": "PAVIA - ALTELE",
+    "totalVoturi": 184,
+    "totalVoturiNS": 5,
+    "procent": "2.72%"
+  },
+  "39461": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ROMANO DI LOMBARDIA - ALTELE",
+    "totalVoturi": 177,
+    "totalVoturiNS": 2,
+    "procent": "1.13%"
+  },
+  "39462": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ROVERETO - ALTELE",
+    "totalVoturi": 70,
+    "totalVoturiNS": 3,
+    "procent": "4.29%"
+  },
+  "39463": {
+    "localitate": "ITALIA",
+    "nume_sectie": "SESTO SAN GIOVANNI - ALTELE",
+    "totalVoturi": 250,
+    "totalVoturiNS": 24,
+    "procent": "9.60%"
+  },
+  "39464": {
+    "localitate": "ITALIA",
+    "nume_sectie": "TRENTO - ALTELE",
+    "totalVoturi": 147,
+    "totalVoturiNS": 7,
+    "procent": "4.76%"
+  },
+  "39465": {
+    "localitate": "ITALIA",
+    "nume_sectie": "VARESE - ALTELE",
+    "totalVoturi": 151,
+    "totalVoturiNS": 6,
+    "procent": "3.97%"
+  },
+  "39466": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ALESSANDRIA - ALTELE",
+    "totalVoturi": 154,
+    "totalVoturiNS": 10,
+    "procent": "6.49%"
+  },
+  "39467": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ALBA - ALTELE",
+    "totalVoturi": 178,
+    "totalVoturiNS": 9,
+    "procent": "5.06%"
+  },
+  "39468": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ASTI - ALTELE",
+    "totalVoturi": 140,
+    "totalVoturiNS": 1,
+    "procent": "0.71%"
+  },
+  "39469": {
+    "localitate": "ITALIA",
+    "nume_sectie": "BIELLA - ALTELE",
+    "totalVoturi": 87,
+    "totalVoturiNS": 2,
+    "procent": "2.30%"
+  },
+  "39470": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CARMAGNOLA - ALTELE",
+    "totalVoturi": 159,
+    "totalVoturiNS": 2,
+    "procent": "1.26%"
+  },
+  "39471": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CIRIE - ALTELE",
+    "totalVoturi": 139,
+    "totalVoturiNS": 3,
+    "procent": "2.16%"
+  },
+  "39472": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CHIERI - ALTELE",
+    "totalVoturi": 151,
+    "totalVoturiNS": 2,
+    "procent": "1.32%"
+  },
+  "39473": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CHIVASO - ALTELE",
+    "totalVoturi": 107,
+    "totalVoturiNS": 6,
+    "procent": "5.61%"
+  },
+  "39474": {
+    "localitate": "ITALIA",
+    "nume_sectie": "COLLEGNO - ALTELE",
+    "totalVoturi": 189,
+    "totalVoturiNS": 4,
+    "procent": "2.12%"
+  },
+  "39475": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CUNEO - ALTELE",
+    "totalVoturi": 123,
+    "totalVoturiNS": 6,
+    "procent": "4.88%"
+  },
+  "39476": {
+    "localitate": "ITALIA",
+    "nume_sectie": "IVREA - ALTELE",
+    "totalVoturi": 150,
+    "totalVoturiNS": 5,
+    "procent": "3.33%"
+  },
+  "39477": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MONCALIERI - ALTELE",
+    "totalVoturi": 140,
+    "totalVoturiNS": 6,
+    "procent": "4.29%"
+  },
+  "39478": {
+    "localitate": "ITALIA",
+    "nume_sectie": "MONDOVI - ALTELE",
+    "totalVoturi": 88,
+    "totalVoturiNS": 5,
+    "procent": "5.68%"
+  },
+  "39479": {
+    "localitate": "ITALIA",
+    "nume_sectie": "NICHELINO - ALTELE",
+    "totalVoturi": 78,
+    "totalVoturiNS": 3,
+    "procent": "3.85%"
+  },
+  "39480": {
+    "localitate": "ITALIA",
+    "nume_sectie": "NOVARA - ALTELE",
+    "totalVoturi": 152,
+    "totalVoturiNS": 1,
+    "procent": "0.66%"
+  },
+  "39481": {
+    "localitate": "ITALIA",
+    "nume_sectie": "PINEROLO - ALTELE",
+    "totalVoturi": 146,
+    "totalVoturiNS": 5,
+    "procent": "3.42%"
+  },
+  "39482": {
+    "localitate": "ITALIA",
+    "nume_sectie": "SETTIMO TORINESE - ALTELE",
+    "totalVoturi": 100,
+    "totalVoturiNS": 8,
+    "procent": "8.00%"
+  },
+  "39483": {
+    "localitate": "ITALIA",
+    "nume_sectie": "SUSA - ALTELE",
+    "totalVoturi": 44,
+    "totalVoturiNS": 1,
+    "procent": "2.27%"
+  },
+  "39484": {
+    "localitate": "ITALIA",
+    "nume_sectie": "TORTONA - ALTELE",
+    "totalVoturi": 229,
+    "totalVoturiNS": 1,
+    "procent": "0.44%"
+  },
+  "39485": {
+    "localitate": "ITALIA",
+    "nume_sectie": "VERBANIA - ALTELE",
+    "totalVoturi": 70,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39486": {
+    "localitate": "ITALIA",
+    "nume_sectie": "VERCELLI - ALTELE",
+    "totalVoturi": 89,
+    "totalVoturiNS": 1,
+    "procent": "1.12%"
+  },
+  "39487": {
+    "localitate": "ITALIA",
+    "nume_sectie": "GENOVA - ALTELE",
+    "totalVoturi": 256,
+    "totalVoturiNS": 14,
+    "procent": "5.47%"
+  },
+  "39488": {
+    "localitate": "ITALIA",
+    "nume_sectie": "IMPERIA - ALTELE",
+    "totalVoturi": 55,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39489": {
+    "localitate": "ITALIA",
+    "nume_sectie": "LA SPEZIA - ALTELE",
+    "totalVoturi": 184,
+    "totalVoturiNS": 15,
+    "procent": "8.15%"
+  },
+  "39490": {
+    "localitate": "ITALIA",
+    "nume_sectie": "SANREMO - ALTELE",
+    "totalVoturi": 103,
+    "totalVoturiNS": 2,
+    "procent": "1.94%"
+  },
+  "39491": {
+    "localitate": "ITALIA",
+    "nume_sectie": "SAVONA - ALTELE",
+    "totalVoturi": 75,
+    "totalVoturiNS": 1,
+    "procent": "1.33%"
+  },
+  "39492": {
+    "localitate": "ITALIA",
+    "nume_sectie": "AOSTA - ALTELE",
+    "totalVoturi": 97,
+    "totalVoturiNS": 3,
+    "procent": "3.09%"
+  },
+  "39493": {
+    "localitate": "ITALIA",
+    "nume_sectie": "TORINO 1 - ALTELE",
+    "totalVoturi": 310,
+    "totalVoturiNS": 9,
+    "procent": "2.90%"
+  },
+  "39494": {
+    "localitate": "ITALIA",
+    "nume_sectie": "TORINO 2 - ALTELE",
+    "totalVoturi": 125,
+    "totalVoturiNS": 3,
+    "procent": "2.40%"
+  },
+  "39495": {
+    "localitate": "ITALIA",
+    "nume_sectie": "TORINO 3 - ALTELE",
+    "totalVoturi": 173,
+    "totalVoturiNS": 11,
+    "procent": "6.36%"
+  },
+  "39496": {
+    "localitate": "ITALIA",
+    "nume_sectie": "TORINO 4 - ALTELE",
+    "totalVoturi": 118,
+    "totalVoturiNS": 6,
+    "procent": "5.08%"
+  },
+  "39497": {
+    "localitate": "ITALIA",
+    "nume_sectie": "TORINO 5 - ALTELE",
+    "totalVoturi": 46,
+    "totalVoturiNS": 3,
+    "procent": "6.52%"
+  },
+  "39498": {
+    "localitate": "ITALIA",
+    "nume_sectie": "TORINO 6 - ALTELE",
+    "totalVoturi": 316,
+    "totalVoturiNS": 14,
+    "procent": "4.43%"
+  },
+  "39499": {
+    "localitate": "ITALIA",
+    "nume_sectie": "TRIESTE - CONSULAT GENERAL",
+    "totalVoturi": 159,
+    "totalVoturiNS": 7,
+    "procent": "4.40%"
+  },
+  "39500": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CERVIGNANO DEL FRIULI - ALTELE",
+    "totalVoturi": 126,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39501": {
+    "localitate": "ITALIA",
+    "nume_sectie": "UDINE - ALTELE",
+    "totalVoturi": 266,
+    "totalVoturiNS": 2,
+    "procent": "0.75%"
+  },
+  "39502": {
+    "localitate": "ITALIA",
+    "nume_sectie": "PORDENONE - ALTELE",
+    "totalVoturi": 250,
+    "totalVoturiNS": 7,
+    "procent": "2.80%"
+  },
+  "39503": {
+    "localitate": "ITALIA",
+    "nume_sectie": "PRATA DI PORDENONE - ALTELE",
+    "totalVoturi": 108,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39504": {
+    "localitate": "ITALIA",
+    "nume_sectie": "VENEZIA - ICR",
+    "totalVoturi": 185,
+    "totalVoturiNS": 22,
+    "procent": "11.89%"
+  },
+  "39505": {
+    "localitate": "ITALIA",
+    "nume_sectie": "SAN DONÀ DI PIAVE - ALTELE",
+    "totalVoturi": 119,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39506": {
+    "localitate": "ITALIA",
+    "nume_sectie": "TREVISO - ALTELE",
+    "totalVoturi": 231,
+    "totalVoturiNS": 20,
+    "procent": "8.66%"
+  },
+  "39507": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CASTELFRANCO VENETO - ALTELE",
+    "totalVoturi": 317,
+    "totalVoturiNS": 16,
+    "procent": "5.05%"
+  },
+  "39508": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ODERZO - ALTELE",
+    "totalVoturi": 249,
+    "totalVoturiNS": 1,
+    "procent": "0.40%"
+  },
+  "39509": {
+    "localitate": "ITALIA",
+    "nume_sectie": "PADOVA - ALTELE",
+    "totalVoturi": 252,
+    "totalVoturiNS": 22,
+    "procent": "8.73%"
+  },
+  "39510": {
+    "localitate": "ITALIA",
+    "nume_sectie": "ALBIGNASEGO - ALTELE",
+    "totalVoturi": 155,
+    "totalVoturiNS": 2,
+    "procent": "1.29%"
+  },
+  "39511": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CADONEGHE - ALTELE",
+    "totalVoturi": 246,
+    "totalVoturiNS": 11,
+    "procent": "4.47%"
+  },
+  "39512": {
+    "localitate": "ITALIA",
+    "nume_sectie": "LIMENA - ALTELE",
+    "totalVoturi": 147,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39513": {
+    "localitate": "ITALIA",
+    "nume_sectie": "RUBANO - ALTELE",
+    "totalVoturi": 108,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39514": {
+    "localitate": "ITALIA",
+    "nume_sectie": "VERONA - ALTELE",
+    "totalVoturi": 443,
+    "totalVoturiNS": 13,
+    "procent": "2.93%"
+  },
+  "39515": {
+    "localitate": "ITALIA",
+    "nume_sectie": "VILLAFRANCA DI VERONA - ALTELE",
+    "totalVoturi": 193,
+    "totalVoturiNS": 1,
+    "procent": "0.52%"
+  },
+  "39516": {
+    "localitate": "ITALIA",
+    "nume_sectie": "VALEGGIO SUL MINCIO - ALTELE",
+    "totalVoturi": 136,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39517": {
+    "localitate": "ITALIA",
+    "nume_sectie": "CEREA - ALTELE",
+    "totalVoturi": 142,
+    "totalVoturiNS": 1,
+    "procent": "0.70%"
+  },
+  "39518": {
+    "localitate": "ITALIA",
+    "nume_sectie": "VICENZA - ALTELE",
+    "totalVoturi": 139,
+    "totalVoturiNS": 8,
+    "procent": "5.76%"
+  },
+  "39519": {
+    "localitate": "ITALIA",
+    "nume_sectie": "SCHIO - ALTELE",
+    "totalVoturi": 87,
+    "totalVoturiNS": 2,
+    "procent": "2.30%"
+  },
+  "39520": {
+    "localitate": "JAPONIA",
+    "nume_sectie": "TOKYO - AMBASADĂ",
+    "totalVoturi": 97,
+    "totalVoturiNS": 20,
+    "procent": "20.62%"
+  },
+  "39521": {
+    "localitate": "KAZAHSTAN",
+    "nume_sectie": "ASTANA - AMBASADĂ",
+    "totalVoturi": 14,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39522": {
+    "localitate": "KENYA",
+    "nume_sectie": "NAIROBI - AMBASADĂ",
+    "totalVoturi": 13,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39523": {
+    "localitate": "KUWEIT",
+    "nume_sectie": "KUWEIT - AMBASADĂ",
+    "totalVoturi": 55,
+    "totalVoturiNS": 3,
+    "procent": "5.45%"
+  },
+  "39524": {
+    "localitate": "REPUBLICA LIBANEZĂ",
+    "nume_sectie": "BAABDA - AMBASADĂ",
+    "totalVoturi": 48,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39525": {
+    "localitate": "LITUANIA",
+    "nume_sectie": "VILNIUS - AMBASADĂ",
+    "totalVoturi": 34,
+    "totalVoturiNS": 8,
+    "procent": "23.53%"
+  },
+  "39526": {
+    "localitate": "LETONIA",
+    "nume_sectie": "RIGA - ALTELE",
+    "totalVoturi": 45,
+    "totalVoturiNS": 6,
+    "procent": "13.33%"
+  },
+  "39527": {
+    "localitate": "LUXEMBURG",
+    "nume_sectie": "LUXEMBURG 1 - AMBASADĂ",
+    "totalVoturi": 411,
+    "totalVoturiNS": 29,
+    "procent": "7.06%"
+  },
+  "39528": {
+    "localitate": "LUXEMBURG",
+    "nume_sectie": "LUXEMBURG 2 - ALTELE",
+    "totalVoturi": 317,
+    "totalVoturiNS": 41,
+    "procent": "12.93%"
+  },
+  "39529": {
+    "localitate": "LUXEMBURG",
+    "nume_sectie": "LUXEMBURG 3 - ALTELE",
+    "totalVoturi": 291,
+    "totalVoturiNS": 28,
+    "procent": "9.62%"
+  },
+  "39530": {
+    "localitate": "REPUBLICA MACEDONIA DE NORD",
+    "nume_sectie": "SKOPJE - AMBASADĂ",
+    "totalVoturi": 28,
+    "totalVoturiNS": 2,
+    "procent": "7.14%"
+  },
+  "39531": {
+    "localitate": "MALAYSIA",
+    "nume_sectie": "KUALA LUMPUR - AMBASADĂ",
+    "totalVoturi": 42,
+    "totalVoturiNS": 5,
+    "procent": "11.90%"
+  },
+  "39532": {
+    "localitate": "MALTA",
+    "nume_sectie": "LA VALLETA - ALTELE",
+    "totalVoturi": 286,
+    "totalVoturiNS": 44,
+    "procent": "15.38%"
+  },
+  "39533": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "NEWHAM 1 - ALTELE",
+    "totalVoturi": 135,
+    "totalVoturiNS": 14,
+    "procent": "10.37%"
+  },
+  "39534": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "NEWHAM 2 - ALTELE",
+    "totalVoturi": 345,
+    "totalVoturiNS": 32,
+    "procent": "9.28%"
+  },
+  "39535": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "HARROW 1 - ALTELE",
+    "totalVoturi": 1286,
+    "totalVoturiNS": 44,
+    "procent": "3.42%"
+  },
+  "39536": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "HARROW 2 - ALTELE",
+    "totalVoturi": 1211,
+    "totalVoturiNS": 41,
+    "procent": "3.39%"
+  },
+  "39537": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BRENT 1 - ALTELE",
+    "totalVoturi": 347,
+    "totalVoturiNS": 17,
+    "procent": "4.90%"
+  },
+  "39538": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BRENT 2 - ALTELE",
+    "totalVoturi": 430,
+    "totalVoturiNS": 10,
+    "procent": "2.33%"
+  },
+  "39539": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "REDBRIDGE 1 - ALTELE",
+    "totalVoturi": 376,
+    "totalVoturiNS": 17,
+    "procent": "4.52%"
+  },
+  "39540": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "REDBRIDGE 2 - ALTELE",
+    "totalVoturi": 412,
+    "totalVoturiNS": 10,
+    "procent": "2.43%"
+  },
+  "39541": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "WALTHAM FOREST - ALTELE",
+    "totalVoturi": 387,
+    "totalVoturiNS": 23,
+    "procent": "5.94%"
+  },
+  "39542": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BARKING AND DAGENHAM 1 - ALTELE",
+    "totalVoturi": 471,
+    "totalVoturiNS": 20,
+    "procent": "4.25%"
+  },
+  "39543": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BARKING AND DAGENHAM 2 - ALTELE",
+    "totalVoturi": 189,
+    "totalVoturiNS": 10,
+    "procent": "5.29%"
+  },
+  "39544": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BARNET - ALTELE",
+    "totalVoturi": 155,
+    "totalVoturiNS": 12,
+    "procent": "7.74%"
+  },
+  "39545": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "LUTON 1 - ALTELE",
+    "totalVoturi": 298,
+    "totalVoturiNS": 14,
+    "procent": "4.70%"
+  },
+  "39546": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "LUTON 2 - ALTELE",
+    "totalVoturi": 479,
+    "totalVoturiNS": 33,
+    "procent": "6.89%"
+  },
+  "39547": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "PETERBOROUGH - ALTELE",
+    "totalVoturi": 494,
+    "totalVoturiNS": 23,
+    "procent": "4.66%"
+  },
+  "39548": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "HOUNSLOW 1 - ALTELE",
+    "totalVoturi": 86,
+    "totalVoturiNS": 12,
+    "procent": "13.95%"
+  },
+  "39549": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "HOUNSLOW 2 - ALTELE",
+    "totalVoturi": 402,
+    "totalVoturiNS": 24,
+    "procent": "5.97%"
+  },
+  "39550": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "IPSWICH - ALTELE",
+    "totalVoturi": 324,
+    "totalVoturiNS": 7,
+    "procent": "2.16%"
+  },
+  "39551": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "HARINGEY - ALTELE",
+    "totalVoturi": 403,
+    "totalVoturiNS": 48,
+    "procent": "11.91%"
+  },
+  "39552": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "ENFIELD - ALTELE",
+    "totalVoturi": 258,
+    "totalVoturiNS": 11,
+    "procent": "4.26%"
+  },
+  "39553": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "GREENWICH - ALTELE",
+    "totalVoturi": 210,
+    "totalVoturiNS": 29,
+    "procent": "13.81%"
+  },
+  "39554": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "HAVERING - ALTELE",
+    "totalVoturi": 285,
+    "totalVoturiNS": 14,
+    "procent": "4.91%"
+  },
+  "39555": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "MILTON KEYNES - ALTELE",
+    "totalVoturi": 691,
+    "totalVoturiNS": 35,
+    "procent": "5.07%"
+  },
+  "39556": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "EALING - ALTELE",
+    "totalVoturi": 126,
+    "totalVoturiNS": 22,
+    "procent": "17.46%"
+  },
+  "39557": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "CROYDON - ALTELE",
+    "totalVoturi": 311,
+    "totalVoturiNS": 18,
+    "procent": "5.79%"
+  },
+  "39558": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "ROMFORD - ALTELE",
+    "totalVoturi": 544,
+    "totalVoturiNS": 39,
+    "procent": "7.17%"
+  },
+  "39559": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "SOUTHHAMPTON - ALTELE",
+    "totalVoturi": 280,
+    "totalVoturiNS": 26,
+    "procent": "9.29%"
+  },
+  "39560": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "WILTSHIRE (BATH) - ALTELE",
+    "totalVoturi": 96,
+    "totalVoturiNS": 10,
+    "procent": "10.42%"
+  },
+  "39561": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BRISTOL 1 - ALTELE",
+    "totalVoturi": 220,
+    "totalVoturiNS": 32,
+    "procent": "14.55%"
+  },
+  "39562": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BRISTOL 2 - ALTELE",
+    "totalVoturi": 202,
+    "totalVoturiNS": 18,
+    "procent": "8.91%"
+  },
+  "39563": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BOURNEMOUTH - ALTELE",
+    "totalVoturi": 294,
+    "totalVoturiNS": 11,
+    "procent": "3.74%"
+  },
+  "39564": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "WATFORD - ALTELE",
+    "totalVoturi": 526,
+    "totalVoturiNS": 30,
+    "procent": "5.70%"
+  },
+  "39565": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "WESTMINSTER 1 - ICR",
+    "totalVoturi": 404,
+    "totalVoturiNS": 79,
+    "procent": "19.55%"
+  },
+  "39566": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "WESTMINSTER 2 - ICR",
+    "totalVoturi": 351,
+    "totalVoturiNS": 87,
+    "procent": "24.79%"
+  },
+  "39567": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "CRAWLEY - ALTELE",
+    "totalVoturi": 312,
+    "totalVoturiNS": 19,
+    "procent": "6.09%"
+  },
+  "39568": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "OXFORD - ALTELE",
+    "totalVoturi": 354,
+    "totalVoturiNS": 62,
+    "procent": "17.51%"
+  },
+  "39569": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "EXETER - ALTELE",
+    "totalVoturi": 122,
+    "totalVoturiNS": 9,
+    "procent": "7.38%"
+  },
+  "39570": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "SWINDON - ALTELE",
+    "totalVoturi": 239,
+    "totalVoturiNS": 16,
+    "procent": "6.69%"
+  },
+  "39571": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "STOKE-ON-TRENT - ALTELE",
+    "totalVoturi": 279,
+    "totalVoturiNS": 15,
+    "procent": "5.38%"
+  },
+  "39572": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "CANTERBURY - ALTELE",
+    "totalVoturi": 267,
+    "totalVoturiNS": 13,
+    "procent": "4.87%"
+  },
+  "39573": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "WORCESTER - ALTELE",
+    "totalVoturi": 246,
+    "totalVoturiNS": 11,
+    "procent": "4.47%"
+  },
+  "39574": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "CARDIFF - ALTELE",
+    "totalVoturi": 172,
+    "totalVoturiNS": 10,
+    "procent": "5.81%"
+  },
+  "39575": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "CAMBRIDGE - ALTELE",
+    "totalVoturi": 314,
+    "totalVoturiNS": 35,
+    "procent": "11.15%"
+  },
+  "39576": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "WOKING - ALTELE",
+    "totalVoturi": 335,
+    "totalVoturiNS": 14,
+    "procent": "4.18%"
+  },
+  "39577": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BRIGHTON AND HOVE - ALTELE",
+    "totalVoturi": 151,
+    "totalVoturiNS": 25,
+    "procent": "16.56%"
+  },
+  "39578": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "KINGSTON UPON  THAMES - ALTELE",
+    "totalVoturi": 110,
+    "totalVoturiNS": 7,
+    "procent": "6.36%"
+  },
+  "39579": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "TOWER HAMLETS - ALTELE",
+    "totalVoturi": 62,
+    "totalVoturiNS": 15,
+    "procent": "24.19%"
+  },
+  "39580": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "KENSINGTON CHELSEA - ALTELE",
+    "totalVoturi": 253,
+    "totalVoturiNS": 61,
+    "procent": "24.11%"
+  },
+  "39581": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "HILLINGDON - ALTELE",
+    "totalVoturi": 181,
+    "totalVoturiNS": 21,
+    "procent": "11.60%"
+  },
+  "39582": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "LEWISHAM - ALTELE",
+    "totalVoturi": 228,
+    "totalVoturiNS": 29,
+    "procent": "12.72%"
+  },
+  "39583": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BEDFORD - ALTELE",
+    "totalVoturi": 190,
+    "totalVoturiNS": 7,
+    "procent": "3.68%"
+  },
+  "39584": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "MERTON - ALTELE",
+    "totalVoturi": 210,
+    "totalVoturiNS": 13,
+    "procent": "6.19%"
+  },
+  "39585": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "HEREFORD - ALTELE",
+    "totalVoturi": 142,
+    "totalVoturiNS": 4,
+    "procent": "2.82%"
+  },
+  "39586": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "PORTSMOUTH - ALTELE",
+    "totalVoturi": 262,
+    "totalVoturiNS": 23,
+    "procent": "8.78%"
+  },
+  "39587": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "COLCHESTER - ALTELE",
+    "totalVoturi": 370,
+    "totalVoturiNS": 23,
+    "procent": "6.22%"
+  },
+  "39588": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "MAIDSTONE - ALTELE",
+    "totalVoturi": 258,
+    "totalVoturiNS": 14,
+    "procent": "5.43%"
+  },
+  "39589": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "CORNWALL - ALTELE",
+    "totalVoturi": 65,
+    "totalVoturiNS": 4,
+    "procent": "6.15%"
+  },
+  "39590": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BROMLEY - ALTELE",
+    "totalVoturi": 107,
+    "totalVoturiNS": 7,
+    "procent": "6.54%"
+  },
+  "39591": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "SOUTHWARK - ALTELE",
+    "totalVoturi": 349,
+    "totalVoturiNS": 90,
+    "procent": "25.79%"
+  },
+  "39592": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "EPPING - ALTELE",
+    "totalVoturi": 202,
+    "totalVoturiNS": 8,
+    "procent": "3.96%"
+  },
+  "39593": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "PLYMOUTH 1 - ALTELE",
+    "totalVoturi": 110,
+    "totalVoturiNS": 5,
+    "procent": "4.55%"
+  },
+  "39594": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "PLYMOUTH 2 - ALTELE",
+    "totalVoturi": 97,
+    "totalVoturiNS": 6,
+    "procent": "6.19%"
+  },
+  "39595": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "SWANSEA - ALTELE",
+    "totalVoturi": 121,
+    "totalVoturiNS": 13,
+    "procent": "10.74%"
+  },
+  "39596": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "NORWICH - ALTELE",
+    "totalVoturi": 200,
+    "totalVoturiNS": 6,
+    "procent": "3.00%"
+  },
+  "39597": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "WANDSWORTH - ALTELE",
+    "totalVoturi": 111,
+    "totalVoturiNS": 19,
+    "procent": "17.12%"
+  },
+  "39598": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "TAUNTON - ALTELE",
+    "totalVoturi": 264,
+    "totalVoturiNS": 8,
+    "procent": "3.03%"
+  },
+  "39599": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "READING - ALTELE",
+    "totalVoturi": 570,
+    "totalVoturiNS": 23,
+    "procent": "4.04%"
+  },
+  "39600": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "WINCHESTER - ALTELE",
+    "totalVoturi": 60,
+    "totalVoturiNS": 1,
+    "procent": "1.67%"
+  },
+  "39601": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "STEVENAGE - ALTELE",
+    "totalVoturi": 207,
+    "totalVoturiNS": 14,
+    "procent": "6.76%"
+  },
+  "39602": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "WARWICK - ALTELE",
+    "totalVoturi": 244,
+    "totalVoturiNS": 18,
+    "procent": "7.38%"
+  },
+  "39603": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "GLOUCESTER - ALTELE",
+    "totalVoturi": 181,
+    "totalVoturiNS": 8,
+    "procent": "4.42%"
+  },
+  "39604": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "JERSEY - ALTELE",
+    "totalVoturi": 95,
+    "totalVoturiNS": 6,
+    "procent": "6.32%"
+  },
+  "39605": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "FINCHLEY - ALTELE",
+    "totalVoturi": 158,
+    "totalVoturiNS": 19,
+    "procent": "12.03%"
+  },
+  "39606": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BEXLEY - ALTELE",
+    "totalVoturi": 252,
+    "totalVoturiNS": 11,
+    "procent": "4.37%"
+  },
+  "39607": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "CANARY WHARF - ALTELE",
+    "totalVoturi": 274,
+    "totalVoturiNS": 76,
+    "procent": "27.74%"
+  },
+  "39608": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "MANCHESTER 1 - CONSULAT GENERAL",
+    "totalVoturi": 539,
+    "totalVoturiNS": 127,
+    "procent": "23.56%"
+  },
+  "39609": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "GREATER MANCHESTER - BOLTON - ALTELE",
+    "totalVoturi": 107,
+    "totalVoturiNS": 5,
+    "procent": "4.67%"
+  },
+  "39610": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "NEWCASTLE UPON TYNE - ALTELE",
+    "totalVoturi": 193,
+    "totalVoturiNS": 25,
+    "procent": "12.95%"
+  },
+  "39611": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "LEEDS 1 - ALTELE",
+    "totalVoturi": 259,
+    "totalVoturiNS": 19,
+    "procent": "7.34%"
+  },
+  "39612": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "LEEDS 2 - ALTELE",
+    "totalVoturi": 187,
+    "totalVoturiNS": 33,
+    "procent": "17.65%"
+  },
+  "39613": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "LIVERPOOL - ALTELE",
+    "totalVoturi": 353,
+    "totalVoturiNS": 30,
+    "procent": "8.50%"
+  },
+  "39614": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "PRESTON - ALTELE",
+    "totalVoturi": 281,
+    "totalVoturiNS": 14,
+    "procent": "4.98%"
+  },
+  "39615": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "HULL - ALTELE",
+    "totalVoturi": 284,
+    "totalVoturiNS": 11,
+    "procent": "3.87%"
+  },
+  "39616": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "DONCASTER - ALTELE",
+    "totalVoturi": 602,
+    "totalVoturiNS": 41,
+    "procent": "6.81%"
+  },
+  "39617": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "NOTTINGHAM - ALTELE",
+    "totalVoturi": 390,
+    "totalVoturiNS": 31,
+    "procent": "7.95%"
+  },
+  "39618": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "LOUGHBOROUGH - ALTELE",
+    "totalVoturi": 169,
+    "totalVoturiNS": 14,
+    "procent": "8.28%"
+  },
+  "39619": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "LEICESTER - ALTELE",
+    "totalVoturi": 339,
+    "totalVoturiNS": 13,
+    "procent": "3.83%"
+  },
+  "39620": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "WOLVERHAMPTON - ALTELE",
+    "totalVoturi": 372,
+    "totalVoturiNS": 14,
+    "procent": "3.76%"
+  },
+  "39621": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "WALSALL - ALTELE",
+    "totalVoturi": 289,
+    "totalVoturiNS": 11,
+    "procent": "3.81%"
+  },
+  "39622": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BIRMINGHAM 1 - ALTELE",
+    "totalVoturi": 324,
+    "totalVoturiNS": 34,
+    "procent": "10.49%"
+  },
+  "39623": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BIRMINGHAM 2 - ALTELE",
+    "totalVoturi": 385,
+    "totalVoturiNS": 9,
+    "procent": "2.34%"
+  },
+  "39624": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "COVENTRY 1 - ALTELE",
+    "totalVoturi": 333,
+    "totalVoturiNS": 37,
+    "procent": "11.11%"
+  },
+  "39625": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "COVENTRY 2 - ALTELE",
+    "totalVoturi": 599,
+    "totalVoturiNS": 34,
+    "procent": "5.68%"
+  },
+  "39626": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "NORTHAMPTON 1 - ALTELE",
+    "totalVoturi": 749,
+    "totalVoturiNS": 33,
+    "procent": "4.41%"
+  },
+  "39627": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "NORTHAMPTON 2 - ALTELE",
+    "totalVoturi": 364,
+    "totalVoturiNS": 17,
+    "procent": "4.67%"
+  },
+  "39628": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "EDINBURGH 1 - CONSULAT GENERAL",
+    "totalVoturi": 212,
+    "totalVoturiNS": 30,
+    "procent": "14.15%"
+  },
+  "39629": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "EDINBURGH 2 - ALTELE",
+    "totalVoturi": 108,
+    "totalVoturiNS": 15,
+    "procent": "13.89%"
+  },
+  "39630": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "GLASGOW 1 - ALTELE",
+    "totalVoturi": 217,
+    "totalVoturiNS": 38,
+    "procent": "17.51%"
+  },
+  "39631": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "GLASGOW 2 - ALTELE",
+    "totalVoturi": 151,
+    "totalVoturiNS": 6,
+    "procent": "3.97%"
+  },
+  "39632": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "PERTH - ALTELE",
+    "totalVoturi": 96,
+    "totalVoturiNS": 6,
+    "procent": "6.25%"
+  },
+  "39633": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "ABERDEEN - ALTELE",
+    "totalVoturi": 157,
+    "totalVoturiNS": 11,
+    "procent": "7.01%"
+  },
+  "39634": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BELFAST - ALTELE",
+    "totalVoturi": 207,
+    "totalVoturiNS": 16,
+    "procent": "7.73%"
+  },
+  "39635": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "BALLYMENA - ALTELE",
+    "totalVoturi": 216,
+    "totalVoturiNS": 12,
+    "procent": "5.56%"
+  },
+  "39636": {
+    "localitate": "REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD",
+    "nume_sectie": "PORTADOWN - ALTELE",
+    "totalVoturi": 114,
+    "totalVoturiNS": 2,
+    "procent": "1.75%"
+  },
+  "39637": {
+    "localitate": "REGATUL MAROC",
+    "nume_sectie": "RABAT - AMBASADĂ",
+    "totalVoturi": 32,
+    "totalVoturiNS": 1,
+    "procent": "3.13%"
+  },
+  "39638": {
+    "localitate": "MEXIC",
+    "nume_sectie": "CIUDAD DE MÉXICO - AMBASADĂ",
+    "totalVoturi": 32,
+    "totalVoturiNS": 4,
+    "procent": "12.50%"
+  },
+  "39639": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CHIȘINĂU 1 - CONSULAT GENERAL",
+    "totalVoturi": 1311,
+    "totalVoturiNS": 23,
+    "procent": "1.75%"
+  },
+  "39640": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CHIȘINĂU 2 - CONSULAT GENERAL",
+    "totalVoturi": 1597,
+    "totalVoturiNS": 25,
+    "procent": "1.57%"
+  },
+  "39641": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CHIȘINĂU 3 - CONSULAT GENERAL",
+    "totalVoturi": 1672,
+    "totalVoturiNS": 16,
+    "procent": "0.96%"
+  },
+  "39642": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CHIȘINĂU 4 - ALTELE",
+    "totalVoturi": 525,
+    "totalVoturiNS": 9,
+    "procent": "1.71%"
+  },
+  "39643": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CHIȘINĂU 5 - ALTELE",
+    "totalVoturi": 1321,
+    "totalVoturiNS": 31,
+    "procent": "2.35%"
+  },
+  "39644": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CHIȘINĂU 6 - ALTELE",
+    "totalVoturi": 2038,
+    "totalVoturiNS": 44,
+    "procent": "2.16%"
+  },
+  "39645": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CHIȘINĂU 7 - ALTELE",
+    "totalVoturi": 2003,
+    "totalVoturiNS": 32,
+    "procent": "1.60%"
+  },
+  "39646": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CHIȘINĂU 8 - ALTELE",
+    "totalVoturi": 2170,
+    "totalVoturiNS": 34,
+    "procent": "1.57%"
+  },
+  "39647": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CHIȘINĂU 9 - ALTELE",
+    "totalVoturi": 1852,
+    "totalVoturiNS": 30,
+    "procent": "1.62%"
+  },
+  "39648": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CHIȘINĂU 10 - ALTELE",
+    "totalVoturi": 1688,
+    "totalVoturiNS": 37,
+    "procent": "2.19%"
+  },
+  "39649": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CHIȘINĂU 11 - ALTELE",
+    "totalVoturi": 1511,
+    "totalVoturiNS": 29,
+    "procent": "1.92%"
+  },
+  "39650": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CHIȘINĂU 12 - ALTELE",
+    "totalVoturi": 2074,
+    "totalVoturiNS": 40,
+    "procent": "1.93%"
+  },
+  "39651": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CHIȘINĂU 13 - ALTELE",
+    "totalVoturi": 1945,
+    "totalVoturiNS": 30,
+    "procent": "1.54%"
+  },
+  "39652": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "HÎNCEȘTI - ALTELE",
+    "totalVoturi": 1726,
+    "totalVoturiNS": 5,
+    "procent": "0.29%"
+  },
+  "39653": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "IALOVENI - ALTELE",
+    "totalVoturi": 1994,
+    "totalVoturiNS": 30,
+    "procent": "1.50%"
+  },
+  "39654": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "NISPORENI - ALTELE",
+    "totalVoturi": 1400,
+    "totalVoturiNS": 8,
+    "procent": "0.57%"
+  },
+  "39655": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "ORHEI - ALTELE",
+    "totalVoturi": 2123,
+    "totalVoturiNS": 20,
+    "procent": "0.94%"
+  },
+  "39656": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CĂUȘENI - ALTELE",
+    "totalVoturi": 1347,
+    "totalVoturiNS": 12,
+    "procent": "0.89%"
+  },
+  "39657": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "ANENII NOI - ALTELE",
+    "totalVoturi": 795,
+    "totalVoturiNS": 7,
+    "procent": "0.88%"
+  },
+  "39658": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "BARDAR - ALTELE",
+    "totalVoturi": 445,
+    "totalVoturiNS": 11,
+    "procent": "2.47%"
+  },
+  "39659": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CĂLĂRAȘI - ALTELE",
+    "totalVoturi": 1561,
+    "totalVoturiNS": 15,
+    "procent": "0.96%"
+  },
+  "39660": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "DURLEȘTI - ALTELE",
+    "totalVoturi": 1736,
+    "totalVoturiNS": 18,
+    "procent": "1.04%"
+  },
+  "39661": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "STRĂȘENI - ALTELE",
+    "totalVoturi": 1594,
+    "totalVoturiNS": 31,
+    "procent": "1.94%"
+  },
+  "39662": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "STĂUCENI - ALTELE",
+    "totalVoturi": 1679,
+    "totalVoturiNS": 18,
+    "procent": "1.07%"
+  },
+  "39663": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "BĂCIOI - ALTELE",
+    "totalVoturi": 778,
+    "totalVoturiNS": 8,
+    "procent": "1.03%"
+  },
+  "39664": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "MERENI - ALTELE",
+    "totalVoturi": 648,
+    "totalVoturiNS": 6,
+    "procent": "0.93%"
+  },
+  "39665": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "RĂZENI - ALTELE",
+    "totalVoturi": 536,
+    "totalVoturiNS": 8,
+    "procent": "1.49%"
+  },
+  "39666": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "COSTEȘTI - ALTELE",
+    "totalVoturi": 966,
+    "totalVoturiNS": 3,
+    "procent": "0.31%"
+  },
+  "39667": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "BĂLȚI 1 - CONSULAT GENERAL",
+    "totalVoturi": 810,
+    "totalVoturiNS": 9,
+    "procent": "1.11%"
+  },
+  "39668": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "BĂLȚI 2 - ALTELE",
+    "totalVoturi": 607,
+    "totalVoturiNS": 12,
+    "procent": "1.98%"
+  },
+  "39669": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "BRICENI  - ALTELE",
+    "totalVoturi": 349,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39670": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "OCNIȚA - ALTELE",
+    "totalVoturi": 115,
+    "totalVoturiNS": 1,
+    "procent": "0.87%"
+  },
+  "39671": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "EDINEȚ - ALTELE",
+    "totalVoturi": 773,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39672": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "DONDUȘENI - ALTELE",
+    "totalVoturi": 173,
+    "totalVoturiNS": 2,
+    "procent": "1.16%"
+  },
+  "39673": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "SOROCA - ALTELE",
+    "totalVoturi": 1111,
+    "totalVoturiNS": 12,
+    "procent": "1.08%"
+  },
+  "39674": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "RÎȘCANI - ALTELE",
+    "totalVoturi": 309,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39675": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "DROCHIA - ALTELE",
+    "totalVoturi": 660,
+    "totalVoturiNS": 2,
+    "procent": "0.30%"
+  },
+  "39676": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "FLOREȘTI - ALTELE",
+    "totalVoturi": 844,
+    "totalVoturiNS": 3,
+    "procent": "0.36%"
+  },
+  "39677": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "GLODENI - ALTELE",
+    "totalVoturi": 404,
+    "totalVoturiNS": 8,
+    "procent": "1.98%"
+  },
+  "39678": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "ȘOLDĂNEȘTI - ALTELE",
+    "totalVoturi": 315,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39679": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "SÎNGEREI - ALTELE",
+    "totalVoturi": 670,
+    "totalVoturiNS": 7,
+    "procent": "1.04%"
+  },
+  "39680": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "REZINA - ALTELE",
+    "totalVoturi": 417,
+    "totalVoturiNS": 3,
+    "procent": "0.72%"
+  },
+  "39681": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "UNGHENI - BIROU CONSULAR",
+    "totalVoturi": 1729,
+    "totalVoturiNS": 13,
+    "procent": "0.75%"
+  },
+  "39682": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "FĂLEȘTI - ALTELE",
+    "totalVoturi": 579,
+    "totalVoturiNS": 6,
+    "procent": "1.04%"
+  },
+  "39683": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "TELENEȘTI - ALTELE",
+    "totalVoturi": 951,
+    "totalVoturiNS": 4,
+    "procent": "0.42%"
+  },
+  "39684": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CAHUL - CONSULAT GENERAL",
+    "totalVoturi": 1553,
+    "totalVoturiNS": 4,
+    "procent": "0.26%"
+  },
+  "39685": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CANTEMIR - ALTELE",
+    "totalVoturi": 614,
+    "totalVoturiNS": 13,
+    "procent": "2.12%"
+  },
+  "39686": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "LEOVA - ALTELE",
+    "totalVoturi": 606,
+    "totalVoturiNS": 1,
+    "procent": "0.17%"
+  },
+  "39687": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CIMIȘLIA - ALTELE",
+    "totalVoturi": 772,
+    "totalVoturiNS": 5,
+    "procent": "0.65%"
+  },
+  "39688": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "COMRAT - ALTELE",
+    "totalVoturi": 90,
+    "totalVoturiNS": 1,
+    "procent": "1.11%"
+  },
+  "39689": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "GIURGIULEȘTI - ALTELE",
+    "totalVoturi": 276,
+    "totalVoturiNS": 4,
+    "procent": "1.45%"
+  },
+  "39690": {
+    "localitate": "REPUBLICA MOLDOVA",
+    "nume_sectie": "CARABETOVCA - ALTELE",
+    "totalVoturi": 276,
+    "totalVoturiNS": 1,
+    "procent": "0.36%"
+  },
+  "39691": {
+    "localitate": "MUNTENEGRU",
+    "nume_sectie": "PODGORIȚA - AMBASADĂ",
+    "totalVoturi": 29,
+    "totalVoturiNS": 1,
+    "procent": "3.45%"
+  },
+  "39692": {
+    "localitate": "REPUBLICA FEDERALĂ NIGERIA",
+    "nume_sectie": "ABUJA - AMBASADĂ",
+    "totalVoturi": 12,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39693": {
+    "localitate": "NORVEGIA",
+    "nume_sectie": "OSLO 1 - AMBASADĂ",
+    "totalVoturi": 226,
+    "totalVoturiNS": 16,
+    "procent": "7.08%"
+  },
+  "39694": {
+    "localitate": "NORVEGIA",
+    "nume_sectie": "OSLO 2 - AMBASADĂ",
+    "totalVoturi": 223,
+    "totalVoturiNS": 26,
+    "procent": "11.66%"
+  },
+  "39695": {
+    "localitate": "NORVEGIA",
+    "nume_sectie": "SKODJE (ZONA ALESUND) - ALTELE",
+    "totalVoturi": 66,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39696": {
+    "localitate": "NORVEGIA",
+    "nume_sectie": "STRAUME (ZONA BERGEN) - ALTELE",
+    "totalVoturi": 168,
+    "totalVoturiNS": 7,
+    "procent": "4.17%"
+  },
+  "39697": {
+    "localitate": "NORVEGIA",
+    "nume_sectie": "DRAMMEN - ALTELE",
+    "totalVoturi": 49,
+    "totalVoturiNS": 2,
+    "procent": "4.08%"
+  },
+  "39698": {
+    "localitate": "NORVEGIA",
+    "nume_sectie": "KRISTIANSAND - ALTELE",
+    "totalVoturi": 68,
+    "totalVoturiNS": 3,
+    "procent": "4.41%"
+  },
+  "39699": {
+    "localitate": "NORVEGIA",
+    "nume_sectie": "OPPAKER - ALTELE",
+    "totalVoturi": 58,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39700": {
+    "localitate": "NORVEGIA",
+    "nume_sectie": "STAVANGER - ALTELE",
+    "totalVoturi": 180,
+    "totalVoturiNS": 11,
+    "procent": "6.11%"
+  },
+  "39701": {
+    "localitate": "NORVEGIA",
+    "nume_sectie": "TROMSO - ALTELE",
+    "totalVoturi": 61,
+    "totalVoturiNS": 1,
+    "procent": "1.64%"
+  },
+  "39702": {
+    "localitate": "NORVEGIA",
+    "nume_sectie": "TRONDHEIM - ALTELE",
+    "totalVoturi": 65,
+    "totalVoturiNS": 5,
+    "procent": "7.69%"
+  },
+  "39703": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "AMSTERDAM 1 - ALTELE",
+    "totalVoturi": 507,
+    "totalVoturiNS": 174,
+    "procent": "34.32%"
+  },
+  "39704": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "AMSTERDAM 2 - ALTELE",
+    "totalVoturi": 570,
+    "totalVoturiNS": 218,
+    "procent": "38.25%"
+  },
+  "39705": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "AMSTERDAM 3 - ALTELE",
+    "totalVoturi": 540,
+    "totalVoturiNS": 175,
+    "procent": "32.41%"
+  },
+  "39706": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "HAGA 1 - AMBASADĂ",
+    "totalVoturi": 1363,
+    "totalVoturiNS": 439,
+    "procent": "32.21%"
+  },
+  "39707": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "HAGA 2 - ALTELE",
+    "totalVoturi": 200,
+    "totalVoturiNS": 29,
+    "procent": "14.50%"
+  },
+  "39708": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "HAGA 3 - ALTELE",
+    "totalVoturi": 195,
+    "totalVoturiNS": 23,
+    "procent": "11.79%"
+  },
+  "39709": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "EINDHOVEN 1 - ALTELE",
+    "totalVoturi": 345,
+    "totalVoturiNS": 95,
+    "procent": "27.54%"
+  },
+  "39710": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "EINDHOVEN 2 - ALTELE",
+    "totalVoturi": 317,
+    "totalVoturiNS": 104,
+    "procent": "32.81%"
+  },
+  "39711": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "EINDHOVEN 3 - ALTELE",
+    "totalVoturi": 307,
+    "totalVoturiNS": 108,
+    "procent": "35.18%"
+  },
+  "39712": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "DEN BOSCH 1 - ALTELE",
+    "totalVoturi": 228,
+    "totalVoturiNS": 63,
+    "procent": "27.63%"
+  },
+  "39713": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "DEN BOSCH 2 - ALTELE",
+    "totalVoturi": 189,
+    "totalVoturiNS": 40,
+    "procent": "21.16%"
+  },
+  "39714": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "GRONINGEN 1 - ALTELE",
+    "totalVoturi": 356,
+    "totalVoturiNS": 193,
+    "procent": "54.21%"
+  },
+  "39715": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "GRONINGEN 2 - ALTELE",
+    "totalVoturi": 373,
+    "totalVoturiNS": 210,
+    "procent": "56.30%"
+  },
+  "39716": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "MAASTRICHT - ALTELE",
+    "totalVoturi": 341,
+    "totalVoturiNS": 87,
+    "procent": "25.51%"
+  },
+  "39717": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "ENSCHEDE - ALTELE",
+    "totalVoturi": 396,
+    "totalVoturiNS": 136,
+    "procent": "34.34%"
+  },
+  "39718": {
+    "localitate": "REGATUL ȚĂRILOR DE JOS",
+    "nume_sectie": "BOXTEL - ALTELE",
+    "totalVoturi": 251,
+    "totalVoturiNS": 23,
+    "procent": "9.16%"
+  },
+  "39719": {
+    "localitate": "SULTANATUL OMAN",
+    "nume_sectie": "MUSCAT - AMBASADĂ",
+    "totalVoturi": 23,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39720": {
+    "localitate": "REPUBLICA ISLAMICĂ PAKISTAN",
+    "nume_sectie": "ISLAMABAD - AMBASADĂ",
+    "totalVoturi": 12,
+    "totalVoturiNS": 1,
+    "procent": "8.33%"
+  },
+  "39721": {
+    "localitate": "PALESTINA",
+    "nume_sectie": "RAMALLAH - OFICIU DE REPREZENTARE",
+    "totalVoturi": 11,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39722": {
+    "localitate": "REPUBLICA PERU",
+    "nume_sectie": "LIMA - AMBASADĂ",
+    "totalVoturi": 23,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39723": {
+    "localitate": "POLONIA",
+    "nume_sectie": "VARȘOVIA - AMBASADĂ",
+    "totalVoturi": 285,
+    "totalVoturiNS": 62,
+    "procent": "21.75%"
+  },
+  "39724": {
+    "localitate": "POLONIA",
+    "nume_sectie": "CRACOVIA / MAŁOPOLSKA - ALTELE",
+    "totalVoturi": 150,
+    "totalVoturiNS": 38,
+    "procent": "25.33%"
+  },
+  "39725": {
+    "localitate": "POLONIA",
+    "nume_sectie": "WROCŁAW/ DOLNOSLASKIE - ALTELE",
+    "totalVoturi": 49,
+    "totalVoturiNS": 13,
+    "procent": "26.53%"
+  },
+  "39726": {
+    "localitate": "POLONIA",
+    "nume_sectie": "GDAŃSK/ POMERANIA - ALTELE",
+    "totalVoturi": 99,
+    "totalVoturiNS": 12,
+    "procent": "12.12%"
+  },
+  "39727": {
+    "localitate": "PORTUGALIA",
+    "nume_sectie": "LISABONA 1 - AMBASADĂ",
+    "totalVoturi": 141,
+    "totalVoturiNS": 10,
+    "procent": "7.09%"
+  },
+  "39728": {
+    "localitate": "PORTUGALIA",
+    "nume_sectie": "LISABONA 2 - SECȚIE CONSULARĂ",
+    "totalVoturi": 167,
+    "totalVoturiNS": 17,
+    "procent": "10.18%"
+  },
+  "39729": {
+    "localitate": "PORTUGALIA",
+    "nume_sectie": "LISABONA 3 - ICR",
+    "totalVoturi": 94,
+    "totalVoturiNS": 19,
+    "procent": "20.21%"
+  },
+  "39730": {
+    "localitate": "PORTUGALIA",
+    "nume_sectie": "PORTO - ALTELE",
+    "totalVoturi": 153,
+    "totalVoturiNS": 57,
+    "procent": "37.25%"
+  },
+  "39731": {
+    "localitate": "PORTUGALIA",
+    "nume_sectie": "SANTARÉM - ALTELE",
+    "totalVoturi": 30,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39732": {
+    "localitate": "PORTUGALIA",
+    "nume_sectie": "SETÚBAL - ALTELE",
+    "totalVoturi": 54,
+    "totalVoturiNS": 3,
+    "procent": "5.56%"
+  },
+  "39733": {
+    "localitate": "PORTUGALIA",
+    "nume_sectie": "LOULÉ - ALTELE",
+    "totalVoturi": 105,
+    "totalVoturiNS": 1,
+    "procent": "0.95%"
+  },
+  "39734": {
+    "localitate": "PORTUGALIA",
+    "nume_sectie": "TAVIRA - ALTELE",
+    "totalVoturi": 26,
+    "totalVoturiNS": 2,
+    "procent": "7.69%"
+  },
+  "39735": {
+    "localitate": "PORTUGALIA",
+    "nume_sectie": "LAGOS - ALTELE",
+    "totalVoturi": 48,
+    "totalVoturiNS": 2,
+    "procent": "4.17%"
+  },
+  "39736": {
+    "localitate": "QATAR",
+    "nume_sectie": "DOHA - SECȚIE CONSULARĂ",
+    "totalVoturi": 81,
+    "totalVoturiNS": 5,
+    "procent": "6.17%"
+  },
+  "39737": {
+    "localitate": "FEDERAȚIA RUSĂ",
+    "nume_sectie": "MOSCOVA - AMBASADĂ",
+    "totalVoturi": 41,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39738": {
+    "localitate": "FEDERAȚIA RUSĂ",
+    "nume_sectie": "SANKT PETERSBURG - CONSULAT GENERAL",
+    "totalVoturi": 8,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39739": {
+    "localitate": "SENEGAL",
+    "nume_sectie": "DAKAR - AMBASADĂ",
+    "totalVoturi": 10,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39740": {
+    "localitate": "REPUBLICA SERBIA",
+    "nume_sectie": "BELGRAD - AMBASADĂ",
+    "totalVoturi": 62,
+    "totalVoturiNS": 6,
+    "procent": "9.68%"
+  },
+  "39741": {
+    "localitate": "REPUBLICA SERBIA",
+    "nume_sectie": "VÂRȘEȚ - CONSULAT GENERAL",
+    "totalVoturi": 72,
+    "totalVoturiNS": 1,
+    "procent": "1.39%"
+  },
+  "39742": {
+    "localitate": "REPUBLICA SERBIA",
+    "nume_sectie": "ZAJEČAR - CONSULAT GENERAL",
+    "totalVoturi": 26,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39743": {
+    "localitate": "REPUBLICA SERBIA",
+    "nume_sectie": "PRIȘTINA - BIROU DE LEGĂTURĂ",
+    "totalVoturi": 81,
+    "totalVoturiNS": 6,
+    "procent": "7.41%"
+  },
+  "39744": {
+    "localitate": "REPUBLICA SINGAPORE",
+    "nume_sectie": "SINGAPORE - SECȚIE CONSULARĂ",
+    "totalVoturi": 86,
+    "totalVoturiNS": 8,
+    "procent": "9.30%"
+  },
+  "39745": {
+    "localitate": "REPUBLICA ARABĂ SIRIANĂ",
+    "nume_sectie": "DAMASC - AMBASADĂ",
+    "totalVoturi": 20,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39746": {
+    "localitate": "REPUBLICA SLOVACĂ",
+    "nume_sectie": "BRATISLAVA - AMBASADĂ",
+    "totalVoturi": 128,
+    "totalVoturiNS": 21,
+    "procent": "16.41%"
+  },
+  "39747": {
+    "localitate": "SLOVENIA",
+    "nume_sectie": "LJUBLJANA - AMBASADĂ",
+    "totalVoturi": 58,
+    "totalVoturiNS": 9,
+    "procent": "15.52%"
+  },
+  "39748": {
+    "localitate": "SPANIA",
+    "nume_sectie": "MADRID 1 - AMBASADĂ",
+    "totalVoturi": 165,
+    "totalVoturiNS": 12,
+    "procent": "7.27%"
+  },
+  "39749": {
+    "localitate": "SPANIA",
+    "nume_sectie": "MADRID 2 - AMBASADĂ",
+    "totalVoturi": 165,
+    "totalVoturiNS": 15,
+    "procent": "9.09%"
+  },
+  "39750": {
+    "localitate": "SPANIA",
+    "nume_sectie": "MADRID 3 - CONSULAT GENERAL",
+    "totalVoturi": 403,
+    "totalVoturiNS": 5,
+    "procent": "1.24%"
+  },
+  "39751": {
+    "localitate": "SPANIA",
+    "nume_sectie": "MADRID 4 - CONSULAT GENERAL",
+    "totalVoturi": 252,
+    "totalVoturiNS": 6,
+    "procent": "2.38%"
+  },
+  "39752": {
+    "localitate": "SPANIA",
+    "nume_sectie": "MADRID 5 - ICR",
+    "totalVoturi": 257,
+    "totalVoturiNS": 49,
+    "procent": "19.07%"
+  },
+  "39753": {
+    "localitate": "SPANIA",
+    "nume_sectie": "MADRID 6 - ALTELE",
+    "totalVoturi": 101,
+    "totalVoturiNS": 1,
+    "procent": "0.99%"
+  },
+  "39754": {
+    "localitate": "SPANIA",
+    "nume_sectie": "MADRID 7 - ALTELE",
+    "totalVoturi": 217,
+    "totalVoturiNS": 4,
+    "procent": "1.84%"
+  },
+  "39755": {
+    "localitate": "SPANIA",
+    "nume_sectie": "COSLADA 1 - ALTELE",
+    "totalVoturi": 178,
+    "totalVoturiNS": 4,
+    "procent": "2.25%"
+  },
+  "39756": {
+    "localitate": "SPANIA",
+    "nume_sectie": "COSLADA 2 - ALTELE",
+    "totalVoturi": 77,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39757": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALCALA DE HENARES 1 - ALTELE",
+    "totalVoturi": 299,
+    "totalVoturiNS": 4,
+    "procent": "1.34%"
+  },
+  "39758": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALCALA DE HENARES 2 - ALTELE",
+    "totalVoturi": 281,
+    "totalVoturiNS": 1,
+    "procent": "0.36%"
+  },
+  "39759": {
+    "localitate": "SPANIA",
+    "nume_sectie": "SAN FERNANDO DE HENARES - ALTELE",
+    "totalVoturi": 267,
+    "totalVoturiNS": 2,
+    "procent": "0.75%"
+  },
+  "39760": {
+    "localitate": "SPANIA",
+    "nume_sectie": "TORREJÓN DE ARDOZ 1 - ALTELE",
+    "totalVoturi": 147,
+    "totalVoturiNS": 3,
+    "procent": "2.04%"
+  },
+  "39761": {
+    "localitate": "SPANIA",
+    "nume_sectie": "TORREJÓN DE ARDOZ 2 - ALTELE",
+    "totalVoturi": 166,
+    "totalVoturiNS": 1,
+    "procent": "0.60%"
+  },
+  "39762": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ARGANDA DEL REY 1 - ALTELE",
+    "totalVoturi": 160,
+    "totalVoturiNS": 5,
+    "procent": "3.13%"
+  },
+  "39763": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ARGANDA DEL REY 2 - ALTELE",
+    "totalVoturi": 176,
+    "totalVoturiNS": 5,
+    "procent": "2.84%"
+  },
+  "39764": {
+    "localitate": "SPANIA",
+    "nume_sectie": "MÓSTOLES - ALTELE",
+    "totalVoturi": 168,
+    "totalVoturiNS": 1,
+    "procent": "0.60%"
+  },
+  "39765": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALCORCÓN - ALTELE",
+    "totalVoturi": 106,
+    "totalVoturiNS": 7,
+    "procent": "6.60%"
+  },
+  "39766": {
+    "localitate": "SPANIA",
+    "nume_sectie": "LEGANÉS - ALTELE",
+    "totalVoturi": 127,
+    "totalVoturiNS": 3,
+    "procent": "2.36%"
+  },
+  "39767": {
+    "localitate": "SPANIA",
+    "nume_sectie": "FUENLABRADA - ALTELE",
+    "totalVoturi": 145,
+    "totalVoturiNS": 5,
+    "procent": "3.45%"
+  },
+  "39768": {
+    "localitate": "SPANIA",
+    "nume_sectie": "GETAFE - ALTELE",
+    "totalVoturi": 206,
+    "totalVoturiNS": 4,
+    "procent": "1.94%"
+  },
+  "39769": {
+    "localitate": "SPANIA",
+    "nume_sectie": "GUADALAJARA - ALTELE",
+    "totalVoturi": 212,
+    "totalVoturiNS": 2,
+    "procent": "0.94%"
+  },
+  "39770": {
+    "localitate": "SPANIA",
+    "nume_sectie": "AZUQUECA DE HENARES - ALTELE",
+    "totalVoturi": 120,
+    "totalVoturiNS": 3,
+    "procent": "2.50%"
+  },
+  "39771": {
+    "localitate": "SPANIA",
+    "nume_sectie": "SAN SEBASTIAN DE LOS REYES - ALTELE",
+    "totalVoturi": 194,
+    "totalVoturiNS": 10,
+    "procent": "5.15%"
+  },
+  "39772": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ARANJUEZ - ALTELE",
+    "totalVoturi": 111,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39773": {
+    "localitate": "SPANIA",
+    "nume_sectie": "RIVAS VACIAMADRID - ALTELE",
+    "totalVoturi": 94,
+    "totalVoturiNS": 1,
+    "procent": "1.06%"
+  },
+  "39774": {
+    "localitate": "SPANIA",
+    "nume_sectie": "VELILLA DE SAN ANTONIO - ALTELE",
+    "totalVoturi": 80,
+    "totalVoturiNS": 2,
+    "procent": "2.50%"
+  },
+  "39775": {
+    "localitate": "SPANIA",
+    "nume_sectie": "VALDEMORO - ALTELE",
+    "totalVoturi": 154,
+    "totalVoturiNS": 3,
+    "procent": "1.95%"
+  },
+  "39776": {
+    "localitate": "SPANIA",
+    "nume_sectie": "PINTO - ALTELE",
+    "totalVoturi": 93,
+    "totalVoturiNS": 6,
+    "procent": "6.45%"
+  },
+  "39777": {
+    "localitate": "SPANIA",
+    "nume_sectie": "BRUNETE - ALTELE",
+    "totalVoturi": 142,
+    "totalVoturiNS": 3,
+    "procent": "2.11%"
+  },
+  "39778": {
+    "localitate": "SPANIA",
+    "nume_sectie": "COLLADO VILLALBA - ALTELE",
+    "totalVoturi": 109,
+    "totalVoturiNS": 2,
+    "procent": "1.83%"
+  },
+  "39779": {
+    "localitate": "SPANIA",
+    "nume_sectie": "SAN MARTIN DE LA VEGA - ALTELE",
+    "totalVoturi": 115,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39780": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ÁVILA - ALTELE",
+    "totalVoturi": 62,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39781": {
+    "localitate": "SPANIA",
+    "nume_sectie": "VALLADOLID - ALTELE",
+    "totalVoturi": 131,
+    "totalVoturiNS": 3,
+    "procent": "2.29%"
+  },
+  "39782": {
+    "localitate": "SPANIA",
+    "nume_sectie": "LAS PALMAS DE GRAN CANARIA - ALTELE",
+    "totalVoturi": 52,
+    "totalVoturiNS": 2,
+    "procent": "3.85%"
+  },
+  "39783": {
+    "localitate": "SPANIA",
+    "nume_sectie": "MASPALOMAS - ALTELE",
+    "totalVoturi": 55,
+    "totalVoturiNS": 2,
+    "procent": "3.64%"
+  },
+  "39784": {
+    "localitate": "SPANIA",
+    "nume_sectie": "SANTA CRUZ DE TENERIFE - ALTELE",
+    "totalVoturi": 101,
+    "totalVoturiNS": 15,
+    "procent": "14.85%"
+  },
+  "39785": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ADEJE - ALTELE",
+    "totalVoturi": 176,
+    "totalVoturiNS": 12,
+    "procent": "6.82%"
+  },
+  "39786": {
+    "localitate": "SPANIA",
+    "nume_sectie": "SALAMANCA - ALTELE",
+    "totalVoturi": 30,
+    "totalVoturiNS": 2,
+    "procent": "6.67%"
+  },
+  "39787": {
+    "localitate": "SPANIA",
+    "nume_sectie": "LEON - ALTELE",
+    "totalVoturi": 62,
+    "totalVoturiNS": 2,
+    "procent": "3.23%"
+  },
+  "39788": {
+    "localitate": "SPANIA",
+    "nume_sectie": "SORIA - ALTELE",
+    "totalVoturi": 39,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "39789": {
+    "localitate": "SPANIA",
+    "nume_sectie": "BARCELONA 1 - ALTELE",
+    "totalVoturi": 215,
+    "totalVoturiNS": 25,
+    "procent": "11.63%"
+  },
+  "39790": {
+    "localitate": "SPANIA",
+    "nume_sectie": "BARCELONA 2 - ALTELE",
+    "totalVoturi": 188,
+    "totalVoturiNS": 36,
+    "procent": "19.15%"
+  },
+  "39791": {
+    "localitate": "SPANIA",
+    "nume_sectie": "BARCELONA 3 - ALTELE",
+    "totalVoturi": 384,
+    "totalVoturiNS": 80,
+    "procent": "20.83%"
+  },
+  "39792": {
+    "localitate": "SPANIA",
+    "nume_sectie": "FIGUERES - ALTELE",
+    "totalVoturi": 195,
+    "totalVoturiNS": 9,
+    "procent": "4.62%"
+  },
+  "39793": {
+    "localitate": "SPANIA",
+    "nume_sectie": "LLEIDA 1 - ALTELE",
+    "totalVoturi": 283,
+    "totalVoturiNS": 6,
+    "procent": "2.12%"
+  },
+  "39794": {
+    "localitate": "SPANIA",
+    "nume_sectie": "LLEIDA 2 - ALTELE",
+    "totalVoturi": 224,
+    "totalVoturiNS": 5,
+    "procent": "2.23%"
+  },
+  "39795": {
+    "localitate": "SPANIA",
+    "nume_sectie": "GIRONA 1 - ALTELE",
+    "totalVoturi": 182,
+    "totalVoturiNS": 6,
+    "procent": "3.30%"
+  },
+  "39796": {
+    "localitate": "SPANIA",
+    "nume_sectie": "GIRONA 2 - ALTELE",
+    "totalVoturi": 54,
+    "totalVoturiNS": 3,
+    "procent": "5.56%"
+  },
+  "39797": {
+    "localitate": "SPANIA",
+    "nume_sectie": "GUISSONA - ALTELE",
+    "totalVoturi": 113,
+    "totalVoturiNS": 1,
+    "procent": "0.88%"
+  },
+  "39798": {
+    "localitate": "SPANIA",
+    "nume_sectie": "LLORET DE MAR - ALTELE",
+    "totalVoturi": 158,
+    "totalVoturiNS": 5,
+    "procent": "3.16%"
+  },
+  "39799": {
+    "localitate": "SPANIA",
+    "nume_sectie": "MANRESA - ALTELE",
+    "totalVoturi": 125,
+    "totalVoturiNS": 3,
+    "procent": "2.40%"
+  },
+  "39800": {
+    "localitate": "SPANIA",
+    "nume_sectie": "REUS - ALTELE",
+    "totalVoturi": 232,
+    "totalVoturiNS": 2,
+    "procent": "0.86%"
+  },
+  "40077": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - SABADELL",
+    "totalVoturi": 231,
+    "totalVoturiNS": 5,
+    "procent": "2.16%"
+  },
+  "40078": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - TARRAGONA 1",
+    "totalVoturi": 76,
+    "totalVoturiNS": 4,
+    "procent": "5.26%"
+  },
+  "40079": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - TARRAGONA 2",
+    "totalVoturi": 114,
+    "totalVoturiNS": 6,
+    "procent": "5.26%"
+  },
+  "40080": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - TARREGA",
+    "totalVoturi": 64,
+    "totalVoturiNS": 1,
+    "procent": "1.56%"
+  },
+  "40081": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - TORTOSA",
+    "totalVoturi": 109,
+    "totalVoturiNS": 3,
+    "procent": "2.75%"
+  },
+  "40082": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - VILANOVA I LA GELTRU",
+    "totalVoturi": 155,
+    "totalVoturiNS": 11,
+    "procent": "7.10%"
+  },
+  "40083": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - PALMA DE MALLORCA 1",
+    "totalVoturi": 132,
+    "totalVoturiNS": 7,
+    "procent": "5.30%"
+  },
+  "40084": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - PALMA DE MALLORCA 2",
+    "totalVoturi": 114,
+    "totalVoturiNS": 6,
+    "procent": "5.26%"
+  },
+  "40085": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - IBIZA 1",
+    "totalVoturi": 81,
+    "totalVoturiNS": 1,
+    "procent": "1.23%"
+  },
+  "40086": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - IBIZA 2",
+    "totalVoturi": 113,
+    "totalVoturiNS": 6,
+    "procent": "5.31%"
+  },
+  "40087": {
+    "localitate": "SPANIA",
+    "nume_sectie": "CONSULAT GENERAL - BILBAO 1",
+    "totalVoturi": 128,
+    "totalVoturiNS": 3,
+    "procent": "2.34%"
+  },
+  "40088": {
+    "localitate": "SPANIA",
+    "nume_sectie": "CONSULAT GENERAL - BILBAO 2",
+    "totalVoturi": 126,
+    "totalVoturiNS": 1,
+    "procent": "0.79%"
+  },
+  "40089": {
+    "localitate": "SPANIA",
+    "nume_sectie": "CONSULAT GENERAL - BILBAO 3",
+    "totalVoturi": 79,
+    "totalVoturiNS": 1,
+    "procent": "1.27%"
+  },
+  "40090": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - LOGRONO 1",
+    "totalVoturi": 97,
+    "totalVoturiNS": 1,
+    "procent": "1.03%"
+  },
+  "40091": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - LOGRONO 2",
+    "totalVoturi": 97,
+    "totalVoturiNS": 1,
+    "procent": "1.03%"
+  },
+  "40092": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - LOGRONO 3",
+    "totalVoturi": 101,
+    "totalVoturiNS": 2,
+    "procent": "1.98%"
+  },
+  "40093": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - CALAHORRA",
+    "totalVoturi": 101,
+    "totalVoturiNS": 5,
+    "procent": "4.95%"
+  },
+  "40094": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - PAMPLONA 1",
+    "totalVoturi": 130,
+    "totalVoturiNS": 1,
+    "procent": "0.77%"
+  },
+  "40095": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - PAMPLONA 2",
+    "totalVoturi": 109,
+    "totalVoturiNS": 3,
+    "procent": "2.75%"
+  },
+  "40096": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - BURGOS 1",
+    "totalVoturi": 129,
+    "totalVoturiNS": 3,
+    "procent": "2.33%"
+  },
+  "40097": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - BURGOS 2",
+    "totalVoturi": 97,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40098": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - OVIEDO",
+    "totalVoturi": 79,
+    "totalVoturiNS": 4,
+    "procent": "5.06%"
+  },
+  "40099": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - GIJON",
+    "totalVoturi": 113,
+    "totalVoturiNS": 2,
+    "procent": "1.77%"
+  },
+  "40100": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - VIGO",
+    "totalVoturi": 38,
+    "totalVoturiNS": 1,
+    "procent": "2.63%"
+  },
+  "40101": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - SAN SEBASTIAN",
+    "totalVoturi": 233,
+    "totalVoturiNS": 4,
+    "procent": "1.72%"
+  },
+  "40102": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - SANTANDER 1",
+    "totalVoturi": 83,
+    "totalVoturiNS": 5,
+    "procent": "6.02%"
+  },
+  "40103": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - SANTANDER 2",
+    "totalVoturi": 86,
+    "totalVoturiNS": 1,
+    "procent": "1.16%"
+  },
+  "40104": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - SEVILLA",
+    "totalVoturi": 125,
+    "totalVoturiNS": 12,
+    "procent": "9.60%"
+  },
+  "40105": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ALMONTE",
+    "totalVoturi": 61,
+    "totalVoturiNS": 1,
+    "procent": "1.64%"
+  },
+  "40106": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ROCIANA DEL CONDADO",
+    "totalVoturi": 62,
+    "totalVoturiNS": 1,
+    "procent": "1.61%"
+  },
+  "40107": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - PALOS DE LA FRONTERA",
+    "totalVoturi": 116,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40108": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - MOGUER",
+    "totalVoturi": 61,
+    "totalVoturiNS": 3,
+    "procent": "4.92%"
+  },
+  "40109": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - HUELVA",
+    "totalVoturi": 42,
+    "totalVoturiNS": 2,
+    "procent": "4.76%"
+  },
+  "40110": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ISLANTILLA",
+    "totalVoturi": 66,
+    "totalVoturiNS": 1,
+    "procent": "1.52%"
+  },
+  "40111": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - JEREZ DE LA FRONTERA",
+    "totalVoturi": 22,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40112": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - MALAGA 1",
+    "totalVoturi": 175,
+    "totalVoturiNS": 26,
+    "procent": "14.86%"
+  },
+  "40113": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - MALAGA 2",
+    "totalVoturi": 106,
+    "totalVoturiNS": 12,
+    "procent": "11.32%"
+  },
+  "40114": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - VELEZ MALAGA",
+    "totalVoturi": 47,
+    "totalVoturiNS": 2,
+    "procent": "4.26%"
+  },
+  "40115": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - MARBELLA",
+    "totalVoturi": 136,
+    "totalVoturiNS": 10,
+    "procent": "7.35%"
+  },
+  "40116": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - MANILVA",
+    "totalVoturi": 90,
+    "totalVoturiNS": 6,
+    "procent": "6.67%"
+  },
+  "40117": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - CORDOBA",
+    "totalVoturi": 56,
+    "totalVoturiNS": 10,
+    "procent": "17.86%"
+  },
+  "40118": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ALMENDRALEJO",
+    "totalVoturi": 67,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40119": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - BADAJOZ",
+    "totalVoturi": 15,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40120": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ZARAGOZA 1",
+    "totalVoturi": 145,
+    "totalVoturiNS": 4,
+    "procent": "2.76%"
+  },
+  "40121": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ZARAGOZA 2",
+    "totalVoturi": 299,
+    "totalVoturiNS": 4,
+    "procent": "1.34%"
+  },
+  "40122": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ZARAGOZA 3",
+    "totalVoturi": 177,
+    "totalVoturiNS": 7,
+    "procent": "3.95%"
+  },
+  "40123": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ZARAGOZA 4",
+    "totalVoturi": 231,
+    "totalVoturiNS": 6,
+    "procent": "2.60%"
+  },
+  "40124": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - CALATAYUD",
+    "totalVoturi": 188,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40125": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ALCAÑIZ",
+    "totalVoturi": 174,
+    "totalVoturiNS": 4,
+    "procent": "2.30%"
+  },
+  "40126": {
+    "localitate": "SPANIA",
+    "nume_sectie": "CONSULAT - CIUDAD REAL",
+    "totalVoturi": 118,
+    "totalVoturiNS": 6,
+    "procent": "5.08%"
+  },
+  "40127": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - TOMELLOSO",
+    "totalVoturi": 164,
+    "totalVoturiNS": 7,
+    "procent": "4.27%"
+  },
+  "40128": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ALCÁZAR DE SAN JUAN",
+    "totalVoturi": 105,
+    "totalVoturiNS": 3,
+    "procent": "2.86%"
+  },
+  "40129": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ALBACETE",
+    "totalVoturi": 83,
+    "totalVoturiNS": 1,
+    "procent": "1.20%"
+  },
+  "40130": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - VILLARROBLEDO",
+    "totalVoturi": 101,
+    "totalVoturiNS": 1,
+    "procent": "0.99%"
+  },
+  "40131": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - CUENCA",
+    "totalVoturi": 82,
+    "totalVoturiNS": 1,
+    "procent": "1.22%"
+  },
+  "40132": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - TARANCÓN",
+    "totalVoturi": 126,
+    "totalVoturiNS": 2,
+    "procent": "1.59%"
+  },
+  "40133": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - QUINTANAR DEL REY",
+    "totalVoturi": 64,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40134": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - TOLEDO",
+    "totalVoturi": 110,
+    "totalVoturiNS": 1,
+    "procent": "0.91%"
+  },
+  "40135": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - TALAVERA DE LA REINA",
+    "totalVoturi": 118,
+    "totalVoturiNS": 5,
+    "procent": "4.24%"
+  },
+  "40136": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - QUINTANAR DE LA ORDEN",
+    "totalVoturi": 119,
+    "totalVoturiNS": 1,
+    "procent": "0.84%"
+  },
+  "40137": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - MADRIDEJOS",
+    "totalVoturi": 25,
+    "totalVoturiNS": 1,
+    "procent": "4.00%"
+  },
+  "40138": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - OCAÑA",
+    "totalVoturi": 59,
+    "totalVoturiNS": 1,
+    "procent": "1.69%"
+  },
+  "40139": {
+    "localitate": "SPANIA",
+    "nume_sectie": "CONSULAT - ALMERIA 1",
+    "totalVoturi": 94,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40140": {
+    "localitate": "SPANIA",
+    "nume_sectie": "CONSULAT - ALMERIA 2",
+    "totalVoturi": 97,
+    "totalVoturiNS": 1,
+    "procent": "1.03%"
+  },
+  "40141": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ROQUETAS DE MAR 1",
+    "totalVoturi": 211,
+    "totalVoturiNS": 1,
+    "procent": "0.47%"
+  },
+  "40142": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ROQUETAS DE MAR 2",
+    "totalVoturi": 127,
+    "totalVoturiNS": 3,
+    "procent": "2.36%"
+  },
+  "40143": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ROQUETAS DE MAR 3",
+    "totalVoturi": 167,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40144": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - EL EJIDO 1",
+    "totalVoturi": 45,
+    "totalVoturiNS": 2,
+    "procent": "4.44%"
+  },
+  "40145": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - EL EJIDO 2",
+    "totalVoturi": 66,
+    "totalVoturiNS": 2,
+    "procent": "3.03%"
+  },
+  "40146": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - MOTRIL",
+    "totalVoturi": 192,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40147": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - GRANADA",
+    "totalVoturi": 91,
+    "totalVoturiNS": 10,
+    "procent": "10.99%"
+  },
+  "40148": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - MURCIA",
+    "totalVoturi": 118,
+    "totalVoturiNS": 5,
+    "procent": "4.24%"
+  },
+  "40149": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - SAN PEDRO DEL PINATAR",
+    "totalVoturi": 101,
+    "totalVoturiNS": 2,
+    "procent": "1.98%"
+  },
+  "40150": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - UBEDA",
+    "totalVoturi": 13,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40151": {
+    "localitate": "SPANIA",
+    "nume_sectie": "CONSULAT - CASTELLON DE LA PLANA 1",
+    "totalVoturi": 289,
+    "totalVoturiNS": 12,
+    "procent": "4.15%"
+  },
+  "40152": {
+    "localitate": "SPANIA",
+    "nume_sectie": "CONSULAT - CASTELLON DE LA PLANA 2",
+    "totalVoturi": 267,
+    "totalVoturiNS": 1,
+    "procent": "0.37%"
+  },
+  "40153": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - CASTELLON DE LA PLANA 3",
+    "totalVoturi": 335,
+    "totalVoturiNS": 12,
+    "procent": "3.58%"
+  },
+  "40154": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - OROPESA DEL MAR",
+    "totalVoturi": 77,
+    "totalVoturiNS": 1,
+    "procent": "1.30%"
+  },
+  "40155": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - PEÑÍSCOLA",
+    "totalVoturi": 88,
+    "totalVoturiNS": 2,
+    "procent": "2.27%"
+  },
+  "40156": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - VINARÒS",
+    "totalVoturi": 140,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40157": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - VILA-REAL",
+    "totalVoturi": 105,
+    "totalVoturiNS": 5,
+    "procent": "4.76%"
+  },
+  "40158": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - BURRIANA",
+    "totalVoturi": 82,
+    "totalVoturiNS": 3,
+    "procent": "3.66%"
+  },
+  "40159": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ONDA",
+    "totalVoturi": 44,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40160": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - VALENCIA 1",
+    "totalVoturi": 147,
+    "totalVoturiNS": 18,
+    "procent": "12.24%"
+  },
+  "40161": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - VALENCIA 2",
+    "totalVoturi": 163,
+    "totalVoturiNS": 20,
+    "procent": "12.27%"
+  },
+  "40162": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - VALENCIA 3",
+    "totalVoturi": 227,
+    "totalVoturiNS": 14,
+    "procent": "6.17%"
+  },
+  "40163": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - PATERNA",
+    "totalVoturi": 177,
+    "totalVoturiNS": 3,
+    "procent": "1.69%"
+  },
+  "40164": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - GANDÍA",
+    "totalVoturi": 168,
+    "totalVoturiNS": 6,
+    "procent": "3.57%"
+  },
+  "40165": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - PICANYA",
+    "totalVoturi": 108,
+    "totalVoturiNS": 2,
+    "procent": "1.85%"
+  },
+  "40166": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - XÀTIVA",
+    "totalVoturi": 119,
+    "totalVoturiNS": 4,
+    "procent": "3.36%"
+  },
+  "40167": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - BENIDORM",
+    "totalVoturi": 186,
+    "totalVoturiNS": 3,
+    "procent": "1.61%"
+  },
+  "40168": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ALICANTE",
+    "totalVoturi": 205,
+    "totalVoturiNS": 23,
+    "procent": "11.22%"
+  },
+  "40169": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - ELCHE",
+    "totalVoturi": 149,
+    "totalVoturiNS": 1,
+    "procent": "0.67%"
+  },
+  "40170": {
+    "localitate": "SPANIA",
+    "nume_sectie": "ALTELE - TORREVIEJA",
+    "totalVoturi": 115,
+    "totalVoturiNS": 7,
+    "procent": "6.09%"
+  },
+  "40171": {
+    "localitate": "SRI LANKA",
+    "nume_sectie": "AMBASADĂ - COLOMBO",
+    "totalVoturi": 12,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40172": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "AMBASADĂ - WASHINGTON DC",
+    "totalVoturi": 121,
+    "totalVoturiNS": 6,
+    "procent": "4.96%"
+  },
+  "40173": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - OLD HICKORY, TN",
+    "totalVoturi": 40,
+    "totalVoturiNS": 1,
+    "procent": "2.50%"
+  },
+  "40174": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - CHARLOTTE, NC",
+    "totalVoturi": 43,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40175": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - CLEVELAND, OH",
+    "totalVoturi": 54,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40176": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - NORFOLK, VA",
+    "totalVoturi": 29,
+    "totalVoturiNS": 2,
+    "procent": "6.90%"
+  },
+  "40177": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - EASLEY, SC",
+    "totalVoturi": 22,
+    "totalVoturiNS": 1,
+    "procent": "4.55%"
+  },
+  "40178": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - POTOMAC, MD",
+    "totalVoturi": 55,
+    "totalVoturiNS": 1,
+    "procent": "1.82%"
+  },
+  "40179": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "CONSULAT GENERAL - CHICAGO 1",
+    "totalVoturi": 52,
+    "totalVoturiNS": 4,
+    "procent": "7.69%"
+  },
+  "40180": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - CHICAGO 2",
+    "totalVoturi": 37,
+    "totalVoturiNS": 2,
+    "procent": "5.41%"
+  },
+  "40181": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - CHICAGO 3",
+    "totalVoturi": 65,
+    "totalVoturiNS": 2,
+    "procent": "3.08%"
+  },
+  "40182": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - DES PLAINES",
+    "totalVoturi": 66,
+    "totalVoturiNS": 3,
+    "procent": "4.55%"
+  },
+  "40183": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - NILES",
+    "totalVoturi": 140,
+    "totalVoturiNS": 1,
+    "procent": "0.71%"
+  },
+  "40184": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - AURORA",
+    "totalVoturi": 43,
+    "totalVoturiNS": 2,
+    "procent": "4.65%"
+  },
+  "40185": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - WARREN/MICHIGAN",
+    "totalVoturi": 82,
+    "totalVoturiNS": 4,
+    "procent": "4.88%"
+  },
+  "40186": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - PLYMOUTH/MICHIGAN",
+    "totalVoturi": 43,
+    "totalVoturiNS": 1,
+    "procent": "2.33%"
+  },
+  "40187": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - INDIANAPOLIS/INDIANA",
+    "totalVoturi": 20,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40188": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - SAINT PAUL/MINNESOTA",
+    "totalVoturi": 20,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40189": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - SAINT LOUIS/MISSOURI",
+    "totalVoturi": 20,
+    "totalVoturiNS": 3,
+    "procent": "15.00%"
+  },
+  "40190": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "CONSULAT GENERAL - LOS ANGELES",
+    "totalVoturi": 41,
+    "totalVoturiNS": 6,
+    "procent": "14.63%"
+  },
+  "40191": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - ANAHEIM (ORANGE COUNTY) CALIFORNIA",
+    "totalVoturi": 57,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40192": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - SAN DIEGO, CALIFORNIA",
+    "totalVoturi": 54,
+    "totalVoturiNS": 3,
+    "procent": "5.56%"
+  },
+  "40193": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - SACRAMENTO, CALIFORNIA",
+    "totalVoturi": 44,
+    "totalVoturiNS": 3,
+    "procent": "6.82%"
+  },
+  "40194": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - SAN FRANCISCO, CALIFORNIA",
+    "totalVoturi": 106,
+    "totalVoturiNS": 4,
+    "procent": "3.77%"
+  },
+  "40195": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - LAS VEGAS, NEVADA",
+    "totalVoturi": 32,
+    "totalVoturiNS": 2,
+    "procent": "6.25%"
+  },
+  "40196": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - PHOENIX, ARIZONA",
+    "totalVoturi": 113,
+    "totalVoturiNS": 2,
+    "procent": "1.77%"
+  },
+  "40197": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - PORTLAND, OREGON",
+    "totalVoturi": 78,
+    "totalVoturiNS": 1,
+    "procent": "1.28%"
+  },
+  "40198": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - SEATTLE, WASHINGTON",
+    "totalVoturi": 187,
+    "totalVoturiNS": 11,
+    "procent": "5.88%"
+  },
+  "40199": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - SALT LAKE CITY, UTAH",
+    "totalVoturi": 22,
+    "totalVoturiNS": 3,
+    "procent": "13.64%"
+  },
+  "40200": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - DENVER, COLORADO",
+    "totalVoturi": 42,
+    "totalVoturiNS": 6,
+    "procent": "14.29%"
+  },
+  "40201": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "CONSULAT GENERAL - MIAMI",
+    "totalVoturi": 30,
+    "totalVoturiNS": 4,
+    "procent": "13.33%"
+  },
+  "40202": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - NAPLES",
+    "totalVoturi": 38,
+    "totalVoturiNS": 2,
+    "procent": "5.26%"
+  },
+  "40203": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - MIRAMAR",
+    "totalVoturi": 70,
+    "totalVoturiNS": 1,
+    "procent": "1.43%"
+  },
+  "40204": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - JACKSONVILLE",
+    "totalVoturi": 24,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40205": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - DACULA",
+    "totalVoturi": 107,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40206": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - HOUSTON",
+    "totalVoturi": 79,
+    "totalVoturiNS": 1,
+    "procent": "1.27%"
+  },
+  "40207": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - DALLAS",
+    "totalVoturi": 56,
+    "totalVoturiNS": 1,
+    "procent": "1.79%"
+  },
+  "40208": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - SAN ANTONIO",
+    "totalVoturi": 26,
+    "totalVoturiNS": 5,
+    "procent": "19.23%"
+  },
+  "40209": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "CONSULAT GENERAL - NEW YORK 1",
+    "totalVoturi": 135,
+    "totalVoturiNS": 15,
+    "procent": "11.11%"
+  },
+  "40210": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ICR - NEW YORK 2",
+    "totalVoturi": 116,
+    "totalVoturiNS": 13,
+    "procent": "11.21%"
+  },
+  "40211": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - QUEENS, NY",
+    "totalVoturi": 59,
+    "totalVoturiNS": 1,
+    "procent": "1.69%"
+  },
+  "40212": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - LONG VALLEY, NJ",
+    "totalVoturi": 55,
+    "totalVoturiNS": 2,
+    "procent": "3.64%"
+  },
+  "40213": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - PHILADELPHIA, PA",
+    "totalVoturi": 37,
+    "totalVoturiNS": 3,
+    "procent": "8.11%"
+  },
+  "40214": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - MANCHESTER, CT",
+    "totalVoturi": 14,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40215": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - BOSTON, MA",
+    "totalVoturi": 60,
+    "totalVoturiNS": 11,
+    "procent": "18.33%"
+  },
+  "40216": {
+    "localitate": "STATELE UNITE ALE AMERICII",
+    "nume_sectie": "ALTELE - VICTOR, NY",
+    "totalVoturi": 33,
+    "totalVoturiNS": 1,
+    "procent": "3.03%"
+  },
+  "40217": {
+    "localitate": "SUEDIA",
+    "nume_sectie": "AMBASADĂ - STOCKHOLM 1",
+    "totalVoturi": 225,
+    "totalVoturiNS": 27,
+    "procent": "12.00%"
+  },
+  "40218": {
+    "localitate": "SUEDIA",
+    "nume_sectie": "ICR - STOCKHOLM 2",
+    "totalVoturi": 121,
+    "totalVoturiNS": 16,
+    "procent": "13.22%"
+  },
+  "40219": {
+    "localitate": "SUEDIA",
+    "nume_sectie": "ALTELE - GÖTEBORG",
+    "totalVoturi": 171,
+    "totalVoturiNS": 13,
+    "procent": "7.60%"
+  },
+  "40220": {
+    "localitate": "SUEDIA",
+    "nume_sectie": "ALTELE - MALMÖ",
+    "totalVoturi": 182,
+    "totalVoturiNS": 26,
+    "procent": "14.29%"
+  },
+  "40221": {
+    "localitate": "SUEDIA",
+    "nume_sectie": "ALTELE - SÖLVESBORG",
+    "totalVoturi": 73,
+    "totalVoturiNS": 2,
+    "procent": "2.74%"
+  },
+  "40222": {
+    "localitate": "SUEDIA",
+    "nume_sectie": "ALTELE - UPPSALA",
+    "totalVoturi": 67,
+    "totalVoturiNS": 14,
+    "procent": "20.90%"
+  },
+  "40223": {
+    "localitate": "REGATUL THAILANDEI",
+    "nume_sectie": "AMBASADĂ - BANGKOK",
+    "totalVoturi": 34,
+    "totalVoturiNS": 1,
+    "procent": "2.94%"
+  },
+  "40224": {
+    "localitate": "REPUBLICA TUNISIANĂ",
+    "nume_sectie": "SECȚIE CONSULARĂ - TUNIS",
+    "totalVoturi": 32,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40225": {
+    "localitate": "TURCIA",
+    "nume_sectie": "AMBASADĂ - ANKARA",
+    "totalVoturi": 55,
+    "totalVoturiNS": 9,
+    "procent": "16.36%"
+  },
+  "40226": {
+    "localitate": "TURCIA",
+    "nume_sectie": "ALTELE - ANTALYA",
+    "totalVoturi": 46,
+    "totalVoturiNS": 4,
+    "procent": "8.70%"
+  },
+  "40227": {
+    "localitate": "TURCIA",
+    "nume_sectie": "CONSULAT GENERAL - ISTANBUL 1",
+    "totalVoturi": 117,
+    "totalVoturiNS": 14,
+    "procent": "11.97%"
+  },
+  "40228": {
+    "localitate": "TURCIA",
+    "nume_sectie": "ICR - ISTANBUL 2",
+    "totalVoturi": 119,
+    "totalVoturiNS": 18,
+    "procent": "15.13%"
+  },
+  "40229": {
+    "localitate": "TURCIA",
+    "nume_sectie": "CONSULAT GENERAL - IZMIR",
+    "totalVoturi": 36,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40230": {
+    "localitate": "TURKMENISTAN",
+    "nume_sectie": "AMBASADĂ - ASHGABAT",
+    "totalVoturi": 8,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40231": {
+    "localitate": "UCRAINA",
+    "nume_sectie": "AMBASADĂ - KIEV",
+    "totalVoturi": 38,
+    "totalVoturiNS": 3,
+    "procent": "7.89%"
+  },
+  "40232": {
+    "localitate": "UCRAINA",
+    "nume_sectie": "OFICIU CONSULAR - SOLOTVINO",
+    "totalVoturi": 16,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40233": {
+    "localitate": "UCRAINA",
+    "nume_sectie": "CONSULAT GENERAL - CERNĂUȚI",
+    "totalVoturi": 39,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40234": {
+    "localitate": "UNGARIA",
+    "nume_sectie": "AMBASADĂ - BUDAPESTA 1",
+    "totalVoturi": 241,
+    "totalVoturiNS": 20,
+    "procent": "8.30%"
+  },
+  "40235": {
+    "localitate": "UNGARIA",
+    "nume_sectie": "AMBASADĂ - BUDAPESTA 2",
+    "totalVoturi": 248,
+    "totalVoturiNS": 20,
+    "procent": "8.06%"
+  },
+  "40236": {
+    "localitate": "UNGARIA",
+    "nume_sectie": "ICR - BUDAPESTA 3",
+    "totalVoturi": 39,
+    "totalVoturiNS": 4,
+    "procent": "10.26%"
+  },
+  "40237": {
+    "localitate": "UNGARIA",
+    "nume_sectie": "ICR - BUDAPESTA 4",
+    "totalVoturi": 74,
+    "totalVoturiNS": 12,
+    "procent": "16.22%"
+  },
+  "40238": {
+    "localitate": "UNGARIA",
+    "nume_sectie": "CONSULAT GENERAL - SZEGED",
+    "totalVoturi": 27,
+    "totalVoturiNS": 1,
+    "procent": "3.70%"
+  },
+  "40239": {
+    "localitate": "UNGARIA",
+    "nume_sectie": "CONSULAT GENERAL - GYULA",
+    "totalVoturi": 24,
+    "totalVoturiNS": 3,
+    "procent": "12.50%"
+  },
+  "40240": {
+    "localitate": "REPUBLICA ORIENTALĂ A URUGUAYULUI",
+    "nume_sectie": "AMBASADĂ - MONTEVIDEO",
+    "totalVoturi": 10,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40241": {
+    "localitate": "UZBEKISTAN",
+    "nume_sectie": "AMBASADĂ - TAȘKENT",
+    "totalVoturi": 11,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40242": {
+    "localitate": "REPUBLICA SOCIALISTĂ VIETNAM",
+    "nume_sectie": "AMBASADĂ - HANOI",
+    "totalVoturi": 11,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  },
+  "40243": {
+    "localitate": "ZIMBABWE",
+    "nume_sectie": "AMBASADĂ - HARARE",
+    "totalVoturi": 4,
+    "totalVoturiNS": 0,
+    "procent": "0.00%"
+  }
+}
