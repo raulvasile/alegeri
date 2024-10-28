@@ -1,54 +1,54 @@
 const time = 900000;
 
 const judete = [
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ab_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ar_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ag_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_bc_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_bh_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_bn_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_bt_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_br_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_bv_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_bz_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_cl_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_cs_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_cj_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ct_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_cv_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_db_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_dj_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_gl_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_gr_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_gj_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_hr_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_hd_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_il_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_is_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_if_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_mm_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_mh_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ms_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_nt_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ot_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ph_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_sj_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_sm_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_s1_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_s2_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_s3_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_s4_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_s5_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_s6_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_sb_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_sv_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_tr_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_tm_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_tl_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_vl_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_vs_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_vn_prov.json',
-  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_sr_prov.json'
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ab_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ar_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ag_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_bc_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_bh_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_bn_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_bt_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_br_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_bv_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_bz_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_cl_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_cs_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_cj_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ct_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_cv_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_db_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_dj_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_gl_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_gr_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_gj_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_hr_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_hd_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_il_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_is_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_if_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_mm_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_mh_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ms_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_nt_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ot_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_ph_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_sj_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_sm_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_s1_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_s2_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_s3_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_s4_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_s5_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_s6_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_sb_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_sv_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_tr_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_tm_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_tl_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_vl_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_vs_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_vn_final.json',
+  'https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_sr_final.json'
 ];
 
 const denumire_sectii = [
@@ -105,7 +105,8 @@ const sectii = {};
 
 const fs = require('fs');
 
-const total_prezenta = 9661773;
+// const total_prezenta = 9661773;
+const total_prezenta = 9445771;
 
 const getData = (url, date_sectii) => {
   return new Promise((resolve, reject) => {
@@ -119,7 +120,7 @@ const getData = (url, date_sectii) => {
         let total_votes = 0;
         let total_voturi_valide = 0;
         let total_voturi_nule = 0;
-        const table = data.stages.PROV?.scopes?.PRCNCT?.categories?.EUP?.table;
+        const table = data.stages.FINAL?.scopes?.PRCNCT?.categories?.EUP?.table;
 
         if (table) {
           Object.keys(table).forEach((item) => {
@@ -195,8 +196,60 @@ denumire_sectii.forEach((judet) => {
 Promise.all(promises).then((sectii) => {
   let final_sectii = sectii.flat();
   judete.forEach((judet) => {
-    getData(judet, final_sectii); 
+    // getData(judet, final_sectii);
   });
 });
 
 
+const ABROAD_URL = "https://prezenta.roaep.ro/europarlamentare09062024/data/json/sicpv/pv/pv_sr_final.json";
+
+fetch(ABROAD_URL)
+.then((data) => data.json())
+.then((res) => {
+  const tari = {};
+  const outcome = {};
+  /*
+  {
+    "id_tara": {
+      "nume_tara":
+      "total_voturi": x
+      "voturi_nicu": y
+      "procent_nicu": y/x*100
+    }
+  }
+
+
+  */
+  const rawData = res.stages.FINAL.scopes.PRCNCT.categories.EUP.table;
+
+  Object.keys(rawData).forEach((sectie) => {
+    let wat = rawData[sectie];
+
+    if (!tari[wat.uat_id]) {
+      tari[wat.uat_id] = [];
+    }
+
+    tari[wat.uat_id].push(wat);
+  });
+
+  Object.keys(tari).forEach((tara) => {
+    let total_voturi = 0;
+    let total_voturi_ns = 0;
+
+    tari[tara].forEach((sectie) => {
+      let voturi_valide = sectie.fields.filter((tab) => tab.name == 'e');
+      let voturi_nicu = sectie.votes.filter((tab) => tab.candidate == 'ȘTEFĂNUȚĂ NICOLAE-BOGDĂNEL');
+      total_voturi_ns += parseInt(voturi_nicu[0].votes, 10);
+      total_voturi += parseInt(voturi_valide[0].value, 10);
+    });
+
+    outcome[tara] = {
+      nume: tari[tara][0].uat_name,
+      totalVoturi: total_voturi,
+      totalVoturiNS: total_voturi_ns,
+      procent: `${parseFloat((total_voturi_ns / total_voturi) * 100).toFixed(2)}%`
+    };
+  });
+
+  console.log('outcome', outcome)
+});

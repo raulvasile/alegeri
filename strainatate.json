@@ -1,0 +1,556 @@
+outcome {
+  '3381': {
+    nume: 'AFRICA DE SUD',
+    totalVoturi: 78,
+    totalVoturiNS: 1,
+    procent: '1.28%'
+  },
+  '3382': {
+    nume: 'REPUBLICA ALBANIA',
+    totalVoturi: 54,
+    totalVoturiNS: 11,
+    procent: '20.37%'
+  },
+  '3383': {
+    nume: 'ALGERIA',
+    totalVoturi: 9,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3384': {
+    nume: 'ANGOLA',
+    totalVoturi: 21,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3385': {
+    nume: 'REGATUL ARABIEI SAUDITE',
+    totalVoturi: 36,
+    totalVoturiNS: 4,
+    procent: '11.11%'
+  },
+  '3386': {
+    nume: 'ARGENTINA',
+    totalVoturi: 15,
+    totalVoturiNS: 2,
+    procent: '13.33%'
+  },
+  '3387': {
+    nume: 'ARMENIA',
+    totalVoturi: 14,
+    totalVoturiNS: 2,
+    procent: '14.29%'
+  },
+  '3388': {
+    nume: 'AUSTRALIA',
+    totalVoturi: 248,
+    totalVoturiNS: 7,
+    procent: '2.82%'
+  },
+  '3389': {
+    nume: 'AUSTRIA',
+    totalVoturi: 6450,
+    totalVoturiNS: 487,
+    procent: '7.55%'
+  },
+  '3390': {
+    nume: 'AZERBAIDJAN',
+    totalVoturi: 20,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3391': {
+    nume: 'REPUBLICA BELARUS',
+    totalVoturi: 8,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3392': {
+    nume: 'BELGIA',
+    totalVoturi: 9302,
+    totalVoturiNS: 738,
+    procent: '7.93%'
+  },
+  '3393': {
+    nume: 'BOSNIA ȘI HERȚEGOVINA',
+    totalVoturi: 196,
+    totalVoturiNS: 11,
+    procent: '5.61%'
+  },
+  '3394': {
+    nume: 'BRAZILIA',
+    totalVoturi: 67,
+    totalVoturiNS: 1,
+    procent: '1.49%'
+  },
+  '3395': {
+    nume: 'BULGARIA',
+    totalVoturi: 114,
+    totalVoturiNS: 11,
+    procent: '9.65%'
+  },
+  '3396': {
+    nume: 'CANADA',
+    totalVoturi: 1461,
+    totalVoturiNS: 38,
+    procent: '2.60%'
+  },
+  '3397': {
+    nume: 'CHILE',
+    totalVoturi: 39,
+    totalVoturiNS: 2,
+    procent: '5.13%'
+  },
+  '3398': {
+    nume: 'REPUBLICA POPULARĂ CHINEZĂ',
+    totalVoturi: 99,
+    totalVoturiNS: 17,
+    procent: '17.17%'
+  },
+  '3399': {
+    nume: 'REPUBLICA CIPRU',
+    totalVoturi: 839,
+    totalVoturiNS: 37,
+    procent: '4.41%'
+  },
+  '3400': {
+    nume: 'REPUBLICA COLUMBIA',
+    totalVoturi: 13,
+    totalVoturiNS: 1,
+    procent: '7.69%'
+  },
+  '3401': {
+    nume: 'REPUBLICA CROAȚIA',
+    totalVoturi: 48,
+    totalVoturiNS: 7,
+    procent: '14.58%'
+  },
+  '3402': { nume: 'CUBA', totalVoturi: 6, totalVoturiNS: 0, procent: '0.00%' },
+  '3403': {
+    nume: 'DANEMARCA',
+    totalVoturi: 2856,
+    totalVoturiNS: 384,
+    procent: '13.45%'
+  },
+  '3404': {
+    nume: 'EGIPT',
+    totalVoturi: 37,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3405': {
+    nume: 'ELVEȚIA',
+    totalVoturi: 2844,
+    totalVoturiNS: 288,
+    procent: '10.13%'
+  },
+  '3406': {
+    nume: 'EMIRATELE ARABE UNITE',
+    totalVoturi: 337,
+    totalVoturiNS: 34,
+    procent: '10.09%'
+  },
+  '3407': {
+    nume: 'ESTONIA',
+    totalVoturi: 52,
+    totalVoturiNS: 8,
+    procent: '15.38%'
+  },
+  '3408': {
+    nume: 'ETIOPIA',
+    totalVoturi: 4,
+    totalVoturiNS: 1,
+    procent: '25.00%'
+  },
+  '3409': {
+    nume: 'FEDERAȚIA RUSĂ',
+    totalVoturi: 49,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3410': {
+    nume: 'FILIPINE',
+    totalVoturi: 15,
+    totalVoturiNS: 1,
+    procent: '6.67%'
+  },
+  '3411': {
+    nume: 'FINLANDA',
+    totalVoturi: 351,
+    totalVoturiNS: 34,
+    procent: '9.69%'
+  },
+  '3412': {
+    nume: 'FRANȚA',
+    totalVoturi: 9208,
+    totalVoturiNS: 630,
+    procent: '6.84%'
+  },
+  '3413': {
+    nume: 'GEORGIA',
+    totalVoturi: 38,
+    totalVoturiNS: 2,
+    procent: '5.26%'
+  },
+  '3414': {
+    nume: 'GERMANIA',
+    totalVoturi: 24413,
+    totalVoturiNS: 1409,
+    procent: '5.77%'
+  },
+  '3415': {
+    nume: 'REPUBLICA ELENĂ',
+    totalVoturi: 1170,
+    totalVoturiNS: 60,
+    procent: '5.13%'
+  },
+  '3416': {
+    nume: 'REPUBLICA INDIA',
+    totalVoturi: 23,
+    totalVoturiNS: 1,
+    procent: '4.35%'
+  },
+  '3417': {
+    nume: 'REGATUL HAȘEMIT AL IORDANIEI',
+    totalVoturi: 51,
+    totalVoturiNS: 7,
+    procent: '13.73%'
+  },
+  '3418': { nume: 'IRAK', totalVoturi: 43, totalVoturiNS: 1, procent: '2.33%' },
+  '3419': {
+    nume: 'REPUBLICA ISLAMICĂ IRAN',
+    totalVoturi: 21,
+    totalVoturiNS: 1,
+    procent: '4.76%'
+  },
+  '3420': {
+    nume: 'IRLANDA',
+    totalVoturi: 2720,
+    totalVoturiNS: 180,
+    procent: '6.62%'
+  },
+  '3421': {
+    nume: 'ISLANDA',
+    totalVoturi: 178,
+    totalVoturiNS: 19,
+    procent: '10.67%'
+  },
+  '3422': {
+    nume: 'STATUL ISRAEL',
+    totalVoturi: 200,
+    totalVoturiNS: 5,
+    procent: '2.50%'
+  },
+  '3423': {
+    nume: 'ITALIA',
+    totalVoturi: 23515,
+    totalVoturiNS: 1035,
+    procent: '4.40%'
+  },
+  '3424': {
+    nume: 'JAPONIA',
+    totalVoturi: 97,
+    totalVoturiNS: 20,
+    procent: '20.62%'
+  },
+  '3425': {
+    nume: 'KAZAHSTAN',
+    totalVoturi: 14,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3426': {
+    nume: 'KENYA',
+    totalVoturi: 13,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3427': {
+    nume: 'KUWEIT',
+    totalVoturi: 55,
+    totalVoturiNS: 3,
+    procent: '5.45%'
+  },
+  '3428': {
+    nume: 'REPUBLICA LIBANEZĂ',
+    totalVoturi: 48,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3429': {
+    nume: 'LITUANIA',
+    totalVoturi: 34,
+    totalVoturiNS: 8,
+    procent: '23.53%'
+  },
+  '3430': {
+    nume: 'LUXEMBURG',
+    totalVoturi: 1019,
+    totalVoturiNS: 98,
+    procent: '9.62%'
+  },
+  '3431': {
+    nume: 'REPUBLICA MACEDONIA DE NORD',
+    totalVoturi: 28,
+    totalVoturiNS: 2,
+    procent: '7.14%'
+  },
+  '3432': {
+    nume: 'MALAYSIA',
+    totalVoturi: 42,
+    totalVoturiNS: 5,
+    procent: '11.90%'
+  },
+  '3433': {
+    nume: 'MALTA',
+    totalVoturi: 286,
+    totalVoturiNS: 44,
+    procent: '15.38%'
+  },
+  '3434': {
+    nume: 'REGATUL MAROC',
+    totalVoturi: 32,
+    totalVoturiNS: 1,
+    procent: '3.13%'
+  },
+  '3435': {
+    nume: 'MEXIC',
+    totalVoturi: 32,
+    totalVoturiNS: 4,
+    procent: '12.50%'
+  },
+  '3436': {
+    nume: 'MUNTENEGRU',
+    totalVoturi: 29,
+    totalVoturiNS: 1,
+    procent: '3.45%'
+  },
+  '3437': {
+    nume: 'REPUBLICA FEDERALĂ NIGERIA',
+    totalVoturi: 12,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3438': {
+    nume: 'NORVEGIA',
+    totalVoturi: 1164,
+    totalVoturiNS: 71,
+    procent: '6.10%'
+  },
+  '3439': {
+    nume: 'NOUA ZEELANDĂ',
+    totalVoturi: 35,
+    totalVoturiNS: 3,
+    procent: '8.57%'
+  },
+  '3440': {
+    nume: 'REGATUL ȚĂRILOR DE JOS',
+    totalVoturi: 6478,
+    totalVoturiNS: 2117,
+    procent: '32.68%'
+  },
+  '3441': {
+    nume: 'REPUBLICA ISLAMICĂ PAKISTAN',
+    totalVoturi: 12,
+    totalVoturiNS: 1,
+    procent: '8.33%'
+  },
+  '3442': {
+    nume: 'PALESTINA',
+    totalVoturi: 11,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3443': {
+    nume: 'REPUBLICA PERU',
+    totalVoturi: 23,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3444': {
+    nume: 'POLONIA',
+    totalVoturi: 583,
+    totalVoturiNS: 125,
+    procent: '21.44%'
+  },
+  '3445': {
+    nume: 'PORTUGALIA',
+    totalVoturi: 818,
+    totalVoturiNS: 111,
+    procent: '13.57%'
+  },
+  '3446': {
+    nume: 'QATAR',
+    totalVoturi: 81,
+    totalVoturiNS: 5,
+    procent: '6.17%'
+  },
+  '3447': {
+    nume: 'REGATUL THAILANDEI',
+    totalVoturi: 34,
+    totalVoturiNS: 1,
+    procent: '2.94%'
+  },
+  '3448': {
+    nume: 'REGATUL UNIT AL MARII BRITANII ȘI AL IRLANDEI DE NORD',
+    totalVoturi: 30348,
+    totalVoturiNS: 2348,
+    procent: '7.74%'
+  },
+  '3449': {
+    nume: 'REPUBLICA CEHĂ',
+    totalVoturi: 502,
+    totalVoturiNS: 99,
+    procent: '19.72%'
+  },
+  '3450': {
+    nume: 'REPUBLICA COREEA',
+    totalVoturi: 37,
+    totalVoturiNS: 3,
+    procent: '8.11%'
+  },
+  '3451': {
+    nume: 'REPUBLICA INDONEZIA',
+    totalVoturi: 9,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3452': {
+    nume: 'REPUBLICA MOLDOVA',
+    totalVoturi: 56038,
+    totalVoturiNS: 691,
+    procent: '1.23%'
+  },
+  '3454': {
+    nume: 'REPUBLICA SINGAPORE',
+    totalVoturi: 86,
+    totalVoturiNS: 8,
+    procent: '9.30%'
+  },
+  '3455': {
+    nume: 'SENEGAL',
+    totalVoturi: 10,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3456': {
+    nume: 'REPUBLICA SERBIA',
+    totalVoturi: 241,
+    totalVoturiNS: 13,
+    procent: '5.39%'
+  },
+  '3457': {
+    nume: 'REPUBLICA ARABĂ SIRIANĂ',
+    totalVoturi: 20,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3458': {
+    nume: 'REPUBLICA SLOVACĂ',
+    totalVoturi: 128,
+    totalVoturiNS: 21,
+    procent: '16.41%'
+  },
+  '3459': {
+    nume: 'SLOVENIA',
+    totalVoturi: 58,
+    totalVoturiNS: 9,
+    procent: '15.52%'
+  },
+  '3460': {
+    nume: 'SPANIA',
+    totalVoturi: 19811,
+    totalVoturiNS: 780,
+    procent: '3.94%'
+  },
+  '3461': {
+    nume: 'SRI LANKA',
+    totalVoturi: 12,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3462': {
+    nume: 'STATELE UNITE ALE AMERICII',
+    totalVoturi: 2667,
+    totalVoturiNS: 134,
+    procent: '5.02%'
+  },
+  '3464': {
+    nume: 'SUEDIA',
+    totalVoturi: 839,
+    totalVoturiNS: 98,
+    procent: '11.68%'
+  },
+  '3465': {
+    nume: 'SULTANATUL OMAN',
+    totalVoturi: 23,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3466': {
+    nume: 'REPUBLICA TUNISIANĂ',
+    totalVoturi: 32,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3467': {
+    nume: 'TURCIA',
+    totalVoturi: 373,
+    totalVoturiNS: 45,
+    procent: '12.06%'
+  },
+  '3468': {
+    nume: 'TURKMENISTAN',
+    totalVoturi: 8,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3469': {
+    nume: 'UCRAINA',
+    totalVoturi: 93,
+    totalVoturiNS: 3,
+    procent: '3.23%'
+  },
+  '3470': {
+    nume: 'UNGARIA',
+    totalVoturi: 653,
+    totalVoturiNS: 60,
+    procent: '9.19%'
+  },
+  '3471': {
+    nume: 'REPUBLICA ORIENTALĂ A URUGUAYULUI',
+    totalVoturi: 10,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3472': {
+    nume: 'UZBEKISTAN',
+    totalVoturi: 11,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3474': {
+    nume: 'REPUBLICA SOCIALISTĂ VIETNAM',
+    totalVoturi: 11,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3475': {
+    nume: 'ZIMBABWE',
+    totalVoturi: 4,
+    totalVoturiNS: 0,
+    procent: '0.00%'
+  },
+  '3476': {
+    nume: 'LETONIA',
+    totalVoturi: 45,
+    totalVoturiNS: 6,
+    procent: '13.33%'
+  },
+  '3485': {
+    nume: 'PRINCIPATUL MONACO',
+    totalVoturi: 99,
+    totalVoturiNS: 7,
+    procent: '7.07%'
+  }
+}
