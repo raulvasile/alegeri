@@ -1,59 +1,187 @@
 [
   {
-    "id": "28707",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "TEATRUL MUNICIPAL ”CSIKI JÁTÉKSZÍN” MIERCUREA-CIUC",
-    "totalVoturi": 901,
-    "totalVoturiSENS": 6,
-    "procent": "0.67%"
-  },
-  {
-    "id": "28708",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "LICEUL DE ARTE ”NAGY ISTVÁN” MIERCUREA-CIUC",
-    "totalVoturi": 860,
+    "id": "28854",
+    "localitate": "GĂLĂUŢAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”DUMITRU GAFTON” GĂLĂUȚAȘ",
+    "totalVoturi": 336,
     "totalVoturiSENS": 15,
-    "procent": "1.74%"
+    "procent": "4.46%"
   },
   {
-    "id": "28709",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "CASA DE CULTURĂ A SINDICATELOR MIERCUREA-CIUC",
-    "totalVoturi": 849,
-    "totalVoturiSENS": 11,
-    "procent": "1.30%"
+    "id": "28762",
+    "localitate": "MUNICIPIUL TOPLIŢA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MIRON CRISTEA” TOPLIŢA",
+    "totalVoturi": 583,
+    "totalVoturiSENS": 24,
+    "procent": "4.12%"
   },
   {
-    "id": "28710",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”NAGY IMRE” MIERCUREA-CIUC",
-    "totalVoturi": 875,
-    "totalVoturiSENS": 2,
-    "procent": "0.23%"
-  },
-  {
-    "id": "28711",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ „NAGY IMRE” MIERCUREA-CIUC",
-    "totalVoturi": 869,
+    "id": "28938",
+    "localitate": "SĂRMAŞ",
+    "nume_sectie": "ȘCOALA PRIMARĂ PLATONEȘTI",
+    "totalVoturi": 186,
     "totalVoturiSENS": 7,
-    "procent": "0.81%"
+    "procent": "3.76%"
   },
   {
-    "id": "28712",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”NAGY IMRE”",
-    "totalVoturi": 842,
-    "totalVoturiSENS": 10,
-    "procent": "1.19%"
+    "id": "28739",
+    "localitate": "MUNICIPIUL GHEORGHENI",
+    "nume_sectie": "CORP DE CLĂDIRE CU 20 DE APARTAMENTE",
+    "totalVoturi": 58,
+    "totalVoturiSENS": 2,
+    "procent": "3.45%"
   },
   {
-    "id": "28713",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETŐFI SÁNDOR” MIERCUREA-CIUC",
-    "totalVoturi": 737,
+    "id": "28933",
+    "localitate": "SĂCEL",
+    "nume_sectie": "PRIMĂRIA COMUNEI SĂCEL",
+    "totalVoturi": 29,
+    "totalVoturiSENS": 1,
+    "procent": "3.45%"
+  },
+  {
+    "id": "28770",
+    "localitate": "MUNICIPIUL TOPLIŢA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”SFÂNTU ILIE” TOPLIŢA",
+    "totalVoturi": 410,
+    "totalVoturiSENS": 14,
+    "procent": "3.41%"
+  },
+  {
+    "id": "28763",
+    "localitate": "MUNICIPIUL TOPLIŢA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MIRON CRISTEA” TOPLIŢA",
+    "totalVoturi": 620,
+    "totalVoturiSENS": 21,
+    "procent": "3.39%"
+  },
+  {
+    "id": "28803",
+    "localitate": "BILBOR",
+    "nume_sectie": "CĂMINUL CULTURAL",
+    "totalVoturi": 416,
+    "totalVoturiSENS": 14,
+    "procent": "3.37%"
+  },
+  {
+    "id": "28764",
+    "localitate": "MUNICIPIUL TOPLIŢA",
+    "nume_sectie": "LICEUL TEORETIC ”KEMENY JANOS” TOPLIŢA",
+    "totalVoturi": 546,
+    "totalVoturiSENS": 17,
+    "procent": "3.11%"
+  },
+  {
+    "id": "28822",
+    "localitate": "CORBU",
+    "nume_sectie": "LICEUL TEHNOLOGIC CORBU CORP A",
+    "totalVoturi": 295,
+    "totalVoturiSENS": 9,
+    "procent": "3.05%"
+  },
+  {
+    "id": "28768",
+    "localitate": "MUNICIPIUL TOPLIŢA",
+    "nume_sectie": "COLEGIUL NAŢIONAL ”MIHAI EMINESCU” TOPLIŢA",
+    "totalVoturi": 422,
+    "totalVoturiSENS": 12,
+    "procent": "2.84%"
+  },
+  {
+    "id": "28976",
+    "localitate": "TULGHEŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ TULGHEŞ",
+    "totalVoturi": 570,
+    "totalVoturiSENS": 16,
+    "procent": "2.81%"
+  },
+  {
+    "id": "28978",
+    "localitate": "TULGHEŞ",
+    "nume_sectie": "ŞCOALA PRIMARĂ RECEA",
+    "totalVoturi": 74,
+    "totalVoturiSENS": 2,
+    "procent": "2.70%"
+  },
+  {
+    "id": "28765",
+    "localitate": "MUNICIPIUL TOPLIŢA",
+    "nume_sectie": "GRĂDINIŢA VOINICEL NR.1 TOPLIŢA",
+    "totalVoturi": 353,
+    "totalVoturiSENS": 9,
+    "procent": "2.55%"
+  },
+  {
+    "id": "28959",
+    "localitate": "SUBCETATE",
+    "nume_sectie": "LICEUL MIRON CRISTEA SUBCETATE",
+    "totalVoturi": 496,
+    "totalVoturiSENS": 12,
+    "procent": "2.42%"
+  },
+  {
+    "id": "28776",
+    "localitate": "ORAŞ BĂLAN",
+    "nume_sectie": "Liceul Tehnologic ”Liviu Rebreanu” Bălan - Grădinița „Cseperedo”",
+    "totalVoturi": 355,
+    "totalVoturiSENS": 8,
+    "procent": "2.25%"
+  },
+  {
+    "id": "28900",
+    "localitate": "MIHĂILENI",
+    "nume_sectie": "SCOALA GIMNAZIALA",
+    "totalVoturi": 137,
     "totalVoturiSENS": 3,
-    "procent": "0.41%"
+    "procent": "2.19%"
+  },
+  {
+    "id": "28796",
+    "localitate": "ATID",
+    "nume_sectie": "CÃMINUL CULTURAL SICLOD",
+    "totalVoturi": 93,
+    "totalVoturiSENS": 2,
+    "procent": "2.15%"
+  },
+  {
+    "id": "28802",
+    "localitate": "BILBOR",
+    "nume_sectie": "CĂMINUL CULTURAL",
+    "totalVoturi": 380,
+    "totalVoturiSENS": 8,
+    "procent": "2.11%"
+  },
+  {
+    "id": "28773",
+    "localitate": "ORAŞ BĂILE TUŞNAD",
+    "nume_sectie": "SEDIUL NOU AL PRIMĂRIEI",
+    "totalVoturi": 769,
+    "totalVoturiSENS": 16,
+    "procent": "2.08%"
+  },
+  {
+    "id": "28769",
+    "localitate": "MUNICIPIUL TOPLIŢA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”SF. ILIE” TOPLIŢA",
+    "totalVoturi": 396,
+    "totalVoturiSENS": 8,
+    "procent": "2.02%"
+  },
+  {
+    "id": "28777",
+    "localitate": "ORAŞ BĂLAN",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”LIVIU REBREANU” BĂLAN - CLĂDIRE GRĂDINIȚA NR. 2",
+    "totalVoturi": 359,
+    "totalVoturiSENS": 7,
+    "procent": "1.95%"
+  },
+  {
+    "id": "28771",
+    "localitate": "MUNICIPIUL TOPLIŢA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ANDREI ŞAGUNA” CĂLIMĂNEL",
+    "totalVoturi": 372,
+    "totalVoturiSENS": 7,
+    "procent": "1.88%"
   },
   {
     "id": "28714",
@@ -64,116 +192,28 @@
     "procent": "1.76%"
   },
   {
-    "id": "28715",
+    "id": "28708",
     "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LIVIU REBREANU” MIERCUREA-CIUC",
-    "totalVoturi": 867,
-    "totalVoturiSENS": 6,
-    "procent": "0.69%"
+    "nume_sectie": "LICEUL DE ARTE ”NAGY ISTVÁN” MIERCUREA-CIUC",
+    "totalVoturi": 860,
+    "totalVoturiSENS": 15,
+    "procent": "1.74%"
   },
   {
-    "id": "28716",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "GRĂDINIŢA „NAPRAFORGÓ” MIERCUREA-CIUC",
-    "totalVoturi": 809,
-    "totalVoturiSENS": 3,
-    "procent": "0.37%"
-  },
-  {
-    "id": "28717",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "S.C. GOSCOM S.A MIERCUREA-CIUC",
-    "totalVoturi": 632,
-    "totalVoturiSENS": 5,
-    "procent": "0.79%"
-  },
-  {
-    "id": "28718",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”JÓZSEF ATTILA” MIERCUREA-CIUC",
-    "totalVoturi": 887,
-    "totalVoturiSENS": 5,
-    "procent": "0.56%"
-  },
-  {
-    "id": "28719",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”JÓZSEF ATTILA” MIERCUREA-CIUC",
-    "totalVoturi": 787,
-    "totalVoturiSENS": 9,
-    "procent": "1.14%"
-  },
-  {
-    "id": "28720",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”JÓZSEF ATTILA” MIERCUREA-CIUC",
-    "totalVoturi": 841,
-    "totalVoturiSENS": 11,
-    "procent": "1.31%"
-  },
-  {
-    "id": "28721",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "SALA DE SPORT A ȘCOLII GIMNAZIALE ”JÓZSEF ATTILA” MIERCUREA-CIUC",
-    "totalVoturi": 911,
-    "totalVoturiSENS": 8,
-    "procent": "0.88%"
-  },
-  {
-    "id": "28722",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "SALA DE SPORT A ȘCOLII GIMNAZILAE ”JÓZSEF ATTILA” MIERCUREA-CIUC",
-    "totalVoturi": 924,
-    "totalVoturiSENS": 14,
-    "procent": "1.52%"
-  },
-  {
-    "id": "28723",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "GRĂDINIŢA ”ARANYALMA” MIERCUREA-CIUC",
-    "totalVoturi": 699,
-    "totalVoturiSENS": 2,
-    "procent": "0.29%"
-  },
-  {
-    "id": "28724",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "LICEUL TEHNOLIGIC ”SZÉKELY KÁROLY” MIERCUREA-CIUC",
-    "totalVoturi": 829,
-    "totalVoturiSENS": 3,
-    "procent": "0.36%"
-  },
-  {
-    "id": "28725",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "LICEUL TEHNOLIGIC ”SZÉKELY KÁROLY” MIERCUREA-CIUC",
-    "totalVoturi": 782,
-    "totalVoturiSENS": 11,
-    "procent": "1.41%"
-  },
-  {
-    "id": "28726",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”XANTUS JANOS” MIERCUREA-CIUC",
-    "totalVoturi": 740,
-    "totalVoturiSENS": 4,
-    "procent": "0.54%"
-  },
-  {
-    "id": "28727",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "SEDIUL ASOCIAȚIEI ”CSÍKSOMLYÓ” MIERCUREA-CIUC",
-    "totalVoturi": 1144,
+    "id": "28774",
+    "localitate": "ORAŞ BĂLAN",
+    "nume_sectie": "CASA DE CULTURĂ BĂLAN",
+    "totalVoturi": 419,
     "totalVoturiSENS": 7,
-    "procent": "0.61%"
+    "procent": "1.67%"
   },
   {
-    "id": "28728",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "CASA DE CULTURĂ TOPLIȚA MIERCUREA-CIUC",
-    "totalVoturi": 1030,
-    "totalVoturiSENS": 1,
-    "procent": "0.10%"
+    "id": "28877",
+    "localitate": "LUNCA DE SUS",
+    "nume_sectie": "ŞCOALA PRIMARĂ PĂLTINIŞ-CIUC",
+    "totalVoturi": 256,
+    "totalVoturiSENS": 4,
+    "procent": "1.56%"
   },
   {
     "id": "28729",
@@ -184,12 +224,36 @@
     "procent": "1.54%"
   },
   {
-    "id": "28730",
-    "localitate": "MUNICIPIUL GHEORGHENI",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”KÓS KÁROLY”",
-    "totalVoturi": 845,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
+    "id": "28775",
+    "localitate": "ORAŞ BĂLAN",
+    "nume_sectie": "SCOALA GIMNAZIALĂ ”GEO BOGZA” BĂLAN - CLĂDIRE ȘCOALA NR. 1",
+    "totalVoturi": 391,
+    "totalVoturiSENS": 6,
+    "procent": "1.53%"
+  },
+  {
+    "id": "28722",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "SALA DE SPORT A ȘCOLII GIMNAZILAE ”JÓZSEF ATTILA” MIERCUREA-CIUC",
+    "totalVoturi": 924,
+    "totalVoturiSENS": 14,
+    "procent": "1.52%"
+  },
+  {
+    "id": "28767",
+    "localitate": "MUNICIPIUL TOPLIŢA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ANDREI ŞAGUNA” VALE",
+    "totalVoturi": 608,
+    "totalVoturiSENS": 9,
+    "procent": "1.48%"
+  },
+  {
+    "id": "28977",
+    "localitate": "TULGHEŞ",
+    "nume_sectie": "ŞCOALA PRIMARĂ PUTNA",
+    "totalVoturi": 204,
+    "totalVoturiSENS": 3,
+    "procent": "1.47%"
   },
   {
     "id": "28731",
@@ -198,6 +262,302 @@
     "totalVoturi": 769,
     "totalVoturiSENS": 11,
     "procent": "1.43%"
+  },
+  {
+    "id": "28855",
+    "localitate": "GĂLĂUŢAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”DUMITRU GAFTON” GĂLĂUȚAȘ",
+    "totalVoturi": 210,
+    "totalVoturiSENS": 3,
+    "procent": "1.43%"
+  },
+  {
+    "id": "28725",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "LICEUL TEHNOLIGIC ”SZÉKELY KÁROLY” MIERCUREA-CIUC",
+    "totalVoturi": 782,
+    "totalVoturiSENS": 11,
+    "procent": "1.41%"
+  },
+  {
+    "id": "28766",
+    "localitate": "MUNICIPIUL TOPLIŢA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”SF. ILIE” ZENCANI",
+    "totalVoturi": 569,
+    "totalVoturiSENS": 8,
+    "procent": "1.41%"
+  },
+  {
+    "id": "28823",
+    "localitate": "CORBU",
+    "nume_sectie": "LICEUL TEHNOLOGIC CORP D",
+    "totalVoturi": 147,
+    "totalVoturiSENS": 2,
+    "procent": "1.36%"
+  },
+  {
+    "id": "28991",
+    "localitate": "VOŞLĂBENI",
+    "nume_sectie": "ȘCOALA PRIMARĂ ”ION CREANGĂ” IZVORU MUREȘULUI",
+    "totalVoturi": 372,
+    "totalVoturiSENS": 5,
+    "procent": "1.34%"
+  },
+  {
+    "id": "28797",
+    "localitate": "ATID",
+    "nume_sectie": "SEDIU COMPOSESORAT INLÃCENI",
+    "totalVoturi": 75,
+    "totalVoturiSENS": 1,
+    "procent": "1.33%"
+  },
+  {
+    "id": "28720",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”JÓZSEF ATTILA” MIERCUREA-CIUC",
+    "totalVoturi": 841,
+    "totalVoturiSENS": 11,
+    "procent": "1.31%"
+  },
+  {
+    "id": "28709",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "CASA DE CULTURĂ A SINDICATELOR MIERCUREA-CIUC",
+    "totalVoturi": 849,
+    "totalVoturiSENS": 11,
+    "procent": "1.30%"
+  },
+  {
+    "id": "39810",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "ȘCOALA PRIMARĂ DIN SUBPĂDURE",
+    "totalVoturi": 314,
+    "totalVoturiSENS": 4,
+    "procent": "1.27%"
+  },
+  {
+    "id": "28940",
+    "localitate": "SĂRMAŞ",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”SFÂNTU ANDREI ”SĂRMAȘ",
+    "totalVoturi": 412,
+    "totalVoturiSENS": 5,
+    "procent": "1.21%"
+  },
+  {
+    "id": "28712",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”NAGY IMRE”",
+    "totalVoturi": 842,
+    "totalVoturiSENS": 10,
+    "procent": "1.19%"
+  },
+  {
+    "id": "28937",
+    "localitate": "SĂRMAŞ",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ HODOȘA GARĂ",
+    "totalVoturi": 421,
+    "totalVoturiSENS": 5,
+    "procent": "1.19%"
+  },
+  {
+    "id": "28979",
+    "localitate": "TULGHEŞ",
+    "nume_sectie": "ŞCOALA PRIMARĂ VALEA FRUMOASĂ",
+    "totalVoturi": 173,
+    "totalVoturiSENS": 2,
+    "procent": "1.16%"
+  },
+  {
+    "id": "28719",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”JÓZSEF ATTILA” MIERCUREA-CIUC",
+    "totalVoturi": 787,
+    "totalVoturiSENS": 9,
+    "procent": "1.14%"
+  },
+  {
+    "id": "28863",
+    "localitate": "LĂZAREA",
+    "nume_sectie": "CASA COMUNITARĂ",
+    "totalVoturi": 97,
+    "totalVoturiSENS": 1,
+    "procent": "1.03%"
+  },
+  {
+    "id": "28856",
+    "localitate": "GĂLĂUŢAŞ",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”DUMITRU GAFTON” GĂLĂUȚAȘ",
+    "totalVoturi": 112,
+    "totalVoturiSENS": 1,
+    "procent": "0.89%"
+  },
+  {
+    "id": "28721",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "SALA DE SPORT A ȘCOLII GIMNAZIALE ”JÓZSEF ATTILA” MIERCUREA-CIUC",
+    "totalVoturi": 911,
+    "totalVoturiSENS": 8,
+    "procent": "0.88%"
+  },
+  {
+    "id": "28780",
+    "localitate": "ORAŞ BORSEC",
+    "nume_sectie": "SEDIUL CONSILIULUI LOCAL",
+    "totalVoturi": 805,
+    "totalVoturiSENS": 7,
+    "procent": "0.87%"
+  },
+  {
+    "id": "28778",
+    "localitate": "ORAŞ BĂLAN",
+    "nume_sectie": "CLUBUL ELEVILOR BĂLAN",
+    "totalVoturi": 355,
+    "totalVoturiSENS": 3,
+    "procent": "0.85%"
+  },
+  {
+    "id": "28711",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ „NAGY IMRE” MIERCUREA-CIUC",
+    "totalVoturi": 869,
+    "totalVoturiSENS": 7,
+    "procent": "0.81%"
+  },
+  {
+    "id": "28717",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "S.C. GOSCOM S.A MIERCUREA-CIUC",
+    "totalVoturi": 632,
+    "totalVoturiSENS": 5,
+    "procent": "0.79%"
+  },
+  {
+    "id": "28939",
+    "localitate": "SĂRMAŞ",
+    "nume_sectie": "ȘCOALA PRIMARĂ FUNDOAIA",
+    "totalVoturi": 259,
+    "totalVoturiSENS": 2,
+    "procent": "0.77%"
+  },
+  {
+    "id": "28990",
+    "localitate": "VOŞLĂBENI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”TEODOR CHINDEA” VOȘLĂBENI",
+    "totalVoturi": 389,
+    "totalVoturiSENS": 3,
+    "procent": "0.77%"
+  },
+  {
+    "id": "28794",
+    "localitate": "ATID",
+    "nume_sectie": "CÃMINUL CULTURAL CRISENI",
+    "totalVoturi": 282,
+    "totalVoturiSENS": 2,
+    "procent": "0.71%"
+  },
+  {
+    "id": "28715",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LIVIU REBREANU” MIERCUREA-CIUC",
+    "totalVoturi": 867,
+    "totalVoturiSENS": 6,
+    "procent": "0.69%"
+  },
+  {
+    "id": "28707",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "TEATRUL MUNICIPAL ”CSIKI JÁTÉKSZÍN” MIERCUREA-CIUC",
+    "totalVoturi": 901,
+    "totalVoturiSENS": 6,
+    "procent": "0.67%"
+  },
+  {
+    "id": "28744",
+    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
+    "nume_sectie": "COLEGIUL REFORMAT ”BACZKAMADARASI KIS GERGELY”",
+    "totalVoturi": 473,
+    "totalVoturiSENS": 3,
+    "procent": "0.63%"
+  },
+  {
+    "id": "28742",
+    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
+    "nume_sectie": "GRĂDINIŢA ”ZSIBONGÓ”",
+    "totalVoturi": 648,
+    "totalVoturiSENS": 4,
+    "procent": "0.62%"
+  },
+  {
+    "id": "28727",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "SEDIUL ASOCIAȚIEI ”CSÍKSOMLYÓ” MIERCUREA-CIUC",
+    "totalVoturi": 1144,
+    "totalVoturiSENS": 7,
+    "procent": "0.61%"
+  },
+  {
+    "id": "28734",
+    "localitate": "MUNICIPIUL GHEORGHENI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”VASKERTES”",
+    "totalVoturi": 700,
+    "totalVoturiSENS": 4,
+    "procent": "0.57%"
+  },
+  {
+    "id": "28916",
+    "localitate": "PLĂIEŞII DE JOS",
+    "nume_sectie": "ȘCOALA PRIMARĂ DR.PATAKI JÓZSEF NR.3 IACOBENI",
+    "totalVoturi": 174,
+    "totalVoturiSENS": 1,
+    "procent": "0.57%"
+  },
+  {
+    "id": "28718",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”JÓZSEF ATTILA” MIERCUREA-CIUC",
+    "totalVoturi": 887,
+    "totalVoturiSENS": 5,
+    "procent": "0.56%"
+  },
+  {
+    "id": "28785",
+    "localitate": "ORAŞ CRISTURU SECUIESC",
+    "nume_sectie": "ASOCIATIA INTREPRINZATORILOR PARTICULARI",
+    "totalVoturi": 711,
+    "totalVoturiSENS": 4,
+    "procent": "0.56%"
+  },
+  {
+    "id": "28726",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”XANTUS JANOS” MIERCUREA-CIUC",
+    "totalVoturi": 740,
+    "totalVoturiSENS": 4,
+    "procent": "0.54%"
+  },
+  {
+    "id": "28782",
+    "localitate": "ORAŞ CRISTURU SECUIESC",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”PETŐFI SÁNDOR” CRISTURU SECUIESC",
+    "totalVoturi": 564,
+    "totalVoturiSENS": 3,
+    "procent": "0.53%"
+  },
+  {
+    "id": "28920",
+    "localitate": "PRAID",
+    "nume_sectie": "PRIMARIA COMUNEI PRAID- SALA DE SEDINTE AL CONS.LOCAL",
+    "totalVoturi": 970,
+    "totalVoturiSENS": 5,
+    "procent": "0.52%"
+  },
+  {
+    "id": "28759",
+    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MÓRA FERENC”",
+    "totalVoturi": 790,
+    "totalVoturiSENS": 4,
+    "procent": "0.51%"
   },
   {
     "id": "28732",
@@ -216,60 +576,12 @@
     "procent": "0.50%"
   },
   {
-    "id": "28734",
-    "localitate": "MUNICIPIUL GHEORGHENI",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”VASKERTES”",
-    "totalVoturi": 700,
-    "totalVoturiSENS": 4,
-    "procent": "0.57%"
-  },
-  {
-    "id": "28735",
-    "localitate": "MUNICIPIUL GHEORGHENI",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”VASKERTES”",
-    "totalVoturi": 980,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "28736",
-    "localitate": "MUNICIPIUL GHEORGHENI",
-    "nume_sectie": "LICEUL TEORETIC ”SALAMON ERNŐ”",
-    "totalVoturi": 961,
-    "totalVoturiSENS": 4,
-    "procent": "0.42%"
-  },
-  {
-    "id": "28737",
-    "localitate": "MUNICIPIUL GHEORGHENI",
-    "nume_sectie": "LICEUL TEHNOLOGIC ”FOGARASY MIHÁLY”",
-    "totalVoturi": 885,
+    "id": "28874",
+    "localitate": "LUNCA DE SUS",
+    "nume_sectie": "ŞCOALA PRIMARĂ COMIAT",
+    "totalVoturi": 199,
     "totalVoturiSENS": 1,
-    "procent": "0.11%"
-  },
-  {
-    "id": "28738",
-    "localitate": "MUNICIPIUL GHEORGHENI",
-    "nume_sectie": "COLEGIUL TEHNIC ”BATTHYÁNY IGNÁC”",
-    "totalVoturi": 1035,
-    "totalVoturiSENS": 1,
-    "procent": "0.10%"
-  },
-  {
-    "id": "28739",
-    "localitate": "MUNICIPIUL GHEORGHENI",
-    "nume_sectie": "CORP DE CLĂDIRE CU 20 DE APARTAMENTE",
-    "totalVoturi": 58,
-    "totalVoturiSENS": 2,
-    "procent": "3.45%"
-  },
-  {
-    "id": "28740",
-    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
-    "nume_sectie": "SEDIU CLUBUL SPORTIV ŞCOLAR",
-    "totalVoturi": 746,
-    "totalVoturiSENS": 1,
-    "procent": "0.13%"
+    "procent": "0.50%"
   },
   {
     "id": "28741",
@@ -280,28 +592,100 @@
     "procent": "0.46%"
   },
   {
-    "id": "28742",
-    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
-    "nume_sectie": "GRĂDINIŢA ”ZSIBONGÓ”",
-    "totalVoturi": 648,
+    "id": "28736",
+    "localitate": "MUNICIPIUL GHEORGHENI",
+    "nume_sectie": "LICEUL TEORETIC ”SALAMON ERNŐ”",
+    "totalVoturi": 961,
     "totalVoturiSENS": 4,
-    "procent": "0.62%"
+    "procent": "0.42%"
   },
   {
-    "id": "28743",
-    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
-    "nume_sectie": "COLEGIUL REFORMAT ”BACZKAMADARASI KIS GERGELY”",
-    "totalVoturi": 1036,
-    "totalVoturiSENS": 1,
-    "procent": "0.10%"
-  },
-  {
-    "id": "28744",
-    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
-    "nume_sectie": "COLEGIUL REFORMAT ”BACZKAMADARASI KIS GERGELY”",
-    "totalVoturi": 473,
+    "id": "28713",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETŐFI SÁNDOR” MIERCUREA-CIUC",
+    "totalVoturi": 737,
     "totalVoturiSENS": 3,
-    "procent": "0.63%"
+    "procent": "0.41%"
+  },
+  {
+    "id": "28953",
+    "localitate": "SÂNTIMBRU",
+    "nume_sectie": "ŞCOALA PRIMARĂ PÁLSZEG SÂNTIMBRU",
+    "totalVoturi": 506,
+    "totalVoturiSENS": 2,
+    "procent": "0.40%"
+  },
+  {
+    "id": "28716",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "GRĂDINIŢA „NAPRAFORGÓ” MIERCUREA-CIUC",
+    "totalVoturi": 809,
+    "totalVoturiSENS": 3,
+    "procent": "0.37%"
+  },
+  {
+    "id": "28724",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "LICEUL TEHNOLIGIC ”SZÉKELY KÁROLY” MIERCUREA-CIUC",
+    "totalVoturi": 829,
+    "totalVoturiSENS": 3,
+    "procent": "0.36%"
+  },
+  {
+    "id": "28866",
+    "localitate": "LELICENI",
+    "nume_sectie": "SEDIU ADMINISTRATIV",
+    "totalVoturi": 587,
+    "totalVoturiSENS": 2,
+    "procent": "0.34%"
+  },
+  {
+    "id": "28808",
+    "localitate": "CÂRŢA",
+    "nume_sectie": "PRIMĂRIA CÎRŢA",
+    "totalVoturi": 610,
+    "totalVoturiSENS": 2,
+    "procent": "0.33%"
+  },
+  {
+    "id": "28723",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "GRĂDINIŢA ”ARANYALMA” MIERCUREA-CIUC",
+    "totalVoturi": 699,
+    "totalVoturiSENS": 2,
+    "procent": "0.29%"
+  },
+  {
+    "id": "28821",
+    "localitate": "CIUMANI",
+    "nume_sectie": "ȘCOALA PRIMARA SZILÁGYI",
+    "totalVoturi": 693,
+    "totalVoturiSENS": 2,
+    "procent": "0.29%"
+  },
+  {
+    "id": "28788",
+    "localitate": "ORAŞ VLĂHIŢA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MÁRTONFFI JÁNOS”, VLĂHIŢA",
+    "totalVoturi": 744,
+    "totalVoturiSENS": 2,
+    "procent": "0.27%"
+  },
+  {
+    "id": "28799",
+    "localitate": "AVRĂMEŞTI",
+    "nume_sectie": "ŞCOALA PRIMARĂ CECHEŞTI",
+    "totalVoturi": 365,
+    "totalVoturiSENS": 1,
+    "procent": "0.27%"
+  },
+  {
+    "id": "28911",
+    "localitate": "PĂULENI-CIUC",
+    "nume_sectie": "CĂMINUL CULTURAL PĂULENI-CIUC",
+    "totalVoturi": 373,
+    "totalVoturiSENS": 1,
+    "procent": "0.27%"
   },
   {
     "id": "28745",
@@ -312,6 +696,102 @@
     "procent": "0.26%"
   },
   {
+    "id": "28748",
+    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
+    "nume_sectie": "GRĂDINIȚA „VILLANYTELEP”",
+    "totalVoturi": 771,
+    "totalVoturiSENS": 2,
+    "procent": "0.26%"
+  },
+  {
+    "id": "28870",
+    "localitate": "LUNCA DE JOS",
+    "nume_sectie": "CLĂDIREA PRIMĂRIEI",
+    "totalVoturi": 383,
+    "totalVoturiSENS": 1,
+    "procent": "0.26%"
+  },
+  {
+    "id": "28957",
+    "localitate": "SICULENI",
+    "nume_sectie": "PRIMĂRIA COMUNEI SICULENI",
+    "totalVoturi": 764,
+    "totalVoturiSENS": 2,
+    "procent": "0.26%"
+  },
+  {
+    "id": "28760",
+    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MÓRA FERENC”",
+    "totalVoturi": 814,
+    "totalVoturiSENS": 2,
+    "procent": "0.25%"
+  },
+  {
+    "id": "28819",
+    "localitate": "CIUMANI",
+    "nume_sectie": "ȘCOALA PRIMARĂ KÖLLŐ MIKLÓS",
+    "totalVoturi": 810,
+    "totalVoturiSENS": 2,
+    "procent": "0.25%"
+  },
+  {
+    "id": "28913",
+    "localitate": "PĂULENI-CIUC",
+    "nume_sectie": "SCOALA PRIMARĂ ŞOIMENI",
+    "totalVoturi": 395,
+    "totalVoturiSENS": 1,
+    "procent": "0.25%"
+  },
+  {
+    "id": "28805",
+    "localitate": "BRĂDEŞTI",
+    "nume_sectie": "SCOALA PRIMARA TIRNOVITA",
+    "totalVoturi": 420,
+    "totalVoturiSENS": 1,
+    "procent": "0.24%"
+  },
+  {
+    "id": "28710",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”NAGY IMRE” MIERCUREA-CIUC",
+    "totalVoturi": 875,
+    "totalVoturiSENS": 2,
+    "procent": "0.23%"
+  },
+  {
+    "id": "28779",
+    "localitate": "ORAŞ BORSEC",
+    "nume_sectie": "LICEUL TEHNOLOGIC „ZIMMETHAUSEN„",
+    "totalVoturi": 460,
+    "totalVoturiSENS": 1,
+    "procent": "0.22%"
+  },
+  {
+    "id": "28868",
+    "localitate": "LUETA",
+    "nume_sectie": "SEDIUL PRIMĂRIEI LUETA",
+    "totalVoturi": 904,
+    "totalVoturiSENS": 2,
+    "procent": "0.22%"
+  },
+  {
+    "id": "28932",
+    "localitate": "SATU MARE",
+    "nume_sectie": "CAMINUL CULTURAL SATU MARE",
+    "totalVoturi": 456,
+    "totalVoturiSENS": 1,
+    "procent": "0.22%"
+  },
+  {
+    "id": "28815",
+    "localitate": "CIUCSÂNGEORGIU",
+    "nume_sectie": "CĂMINUL CULTURAL ARMĂŞENI",
+    "totalVoturi": 486,
+    "totalVoturiSENS": 1,
+    "procent": "0.21%"
+  },
+  {
     "id": "28746",
     "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
     "nume_sectie": "LICEUL TEHNOLOGIC ”KÓS KÁROLY”",
@@ -320,20 +800,36 @@
     "procent": "0.20%"
   },
   {
-    "id": "28747",
-    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
-    "nume_sectie": "LICEUL TEHNOLOGIC ”KÓS KÁROLY”",
-    "totalVoturi": 867,
+    "id": "28961",
+    "localitate": "SUSENI",
+    "nume_sectie": "PRIMĂRIA COMUNEI SUSENI",
+    "totalVoturi": 496,
     "totalVoturiSENS": 1,
-    "procent": "0.12%"
+    "procent": "0.20%"
   },
   {
-    "id": "28748",
-    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
-    "nume_sectie": "GRĂDINIȚA „VILLANYTELEP”",
-    "totalVoturi": 771,
-    "totalVoturiSENS": 2,
-    "procent": "0.26%"
+    "id": "28792",
+    "localitate": "ORAŞ VLĂHIŢA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ TAMÁSI ÁRON, VLĂHIŢA",
+    "totalVoturi": 538,
+    "totalVoturiSENS": 1,
+    "procent": "0.19%"
+  },
+  {
+    "id": "28901",
+    "localitate": "MUGENI",
+    "nume_sectie": "CĂMINUL CULTURAL MUGENI",
+    "totalVoturi": 528,
+    "totalVoturiSENS": 1,
+    "procent": "0.19%"
+  },
+  {
+    "id": "28885",
+    "localitate": "MĂDĂRAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”KISS FERENC”",
+    "totalVoturi": 575,
+    "totalVoturiSENS": 1,
+    "procent": "0.17%"
   },
   {
     "id": "28749",
@@ -344,14 +840,6 @@
     "procent": "0.14%"
   },
   {
-    "id": "28750",
-    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ORBÁN BALÁZS”",
-    "totalVoturi": 611,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
     "id": "28751",
     "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
     "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ORBÁN BALÁZS”",
@@ -360,20 +848,36 @@
     "procent": "0.14%"
   },
   {
-    "id": "28752",
-    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”BETHLEN GÁBOR”",
-    "totalVoturi": 731,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
+    "id": "28816",
+    "localitate": "CIUCSÂNGEORGIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MARTON FERENC” BANCU",
+    "totalVoturi": 704,
+    "totalVoturiSENS": 1,
+    "procent": "0.14%"
   },
   {
-    "id": "28753",
+    "id": "28923",
+    "localitate": "PRAID",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”SZEKELY MOZES” OCNA DE SUS",
+    "totalVoturi": 708,
+    "totalVoturiSENS": 1,
+    "procent": "0.14%"
+  },
+  {
+    "id": "28927",
+    "localitate": "REMETEA",
+    "nume_sectie": "ȘCOALA GENERALA ”BALÁS JENŐ”",
+    "totalVoturi": 740,
+    "totalVoturiSENS": 1,
+    "procent": "0.14%"
+  },
+  {
+    "id": "28740",
     "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”BETHLEN GÁBOR”",
-    "totalVoturi": 675,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
+    "nume_sectie": "SEDIU CLUBUL SPORTIV ŞCOLAR",
+    "totalVoturi": 746,
+    "totalVoturiSENS": 1,
+    "procent": "0.13%"
   },
   {
     "id": "28754",
@@ -390,6 +894,174 @@
     "totalVoturi": 774,
     "totalVoturiSENS": 1,
     "procent": "0.13%"
+  },
+  {
+    "id": "28804",
+    "localitate": "BRĂDEŞTI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ MARTON ARON BRĂDEŞTI",
+    "totalVoturi": 774,
+    "totalVoturiSENS": 1,
+    "procent": "0.13%"
+  },
+  {
+    "id": "28826",
+    "localitate": "CORUND",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ CORUND",
+    "totalVoturi": 762,
+    "totalVoturiSENS": 1,
+    "procent": "0.13%"
+  },
+  {
+    "id": "28830",
+    "localitate": "COZMENI",
+    "nume_sectie": "COMUNA COZMENI",
+    "totalVoturi": 753,
+    "totalVoturiSENS": 1,
+    "procent": "0.13%"
+  },
+  {
+    "id": "28992",
+    "localitate": "ZETEA",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL ALSZEG ZETEA",
+    "totalVoturi": 797,
+    "totalVoturiSENS": 1,
+    "procent": "0.13%"
+  },
+  {
+    "id": "28747",
+    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”KÓS KÁROLY”",
+    "totalVoturi": 867,
+    "totalVoturiSENS": 1,
+    "procent": "0.12%"
+  },
+  {
+    "id": "28786",
+    "localitate": "ORAŞ CRISTURU SECUIESC",
+    "nume_sectie": "LICEUL TEOLOGIC UNITARIAN „BERDE MÓZES” CRISTURU SECUIESC",
+    "totalVoturi": 854,
+    "totalVoturiSENS": 1,
+    "procent": "0.12%"
+  },
+  {
+    "id": "28810",
+    "localitate": "CICEU",
+    "nume_sectie": "CĂMIN CULTURAL CICEU",
+    "totalVoturi": 804,
+    "totalVoturiSENS": 1,
+    "procent": "0.12%"
+  },
+  {
+    "id": "28950",
+    "localitate": "SÂNSIMION",
+    "nume_sectie": "CĂMINUL CULTURAL",
+    "totalVoturi": 825,
+    "totalVoturiSENS": 1,
+    "procent": "0.12%"
+  },
+  {
+    "id": "28737",
+    "localitate": "MUNICIPIUL GHEORGHENI",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”FOGARASY MIHÁLY”",
+    "totalVoturi": 885,
+    "totalVoturiSENS": 1,
+    "procent": "0.11%"
+  },
+  {
+    "id": "28783",
+    "localitate": "ORAŞ CRISTURU SECUIESC",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”PETŐFI SÁNDOR” CRISTURU SECUIESC",
+    "totalVoturi": 902,
+    "totalVoturiSENS": 1,
+    "procent": "0.11%"
+  },
+  {
+    "id": "28871",
+    "localitate": "LUNCA DE JOS",
+    "nume_sectie": "ŞCOALA GIMNAZIALA ” MAJLATH GUSZTAV KAROLY”",
+    "totalVoturi": 890,
+    "totalVoturiSENS": 1,
+    "procent": "0.11%"
+  },
+  {
+    "id": "28728",
+    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
+    "nume_sectie": "CASA DE CULTURĂ TOPLIȚA MIERCUREA-CIUC",
+    "totalVoturi": 1030,
+    "totalVoturiSENS": 1,
+    "procent": "0.10%"
+  },
+  {
+    "id": "28738",
+    "localitate": "MUNICIPIUL GHEORGHENI",
+    "nume_sectie": "COLEGIUL TEHNIC ”BATTHYÁNY IGNÁC”",
+    "totalVoturi": 1035,
+    "totalVoturiSENS": 1,
+    "procent": "0.10%"
+  },
+  {
+    "id": "28743",
+    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
+    "nume_sectie": "COLEGIUL REFORMAT ”BACZKAMADARASI KIS GERGELY”",
+    "totalVoturi": 1036,
+    "totalVoturiSENS": 1,
+    "procent": "0.10%"
+  },
+  {
+    "id": "28809",
+    "localitate": "CÂRŢA",
+    "nume_sectie": "COMPOSESORAT",
+    "totalVoturi": 957,
+    "totalVoturiSENS": 1,
+    "procent": "0.10%"
+  },
+  {
+    "id": "28921",
+    "localitate": "PRAID",
+    "nume_sectie": "CAMINUL CULTURAL PRAID",
+    "totalVoturi": 1037,
+    "totalVoturiSENS": 1,
+    "procent": "0.10%"
+  },
+  {
+    "id": "28730",
+    "localitate": "MUNICIPIUL GHEORGHENI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”KÓS KÁROLY”",
+    "totalVoturi": 845,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "28735",
+    "localitate": "MUNICIPIUL GHEORGHENI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”VASKERTES”",
+    "totalVoturi": 980,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "28750",
+    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ORBÁN BALÁZS”",
+    "totalVoturi": 611,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "28752",
+    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”BETHLEN GÁBOR”",
+    "totalVoturi": 731,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "28753",
+    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”BETHLEN GÁBOR”",
+    "totalVoturi": 675,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
   },
   {
     "id": "28756",
@@ -416,108 +1088,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "28759",
-    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MÓRA FERENC”",
-    "totalVoturi": 790,
-    "totalVoturiSENS": 4,
-    "procent": "0.51%"
-  },
-  {
-    "id": "28760",
-    "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MÓRA FERENC”",
-    "totalVoturi": 814,
-    "totalVoturiSENS": 2,
-    "procent": "0.25%"
-  },
-  {
     "id": "28761",
     "localitate": "MUNICIPIUL ODORHEIU SECUIESC",
     "nume_sectie": "GRĂDINIȚA „KIPI-KOPI” STRUCTURA BETHLENFALVI",
     "totalVoturi": 1099,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28762",
-    "localitate": "MUNICIPIUL TOPLIŢA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MIRON CRISTEA” TOPLIŢA",
-    "totalVoturi": 583,
-    "totalVoturiSENS": 24,
-    "procent": "4.12%"
-  },
-  {
-    "id": "28763",
-    "localitate": "MUNICIPIUL TOPLIŢA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MIRON CRISTEA” TOPLIŢA",
-    "totalVoturi": 620,
-    "totalVoturiSENS": 21,
-    "procent": "3.39%"
-  },
-  {
-    "id": "28764",
-    "localitate": "MUNICIPIUL TOPLIŢA",
-    "nume_sectie": "LICEUL TEORETIC ”KEMENY JANOS” TOPLIŢA",
-    "totalVoturi": 546,
-    "totalVoturiSENS": 17,
-    "procent": "3.11%"
-  },
-  {
-    "id": "28765",
-    "localitate": "MUNICIPIUL TOPLIŢA",
-    "nume_sectie": "GRĂDINIŢA VOINICEL NR.1 TOPLIŢA",
-    "totalVoturi": 353,
-    "totalVoturiSENS": 9,
-    "procent": "2.55%"
-  },
-  {
-    "id": "28766",
-    "localitate": "MUNICIPIUL TOPLIŢA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”SF. ILIE” ZENCANI",
-    "totalVoturi": 569,
-    "totalVoturiSENS": 8,
-    "procent": "1.41%"
-  },
-  {
-    "id": "28767",
-    "localitate": "MUNICIPIUL TOPLIŢA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ANDREI ŞAGUNA” VALE",
-    "totalVoturi": 608,
-    "totalVoturiSENS": 9,
-    "procent": "1.48%"
-  },
-  {
-    "id": "28768",
-    "localitate": "MUNICIPIUL TOPLIŢA",
-    "nume_sectie": "COLEGIUL NAŢIONAL ”MIHAI EMINESCU” TOPLIŢA",
-    "totalVoturi": 422,
-    "totalVoturiSENS": 12,
-    "procent": "2.84%"
-  },
-  {
-    "id": "28769",
-    "localitate": "MUNICIPIUL TOPLIŢA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”SF. ILIE” TOPLIŢA",
-    "totalVoturi": 396,
-    "totalVoturiSENS": 8,
-    "procent": "2.02%"
-  },
-  {
-    "id": "28770",
-    "localitate": "MUNICIPIUL TOPLIŢA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”SFÂNTU ILIE” TOPLIŢA",
-    "totalVoturi": 410,
-    "totalVoturiSENS": 14,
-    "procent": "3.41%"
-  },
-  {
-    "id": "28771",
-    "localitate": "MUNICIPIUL TOPLIŢA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ANDREI ŞAGUNA” CĂLIMĂNEL",
-    "totalVoturi": 372,
-    "totalVoturiSENS": 7,
-    "procent": "1.88%"
   },
   {
     "id": "28772",
@@ -528,92 +1104,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "28773",
-    "localitate": "ORAŞ BĂILE TUŞNAD",
-    "nume_sectie": "SEDIUL NOU AL PRIMĂRIEI",
-    "totalVoturi": 769,
-    "totalVoturiSENS": 16,
-    "procent": "2.08%"
-  },
-  {
-    "id": "28774",
-    "localitate": "ORAŞ BĂLAN",
-    "nume_sectie": "CASA DE CULTURĂ BĂLAN",
-    "totalVoturi": 419,
-    "totalVoturiSENS": 7,
-    "procent": "1.67%"
-  },
-  {
-    "id": "28775",
-    "localitate": "ORAŞ BĂLAN",
-    "nume_sectie": "SCOALA GIMNAZIALĂ ”GEO BOGZA” BĂLAN - CLĂDIRE ȘCOALA NR. 1",
-    "totalVoturi": 391,
-    "totalVoturiSENS": 6,
-    "procent": "1.53%"
-  },
-  {
-    "id": "28776",
-    "localitate": "ORAŞ BĂLAN",
-    "nume_sectie": "Liceul Tehnologic ”Liviu Rebreanu” Bălan - Grădinița „Cseperedo”",
-    "totalVoturi": 355,
-    "totalVoturiSENS": 8,
-    "procent": "2.25%"
-  },
-  {
-    "id": "28777",
-    "localitate": "ORAŞ BĂLAN",
-    "nume_sectie": "LICEUL TEHNOLOGIC ”LIVIU REBREANU” BĂLAN - CLĂDIRE GRĂDINIȚA NR. 2",
-    "totalVoturi": 359,
-    "totalVoturiSENS": 7,
-    "procent": "1.95%"
-  },
-  {
-    "id": "28778",
-    "localitate": "ORAŞ BĂLAN",
-    "nume_sectie": "CLUBUL ELEVILOR BĂLAN",
-    "totalVoturi": 355,
-    "totalVoturiSENS": 3,
-    "procent": "0.85%"
-  },
-  {
-    "id": "28779",
-    "localitate": "ORAŞ BORSEC",
-    "nume_sectie": "LICEUL TEHNOLOGIC „ZIMMETHAUSEN„",
-    "totalVoturi": 460,
-    "totalVoturiSENS": 1,
-    "procent": "0.22%"
-  },
-  {
-    "id": "28780",
-    "localitate": "ORAŞ BORSEC",
-    "nume_sectie": "SEDIUL CONSILIULUI LOCAL",
-    "totalVoturi": 805,
-    "totalVoturiSENS": 7,
-    "procent": "0.87%"
-  },
-  {
     "id": "28781",
     "localitate": "ORAŞ CRISTURU SECUIESC",
     "nume_sectie": "CĂMINUL CULTURAL BETEŞTI",
     "totalVoturi": 338,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28782",
-    "localitate": "ORAŞ CRISTURU SECUIESC",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”PETŐFI SÁNDOR” CRISTURU SECUIESC",
-    "totalVoturi": 564,
-    "totalVoturiSENS": 3,
-    "procent": "0.53%"
-  },
-  {
-    "id": "28783",
-    "localitate": "ORAŞ CRISTURU SECUIESC",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”PETŐFI SÁNDOR” CRISTURU SECUIESC",
-    "totalVoturi": 902,
-    "totalVoturiSENS": 1,
-    "procent": "0.11%"
   },
   {
     "id": "28784",
@@ -624,36 +1120,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "28785",
-    "localitate": "ORAŞ CRISTURU SECUIESC",
-    "nume_sectie": "ASOCIATIA INTREPRINZATORILOR PARTICULARI",
-    "totalVoturi": 711,
-    "totalVoturiSENS": 4,
-    "procent": "0.56%"
-  },
-  {
-    "id": "28786",
-    "localitate": "ORAŞ CRISTURU SECUIESC",
-    "nume_sectie": "LICEUL TEOLOGIC UNITARIAN „BERDE MÓZES” CRISTURU SECUIESC",
-    "totalVoturi": 854,
-    "totalVoturiSENS": 1,
-    "procent": "0.12%"
-  },
-  {
     "id": "28787",
     "localitate": "ORAŞ CRISTURU SECUIESC",
     "nume_sectie": "CENTRUL DE PLANIFICARE A FAMILIEI FILIAŞ",
     "totalVoturi": 531,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28788",
-    "localitate": "ORAŞ VLĂHIŢA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MÁRTONFFI JÁNOS”, VLĂHIŢA",
-    "totalVoturi": 744,
-    "totalVoturiSENS": 2,
-    "procent": "0.27%"
   },
   {
     "id": "28789",
@@ -680,28 +1152,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "28792",
-    "localitate": "ORAŞ VLĂHIŢA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ TAMÁSI ÁRON, VLĂHIŢA",
-    "totalVoturi": 538,
-    "totalVoturiSENS": 1,
-    "procent": "0.19%"
-  },
-  {
     "id": "28793",
     "localitate": "ATID",
     "nume_sectie": "CÃMINUL CULTURAL ATID",
     "totalVoturi": 488,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28794",
-    "localitate": "ATID",
-    "nume_sectie": "CÃMINUL CULTURAL CRISENI",
-    "totalVoturi": 282,
-    "totalVoturiSENS": 2,
-    "procent": "0.71%"
   },
   {
     "id": "28795",
@@ -712,36 +1168,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "28796",
-    "localitate": "ATID",
-    "nume_sectie": "CÃMINUL CULTURAL SICLOD",
-    "totalVoturi": 93,
-    "totalVoturiSENS": 2,
-    "procent": "2.15%"
-  },
-  {
-    "id": "28797",
-    "localitate": "ATID",
-    "nume_sectie": "SEDIU COMPOSESORAT INLÃCENI",
-    "totalVoturi": 75,
-    "totalVoturiSENS": 1,
-    "procent": "1.33%"
-  },
-  {
     "id": "28798",
     "localitate": "AVRĂMEŞTI",
     "nume_sectie": "SEDIUL PRIMĂRIEI AVRĂMEŞTI",
     "totalVoturi": 494,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28799",
-    "localitate": "AVRĂMEŞTI",
-    "nume_sectie": "ŞCOALA PRIMARĂ CECHEŞTI",
-    "totalVoturi": 365,
-    "totalVoturiSENS": 1,
-    "procent": "0.27%"
   },
   {
     "id": "28800",
@@ -760,38 +1192,6 @@
     "procent": "0.00%"
   },
   {
-    "id": "28802",
-    "localitate": "BILBOR",
-    "nume_sectie": "CĂMINUL CULTURAL",
-    "totalVoturi": 380,
-    "totalVoturiSENS": 8,
-    "procent": "2.11%"
-  },
-  {
-    "id": "28803",
-    "localitate": "BILBOR",
-    "nume_sectie": "CĂMINUL CULTURAL",
-    "totalVoturi": 416,
-    "totalVoturiSENS": 14,
-    "procent": "3.37%"
-  },
-  {
-    "id": "28804",
-    "localitate": "BRĂDEŞTI",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ MARTON ARON BRĂDEŞTI",
-    "totalVoturi": 774,
-    "totalVoturiSENS": 1,
-    "procent": "0.13%"
-  },
-  {
-    "id": "28805",
-    "localitate": "BRĂDEŞTI",
-    "nume_sectie": "SCOALA PRIMARA TIRNOVITA",
-    "totalVoturi": 420,
-    "totalVoturiSENS": 1,
-    "procent": "0.24%"
-  },
-  {
     "id": "28806",
     "localitate": "CĂPÂLNIŢA",
     "nume_sectie": "ȘCOALA GIMNAZIALĂ „KRIZA JÁNOS”",
@@ -806,30 +1206,6 @@
     "totalVoturi": 530,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28808",
-    "localitate": "CÂRŢA",
-    "nume_sectie": "PRIMĂRIA CÎRŢA",
-    "totalVoturi": 610,
-    "totalVoturiSENS": 2,
-    "procent": "0.33%"
-  },
-  {
-    "id": "28809",
-    "localitate": "CÂRŢA",
-    "nume_sectie": "COMPOSESORAT",
-    "totalVoturi": 957,
-    "totalVoturiSENS": 1,
-    "procent": "0.10%"
-  },
-  {
-    "id": "28810",
-    "localitate": "CICEU",
-    "nume_sectie": "CĂMIN CULTURAL CICEU",
-    "totalVoturi": 804,
-    "totalVoturiSENS": 1,
-    "procent": "0.12%"
   },
   {
     "id": "28811",
@@ -864,22 +1240,6 @@
     "procent": "0.00%"
   },
   {
-    "id": "28815",
-    "localitate": "CIUCSÂNGEORGIU",
-    "nume_sectie": "CĂMINUL CULTURAL ARMĂŞENI",
-    "totalVoturi": 486,
-    "totalVoturiSENS": 1,
-    "procent": "0.21%"
-  },
-  {
-    "id": "28816",
-    "localitate": "CIUCSÂNGEORGIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MARTON FERENC” BANCU",
-    "totalVoturi": 704,
-    "totalVoturiSENS": 1,
-    "procent": "0.14%"
-  },
-  {
     "id": "28817",
     "localitate": "CIUCSÂNGEORGIU",
     "nume_sectie": "CĂMINUL CULTURAL EGHERSEC-CINOD",
@@ -896,44 +1256,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "28819",
-    "localitate": "CIUMANI",
-    "nume_sectie": "ȘCOALA PRIMARĂ KÖLLŐ MIKLÓS",
-    "totalVoturi": 810,
-    "totalVoturiSENS": 2,
-    "procent": "0.25%"
-  },
-  {
     "id": "28820",
     "localitate": "CIUMANI",
     "nume_sectie": "ȘCOALA PRIMARĂ KÖLLŐ MIKLÓS",
     "totalVoturi": 707,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28821",
-    "localitate": "CIUMANI",
-    "nume_sectie": "ȘCOALA PRIMARA SZILÁGYI",
-    "totalVoturi": 693,
-    "totalVoturiSENS": 2,
-    "procent": "0.29%"
-  },
-  {
-    "id": "28822",
-    "localitate": "CORBU",
-    "nume_sectie": "LICEUL TEHNOLOGIC CORBU CORP A",
-    "totalVoturi": 295,
-    "totalVoturiSENS": 9,
-    "procent": "3.05%"
-  },
-  {
-    "id": "28823",
-    "localitate": "CORBU",
-    "nume_sectie": "LICEUL TEHNOLOGIC CORP D",
-    "totalVoturi": 147,
-    "totalVoturiSENS": 2,
-    "procent": "1.36%"
   },
   {
     "id": "28824",
@@ -950,14 +1278,6 @@
     "totalVoturi": 872,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28826",
-    "localitate": "CORUND",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ CORUND",
-    "totalVoturi": 762,
-    "totalVoturiSENS": 1,
-    "procent": "0.13%"
   },
   {
     "id": "28827",
@@ -982,14 +1302,6 @@
     "totalVoturi": 174,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28830",
-    "localitate": "COZMENI",
-    "nume_sectie": "COMUNA COZMENI",
-    "totalVoturi": 753,
-    "totalVoturiSENS": 1,
-    "procent": "0.13%"
   },
   {
     "id": "28831",
@@ -1176,30 +1488,6 @@
     "procent": "0.00%"
   },
   {
-    "id": "28854",
-    "localitate": "GĂLĂUŢAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”DUMITRU GAFTON” GĂLĂUȚAȘ",
-    "totalVoturi": 336,
-    "totalVoturiSENS": 15,
-    "procent": "4.46%"
-  },
-  {
-    "id": "28855",
-    "localitate": "GĂLĂUŢAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”DUMITRU GAFTON” GĂLĂUȚAȘ",
-    "totalVoturi": 210,
-    "totalVoturiSENS": 3,
-    "procent": "1.43%"
-  },
-  {
-    "id": "28856",
-    "localitate": "GĂLĂUŢAŞ",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”DUMITRU GAFTON” GĂLĂUȚAȘ",
-    "totalVoturi": 112,
-    "totalVoturiSENS": 1,
-    "procent": "0.89%"
-  },
-  {
     "id": "28857",
     "localitate": "JOSENI",
     "nume_sectie": "LICEUL TEHNOLOGIC SOVER ELEK",
@@ -1248,14 +1536,6 @@
     "procent": "0.00%"
   },
   {
-    "id": "28863",
-    "localitate": "LĂZAREA",
-    "nume_sectie": "CASA COMUNITARĂ",
-    "totalVoturi": 97,
-    "totalVoturiSENS": 1,
-    "procent": "1.03%"
-  },
-  {
     "id": "28864",
     "localitate": "LELICENI",
     "nume_sectie": "CAMINUL CULTURAL",
@@ -1272,14 +1552,6 @@
     "procent": "0.00%"
   },
   {
-    "id": "28866",
-    "localitate": "LELICENI",
-    "nume_sectie": "SEDIU ADMINISTRATIV",
-    "totalVoturi": 587,
-    "totalVoturiSENS": 2,
-    "procent": "0.34%"
-  },
-  {
     "id": "28867",
     "localitate": "LUETA",
     "nume_sectie": "SEDIUL PRIMĂRIEI",
@@ -1288,36 +1560,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "28868",
-    "localitate": "LUETA",
-    "nume_sectie": "SEDIUL PRIMĂRIEI LUETA",
-    "totalVoturi": 904,
-    "totalVoturiSENS": 2,
-    "procent": "0.22%"
-  },
-  {
     "id": "28869",
     "localitate": "LUNCA DE JOS",
     "nume_sectie": "CĂMINUL CULTURAL VALEA RECE",
     "totalVoturi": 876,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28870",
-    "localitate": "LUNCA DE JOS",
-    "nume_sectie": "CLĂDIREA PRIMĂRIEI",
-    "totalVoturi": 383,
-    "totalVoturiSENS": 1,
-    "procent": "0.26%"
-  },
-  {
-    "id": "28871",
-    "localitate": "LUNCA DE JOS",
-    "nume_sectie": "ŞCOALA GIMNAZIALA ” MAJLATH GUSZTAV KAROLY”",
-    "totalVoturi": 890,
-    "totalVoturiSENS": 1,
-    "procent": "0.11%"
   },
   {
     "id": "28872",
@@ -1336,14 +1584,6 @@
     "procent": "0.00%"
   },
   {
-    "id": "28874",
-    "localitate": "LUNCA DE SUS",
-    "nume_sectie": "ŞCOALA PRIMARĂ COMIAT",
-    "totalVoturi": 199,
-    "totalVoturiSENS": 1,
-    "procent": "0.50%"
-  },
-  {
     "id": "28875",
     "localitate": "LUNCA DE SUS",
     "nume_sectie": "ŞCOALA GIMNAZIALĂ IZVORUL TROTUŞULUI",
@@ -1358,14 +1598,6 @@
     "totalVoturi": 836,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28877",
-    "localitate": "LUNCA DE SUS",
-    "nume_sectie": "ŞCOALA PRIMARĂ PĂLTINIŞ-CIUC",
-    "totalVoturi": 256,
-    "totalVoturiSENS": 4,
-    "procent": "1.56%"
   },
   {
     "id": "28878",
@@ -1422,14 +1654,6 @@
     "totalVoturi": 716,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28885",
-    "localitate": "MĂDĂRAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”KISS FERENC”",
-    "totalVoturi": 575,
-    "totalVoturiSENS": 1,
-    "procent": "0.17%"
   },
   {
     "id": "28886",
@@ -1544,22 +1768,6 @@
     "procent": "0.00%"
   },
   {
-    "id": "28900",
-    "localitate": "MIHĂILENI",
-    "nume_sectie": "SCOALA GIMNAZIALA",
-    "totalVoturi": 137,
-    "totalVoturiSENS": 3,
-    "procent": "2.19%"
-  },
-  {
-    "id": "28901",
-    "localitate": "MUGENI",
-    "nume_sectie": "CĂMINUL CULTURAL MUGENI",
-    "totalVoturi": 528,
-    "totalVoturiSENS": 1,
-    "procent": "0.19%"
-  },
-  {
     "id": "28902",
     "localitate": "MUGENI",
     "nume_sectie": "CĂMINUL CULTURAL LUTIŢA",
@@ -1632,28 +1840,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "28911",
-    "localitate": "PĂULENI-CIUC",
-    "nume_sectie": "CĂMINUL CULTURAL PĂULENI-CIUC",
-    "totalVoturi": 373,
-    "totalVoturiSENS": 1,
-    "procent": "0.27%"
-  },
-  {
     "id": "28912",
     "localitate": "PĂULENI-CIUC",
     "nume_sectie": "SCOALA PRIMARĂ DELNIŢA",
     "totalVoturi": 472,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28913",
-    "localitate": "PĂULENI-CIUC",
-    "nume_sectie": "SCOALA PRIMARĂ ŞOIMENI",
-    "totalVoturi": 395,
-    "totalVoturiSENS": 1,
-    "procent": "0.25%"
   },
   {
     "id": "28914",
@@ -1670,14 +1862,6 @@
     "totalVoturi": 366,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28916",
-    "localitate": "PLĂIEŞII DE JOS",
-    "nume_sectie": "ȘCOALA PRIMARĂ DR.PATAKI JÓZSEF NR.3 IACOBENI",
-    "totalVoturi": 174,
-    "totalVoturiSENS": 1,
-    "procent": "0.57%"
   },
   {
     "id": "28917",
@@ -1704,36 +1888,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "28920",
-    "localitate": "PRAID",
-    "nume_sectie": "PRIMARIA COMUNEI PRAID- SALA DE SEDINTE AL CONS.LOCAL",
-    "totalVoturi": 970,
-    "totalVoturiSENS": 5,
-    "procent": "0.52%"
-  },
-  {
-    "id": "28921",
-    "localitate": "PRAID",
-    "nume_sectie": "CAMINUL CULTURAL PRAID",
-    "totalVoturi": 1037,
-    "totalVoturiSENS": 1,
-    "procent": "0.10%"
-  },
-  {
     "id": "28922",
     "localitate": "PRAID",
     "nume_sectie": "ŞCOALA GIMNAZIALĂ ”SUKOSD FERENC” OCNA DE JOS",
     "totalVoturi": 767,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28923",
-    "localitate": "PRAID",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”SZEKELY MOZES” OCNA DE SUS",
-    "totalVoturi": 708,
-    "totalVoturiSENS": 1,
-    "procent": "0.14%"
   },
   {
     "id": "28924",
@@ -1758,14 +1918,6 @@
     "totalVoturi": 289,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28927",
-    "localitate": "REMETEA",
-    "nume_sectie": "ȘCOALA GENERALA ”BALÁS JENŐ”",
-    "totalVoturi": 740,
-    "totalVoturiSENS": 1,
-    "procent": "0.14%"
   },
   {
     "id": "28928",
@@ -1800,22 +1952,6 @@
     "procent": "0.00%"
   },
   {
-    "id": "28932",
-    "localitate": "SATU MARE",
-    "nume_sectie": "CAMINUL CULTURAL SATU MARE",
-    "totalVoturi": 456,
-    "totalVoturiSENS": 1,
-    "procent": "0.22%"
-  },
-  {
-    "id": "28933",
-    "localitate": "SĂCEL",
-    "nume_sectie": "PRIMĂRIA COMUNEI SĂCEL",
-    "totalVoturi": 29,
-    "totalVoturiSENS": 1,
-    "procent": "3.45%"
-  },
-  {
     "id": "28934",
     "localitate": "SĂCEL",
     "nume_sectie": "CĂMIN CULTURAL VIDACUT",
@@ -1838,38 +1974,6 @@
     "totalVoturi": 135,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28937",
-    "localitate": "SĂRMAŞ",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ HODOȘA GARĂ",
-    "totalVoturi": 421,
-    "totalVoturiSENS": 5,
-    "procent": "1.19%"
-  },
-  {
-    "id": "28938",
-    "localitate": "SĂRMAŞ",
-    "nume_sectie": "ȘCOALA PRIMARĂ PLATONEȘTI",
-    "totalVoturi": 186,
-    "totalVoturiSENS": 7,
-    "procent": "3.76%"
-  },
-  {
-    "id": "28939",
-    "localitate": "SĂRMAŞ",
-    "nume_sectie": "ȘCOALA PRIMARĂ FUNDOAIA",
-    "totalVoturi": 259,
-    "totalVoturiSENS": 2,
-    "procent": "0.77%"
-  },
-  {
-    "id": "28940",
-    "localitate": "SĂRMAŞ",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”SFÂNTU ANDREI ”SĂRMAȘ",
-    "totalVoturi": 412,
-    "totalVoturiSENS": 5,
-    "procent": "1.21%"
   },
   {
     "id": "28941",
@@ -1944,14 +2048,6 @@
     "procent": "0.00%"
   },
   {
-    "id": "28950",
-    "localitate": "SÂNSIMION",
-    "nume_sectie": "CĂMINUL CULTURAL",
-    "totalVoturi": 825,
-    "totalVoturiSENS": 1,
-    "procent": "0.12%"
-  },
-  {
     "id": "28951",
     "localitate": "SÂNSIMION",
     "nume_sectie": "ȘCOALA PRIMARĂ ”BENEDEK ELEK”",
@@ -1966,14 +2062,6 @@
     "totalVoturi": 643,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28953",
-    "localitate": "SÂNTIMBRU",
-    "nume_sectie": "ŞCOALA PRIMARĂ PÁLSZEG SÂNTIMBRU",
-    "totalVoturi": 506,
-    "totalVoturiSENS": 2,
-    "procent": "0.40%"
   },
   {
     "id": "28954",
@@ -2000,14 +2088,6 @@
     "procent": "0.00%"
   },
   {
-    "id": "28957",
-    "localitate": "SICULENI",
-    "nume_sectie": "PRIMĂRIA COMUNEI SICULENI",
-    "totalVoturi": 764,
-    "totalVoturiSENS": 2,
-    "procent": "0.26%"
-  },
-  {
     "id": "28958",
     "localitate": "SICULENI",
     "nume_sectie": "ȘCOALA GIMNAZIALĂ ZOLD PETER SICULENI",
@@ -2016,28 +2096,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "28959",
-    "localitate": "SUBCETATE",
-    "nume_sectie": "LICEUL MIRON CRISTEA SUBCETATE",
-    "totalVoturi": 496,
-    "totalVoturiSENS": 12,
-    "procent": "2.42%"
-  },
-  {
     "id": "28960",
     "localitate": "SUSENI",
     "nume_sectie": "PRIMĂRIA COMUNEI SUSENI",
     "totalVoturi": 553,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "28961",
-    "localitate": "SUSENI",
-    "nume_sectie": "PRIMĂRIA COMUNEI SUSENI",
-    "totalVoturi": 496,
-    "totalVoturiSENS": 1,
-    "procent": "0.20%"
   },
   {
     "id": "28962",
@@ -2152,38 +2216,6 @@
     "procent": "0.00%"
   },
   {
-    "id": "28976",
-    "localitate": "TULGHEŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ TULGHEŞ",
-    "totalVoturi": 570,
-    "totalVoturiSENS": 16,
-    "procent": "2.81%"
-  },
-  {
-    "id": "28977",
-    "localitate": "TULGHEŞ",
-    "nume_sectie": "ŞCOALA PRIMARĂ PUTNA",
-    "totalVoturi": 204,
-    "totalVoturiSENS": 3,
-    "procent": "1.47%"
-  },
-  {
-    "id": "28978",
-    "localitate": "TULGHEŞ",
-    "nume_sectie": "ŞCOALA PRIMARĂ RECEA",
-    "totalVoturi": 74,
-    "totalVoturiSENS": 2,
-    "procent": "2.70%"
-  },
-  {
-    "id": "28979",
-    "localitate": "TULGHEŞ",
-    "nume_sectie": "ŞCOALA PRIMARĂ VALEA FRUMOASĂ",
-    "totalVoturi": 173,
-    "totalVoturiSENS": 2,
-    "procent": "1.16%"
-  },
-  {
     "id": "28980",
     "localitate": "TUŞNAD",
     "nume_sectie": "CĂMINUL CULTURAL TUȘNAD",
@@ -2264,30 +2296,6 @@
     "procent": "0.00%"
   },
   {
-    "id": "28990",
-    "localitate": "VOŞLĂBENI",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”TEODOR CHINDEA” VOȘLĂBENI",
-    "totalVoturi": 389,
-    "totalVoturiSENS": 3,
-    "procent": "0.77%"
-  },
-  {
-    "id": "28991",
-    "localitate": "VOŞLĂBENI",
-    "nume_sectie": "ȘCOALA PRIMARĂ ”ION CREANGĂ” IZVORU MUREȘULUI",
-    "totalVoturi": 372,
-    "totalVoturiSENS": 5,
-    "procent": "1.34%"
-  },
-  {
-    "id": "28992",
-    "localitate": "ZETEA",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL ALSZEG ZETEA",
-    "totalVoturi": 797,
-    "totalVoturiSENS": 1,
-    "procent": "0.13%"
-  },
-  {
     "id": "28993",
     "localitate": "ZETEA",
     "nume_sectie": "PRIMĂRIA ZETEA",
@@ -2326,13 +2334,5 @@
     "totalVoturi": 226,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "39810",
-    "localitate": "MUNICIPIUL MIERCUREA-CIUC",
-    "nume_sectie": "ȘCOALA PRIMARĂ DIN SUBPĂDURE",
-    "totalVoturi": 314,
-    "totalVoturiSENS": 4,
-    "procent": "1.27%"
   }
 ]

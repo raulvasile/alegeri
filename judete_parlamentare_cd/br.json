@@ -1,227 +1,27 @@
 [
   {
-    "id": "23986",
+    "id": "24074",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 31 „MIHAI VITEAZUL”",
-    "totalVoturi": 518,
-    "totalVoturiSENS": 8,
-    "procent": "1.54%"
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 32 „DIMITRIE CANTEMIR”",
+    "totalVoturi": 337,
+    "totalVoturiSENS": 18,
+    "procent": "5.34%"
   },
   {
-    "id": "23987",
+    "id": "24061",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 31 „MIHAI VITEAZUL”",
-    "totalVoturi": 540,
-    "totalVoturiSENS": 16,
-    "procent": "2.96%"
+    "nume_sectie": "GRĂDINIŢA NR. 21 „PESCĂRUȘUL”",
+    "totalVoturi": 498,
+    "totalVoturiSENS": 26,
+    "procent": "5.22%"
   },
   {
-    "id": "23988",
+    "id": "24057",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 31 „MIHAI VITEAZUL”",
-    "totalVoturi": 448,
-    "totalVoturiSENS": 14,
-    "procent": "3.13%"
-  },
-  {
-    "id": "23989",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 31 „MIHAI VITEAZUL”",
-    "totalVoturi": 542,
-    "totalVoturiSENS": 10,
-    "procent": "1.85%"
-  },
-  {
-    "id": "23990",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIŢA NR. 61 „BOBOCEL”",
-    "totalVoturi": 493,
-    "totalVoturiSENS": 17,
-    "procent": "3.45%"
-  },
-  {
-    "id": "23991",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIŢA NR. 61 „BOBOCEL”",
-    "totalVoturi": 554,
-    "totalVoturiSENS": 12,
-    "procent": "2.17%"
-  },
-  {
-    "id": "23992",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 1 „VLAICU VODĂ”",
-    "totalVoturi": 660,
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 18 „MIHU DRAGOMIR”",
+    "totalVoturi": 444,
     "totalVoturiSENS": 23,
-    "procent": "3.48%"
-  },
-  {
-    "id": "23993",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 1 „VLAICU VODĂ”",
-    "totalVoturi": 695,
-    "totalVoturiSENS": 16,
-    "procent": "2.30%"
-  },
-  {
-    "id": "23994",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ „VLAICU VODĂ”",
-    "totalVoturi": 741,
-    "totalVoturiSENS": 23,
-    "procent": "3.10%"
-  },
-  {
-    "id": "23995",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ „VLAICU VODĂ”",
-    "totalVoturi": 697,
-    "totalVoturiSENS": 20,
-    "procent": "2.87%"
-  },
-  {
-    "id": "23996",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 27 „AUREL VLAICU”",
-    "totalVoturi": 629,
-    "totalVoturiSENS": 28,
-    "procent": "4.45%"
-  },
-  {
-    "id": "23997",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 27 „AUREL VLAICU”",
-    "totalVoturi": 620,
-    "totalVoturiSENS": 27,
-    "procent": "4.35%"
-  },
-  {
-    "id": "23998",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 27 „AUREL VLAICU”",
-    "totalVoturi": 573,
-    "totalVoturiSENS": 22,
-    "procent": "3.84%"
-  },
-  {
-    "id": "23999",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 27 „AUREL VLAICU”",
-    "totalVoturi": 589,
-    "totalVoturiSENS": 25,
-    "procent": "4.24%"
-  },
-  {
-    "id": "24000",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 2 „FĂNUȘ NEAGU”",
-    "totalVoturi": 427,
-    "totalVoturiSENS": 14,
-    "procent": "3.28%"
-  },
-  {
-    "id": "24001",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 2 „FĂNUȘ NEAGU”",
-    "totalVoturi": 415,
-    "totalVoturiSENS": 15,
-    "procent": "3.61%"
-  },
-  {
-    "id": "24002",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 2 „FĂNUŞ NEAGU”",
-    "totalVoturi": 509,
-    "totalVoturiSENS": 21,
-    "procent": "4.13%"
-  },
-  {
-    "id": "24003",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 2 „FĂNUŞ NEAGU”",
-    "totalVoturi": 723,
-    "totalVoturiSENS": 20,
-    "procent": "2.77%"
-  },
-  {
-    "id": "24004",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 2 „FĂNUŞ NEAGU”",
-    "totalVoturi": 515,
-    "totalVoturiSENS": 11,
-    "procent": "2.14%"
-  },
-  {
-    "id": "24005",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIŢA NR. 39 „CĂSUȚA FERMECATĂ”",
-    "totalVoturi": 520,
-    "totalVoturiSENS": 9,
-    "procent": "1.73%"
-  },
-  {
-    "id": "24006",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIŢA NR. 39 „CĂSUȚA FERMECATĂ”",
-    "totalVoturi": 460,
-    "totalVoturiSENS": 19,
-    "procent": "4.13%"
-  },
-  {
-    "id": "24007",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIŢA NR. 39 „CĂSUȚA FERMECATĂ”",
-    "totalVoturi": 442,
-    "totalVoturiSENS": 11,
-    "procent": "2.49%"
-  },
-  {
-    "id": "24008",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIŢA NR. 39 „CĂSUȚA FERMECATĂ”",
-    "totalVoturi": 424,
-    "totalVoturiSENS": 15,
-    "procent": "3.54%"
-  },
-  {
-    "id": "24009",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 28 „VASILE ALECSANDRI”",
-    "totalVoturi": 440,
-    "totalVoturiSENS": 16,
-    "procent": "3.64%"
-  },
-  {
-    "id": "24010",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 28 „VASILE ALECSANDRI”",
-    "totalVoturi": 340,
-    "totalVoturiSENS": 10,
-    "procent": "2.94%"
-  },
-  {
-    "id": "24011",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 28 „VASILE ALECSANDRI”",
-    "totalVoturi": 357,
-    "totalVoturiSENS": 6,
-    "procent": "1.68%"
-  },
-  {
-    "id": "24012",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 28 „VASILE ALECSANDRI”",
-    "totalVoturi": 533,
-    "totalVoturiSENS": 13,
-    "procent": "2.44%"
-  },
-  {
-    "id": "24013",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 28 „VASILE ALECSANDRI”",
-    "totalVoturi": 344,
-    "totalVoturiSENS": 9,
-    "procent": "2.62%"
+    "procent": "5.18%"
   },
   {
     "id": "24014",
@@ -232,14 +32,6 @@
     "procent": "5.02%"
   },
   {
-    "id": "24015",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 29 „MIHAIL SADOVEANU”",
-    "totalVoturi": 302,
-    "totalVoturiSENS": 14,
-    "procent": "4.64%"
-  },
-  {
     "id": "24016",
     "localitate": "MUNICIPIUL BRĂILA",
     "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 29 „MIHAIL SADOVEANU”",
@@ -248,36 +40,44 @@
     "procent": "4.99%"
   },
   {
-    "id": "24017",
+    "id": "24097",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 29 „MIHAIL SADOVEANU”",
-    "totalVoturi": 536,
-    "totalVoturiSENS": 19,
-    "procent": "3.54%"
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 22 „RADU TUDORAN”",
+    "totalVoturi": 502,
+    "totalVoturiSENS": 25,
+    "procent": "4.98%"
   },
   {
-    "id": "24018",
+    "id": "24088",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIŢA NR. 11 „BRÂNDUȘA”",
-    "totalVoturi": 573,
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 23 „MIHAI EMINESCU”",
+    "totalVoturi": 523,
+    "totalVoturiSENS": 26,
+    "procent": "4.97%"
+  },
+  {
+    "id": "24056",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL TEHNIC „PANAIT ISTRATI”",
+    "totalVoturi": 527,
+    "totalVoturiSENS": 25,
+    "procent": "4.74%"
+  },
+  {
+    "id": "24015",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 29 „MIHAIL SADOVEANU”",
+    "totalVoturi": 302,
     "totalVoturiSENS": 14,
-    "procent": "2.44%"
+    "procent": "4.64%"
   },
   {
-    "id": "24019",
+    "id": "24108",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL NAȚIONAL „ANA ASLAN”",
-    "totalVoturi": 293,
-    "totalVoturiSENS": 7,
-    "procent": "2.39%"
-  },
-  {
-    "id": "24020",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL NAȚIONAL „ANA ASLAN”",
-    "totalVoturi": 539,
-    "totalVoturiSENS": 18,
-    "procent": "3.34%"
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ „ALEXANDR SERGHEEVICI PUȘKIN”",
+    "totalVoturi": 475,
+    "totalVoturiSENS": 22,
+    "procent": "4.63%"
   },
   {
     "id": "24021",
@@ -288,140 +88,116 @@
     "procent": "4.57%"
   },
   {
-    "id": "24022",
+    "id": "24242",
+    "localitate": "TUDOR VLADIMIRESCU",
+    "nume_sectie": "CĂMINUL CULTURAL COMĂNEASCA",
+    "totalVoturi": 89,
+    "totalVoturiSENS": 4,
+    "procent": "4.49%"
+  },
+  {
+    "id": "24114",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL NAȚIONAL „ANA ASLAN”",
-    "totalVoturi": 628,
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ „ALEXANDR SERGHEEVICI PUȘKIN”",
+    "totalVoturi": 469,
     "totalVoturiSENS": 21,
-    "procent": "3.34%"
+    "procent": "4.48%"
   },
   {
-    "id": "24023",
+    "id": "23996",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL NAȚIONAL „ANA ASLAN”",
-    "totalVoturi": 455,
-    "totalVoturiSENS": 15,
-    "procent": "3.30%"
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 27 „AUREL VLAICU”",
+    "totalVoturi": 629,
+    "totalVoturiSENS": 28,
+    "procent": "4.45%"
   },
   {
-    "id": "24024",
+    "id": "24086",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL TEHNOLOGIC „EDMOND NICOLAU”",
-    "totalVoturi": 638,
-    "totalVoturiSENS": 23,
-    "procent": "3.61%"
-  },
-  {
-    "id": "24025",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL TEHNOLOGIC „EDMOND NICOLAU”",
-    "totalVoturi": 634,
-    "totalVoturiSENS": 17,
-    "procent": "2.68%"
-  },
-  {
-    "id": "24026",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COMPANIA DE UTILITĂȚI PUBLICE „DUNĂREA” SA BRĂILA",
-    "totalVoturi": 637,
-    "totalVoturiSENS": 18,
-    "procent": "2.83%"
-  },
-  {
-    "id": "24027",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL TEHNOLOGIC „EDMOND NICOLAU”",
-    "totalVoturi": 505,
-    "totalVoturiSENS": 13,
-    "procent": "2.57%"
-  },
-  {
-    "id": "24028",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL TEHNOLOGIC „EDMOND NICOLAU”",
-    "totalVoturi": 564,
-    "totalVoturiSENS": 11,
-    "procent": "1.95%"
-  },
-  {
-    "id": "24029",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL TEHNOLOGIC „EDMOND NICOLAU”",
-    "totalVoturi": 516,
-    "totalVoturiSENS": 12,
-    "procent": "2.33%"
-  },
-  {
-    "id": "24030",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIȚA CU PROGRAM NORMAL WALDORF",
-    "totalVoturi": 633,
-    "totalVoturiSENS": 24,
-    "procent": "3.79%"
-  },
-  {
-    "id": "24031",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIȚA CU PROGRAM NORMAL WALDORF",
-    "totalVoturi": 450,
-    "totalVoturiSENS": 5,
-    "procent": "1.11%"
-  },
-  {
-    "id": "24032",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8 „ION BĂNCILĂ”",
-    "totalVoturi": 597,
-    "totalVoturiSENS": 17,
-    "procent": "2.85%"
-  },
-  {
-    "id": "24033",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8 „ION BĂNCILĂ”",
-    "totalVoturi": 502,
-    "totalVoturiSENS": 12,
-    "procent": "2.39%"
-  },
-  {
-    "id": "24034",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8 „ION BĂNCILĂ”",
-    "totalVoturi": 353,
-    "totalVoturiSENS": 14,
-    "procent": "3.97%"
-  },
-  {
-    "id": "24035",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8 „ION BĂNCILĂ”",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 23 „MIHAI EMINESCU”",
     "totalVoturi": 320,
-    "totalVoturiSENS": 7,
-    "procent": "2.19%"
-  },
-  {
-    "id": "24036",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8 „ION BĂNCILĂ”",
-    "totalVoturi": 292,
-    "totalVoturiSENS": 5,
-    "procent": "1.71%"
-  },
-  {
-    "id": "24037",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL TEORETIC „PANAIT CERNA”",
-    "totalVoturi": 667,
-    "totalVoturiSENS": 24,
-    "procent": "3.60%"
-  },
-  {
-    "id": "24038",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL TEORETIC „PANAIT CERNA”",
-    "totalVoturi": 588,
     "totalVoturiSENS": 14,
-    "procent": "2.38%"
+    "procent": "4.38%"
+  },
+  {
+    "id": "24060",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "GRĂDINIŢA NR. 21 „PESCĂRUȘUL”",
+    "totalVoturi": 389,
+    "totalVoturiSENS": 17,
+    "procent": "4.37%"
+  },
+  {
+    "id": "23997",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 27 „AUREL VLAICU”",
+    "totalVoturi": 620,
+    "totalVoturiSENS": 27,
+    "procent": "4.35%"
+  },
+  {
+    "id": "39864",
+    "localitate": "CHISCANI",
+    "nume_sectie": "CENTRU DE INFORMARE",
+    "totalVoturi": 460,
+    "totalVoturiSENS": 20,
+    "procent": "4.35%"
+  },
+  {
+    "id": "24071",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "CASA CORPULUI DIDACTIC",
+    "totalVoturi": 492,
+    "totalVoturiSENS": 21,
+    "procent": "4.27%"
+  },
+  {
+    "id": "24112",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 19 „MIHAIL KOGĂLNICEANU”",
+    "totalVoturi": 822,
+    "totalVoturiSENS": 35,
+    "procent": "4.26%"
+  },
+  {
+    "id": "23999",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 27 „AUREL VLAICU”",
+    "totalVoturi": 589,
+    "totalVoturiSENS": 25,
+    "procent": "4.24%"
+  },
+  {
+    "id": "24078",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL NAȚIONAL PEDAGOGIC „DUMITRU PANAITESCU PERPESSICIUS”",
+    "totalVoturi": 532,
+    "totalVoturiSENS": 22,
+    "procent": "4.14%"
+  },
+  {
+    "id": "24002",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 2 „FĂNUŞ NEAGU”",
+    "totalVoturi": 509,
+    "totalVoturiSENS": 21,
+    "procent": "4.13%"
+  },
+  {
+    "id": "24006",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "GRĂDINIŢA NR. 39 „CĂSUȚA FERMECATĂ”",
+    "totalVoturi": 460,
+    "totalVoturiSENS": 19,
+    "procent": "4.13%"
+  },
+  {
+    "id": "24075",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 32 „DIMITRIE CANTEMIR”",
+    "totalVoturi": 485,
+    "totalVoturiSENS": 20,
+    "procent": "4.12%"
   },
   {
     "id": "24039",
@@ -432,20 +208,12 @@
     "procent": "4.05%"
   },
   {
-    "id": "24040",
+    "id": "24072",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL TEORETIC „PANAIT CERNA”",
-    "totalVoturi": 436,
-    "totalVoturiSENS": 15,
-    "procent": "3.44%"
-  },
-  {
-    "id": "24041",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL NAȚIONAL „GHEORGHE MUNTEANU MURGOCI”",
-    "totalVoturi": 585,
-    "totalVoturiSENS": 10,
-    "procent": "1.71%"
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 32 „DIMITRIE CANTEMIR”",
+    "totalVoturi": 471,
+    "totalVoturiSENS": 19,
+    "procent": "4.03%"
   },
   {
     "id": "24042",
@@ -456,12 +224,20 @@
     "procent": "4.00%"
   },
   {
-    "id": "24043",
+    "id": "24047",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 7 „ION CREANGĂ”",
-    "totalVoturi": 482,
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 5 „NIKOS KAZANTZAKIS”",
+    "totalVoturi": 377,
     "totalVoturiSENS": 15,
-    "procent": "3.11%"
+    "procent": "3.98%"
+  },
+  {
+    "id": "24034",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8 „ION BĂNCILĂ”",
+    "totalVoturi": 353,
+    "totalVoturiSENS": 14,
+    "procent": "3.97%"
   },
   {
     "id": "24044",
@@ -470,6 +246,798 @@
     "totalVoturi": 411,
     "totalVoturiSENS": 16,
     "procent": "3.89%"
+  },
+  {
+    "id": "24100",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ „RADU TUDORAN”",
+    "totalVoturi": 519,
+    "totalVoturiSENS": 20,
+    "procent": "3.85%"
+  },
+  {
+    "id": "24105",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ „GEORGE COȘBUC”",
+    "totalVoturi": 520,
+    "totalVoturiSENS": 20,
+    "procent": "3.85%"
+  },
+  {
+    "id": "23998",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 27 „AUREL VLAICU”",
+    "totalVoturi": 573,
+    "totalVoturiSENS": 22,
+    "procent": "3.84%"
+  },
+  {
+    "id": "24107",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ „ALEXANDR SERGHEEVICI PUȘKIN”",
+    "totalVoturi": 420,
+    "totalVoturiSENS": 16,
+    "procent": "3.81%"
+  },
+  {
+    "id": "24106",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ „GEORGE COȘBUC”",
+    "totalVoturi": 500,
+    "totalVoturiSENS": 19,
+    "procent": "3.80%"
+  },
+  {
+    "id": "24030",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM NORMAL WALDORF",
+    "totalVoturi": 633,
+    "totalVoturiSENS": 24,
+    "procent": "3.79%"
+  },
+  {
+    "id": "24055",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL TEHNIC „PANAIT ISTRATI”",
+    "totalVoturi": 371,
+    "totalVoturiSENS": 14,
+    "procent": "3.77%"
+  },
+  {
+    "id": "24095",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 22 „RADU TUDORAN”",
+    "totalVoturi": 534,
+    "totalVoturiSENS": 20,
+    "procent": "3.75%"
+  },
+  {
+    "id": "24124",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 33 „SFÂNTUL ANDREI”",
+    "totalVoturi": 615,
+    "totalVoturiSENS": 23,
+    "procent": "3.74%"
+  },
+  {
+    "id": "24146",
+    "localitate": "BĂRĂGANUL",
+    "nume_sectie": "SCOALA CU CLS. I - VIII BĂRĂGANUL - SALA DE CLASĂ NR. 1",
+    "totalVoturi": 616,
+    "totalVoturiSENS": 23,
+    "procent": "3.73%"
+  },
+  {
+    "id": "24084",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL NAȚIONAL PEDAGOGIC „DUMITRU PANAITESCU PERPESSICIUS”",
+    "totalVoturi": 658,
+    "totalVoturiSENS": 24,
+    "procent": "3.65%"
+  },
+  {
+    "id": "24009",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 28 „VASILE ALECSANDRI”",
+    "totalVoturi": 440,
+    "totalVoturiSENS": 16,
+    "procent": "3.64%"
+  },
+  {
+    "id": "24001",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 2 „FĂNUȘ NEAGU”",
+    "totalVoturi": 415,
+    "totalVoturiSENS": 15,
+    "procent": "3.61%"
+  },
+  {
+    "id": "24024",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL TEHNOLOGIC „EDMOND NICOLAU”",
+    "totalVoturi": 638,
+    "totalVoturiSENS": 23,
+    "procent": "3.61%"
+  },
+  {
+    "id": "24037",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL TEORETIC „PANAIT CERNA”",
+    "totalVoturi": 667,
+    "totalVoturiSENS": 24,
+    "procent": "3.60%"
+  },
+  {
+    "id": "24081",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "GRĂDINIŢA NR. 37 „DUMBRAVA MINUNATĂ”",
+    "totalVoturi": 789,
+    "totalVoturiSENS": 28,
+    "procent": "3.55%"
+  },
+  {
+    "id": "24008",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "GRĂDINIŢA NR. 39 „CĂSUȚA FERMECATĂ”",
+    "totalVoturi": 424,
+    "totalVoturiSENS": 15,
+    "procent": "3.54%"
+  },
+  {
+    "id": "24017",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 29 „MIHAIL SADOVEANU”",
+    "totalVoturi": 536,
+    "totalVoturiSENS": 19,
+    "procent": "3.54%"
+  },
+  {
+    "id": "23992",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 1 „VLAICU VODĂ”",
+    "totalVoturi": 660,
+    "totalVoturiSENS": 23,
+    "procent": "3.48%"
+  },
+  {
+    "id": "23990",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "GRĂDINIŢA NR. 61 „BOBOCEL”",
+    "totalVoturi": 493,
+    "totalVoturiSENS": 17,
+    "procent": "3.45%"
+  },
+  {
+    "id": "24068",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL TEHNOLOGIC „ANGHEL SALIGNY”",
+    "totalVoturi": 580,
+    "totalVoturiSENS": 20,
+    "procent": "3.45%"
+  },
+  {
+    "id": "24040",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL TEORETIC „PANAIT CERNA”",
+    "totalVoturi": 436,
+    "totalVoturiSENS": 15,
+    "procent": "3.44%"
+  },
+  {
+    "id": "24111",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 19 „MIHAIL KOGĂLNICEANU”",
+    "totalVoturi": 555,
+    "totalVoturiSENS": 19,
+    "procent": "3.42%"
+  },
+  {
+    "id": "24079",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL NAȚIONAL PEDAGOGIC „DUMITRU PANAITESCU PERPESSICIUS”",
+    "totalVoturi": 473,
+    "totalVoturiSENS": 16,
+    "procent": "3.38%"
+  },
+  {
+    "id": "24131",
+    "localitate": "ORAŞ IANCA",
+    "nume_sectie": "CASA DE CULTURĂ ”ION THEODORESCU SION”",
+    "totalVoturi": 477,
+    "totalVoturiSENS": 16,
+    "procent": "3.35%"
+  },
+  {
+    "id": "24020",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL NAȚIONAL „ANA ASLAN”",
+    "totalVoturi": 539,
+    "totalVoturiSENS": 18,
+    "procent": "3.34%"
+  },
+  {
+    "id": "24022",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL NAȚIONAL „ANA ASLAN”",
+    "totalVoturi": 628,
+    "totalVoturiSENS": 21,
+    "procent": "3.34%"
+  },
+  {
+    "id": "24082",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "GRĂDINIŢA NR. 37 „DUMBRAVA MINUNATĂ”",
+    "totalVoturi": 541,
+    "totalVoturiSENS": 18,
+    "procent": "3.33%"
+  },
+  {
+    "id": "24023",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL NAȚIONAL „ANA ASLAN”",
+    "totalVoturi": 455,
+    "totalVoturiSENS": 15,
+    "procent": "3.30%"
+  },
+  {
+    "id": "24062",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 6 „CONSTANTIN SANDU ALDEA”",
+    "totalVoturi": 607,
+    "totalVoturiSENS": 20,
+    "procent": "3.29%"
+  },
+  {
+    "id": "24000",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 2 „FĂNUȘ NEAGU”",
+    "totalVoturi": 427,
+    "totalVoturiSENS": 14,
+    "procent": "3.28%"
+  },
+  {
+    "id": "24122",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL TEHNOLOGIC „CONSTANTIN BRÂNCOVEANU”",
+    "totalVoturi": 401,
+    "totalVoturiSENS": 13,
+    "procent": "3.24%"
+  },
+  {
+    "id": "24102",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 24 „GHEORGHE NAUM”",
+    "totalVoturi": 588,
+    "totalVoturiSENS": 19,
+    "procent": "3.23%"
+  },
+  {
+    "id": "24190",
+    "localitate": "MĂXINENI",
+    "nume_sectie": "ȘCOALA GENERALĂ CU CLASELE I-VIII MĂXINENI",
+    "totalVoturi": 495,
+    "totalVoturiSENS": 16,
+    "procent": "3.23%"
+  },
+  {
+    "id": "24093",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 13 „NEDELCU CHERCEA”",
+    "totalVoturi": 534,
+    "totalVoturiSENS": 17,
+    "procent": "3.18%"
+  },
+  {
+    "id": "24077",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "GRĂDINIŢA NR. 36 „FURNICUŢA”",
+    "totalVoturi": 568,
+    "totalVoturiSENS": 18,
+    "procent": "3.17%"
+  },
+  {
+    "id": "23988",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 31 „MIHAI VITEAZUL”",
+    "totalVoturi": 448,
+    "totalVoturiSENS": 14,
+    "procent": "3.13%"
+  },
+  {
+    "id": "24043",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 7 „ION CREANGĂ”",
+    "totalVoturi": 482,
+    "totalVoturiSENS": 15,
+    "procent": "3.11%"
+  },
+  {
+    "id": "24083",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL NAȚIONAL PEDAGOGIC „DUMITRU PANAITESCU PERPESSICIUS”",
+    "totalVoturi": 483,
+    "totalVoturiSENS": 15,
+    "procent": "3.11%"
+  },
+  {
+    "id": "23994",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ „VLAICU VODĂ”",
+    "totalVoturi": 741,
+    "totalVoturiSENS": 23,
+    "procent": "3.10%"
+  },
+  {
+    "id": "24096",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 22 „RADU TUDORAN”",
+    "totalVoturi": 563,
+    "totalVoturiSENS": 17,
+    "procent": "3.02%"
+  },
+  {
+    "id": "24098",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 22 „RADU TUDORAN”",
+    "totalVoturi": 463,
+    "totalVoturiSENS": 14,
+    "procent": "3.02%"
+  },
+  {
+    "id": "24103",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 24 „GHEORGHE NAUM”",
+    "totalVoturi": 569,
+    "totalVoturiSENS": 17,
+    "procent": "2.99%"
+  },
+  {
+    "id": "24206",
+    "localitate": "ROMANU",
+    "nume_sectie": "ȘCOALA GIMNAZIALA ROMANU",
+    "totalVoturi": 569,
+    "totalVoturiSENS": 17,
+    "procent": "2.99%"
+  },
+  {
+    "id": "24115",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ „GEORGE COŞBUC”",
+    "totalVoturi": 572,
+    "totalVoturiSENS": 17,
+    "procent": "2.97%"
+  },
+  {
+    "id": "23987",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 31 „MIHAI VITEAZUL”",
+    "totalVoturi": 540,
+    "totalVoturiSENS": 16,
+    "procent": "2.96%"
+  },
+  {
+    "id": "24010",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 28 „VASILE ALECSANDRI”",
+    "totalVoturi": 340,
+    "totalVoturiSENS": 10,
+    "procent": "2.94%"
+  },
+  {
+    "id": "24210",
+    "localitate": "SALCIA TUDOR",
+    "nume_sectie": "CĂMINUL CULTURAL SALCIA TUDOR",
+    "totalVoturi": 272,
+    "totalVoturiSENS": 8,
+    "procent": "2.94%"
+  },
+  {
+    "id": "24063",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 6 „CONSTANTIN SANDU ALDEA”",
+    "totalVoturi": 547,
+    "totalVoturiSENS": 16,
+    "procent": "2.93%"
+  },
+  {
+    "id": "24050",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL DE ARTĂ „HARICLEA DARCLEE”",
+    "totalVoturi": 616,
+    "totalVoturiSENS": 18,
+    "procent": "2.92%"
+  },
+  {
+    "id": "24154",
+    "localitate": "CAZASU",
+    "nume_sectie": "CORP ANEXA PARTER",
+    "totalVoturi": 788,
+    "totalVoturiSENS": 23,
+    "procent": "2.92%"
+  },
+  {
+    "id": "24052",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 17 „ECATERINA TEODOROIU”",
+    "totalVoturi": 519,
+    "totalVoturiSENS": 15,
+    "procent": "2.89%"
+  },
+  {
+    "id": "24101",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 24 „GHEORGHE NAUM”",
+    "totalVoturi": 519,
+    "totalVoturiSENS": 15,
+    "procent": "2.89%"
+  },
+  {
+    "id": "24226",
+    "localitate": "SURDILA-GRECI",
+    "nume_sectie": "ȘCOALA CU CLASELE I-VIII SURDILA GRECI",
+    "totalVoturi": 313,
+    "totalVoturiSENS": 9,
+    "procent": "2.88%"
+  },
+  {
+    "id": "23995",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ „VLAICU VODĂ”",
+    "totalVoturi": 697,
+    "totalVoturiSENS": 20,
+    "procent": "2.87%"
+  },
+  {
+    "id": "24032",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8 „ION BĂNCILĂ”",
+    "totalVoturi": 597,
+    "totalVoturiSENS": 17,
+    "procent": "2.85%"
+  },
+  {
+    "id": "24026",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COMPANIA DE UTILITĂȚI PUBLICE „DUNĂREA” SA BRĂILA",
+    "totalVoturi": 637,
+    "totalVoturiSENS": 18,
+    "procent": "2.83%"
+  },
+  {
+    "id": "24070",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL ECONOMIC „ION GHICA”",
+    "totalVoturi": 600,
+    "totalVoturiSENS": 17,
+    "procent": "2.83%"
+  },
+  {
+    "id": "24092",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 9 „ANTON PANN”",
+    "totalVoturi": 565,
+    "totalVoturiSENS": 16,
+    "procent": "2.83%"
+  },
+  {
+    "id": "24064",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 6 „CONSTANTIN SANDU ALDEA”",
+    "totalVoturi": 568,
+    "totalVoturiSENS": 16,
+    "procent": "2.82%"
+  },
+  {
+    "id": "24094",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 13 „NEDELCU CHERCEA”",
+    "totalVoturi": 532,
+    "totalVoturiSENS": 15,
+    "procent": "2.82%"
+  },
+  {
+    "id": "24054",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL TEHNIC „PANAIT ISTRATI”",
+    "totalVoturi": 606,
+    "totalVoturiSENS": 17,
+    "procent": "2.81%"
+  },
+  {
+    "id": "24003",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 2 „FĂNUŞ NEAGU”",
+    "totalVoturi": 723,
+    "totalVoturiSENS": 20,
+    "procent": "2.77%"
+  },
+  {
+    "id": "24058",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 18 „MIHU DRAGOMIR”",
+    "totalVoturi": 507,
+    "totalVoturiSENS": 14,
+    "procent": "2.76%"
+  },
+  {
+    "id": "24213",
+    "localitate": "SALCIA TUDOR",
+    "nume_sectie": "CĂMINUL CULTURAL OLĂNEASCA",
+    "totalVoturi": 147,
+    "totalVoturiSENS": 4,
+    "procent": "2.72%"
+  },
+  {
+    "id": "24099",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 22 „RADU TUDORAN”",
+    "totalVoturi": 479,
+    "totalVoturiSENS": 13,
+    "procent": "2.71%"
+  },
+  {
+    "id": "24067",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL TEHNOLOGIC „ANGHEL SALIGNY”",
+    "totalVoturi": 481,
+    "totalVoturiSENS": 13,
+    "procent": "2.70%"
+  },
+  {
+    "id": "24090",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 9 „ANTON PANN”",
+    "totalVoturi": 445,
+    "totalVoturiSENS": 12,
+    "procent": "2.70%"
+  },
+  {
+    "id": "24025",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL TEHNOLOGIC „EDMOND NICOLAU”",
+    "totalVoturi": 634,
+    "totalVoturiSENS": 17,
+    "procent": "2.68%"
+  },
+  {
+    "id": "24080",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "GRĂDINIŢA NR. 37 „DUMBRAVA MINUNATĂ”",
+    "totalVoturi": 522,
+    "totalVoturiSENS": 14,
+    "procent": "2.68%"
+  },
+  {
+    "id": "24087",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 23 „MIHAI EMINESCU”",
+    "totalVoturi": 413,
+    "totalVoturiSENS": 11,
+    "procent": "2.66%"
+  },
+  {
+    "id": "24158",
+    "localitate": "CHISCANI",
+    "nume_sectie": "CĂMINUL CULTURAL SAT LACU SĂRAT",
+    "totalVoturi": 527,
+    "totalVoturiSENS": 14,
+    "procent": "2.66%"
+  },
+  {
+    "id": "24117",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ „GEORGE COŞBUC”",
+    "totalVoturi": 568,
+    "totalVoturiSENS": 15,
+    "procent": "2.64%"
+  },
+  {
+    "id": "24013",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 28 „VASILE ALECSANDRI”",
+    "totalVoturi": 344,
+    "totalVoturiSENS": 9,
+    "procent": "2.62%"
+  },
+  {
+    "id": "24066",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL TEHNOLOGIC „ANGHEL SALIGNY”",
+    "totalVoturi": 573,
+    "totalVoturiSENS": 15,
+    "procent": "2.62%"
+  },
+  {
+    "id": "24110",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 19 „MIHAIL KOGĂLNICEANU”",
+    "totalVoturi": 496,
+    "totalVoturiSENS": 13,
+    "procent": "2.62%"
+  },
+  {
+    "id": "24231",
+    "localitate": "ŞUŢEŞTI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ŞUŢEŞTI (ŞCOALA DE ARTE ŞI MESERII)",
+    "totalVoturi": 382,
+    "totalVoturiSENS": 10,
+    "procent": "2.62%"
+  },
+  {
+    "id": "24073",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 32 „DIMITRIE CANTEMIR”",
+    "totalVoturi": 574,
+    "totalVoturiSENS": 15,
+    "procent": "2.61%"
+  },
+  {
+    "id": "24121",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL TEHNOLOGIC „CONSTANTIN BRÂNCOVEANU”",
+    "totalVoturi": 498,
+    "totalVoturiSENS": 13,
+    "procent": "2.61%"
+  },
+  {
+    "id": "24027",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL TEHNOLOGIC „EDMOND NICOLAU”",
+    "totalVoturi": 505,
+    "totalVoturiSENS": 13,
+    "procent": "2.57%"
+  },
+  {
+    "id": "24155",
+    "localitate": "CAZASU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ CAZASU",
+    "totalVoturi": 1017,
+    "totalVoturiSENS": 26,
+    "procent": "2.56%"
+  },
+  {
+    "id": "24007",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "GRĂDINIŢA NR. 39 „CĂSUȚA FERMECATĂ”",
+    "totalVoturi": 442,
+    "totalVoturiSENS": 11,
+    "procent": "2.49%"
+  },
+  {
+    "id": "24113",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ „ALEXANDR SERGHEEVICI PUȘKIN”",
+    "totalVoturi": 401,
+    "totalVoturiSENS": 10,
+    "procent": "2.49%"
+  },
+  {
+    "id": "24012",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 28 „VASILE ALECSANDRI”",
+    "totalVoturi": 533,
+    "totalVoturiSENS": 13,
+    "procent": "2.44%"
+  },
+  {
+    "id": "24018",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "GRĂDINIŢA NR. 11 „BRÂNDUȘA”",
+    "totalVoturi": 573,
+    "totalVoturiSENS": 14,
+    "procent": "2.44%"
+  },
+  {
+    "id": "24253",
+    "localitate": "VĂDENI",
+    "nume_sectie": "SCOALA GIMNAZIALA CU CLASELE I-VIII-VADENI-SALA B",
+    "totalVoturi": 412,
+    "totalVoturiSENS": 10,
+    "procent": "2.43%"
+  },
+  {
+    "id": "24151",
+    "localitate": "BORDEI VERDE",
+    "nume_sectie": "CLĂDIRE SALA SPORT BORDEI VERDE",
+    "totalVoturi": 458,
+    "totalVoturiSENS": 11,
+    "procent": "2.40%"
+  },
+  {
+    "id": "24019",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL NAȚIONAL „ANA ASLAN”",
+    "totalVoturi": 293,
+    "totalVoturiSENS": 7,
+    "procent": "2.39%"
+  },
+  {
+    "id": "24033",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8 „ION BĂNCILĂ”",
+    "totalVoturi": 502,
+    "totalVoturiSENS": 12,
+    "procent": "2.39%"
+  },
+  {
+    "id": "24038",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL TEORETIC „PANAIT CERNA”",
+    "totalVoturi": 588,
+    "totalVoturiSENS": 14,
+    "procent": "2.38%"
+  },
+  {
+    "id": "24051",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL TEHNOLOGIC „GRIGORE MOISIL”",
+    "totalVoturi": 679,
+    "totalVoturiSENS": 16,
+    "procent": "2.36%"
+  },
+  {
+    "id": "24130",
+    "localitate": "ORAŞ IANCA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ IANCA",
+    "totalVoturi": 466,
+    "totalVoturiSENS": 11,
+    "procent": "2.36%"
+  },
+  {
+    "id": "24069",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL ECONOMIC „ION GHICA”",
+    "totalVoturi": 513,
+    "totalVoturiSENS": 12,
+    "procent": "2.34%"
+  },
+  {
+    "id": "24029",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL TEHNOLOGIC „EDMOND NICOLAU”",
+    "totalVoturi": 516,
+    "totalVoturiSENS": 12,
+    "procent": "2.33%"
+  },
+  {
+    "id": "24116",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ „GEORGE COŞBUC”",
+    "totalVoturi": 519,
+    "totalVoturiSENS": 12,
+    "procent": "2.31%"
+  },
+  {
+    "id": "23993",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 1 „VLAICU VODĂ”",
+    "totalVoturi": 695,
+    "totalVoturiSENS": 16,
+    "procent": "2.30%"
+  },
+  {
+    "id": "24142",
+    "localitate": "ORAŞ ÎNSURĂŢEI",
+    "nume_sectie": "LICEUL TEHNOLOGIC ” NICOLAE TITULESCU ” ÎNSURĂȚEI - ȘCOALA ANEXĂ",
+    "totalVoturi": 304,
+    "totalVoturiSENS": 7,
+    "procent": "2.30%"
+  },
+  {
+    "id": "24140",
+    "localitate": "ORAŞ ÎNSURĂŢEI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”SPIRU HARET” ÎNSURĂȚEI - LOCAȚIA 1",
+    "totalVoturi": 400,
+    "totalVoturiSENS": 9,
+    "procent": "2.25%"
+  },
+  {
+    "id": "24156",
+    "localitate": "CHISCANI",
+    "nume_sectie": "CĂMINUL CULTURAL II",
+    "totalVoturi": 721,
+    "totalVoturiSENS": 16,
+    "procent": "2.22%"
   },
   {
     "id": "24045",
@@ -488,460 +1056,36 @@
     "procent": "2.20%"
   },
   {
-    "id": "24047",
+    "id": "24035",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 5 „NIKOS KAZANTZAKIS”",
-    "totalVoturi": 377,
-    "totalVoturiSENS": 15,
-    "procent": "3.98%"
-  },
-  {
-    "id": "24048",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL NAŢIONAL „NICOLAE BĂLCESCU”",
-    "totalVoturi": 522,
-    "totalVoturiSENS": 8,
-    "procent": "1.53%"
-  },
-  {
-    "id": "24049",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL DE ARTĂ „HARICLEA DARCLEE”",
-    "totalVoturi": 545,
-    "totalVoturiSENS": 10,
-    "procent": "1.83%"
-  },
-  {
-    "id": "24050",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL DE ARTĂ „HARICLEA DARCLEE”",
-    "totalVoturi": 616,
-    "totalVoturiSENS": 18,
-    "procent": "2.92%"
-  },
-  {
-    "id": "24051",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL TEHNOLOGIC „GRIGORE MOISIL”",
-    "totalVoturi": 679,
-    "totalVoturiSENS": 16,
-    "procent": "2.36%"
-  },
-  {
-    "id": "24052",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 17 „ECATERINA TEODOROIU”",
-    "totalVoturi": 519,
-    "totalVoturiSENS": 15,
-    "procent": "2.89%"
-  },
-  {
-    "id": "24053",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 17 „ECATERINA TEODOROIU”",
-    "totalVoturi": 623,
-    "totalVoturiSENS": 11,
-    "procent": "1.77%"
-  },
-  {
-    "id": "24054",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL TEHNIC „PANAIT ISTRATI”",
-    "totalVoturi": 606,
-    "totalVoturiSENS": 17,
-    "procent": "2.81%"
-  },
-  {
-    "id": "24055",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL TEHNIC „PANAIT ISTRATI”",
-    "totalVoturi": 371,
-    "totalVoturiSENS": 14,
-    "procent": "3.77%"
-  },
-  {
-    "id": "24056",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL TEHNIC „PANAIT ISTRATI”",
-    "totalVoturi": 527,
-    "totalVoturiSENS": 25,
-    "procent": "4.74%"
-  },
-  {
-    "id": "24057",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 18 „MIHU DRAGOMIR”",
-    "totalVoturi": 444,
-    "totalVoturiSENS": 23,
-    "procent": "5.18%"
-  },
-  {
-    "id": "24058",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 18 „MIHU DRAGOMIR”",
-    "totalVoturi": 507,
-    "totalVoturiSENS": 14,
-    "procent": "2.76%"
-  },
-  {
-    "id": "24059",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIŢA NR. 21 „PESCĂRUȘUL”",
-    "totalVoturi": 540,
-    "totalVoturiSENS": 11,
-    "procent": "2.04%"
-  },
-  {
-    "id": "24060",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIŢA NR. 21 „PESCĂRUȘUL”",
-    "totalVoturi": 389,
-    "totalVoturiSENS": 17,
-    "procent": "4.37%"
-  },
-  {
-    "id": "24061",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIŢA NR. 21 „PESCĂRUȘUL”",
-    "totalVoturi": 498,
-    "totalVoturiSENS": 26,
-    "procent": "5.22%"
-  },
-  {
-    "id": "24062",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 6 „CONSTANTIN SANDU ALDEA”",
-    "totalVoturi": 607,
-    "totalVoturiSENS": 20,
-    "procent": "3.29%"
-  },
-  {
-    "id": "24063",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 6 „CONSTANTIN SANDU ALDEA”",
-    "totalVoturi": 547,
-    "totalVoturiSENS": 16,
-    "procent": "2.93%"
-  },
-  {
-    "id": "24064",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 6 „CONSTANTIN SANDU ALDEA”",
-    "totalVoturi": 568,
-    "totalVoturiSENS": 16,
-    "procent": "2.82%"
-  },
-  {
-    "id": "24065",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 6 „CONSTANTIN SANDU ALDEA”",
-    "totalVoturi": 584,
-    "totalVoturiSENS": 9,
-    "procent": "1.54%"
-  },
-  {
-    "id": "24066",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL TEHNOLOGIC „ANGHEL SALIGNY”",
-    "totalVoturi": 573,
-    "totalVoturiSENS": 15,
-    "procent": "2.62%"
-  },
-  {
-    "id": "24067",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL TEHNOLOGIC „ANGHEL SALIGNY”",
-    "totalVoturi": 481,
-    "totalVoturiSENS": 13,
-    "procent": "2.70%"
-  },
-  {
-    "id": "24068",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL TEHNOLOGIC „ANGHEL SALIGNY”",
-    "totalVoturi": 580,
-    "totalVoturiSENS": 20,
-    "procent": "3.45%"
-  },
-  {
-    "id": "24069",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL ECONOMIC „ION GHICA”",
-    "totalVoturi": 513,
-    "totalVoturiSENS": 12,
-    "procent": "2.34%"
-  },
-  {
-    "id": "24070",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL ECONOMIC „ION GHICA”",
-    "totalVoturi": 600,
-    "totalVoturiSENS": 17,
-    "procent": "2.83%"
-  },
-  {
-    "id": "24071",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "CASA CORPULUI DIDACTIC",
-    "totalVoturi": 492,
-    "totalVoturiSENS": 21,
-    "procent": "4.27%"
-  },
-  {
-    "id": "24072",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 32 „DIMITRIE CANTEMIR”",
-    "totalVoturi": 471,
-    "totalVoturiSENS": 19,
-    "procent": "4.03%"
-  },
-  {
-    "id": "24073",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 32 „DIMITRIE CANTEMIR”",
-    "totalVoturi": 574,
-    "totalVoturiSENS": 15,
-    "procent": "2.61%"
-  },
-  {
-    "id": "24074",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 32 „DIMITRIE CANTEMIR”",
-    "totalVoturi": 337,
-    "totalVoturiSENS": 18,
-    "procent": "5.34%"
-  },
-  {
-    "id": "24075",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 32 „DIMITRIE CANTEMIR”",
-    "totalVoturi": 485,
-    "totalVoturiSENS": 20,
-    "procent": "4.12%"
-  },
-  {
-    "id": "24076",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 32 „DIMITRIE CANTEMIR”",
-    "totalVoturi": 591,
-    "totalVoturiSENS": 5,
-    "procent": "0.85%"
-  },
-  {
-    "id": "24077",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIŢA NR. 36 „FURNICUŢA”",
-    "totalVoturi": 568,
-    "totalVoturiSENS": 18,
-    "procent": "3.17%"
-  },
-  {
-    "id": "24078",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL NAȚIONAL PEDAGOGIC „DUMITRU PANAITESCU PERPESSICIUS”",
-    "totalVoturi": 532,
-    "totalVoturiSENS": 22,
-    "procent": "4.14%"
-  },
-  {
-    "id": "24079",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL NAȚIONAL PEDAGOGIC „DUMITRU PANAITESCU PERPESSICIUS”",
-    "totalVoturi": 473,
-    "totalVoturiSENS": 16,
-    "procent": "3.38%"
-  },
-  {
-    "id": "24080",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIŢA NR. 37 „DUMBRAVA MINUNATĂ”",
-    "totalVoturi": 522,
-    "totalVoturiSENS": 14,
-    "procent": "2.68%"
-  },
-  {
-    "id": "24081",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIŢA NR. 37 „DUMBRAVA MINUNATĂ”",
-    "totalVoturi": 789,
-    "totalVoturiSENS": 28,
-    "procent": "3.55%"
-  },
-  {
-    "id": "24082",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "GRĂDINIŢA NR. 37 „DUMBRAVA MINUNATĂ”",
-    "totalVoturi": 541,
-    "totalVoturiSENS": 18,
-    "procent": "3.33%"
-  },
-  {
-    "id": "24083",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL NAȚIONAL PEDAGOGIC „DUMITRU PANAITESCU PERPESSICIUS”",
-    "totalVoturi": 483,
-    "totalVoturiSENS": 15,
-    "procent": "3.11%"
-  },
-  {
-    "id": "24084",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL NAȚIONAL PEDAGOGIC „DUMITRU PANAITESCU PERPESSICIUS”",
-    "totalVoturi": 658,
-    "totalVoturiSENS": 24,
-    "procent": "3.65%"
-  },
-  {
-    "id": "24085",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "COLEGIUL NAȚIONAL PEDAGOGIC „DUMITRU PANAITESCU PERPESSICIUS”",
-    "totalVoturi": 638,
-    "totalVoturiSENS": 12,
-    "procent": "1.88%"
-  },
-  {
-    "id": "24086",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 23 „MIHAI EMINESCU”",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8 „ION BĂNCILĂ”",
     "totalVoturi": 320,
-    "totalVoturiSENS": 14,
-    "procent": "4.38%"
+    "totalVoturiSENS": 7,
+    "procent": "2.19%"
   },
   {
-    "id": "24087",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 23 „MIHAI EMINESCU”",
-    "totalVoturi": 413,
-    "totalVoturiSENS": 11,
-    "procent": "2.66%"
-  },
-  {
-    "id": "24088",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 23 „MIHAI EMINESCU”",
-    "totalVoturi": 523,
-    "totalVoturiSENS": 26,
-    "procent": "4.97%"
-  },
-  {
-    "id": "24089",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 9 „ANTON PANN”",
-    "totalVoturi": 435,
-    "totalVoturiSENS": 9,
-    "procent": "2.07%"
-  },
-  {
-    "id": "24090",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 9 „ANTON PANN”",
-    "totalVoturi": 445,
-    "totalVoturiSENS": 12,
-    "procent": "2.70%"
-  },
-  {
-    "id": "24091",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 9 „ANTON PANN”",
-    "totalVoturi": 499,
+    "id": "24145",
+    "localitate": "BĂRĂGANUL",
+    "nume_sectie": "ŞCOALA CU CLASELE I - VIII BĂRĂGANUL",
+    "totalVoturi": 457,
     "totalVoturiSENS": 10,
-    "procent": "2.00%"
+    "procent": "2.19%"
   },
   {
-    "id": "24092",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 9 „ANTON PANN”",
-    "totalVoturi": 565,
-    "totalVoturiSENS": 16,
-    "procent": "2.83%"
+    "id": "24180",
+    "localitate": "GRĂDIŞTEA",
+    "nume_sectie": "CĂMIN CULTURAL SAT MARALOIU",
+    "totalVoturi": 137,
+    "totalVoturiSENS": 3,
+    "procent": "2.19%"
   },
   {
-    "id": "24093",
+    "id": "23991",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 13 „NEDELCU CHERCEA”",
-    "totalVoturi": 534,
-    "totalVoturiSENS": 17,
-    "procent": "3.18%"
-  },
-  {
-    "id": "24094",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 13 „NEDELCU CHERCEA”",
-    "totalVoturi": 532,
-    "totalVoturiSENS": 15,
-    "procent": "2.82%"
-  },
-  {
-    "id": "24095",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 22 „RADU TUDORAN”",
-    "totalVoturi": 534,
-    "totalVoturiSENS": 20,
-    "procent": "3.75%"
-  },
-  {
-    "id": "24096",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 22 „RADU TUDORAN”",
-    "totalVoturi": 563,
-    "totalVoturiSENS": 17,
-    "procent": "3.02%"
-  },
-  {
-    "id": "24097",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 22 „RADU TUDORAN”",
-    "totalVoturi": 502,
-    "totalVoturiSENS": 25,
-    "procent": "4.98%"
-  },
-  {
-    "id": "24098",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 22 „RADU TUDORAN”",
-    "totalVoturi": 463,
-    "totalVoturiSENS": 14,
-    "procent": "3.02%"
-  },
-  {
-    "id": "24099",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 22 „RADU TUDORAN”",
-    "totalVoturi": 479,
-    "totalVoturiSENS": 13,
-    "procent": "2.71%"
-  },
-  {
-    "id": "24100",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ „RADU TUDORAN”",
-    "totalVoturi": 519,
-    "totalVoturiSENS": 20,
-    "procent": "3.85%"
-  },
-  {
-    "id": "24101",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 24 „GHEORGHE NAUM”",
-    "totalVoturi": 519,
-    "totalVoturiSENS": 15,
-    "procent": "2.89%"
-  },
-  {
-    "id": "24102",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 24 „GHEORGHE NAUM”",
-    "totalVoturi": 588,
-    "totalVoturiSENS": 19,
-    "procent": "3.23%"
-  },
-  {
-    "id": "24103",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 24 „GHEORGHE NAUM”",
-    "totalVoturi": 569,
-    "totalVoturiSENS": 17,
-    "procent": "2.99%"
+    "nume_sectie": "GRĂDINIŢA NR. 61 „BOBOCEL”",
+    "totalVoturi": 554,
+    "totalVoturiSENS": 12,
+    "procent": "2.17%"
   },
   {
     "id": "24104",
@@ -952,36 +1096,28 @@
     "procent": "2.16%"
   },
   {
-    "id": "24105",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ „GEORGE COȘBUC”",
-    "totalVoturi": 520,
-    "totalVoturiSENS": 20,
-    "procent": "3.85%"
+    "id": "24157",
+    "localitate": "CHISCANI",
+    "nume_sectie": "SCOALA GIMNAZIALA- CHISCANI - CARTIER",
+    "totalVoturi": 556,
+    "totalVoturiSENS": 12,
+    "procent": "2.16%"
   },
   {
-    "id": "24106",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ „GEORGE COȘBUC”",
-    "totalVoturi": 500,
-    "totalVoturiSENS": 19,
-    "procent": "3.80%"
+    "id": "24246",
+    "localitate": "TUFEŞTI",
+    "nume_sectie": "SCOALA PETRE CARP DIN FOSTUL SAT TIBANESTI",
+    "totalVoturi": 555,
+    "totalVoturiSENS": 12,
+    "procent": "2.16%"
   },
   {
-    "id": "24107",
+    "id": "24004",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ „ALEXANDR SERGHEEVICI PUȘKIN”",
-    "totalVoturi": 420,
-    "totalVoturiSENS": 16,
-    "procent": "3.81%"
-  },
-  {
-    "id": "24108",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ „ALEXANDR SERGHEEVICI PUȘKIN”",
-    "totalVoturi": 475,
-    "totalVoturiSENS": 22,
-    "procent": "4.63%"
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 2 „FĂNUŞ NEAGU”",
+    "totalVoturi": 515,
+    "totalVoturiSENS": 11,
+    "procent": "2.14%"
   },
   {
     "id": "24109",
@@ -992,68 +1128,28 @@
     "procent": "2.11%"
   },
   {
-    "id": "24110",
+    "id": "24089",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 19 „MIHAIL KOGĂLNICEANU”",
-    "totalVoturi": 496,
-    "totalVoturiSENS": 13,
-    "procent": "2.62%"
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 9 „ANTON PANN”",
+    "totalVoturi": 435,
+    "totalVoturiSENS": 9,
+    "procent": "2.07%"
   },
   {
-    "id": "24111",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 19 „MIHAIL KOGĂLNICEANU”",
-    "totalVoturi": 555,
-    "totalVoturiSENS": 19,
-    "procent": "3.42%"
+    "id": "24236",
+    "localitate": "TRAIAN",
+    "nume_sectie": "ȘCOALA CU CLASELE I-VIII TRAIAN",
+    "totalVoturi": 435,
+    "totalVoturiSENS": 9,
+    "procent": "2.07%"
   },
   {
-    "id": "24112",
+    "id": "24059",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 19 „MIHAIL KOGĂLNICEANU”",
-    "totalVoturi": 822,
-    "totalVoturiSENS": 35,
-    "procent": "4.26%"
-  },
-  {
-    "id": "24113",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ „ALEXANDR SERGHEEVICI PUȘKIN”",
-    "totalVoturi": 401,
-    "totalVoturiSENS": 10,
-    "procent": "2.49%"
-  },
-  {
-    "id": "24114",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ „ALEXANDR SERGHEEVICI PUȘKIN”",
-    "totalVoturi": 469,
-    "totalVoturiSENS": 21,
-    "procent": "4.48%"
-  },
-  {
-    "id": "24115",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ „GEORGE COŞBUC”",
-    "totalVoturi": 572,
-    "totalVoturiSENS": 17,
-    "procent": "2.97%"
-  },
-  {
-    "id": "24116",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ „GEORGE COŞBUC”",
-    "totalVoturi": 519,
-    "totalVoturiSENS": 12,
-    "procent": "2.31%"
-  },
-  {
-    "id": "24117",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ „GEORGE COŞBUC”",
-    "totalVoturi": 568,
-    "totalVoturiSENS": 15,
-    "procent": "2.64%"
+    "nume_sectie": "GRĂDINIŢA NR. 21 „PESCĂRUȘUL”",
+    "totalVoturi": 540,
+    "totalVoturiSENS": 11,
+    "procent": "2.04%"
   },
   {
     "id": "24118",
@@ -1061,6 +1157,14 @@
     "nume_sectie": "LICEUL TEHNOLOGIC „CONSTANTIN BRÂNCOVEANU”",
     "totalVoturi": 442,
     "totalVoturiSENS": 9,
+    "procent": "2.04%"
+  },
+  {
+    "id": "24234",
+    "localitate": "TICHILEŞTI",
+    "nume_sectie": "SCOALA GIMNAZIALA TICHILESTI",
+    "totalVoturi": 538,
+    "totalVoturiSENS": 11,
     "procent": "2.04%"
   },
   {
@@ -1072,108 +1176,84 @@
     "procent": "2.01%"
   },
   {
-    "id": "24120",
+    "id": "24091",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL TEHNOLOGIC „CONSTANTIN BRÂNCOVEANU”",
-    "totalVoturi": 584,
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 9 „ANTON PANN”",
+    "totalVoturi": 499,
     "totalVoturiSENS": 10,
-    "procent": "1.71%"
+    "procent": "2.00%"
   },
   {
-    "id": "24121",
+    "id": "24191",
+    "localitate": "MĂXINENI",
+    "nume_sectie": "CĂMINUL CULTURAL CORBU NOU",
+    "totalVoturi": 300,
+    "totalVoturiSENS": 6,
+    "procent": "2.00%"
+  },
+  {
+    "id": "24238",
+    "localitate": "TRAIAN",
+    "nume_sectie": "GRĂDINIȚA URLEASCA",
+    "totalVoturi": 511,
+    "totalVoturiSENS": 10,
+    "procent": "1.96%"
+  },
+  {
+    "id": "24028",
     "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL TEHNOLOGIC „CONSTANTIN BRÂNCOVEANU”",
-    "totalVoturi": 498,
-    "totalVoturiSENS": 13,
-    "procent": "2.61%"
-  },
-  {
-    "id": "24122",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "LICEUL TEHNOLOGIC „CONSTANTIN BRÂNCOVEANU”",
-    "totalVoturi": 401,
-    "totalVoturiSENS": 13,
-    "procent": "3.24%"
-  },
-  {
-    "id": "24123",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 33 „SFÂNTUL ANDREI”",
-    "totalVoturi": 466,
-    "totalVoturiSENS": 7,
-    "procent": "1.50%"
-  },
-  {
-    "id": "24124",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 33 „SFÂNTUL ANDREI”",
-    "totalVoturi": 615,
-    "totalVoturiSENS": 23,
-    "procent": "3.74%"
-  },
-  {
-    "id": "24125",
-    "localitate": "MUNICIPIUL BRĂILA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 33 „SFÂNTUL ANDREI”",
-    "totalVoturi": 463,
-    "totalVoturiSENS": 5,
-    "procent": "1.08%"
-  },
-  {
-    "id": "24126",
-    "localitate": "ORAŞ FĂUREI",
-    "nume_sectie": "CASA DE CULTURĂ FĂUREI, SALA MICĂ",
-    "totalVoturi": 759,
-    "totalVoturiSENS": 13,
-    "procent": "1.71%"
-  },
-  {
-    "id": "24127",
-    "localitate": "ORAŞ FĂUREI",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ CU CLASELE I-IV FĂUREI, SALA NR.2",
-    "totalVoturi": 713,
-    "totalVoturiSENS": 9,
-    "procent": "1.26%"
-  },
-  {
-    "id": "24128",
-    "localitate": "ORAŞ FĂUREI",
-    "nume_sectie": "FOSTA ŞCOALA GENERALĂ NR.2 FĂUREI, SALA NR.1",
-    "totalVoturi": 309,
-    "totalVoturiSENS": 2,
-    "procent": "0.65%"
-  },
-  {
-    "id": "24129",
-    "localitate": "ORAŞ IANCA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ IANCA",
-    "totalVoturi": 405,
-    "totalVoturiSENS": 2,
-    "procent": "0.49%"
-  },
-  {
-    "id": "24130",
-    "localitate": "ORAŞ IANCA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ IANCA",
-    "totalVoturi": 466,
+    "nume_sectie": "LICEUL TEHNOLOGIC „EDMOND NICOLAU”",
+    "totalVoturi": 564,
     "totalVoturiSENS": 11,
-    "procent": "2.36%"
+    "procent": "1.95%"
   },
   {
-    "id": "24131",
-    "localitate": "ORAŞ IANCA",
-    "nume_sectie": "CASA DE CULTURĂ ”ION THEODORESCU SION”",
-    "totalVoturi": 477,
-    "totalVoturiSENS": 16,
-    "procent": "3.35%"
+    "id": "24195",
+    "localitate": "MIRCEA VODĂ",
+    "nume_sectie": "SCOALA GIMNAZIALA MIRCEA VODA, JUDETUL BRAILA",
+    "totalVoturi": 412,
+    "totalVoturiSENS": 8,
+    "procent": "1.94%"
   },
   {
-    "id": "24132",
-    "localitate": "ORAŞ IANCA",
-    "nume_sectie": "LICEUL TEORETIC ”CONSTANTIN ANGELESCU”",
-    "totalVoturi": 435,
-    "totalVoturiSENS": 1,
-    "procent": "0.23%"
+    "id": "24085",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL NAȚIONAL PEDAGOGIC „DUMITRU PANAITESCU PERPESSICIUS”",
+    "totalVoturi": 638,
+    "totalVoturiSENS": 12,
+    "procent": "1.88%"
+  },
+  {
+    "id": "24205",
+    "localitate": "RÂMNICELU",
+    "nume_sectie": "ȘCOALA PRIMARĂ MIHAIL KOGĂLNICEANU",
+    "totalVoturi": 107,
+    "totalVoturiSENS": 2,
+    "procent": "1.87%"
+  },
+  {
+    "id": "23989",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 31 „MIHAI VITEAZUL”",
+    "totalVoturi": 542,
+    "totalVoturiSENS": 10,
+    "procent": "1.85%"
+  },
+  {
+    "id": "24255",
+    "localitate": "VĂDENI",
+    "nume_sectie": "SCOALA CU CLASELE I-IV PIETROIU",
+    "totalVoturi": 217,
+    "totalVoturiSENS": 4,
+    "procent": "1.84%"
+  },
+  {
+    "id": "24049",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL DE ARTĂ „HARICLEA DARCLEE”",
+    "totalVoturi": 545,
+    "totalVoturiSENS": 10,
+    "procent": "1.83%"
   },
   {
     "id": "24133",
@@ -1184,124 +1264,68 @@
     "procent": "1.79%"
   },
   {
-    "id": "24134",
-    "localitate": "ORAŞ IANCA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ PLOPU",
-    "totalVoturi": 550,
-    "totalVoturiSENS": 8,
-    "procent": "1.45%"
+    "id": "24053",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 17 „ECATERINA TEODOROIU”",
+    "totalVoturi": 623,
+    "totalVoturiSENS": 11,
+    "procent": "1.77%"
   },
   {
-    "id": "24135",
-    "localitate": "ORAŞ IANCA",
-    "nume_sectie": "ȘCOALA PRIMARĂ OPRIȘENEȘTI",
-    "totalVoturi": 266,
-    "totalVoturiSENS": 1,
-    "procent": "0.38%"
-  },
-  {
-    "id": "24136",
-    "localitate": "ORAŞ IANCA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ PERIȘORU",
-    "totalVoturi": 319,
-    "totalVoturiSENS": 4,
-    "procent": "1.25%"
-  },
-  {
-    "id": "24137",
-    "localitate": "ORAŞ IANCA",
-    "nume_sectie": "ȘCOALA PRIMARĂ TÎRLELE FILIU",
-    "totalVoturi": 171,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "24138",
-    "localitate": "ORAŞ IANCA",
-    "nume_sectie": "ȘCOALA PRIMARĂ BERLEȘTI",
-    "totalVoturi": 102,
-    "totalVoturiSENS": 1,
-    "procent": "0.98%"
-  },
-  {
-    "id": "24139",
-    "localitate": "ORAŞ ÎNSURĂŢEI",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”SPIRU HARET” ÎNSURĂȚEI - LOCAȚIA 1",
-    "totalVoturi": 376,
-    "totalVoturiSENS": 6,
-    "procent": "1.60%"
-  },
-  {
-    "id": "24140",
-    "localitate": "ORAŞ ÎNSURĂŢEI",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”SPIRU HARET” ÎNSURĂȚEI - LOCAȚIA 1",
-    "totalVoturi": 400,
+    "id": "24005",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "GRĂDINIŢA NR. 39 „CĂSUȚA FERMECATĂ”",
+    "totalVoturi": 520,
     "totalVoturiSENS": 9,
-    "procent": "2.25%"
+    "procent": "1.73%"
   },
   {
-    "id": "24141",
-    "localitate": "ORAŞ ÎNSURĂŢEI",
-    "nume_sectie": "LICEUL TEHNOLOGIC ” NICOLAE TITULESCU ” ÎNSURĂȚEI - ȘCOALA ANEXĂ",
-    "totalVoturi": 375,
-    "totalVoturiSENS": 4,
-    "procent": "1.07%"
+    "id": "24036",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8 „ION BĂNCILĂ”",
+    "totalVoturi": 292,
+    "totalVoturiSENS": 5,
+    "procent": "1.71%"
   },
   {
-    "id": "24142",
-    "localitate": "ORAŞ ÎNSURĂŢEI",
-    "nume_sectie": "LICEUL TEHNOLOGIC ” NICOLAE TITULESCU ” ÎNSURĂȚEI - ȘCOALA ANEXĂ",
-    "totalVoturi": 304,
-    "totalVoturiSENS": 7,
-    "procent": "2.30%"
-  },
-  {
-    "id": "24143",
-    "localitate": "ORAŞ ÎNSURĂŢEI",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ” SPIRU HARET ” ÎNSURĂȚEI - LOCAȚIA 2",
-    "totalVoturi": 455,
-    "totalVoturiSENS": 3,
-    "procent": "0.66%"
-  },
-  {
-    "id": "24144",
-    "localitate": "ORAŞ ÎNSURĂŢEI",
-    "nume_sectie": "GRADINITA CU PROGRAM NORMAL",
-    "totalVoturi": 126,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "24145",
-    "localitate": "BĂRĂGANUL",
-    "nume_sectie": "ŞCOALA CU CLASELE I - VIII BĂRĂGANUL",
-    "totalVoturi": 457,
+    "id": "24041",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL NAȚIONAL „GHEORGHE MUNTEANU MURGOCI”",
+    "totalVoturi": 585,
     "totalVoturiSENS": 10,
-    "procent": "2.19%"
+    "procent": "1.71%"
   },
   {
-    "id": "24146",
-    "localitate": "BĂRĂGANUL",
-    "nume_sectie": "SCOALA CU CLS. I - VIII BĂRĂGANUL - SALA DE CLASĂ NR. 1",
-    "totalVoturi": 616,
-    "totalVoturiSENS": 23,
-    "procent": "3.73%"
+    "id": "24120",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "LICEUL TEHNOLOGIC „CONSTANTIN BRÂNCOVEANU”",
+    "totalVoturi": 584,
+    "totalVoturiSENS": 10,
+    "procent": "1.71%"
   },
   {
-    "id": "24147",
-    "localitate": "BERTEŞTII DE JOS",
-    "nume_sectie": "CĂMINUL CULTURAL BERTEȘTII DE JOS",
-    "totalVoturi": 288,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
+    "id": "24126",
+    "localitate": "ORAŞ FĂUREI",
+    "nume_sectie": "CASA DE CULTURĂ FĂUREI, SALA MICĂ",
+    "totalVoturi": 759,
+    "totalVoturiSENS": 13,
+    "procent": "1.71%"
   },
   {
-    "id": "24148",
-    "localitate": "BERTEŞTII DE JOS",
-    "nume_sectie": "CĂMINUL CULTURAL SPIRU HARET",
-    "totalVoturi": 424,
-    "totalVoturiSENS": 2,
-    "procent": "0.47%"
+    "id": "24011",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 28 „VASILE ALECSANDRI”",
+    "totalVoturi": 357,
+    "totalVoturiSENS": 6,
+    "procent": "1.68%"
+  },
+  {
+    "id": "24214",
+    "localitate": "SALCIA TUDOR",
+    "nume_sectie": "CĂMINUL CULTURAL ARICIU",
+    "totalVoturi": 60,
+    "totalVoturiSENS": 1,
+    "procent": "1.67%"
   },
   {
     "id": "24149",
@@ -1312,76 +1336,300 @@
     "procent": "1.64%"
   },
   {
-    "id": "24150",
-    "localitate": "BERTEŞTII DE JOS",
+    "id": "24204",
+    "localitate": "RÂMNICELU",
+    "nume_sectie": "ȘCOALA PRIMARĂ CONSTANTINEȘTI",
+    "totalVoturi": 122,
+    "totalVoturiSENS": 2,
+    "procent": "1.64%"
+  },
+  {
+    "id": "24199",
+    "localitate": "MOVILA MIRESII",
+    "nume_sectie": "SCOALA TEPES VODA",
+    "totalVoturi": 311,
+    "totalVoturiSENS": 5,
+    "procent": "1.61%"
+  },
+  {
+    "id": "24139",
+    "localitate": "ORAŞ ÎNSURĂŢEI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”SPIRU HARET” ÎNSURĂȚEI - LOCAȚIA 1",
+    "totalVoturi": 376,
+    "totalVoturiSENS": 6,
+    "procent": "1.60%"
+  },
+  {
+    "id": "24243",
+    "localitate": "TUFEŞTI",
+    "nume_sectie": "SCOALA PETRE CARP TUFESTI",
+    "totalVoturi": 377,
+    "totalVoturiSENS": 6,
+    "procent": "1.59%"
+  },
+  {
+    "id": "23986",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 31 „MIHAI VITEAZUL”",
+    "totalVoturi": 518,
+    "totalVoturiSENS": 8,
+    "procent": "1.54%"
+  },
+  {
+    "id": "24065",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 6 „CONSTANTIN SANDU ALDEA”",
+    "totalVoturi": 584,
+    "totalVoturiSENS": 9,
+    "procent": "1.54%"
+  },
+  {
+    "id": "24048",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "COLEGIUL NAŢIONAL „NICOLAE BĂLCESCU”",
+    "totalVoturi": 522,
+    "totalVoturiSENS": 8,
+    "procent": "1.53%"
+  },
+  {
+    "id": "24217",
+    "localitate": "SILIŞTEA",
+    "nume_sectie": "CĂMINUL CULTURAL SILIȘTEA",
+    "totalVoturi": 265,
+    "totalVoturiSENS": 4,
+    "procent": "1.51%"
+  },
+  {
+    "id": "24123",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 33 „SFÂNTUL ANDREI”",
+    "totalVoturi": 466,
+    "totalVoturiSENS": 7,
+    "procent": "1.50%"
+  },
+  {
+    "id": "24187",
+    "localitate": "MĂRAŞU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ȚĂCĂU",
+    "totalVoturi": 206,
+    "totalVoturiSENS": 3,
+    "procent": "1.46%"
+  },
+  {
+    "id": "24134",
+    "localitate": "ORAŞ IANCA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ PLOPU",
+    "totalVoturi": 550,
+    "totalVoturiSENS": 8,
+    "procent": "1.45%"
+  },
+  {
+    "id": "24250",
+    "localitate": "UNIREA",
     "nume_sectie": "CĂMIN CULTURAL",
-    "totalVoturi": 149,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
+    "totalVoturi": 433,
+    "totalVoturiSENS": 6,
+    "procent": "1.39%"
   },
   {
-    "id": "24151",
-    "localitate": "BORDEI VERDE",
-    "nume_sectie": "CLĂDIRE SALA SPORT BORDEI VERDE",
-    "totalVoturi": 458,
-    "totalVoturiSENS": 11,
-    "procent": "2.40%"
+    "id": "24263",
+    "localitate": "VIZIRU",
+    "nume_sectie": "ȘCOALA LANURILE",
+    "totalVoturi": 367,
+    "totalVoturiSENS": 5,
+    "procent": "1.36%"
   },
   {
-    "id": "24152",
-    "localitate": "BORDEI VERDE",
-    "nume_sectie": "CĂMIN CULTURAL CONSTANTIN GABRIELESCU",
-    "totalVoturi": 220,
+    "id": "24176",
+    "localitate": "GALBENU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ PÂNTECANI",
+    "totalVoturi": 76,
     "totalVoturiSENS": 1,
-    "procent": "0.45%"
+    "procent": "1.32%"
   },
   {
-    "id": "24153",
-    "localitate": "BORDEI VERDE",
-    "nume_sectie": "CĂMINUL CULTURAL LIȘCOTEANCA",
-    "totalVoturi": 212,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
+    "id": "24193",
+    "localitate": "MĂXINENI",
+    "nume_sectie": "CAMIN CULTURAL LATINU",
+    "totalVoturi": 229,
+    "totalVoturiSENS": 3,
+    "procent": "1.31%"
   },
   {
-    "id": "24154",
-    "localitate": "CAZASU",
-    "nume_sectie": "CORP ANEXA PARTER",
-    "totalVoturi": 788,
-    "totalVoturiSENS": 23,
-    "procent": "2.92%"
+    "id": "24254",
+    "localitate": "VĂDENI",
+    "nume_sectie": "SCOALA GIMNAZIALA CU CLASELE I-VIII BALDOVINESTI",
+    "totalVoturi": 461,
+    "totalVoturiSENS": 6,
+    "procent": "1.30%"
   },
   {
-    "id": "24155",
-    "localitate": "CAZASU",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ CAZASU",
-    "totalVoturi": 1017,
-    "totalVoturiSENS": 26,
-    "procent": "2.56%"
+    "id": "24208",
+    "localitate": "ROŞIORI",
+    "nume_sectie": "CASA DE CULTURĂ ROȘIORI",
+    "totalVoturi": 465,
+    "totalVoturiSENS": 6,
+    "procent": "1.29%"
   },
   {
-    "id": "24156",
-    "localitate": "CHISCANI",
-    "nume_sectie": "CĂMINUL CULTURAL II",
-    "totalVoturi": 721,
-    "totalVoturiSENS": 16,
-    "procent": "2.22%"
+    "id": "24127",
+    "localitate": "ORAŞ FĂUREI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ CU CLASELE I-IV FĂUREI, SALA NR.2",
+    "totalVoturi": 713,
+    "totalVoturiSENS": 9,
+    "procent": "1.26%"
   },
   {
-    "id": "24157",
-    "localitate": "CHISCANI",
-    "nume_sectie": "SCOALA GIMNAZIALA- CHISCANI - CARTIER",
-    "totalVoturi": 556,
-    "totalVoturiSENS": 12,
-    "procent": "2.16%"
+    "id": "24136",
+    "localitate": "ORAŞ IANCA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ PERIȘORU",
+    "totalVoturi": 319,
+    "totalVoturiSENS": 4,
+    "procent": "1.25%"
   },
   {
-    "id": "24158",
-    "localitate": "CHISCANI",
-    "nume_sectie": "CĂMINUL CULTURAL SAT LACU SĂRAT",
+    "id": "24219",
+    "localitate": "SILIŞTEA",
+    "nume_sectie": "SALĂ FESTIVITĂȚI",
+    "totalVoturi": 82,
+    "totalVoturiSENS": 1,
+    "procent": "1.22%"
+  },
+  {
+    "id": "24225",
+    "localitate": "SURDILA-GĂISEANCA",
+    "nume_sectie": "FOSTA ȘCOALA GIMNAZIALA FILIPESTI",
+    "totalVoturi": 336,
+    "totalVoturiSENS": 4,
+    "procent": "1.19%"
+  },
+  {
+    "id": "24264",
+    "localitate": "VIZIRU",
+    "nume_sectie": "ȘCOALA LANURILE",
+    "totalVoturi": 337,
+    "totalVoturiSENS": 4,
+    "procent": "1.19%"
+  },
+  {
+    "id": "24245",
+    "localitate": "TUFEŞTI",
+    "nume_sectie": "CAMIN CULTURAL DIN FOSTUL SAT TIBANESTI",
+    "totalVoturi": 422,
+    "totalVoturiSENS": 5,
+    "procent": "1.18%"
+  },
+  {
+    "id": "24167",
+    "localitate": "DUDEŞTI",
+    "nume_sectie": "CĂMINUL CULTURAL TĂTARU",
+    "totalVoturi": 521,
+    "totalVoturiSENS": 6,
+    "procent": "1.15%"
+  },
+  {
+    "id": "24194",
+    "localitate": "MIRCEA VODĂ",
+    "nume_sectie": "SCOALA GIMNAZIALA MIRCEA VODA, JUDEȚUL BRAILA",
+    "totalVoturi": 436,
+    "totalVoturiSENS": 5,
+    "procent": "1.15%"
+  },
+  {
+    "id": "24031",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM NORMAL WALDORF",
+    "totalVoturi": 450,
+    "totalVoturiSENS": 5,
+    "procent": "1.11%"
+  },
+  {
+    "id": "24125",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 33 „SFÂNTUL ANDREI”",
+    "totalVoturi": 463,
+    "totalVoturiSENS": 5,
+    "procent": "1.08%"
+  },
+  {
+    "id": "24181",
+    "localitate": "GROPENI",
+    "nume_sectie": "CĂMIN CULTURAL",
+    "totalVoturi": 646,
+    "totalVoturiSENS": 7,
+    "procent": "1.08%"
+  },
+  {
+    "id": "24141",
+    "localitate": "ORAŞ ÎNSURĂŢEI",
+    "nume_sectie": "LICEUL TEHNOLOGIC ” NICOLAE TITULESCU ” ÎNSURĂȚEI - ȘCOALA ANEXĂ",
+    "totalVoturi": 375,
+    "totalVoturiSENS": 4,
+    "procent": "1.07%"
+  },
+  {
+    "id": "24184",
+    "localitate": "JIRLĂU",
+    "nume_sectie": "SCOALA GIMNAZIALĂ NR.1",
+    "totalVoturi": 469,
+    "totalVoturiSENS": 5,
+    "procent": "1.07%"
+  },
+  {
+    "id": "24251",
+    "localitate": "UNIREA",
+    "nume_sectie": "CĂMIN CULTURAL",
+    "totalVoturi": 466,
+    "totalVoturiSENS": 5,
+    "procent": "1.07%"
+  },
+  {
+    "id": "24192",
+    "localitate": "MĂXINENI",
+    "nume_sectie": "CĂMINUL CULTURAL CORBU VECHI",
+    "totalVoturi": 94,
+    "totalVoturiSENS": 1,
+    "procent": "1.06%"
+  },
+  {
+    "id": "24258",
+    "localitate": "VICTORIA",
+    "nume_sectie": "SCOALA GIMNAZIALA VICTORIA STRUCTURA SCOLARA GIMNAZIALA MIHAI BRAVU",
+    "totalVoturi": 391,
+    "totalVoturiSENS": 4,
+    "procent": "1.02%"
+  },
+  {
+    "id": "24138",
+    "localitate": "ORAŞ IANCA",
+    "nume_sectie": "ȘCOALA PRIMARĂ BERLEȘTI",
+    "totalVoturi": 102,
+    "totalVoturiSENS": 1,
+    "procent": "0.98%"
+  },
+  {
+    "id": "24166",
+    "localitate": "DUDEŞTI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ DUDEȘTI",
+    "totalVoturi": 613,
+    "totalVoturiSENS": 6,
+    "procent": "0.98%"
+  },
+  {
+    "id": "24257",
+    "localitate": "VICTORIA",
+    "nume_sectie": "SCOALA GIMNAZIALA VICTORIA",
+    "totalVoturi": 312,
+    "totalVoturiSENS": 3,
+    "procent": "0.96%"
+  },
+  {
+    "id": "24198",
+    "localitate": "MOVILA MIRESII",
+    "nume_sectie": "CAMIN CULTURAL M.MIRESII",
     "totalVoturi": 527,
-    "totalVoturiSENS": 14,
-    "procent": "2.66%"
+    "totalVoturiSENS": 5,
+    "procent": "0.95%"
   },
   {
     "id": "24159",
@@ -1392,12 +1640,460 @@
     "procent": "0.94%"
   },
   {
+    "id": "24183",
+    "localitate": "JIRLĂU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.2",
+    "totalVoturi": 538,
+    "totalVoturiSENS": 5,
+    "procent": "0.93%"
+  },
+  {
+    "id": "24267",
+    "localitate": "ZĂVOAIA",
+    "nume_sectie": "CĂMINUL CULTURAL DUDESCU",
+    "totalVoturi": 333,
+    "totalVoturiSENS": 3,
+    "procent": "0.90%"
+  },
+  {
+    "id": "24175",
+    "localitate": "GALBENU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ DROGU",
+    "totalVoturi": 340,
+    "totalVoturiSENS": 3,
+    "procent": "0.88%"
+  },
+  {
+    "id": "24233",
+    "localitate": "TICHILEŞTI",
+    "nume_sectie": "SCOALA GIMNAZIALA TICHILESTI",
+    "totalVoturi": 565,
+    "totalVoturiSENS": 5,
+    "procent": "0.88%"
+  },
+  {
+    "id": "24266",
+    "localitate": "ZĂVOAIA",
+    "nume_sectie": "CĂMINUL CULTURAL ZĂVOAIA",
+    "totalVoturi": 454,
+    "totalVoturiSENS": 4,
+    "procent": "0.88%"
+  },
+  {
+    "id": "24248",
+    "localitate": "ULMU",
+    "nume_sectie": "CAMINUL CULTURAL MOHREANU",
+    "totalVoturi": 463,
+    "totalVoturiSENS": 4,
+    "procent": "0.86%"
+  },
+  {
+    "id": "24076",
+    "localitate": "MUNICIPIUL BRĂILA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 32 „DIMITRIE CANTEMIR”",
+    "totalVoturi": 591,
+    "totalVoturiSENS": 5,
+    "procent": "0.85%"
+  },
+  {
+    "id": "24240",
+    "localitate": "TUDOR VLADIMIRESCU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU",
+    "totalVoturi": 354,
+    "totalVoturiSENS": 3,
+    "procent": "0.85%"
+  },
+  {
+    "id": "24200",
+    "localitate": "MOVILA MIRESII",
+    "nume_sectie": "SCOALA ESNA",
+    "totalVoturi": 119,
+    "totalVoturiSENS": 1,
+    "procent": "0.84%"
+  },
+  {
+    "id": "24212",
+    "localitate": "SALCIA TUDOR",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL GULIANCA",
+    "totalVoturi": 119,
+    "totalVoturiSENS": 1,
+    "procent": "0.84%"
+  },
+  {
+    "id": "24259",
+    "localitate": "VIŞANI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ VIȘANI",
+    "totalVoturi": 597,
+    "totalVoturiSENS": 5,
+    "procent": "0.84%"
+  },
+  {
+    "id": "24197",
+    "localitate": "MOVILA MIRESII",
+    "nume_sectie": "SCOALA VECHE",
+    "totalVoturi": 490,
+    "totalVoturiSENS": 4,
+    "procent": "0.82%"
+  },
+  {
+    "id": "24244",
+    "localitate": "TUFEŞTI",
+    "nume_sectie": "CĂMINUI CULTURAL NR. 2",
+    "totalVoturi": 371,
+    "totalVoturiSENS": 3,
+    "procent": "0.81%"
+  },
+  {
     "id": "24160",
     "localitate": "CIOCILE",
     "nume_sectie": "ȘCOALA CU CLASELE I-VIII NR.2 „ALEXANDRU TURTOI”",
     "totalVoturi": 379,
     "totalVoturiSENS": 3,
     "procent": "0.79%"
+  },
+  {
+    "id": "24196",
+    "localitate": "MIRCEA VODĂ",
+    "nume_sectie": "SCOALA GIMNAZIALA SAT DEDULESTI",
+    "totalVoturi": 255,
+    "totalVoturiSENS": 2,
+    "procent": "0.78%"
+  },
+  {
+    "id": "24237",
+    "localitate": "TRAIAN",
+    "nume_sectie": "GRĂDINIȚA SILISTRARU",
+    "totalVoturi": 266,
+    "totalVoturiSENS": 2,
+    "procent": "0.75%"
+  },
+  {
+    "id": "24179",
+    "localitate": "GRĂDIŞTEA",
+    "nume_sectie": "CĂMIN CULTURAL SAT IBRIANU",
+    "totalVoturi": 270,
+    "totalVoturiSENS": 2,
+    "procent": "0.74%"
+  },
+  {
+    "id": "24221",
+    "localitate": "STĂNCUŢA",
+    "nume_sectie": "ȘCOALA GIMNAZIALA STĂNCUȚA",
+    "totalVoturi": 540,
+    "totalVoturiSENS": 4,
+    "procent": "0.74%"
+  },
+  {
+    "id": "24265",
+    "localitate": "ZĂVOAIA",
+    "nume_sectie": "CAMIN CULTURAL ZAVOAIA",
+    "totalVoturi": 416,
+    "totalVoturiSENS": 3,
+    "procent": "0.72%"
+  },
+  {
+    "id": "24143",
+    "localitate": "ORAŞ ÎNSURĂŢEI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ” SPIRU HARET ” ÎNSURĂȚEI - LOCAȚIA 2",
+    "totalVoturi": 455,
+    "totalVoturiSENS": 3,
+    "procent": "0.66%"
+  },
+  {
+    "id": "24128",
+    "localitate": "ORAŞ FĂUREI",
+    "nume_sectie": "FOSTA ŞCOALA GENERALĂ NR.2 FĂUREI, SALA NR.1",
+    "totalVoturi": 309,
+    "totalVoturiSENS": 2,
+    "procent": "0.65%"
+  },
+  {
+    "id": "24224",
+    "localitate": "SURDILA-GĂISEANCA",
+    "nume_sectie": "CĂMINUL CULTURAL SURDILA GĂISEANCA",
+    "totalVoturi": 788,
+    "totalVoturiSENS": 5,
+    "procent": "0.63%"
+  },
+  {
+    "id": "24241",
+    "localitate": "TUDOR VLADIMIRESCU",
+    "nume_sectie": "CĂMINUL CULTURAL SCORȚARU VECHI",
+    "totalVoturi": 332,
+    "totalVoturiSENS": 2,
+    "procent": "0.60%"
+  },
+  {
+    "id": "24227",
+    "localitate": "SURDILA-GRECI",
+    "nume_sectie": "ȘCOALA CU CLASELE I-IV FĂUREI - SAT",
+    "totalVoturi": 171,
+    "totalVoturiSENS": 1,
+    "procent": "0.58%"
+  },
+  {
+    "id": "24235",
+    "localitate": "TICHILEŞTI",
+    "nume_sectie": "SCOALA PRIMARA ALBINA",
+    "totalVoturi": 172,
+    "totalVoturiSENS": 1,
+    "procent": "0.58%"
+  },
+  {
+    "id": "24261",
+    "localitate": "VIZIRU",
+    "nume_sectie": "SCOALA CU CLASELE I-VIII VIZIRU",
+    "totalVoturi": 689,
+    "totalVoturiSENS": 4,
+    "procent": "0.58%"
+  },
+  {
+    "id": "24223",
+    "localitate": "STĂNCUŢA",
+    "nume_sectie": "ȘCOALA STANCA",
+    "totalVoturi": 176,
+    "totalVoturiSENS": 1,
+    "procent": "0.57%"
+  },
+  {
+    "id": "24178",
+    "localitate": "GRĂDIŞTEA",
+    "nume_sectie": "CAMIN CULTURAL GRADISTEA",
+    "totalVoturi": 537,
+    "totalVoturiSENS": 3,
+    "procent": "0.56%"
+  },
+  {
+    "id": "24171",
+    "localitate": "FRECĂŢEI",
+    "nume_sectie": "ȘCOALA CU CLASELE I-IV TITCOV",
+    "totalVoturi": 190,
+    "totalVoturiSENS": 1,
+    "procent": "0.53%"
+  },
+  {
+    "id": "24174",
+    "localitate": "GALBENU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ZAMFIREȘTI",
+    "totalVoturi": 189,
+    "totalVoturiSENS": 1,
+    "procent": "0.53%"
+  },
+  {
+    "id": "24172",
+    "localitate": "GALBENU",
+    "nume_sectie": "ȘCOALA GIMNAZIALA ”TOMA TAMPEANU” GALBENU",
+    "totalVoturi": 382,
+    "totalVoturiSENS": 2,
+    "procent": "0.52%"
+  },
+  {
+    "id": "24182",
+    "localitate": "GROPENI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ GROPENI",
+    "totalVoturi": 599,
+    "totalVoturiSENS": 3,
+    "procent": "0.50%"
+  },
+  {
+    "id": "24252",
+    "localitate": "VĂDENI",
+    "nume_sectie": "SCOALA GIMNAZIALA CU CLASELE I-VIII VADENI -SALA A",
+    "totalVoturi": 404,
+    "totalVoturiSENS": 2,
+    "procent": "0.50%"
+  },
+  {
+    "id": "24129",
+    "localitate": "ORAŞ IANCA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ IANCA",
+    "totalVoturi": 405,
+    "totalVoturiSENS": 2,
+    "procent": "0.49%"
+  },
+  {
+    "id": "24177",
+    "localitate": "GEMENELE",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ CU CLASELE I-VIII",
+    "totalVoturi": 626,
+    "totalVoturiSENS": 3,
+    "procent": "0.48%"
+  },
+  {
+    "id": "24148",
+    "localitate": "BERTEŞTII DE JOS",
+    "nume_sectie": "CĂMINUL CULTURAL SPIRU HARET",
+    "totalVoturi": 424,
+    "totalVoturiSENS": 2,
+    "procent": "0.47%"
+  },
+  {
+    "id": "24216",
+    "localitate": "SCORŢARU NOU",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM NORMAL SIHLEANU",
+    "totalVoturi": 215,
+    "totalVoturiSENS": 1,
+    "procent": "0.47%"
+  },
+  {
+    "id": "24152",
+    "localitate": "BORDEI VERDE",
+    "nume_sectie": "CĂMIN CULTURAL CONSTANTIN GABRIELESCU",
+    "totalVoturi": 220,
+    "totalVoturiSENS": 1,
+    "procent": "0.45%"
+  },
+  {
+    "id": "24168",
+    "localitate": "DUDEŞTI",
+    "nume_sectie": "ŞCOALA CU CLASELE I-IV TATARU",
+    "totalVoturi": 224,
+    "totalVoturiSENS": 1,
+    "procent": "0.45%"
+  },
+  {
+    "id": "24203",
+    "localitate": "RÂMNICELU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ RÎMNICELU",
+    "totalVoturi": 440,
+    "totalVoturiSENS": 2,
+    "procent": "0.45%"
+  },
+  {
+    "id": "24211",
+    "localitate": "SALCIA TUDOR",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ CUZA VODĂ",
+    "totalVoturi": 236,
+    "totalVoturiSENS": 1,
+    "procent": "0.42%"
+  },
+  {
+    "id": "24222",
+    "localitate": "STĂNCUŢA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ CUZA - VODĂ",
+    "totalVoturi": 505,
+    "totalVoturiSENS": 2,
+    "procent": "0.40%"
+  },
+  {
+    "id": "24262",
+    "localitate": "VIZIRU",
+    "nume_sectie": "CENTRU EDUCATIONAL VIZIRU",
+    "totalVoturi": 743,
+    "totalVoturiSENS": 3,
+    "procent": "0.40%"
+  },
+  {
+    "id": "24135",
+    "localitate": "ORAŞ IANCA",
+    "nume_sectie": "ȘCOALA PRIMARĂ OPRIȘENEȘTI",
+    "totalVoturi": 266,
+    "totalVoturiSENS": 1,
+    "procent": "0.38%"
+  },
+  {
+    "id": "24173",
+    "localitate": "GALBENU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ SĂTUC",
+    "totalVoturi": 269,
+    "totalVoturiSENS": 1,
+    "procent": "0.37%"
+  },
+  {
+    "id": "24215",
+    "localitate": "SCORŢARU NOU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ SCORȚARU NOU",
+    "totalVoturi": 304,
+    "totalVoturiSENS": 1,
+    "procent": "0.33%"
+  },
+  {
+    "id": "24185",
+    "localitate": "MĂRAŞU",
+    "nume_sectie": "CĂMINUL CULTURAL MĂRAȘU",
+    "totalVoturi": 322,
+    "totalVoturiSENS": 1,
+    "procent": "0.31%"
+  },
+  {
+    "id": "24247",
+    "localitate": "ULMU",
+    "nume_sectie": "CAMINUL CULTURAL ULMU",
+    "totalVoturi": 689,
+    "totalVoturiSENS": 2,
+    "procent": "0.29%"
+  },
+  {
+    "id": "24164",
+    "localitate": "CIREŞU",
+    "nume_sectie": "ȘCOALA CU CLASELE I-VIII SCĂRLĂTEȘTI",
+    "totalVoturi": 357,
+    "totalVoturiSENS": 1,
+    "procent": "0.28%"
+  },
+  {
+    "id": "24201",
+    "localitate": "RACOVIŢA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ RACOVIȚA",
+    "totalVoturi": 367,
+    "totalVoturiSENS": 1,
+    "procent": "0.27%"
+  },
+  {
+    "id": "24132",
+    "localitate": "ORAŞ IANCA",
+    "nume_sectie": "LICEUL TEORETIC ”CONSTANTIN ANGELESCU”",
+    "totalVoturi": 435,
+    "totalVoturiSENS": 1,
+    "procent": "0.23%"
+  },
+  {
+    "id": "24230",
+    "localitate": "ŞUŢEŞTI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ŞUŢEŞTI (ŞCOALA DE ARTE ŞI MESERII)",
+    "totalVoturi": 523,
+    "totalVoturiSENS": 1,
+    "procent": "0.19%"
+  },
+  {
+    "id": "24137",
+    "localitate": "ORAŞ IANCA",
+    "nume_sectie": "ȘCOALA PRIMARĂ TÎRLELE FILIU",
+    "totalVoturi": 171,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "24144",
+    "localitate": "ORAŞ ÎNSURĂŢEI",
+    "nume_sectie": "GRADINITA CU PROGRAM NORMAL",
+    "totalVoturi": 126,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "24147",
+    "localitate": "BERTEŞTII DE JOS",
+    "nume_sectie": "CĂMINUL CULTURAL BERTEȘTII DE JOS",
+    "totalVoturi": 288,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "24150",
+    "localitate": "BERTEŞTII DE JOS",
+    "nume_sectie": "CĂMIN CULTURAL",
+    "totalVoturi": 149,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "24153",
+    "localitate": "BORDEI VERDE",
+    "nume_sectie": "CĂMINUL CULTURAL LIȘCOTEANCA",
+    "totalVoturi": 212,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
   },
   {
     "id": "24161",
@@ -1424,44 +2120,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "24164",
-    "localitate": "CIREŞU",
-    "nume_sectie": "ȘCOALA CU CLASELE I-VIII SCĂRLĂTEȘTI",
-    "totalVoturi": 357,
-    "totalVoturiSENS": 1,
-    "procent": "0.28%"
-  },
-  {
     "id": "24165",
     "localitate": "CIREŞU",
     "nume_sectie": "ȘCOALA CU CLASELE I-VIII VULTURENI",
     "totalVoturi": 265,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "24166",
-    "localitate": "DUDEŞTI",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ DUDEȘTI",
-    "totalVoturi": 613,
-    "totalVoturiSENS": 6,
-    "procent": "0.98%"
-  },
-  {
-    "id": "24167",
-    "localitate": "DUDEŞTI",
-    "nume_sectie": "CĂMINUL CULTURAL TĂTARU",
-    "totalVoturi": 521,
-    "totalVoturiSENS": 6,
-    "procent": "1.15%"
-  },
-  {
-    "id": "24168",
-    "localitate": "DUDEŞTI",
-    "nume_sectie": "ŞCOALA CU CLASELE I-IV TATARU",
-    "totalVoturi": 224,
-    "totalVoturiSENS": 1,
-    "procent": "0.45%"
   },
   {
     "id": "24169",
@@ -1480,140 +2144,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "24171",
-    "localitate": "FRECĂŢEI",
-    "nume_sectie": "ȘCOALA CU CLASELE I-IV TITCOV",
-    "totalVoturi": 190,
-    "totalVoturiSENS": 1,
-    "procent": "0.53%"
-  },
-  {
-    "id": "24172",
-    "localitate": "GALBENU",
-    "nume_sectie": "ȘCOALA GIMNAZIALA ”TOMA TAMPEANU” GALBENU",
-    "totalVoturi": 382,
-    "totalVoturiSENS": 2,
-    "procent": "0.52%"
-  },
-  {
-    "id": "24173",
-    "localitate": "GALBENU",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ SĂTUC",
-    "totalVoturi": 269,
-    "totalVoturiSENS": 1,
-    "procent": "0.37%"
-  },
-  {
-    "id": "24174",
-    "localitate": "GALBENU",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ZAMFIREȘTI",
-    "totalVoturi": 189,
-    "totalVoturiSENS": 1,
-    "procent": "0.53%"
-  },
-  {
-    "id": "24175",
-    "localitate": "GALBENU",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ DROGU",
-    "totalVoturi": 340,
-    "totalVoturiSENS": 3,
-    "procent": "0.88%"
-  },
-  {
-    "id": "24176",
-    "localitate": "GALBENU",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ PÂNTECANI",
-    "totalVoturi": 76,
-    "totalVoturiSENS": 1,
-    "procent": "1.32%"
-  },
-  {
-    "id": "24177",
-    "localitate": "GEMENELE",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ CU CLASELE I-VIII",
-    "totalVoturi": 626,
-    "totalVoturiSENS": 3,
-    "procent": "0.48%"
-  },
-  {
-    "id": "24178",
-    "localitate": "GRĂDIŞTEA",
-    "nume_sectie": "CAMIN CULTURAL GRADISTEA",
-    "totalVoturi": 537,
-    "totalVoturiSENS": 3,
-    "procent": "0.56%"
-  },
-  {
-    "id": "24179",
-    "localitate": "GRĂDIŞTEA",
-    "nume_sectie": "CĂMIN CULTURAL SAT IBRIANU",
-    "totalVoturi": 270,
-    "totalVoturiSENS": 2,
-    "procent": "0.74%"
-  },
-  {
-    "id": "24180",
-    "localitate": "GRĂDIŞTEA",
-    "nume_sectie": "CĂMIN CULTURAL SAT MARALOIU",
-    "totalVoturi": 137,
-    "totalVoturiSENS": 3,
-    "procent": "2.19%"
-  },
-  {
-    "id": "24181",
-    "localitate": "GROPENI",
-    "nume_sectie": "CĂMIN CULTURAL",
-    "totalVoturi": 646,
-    "totalVoturiSENS": 7,
-    "procent": "1.08%"
-  },
-  {
-    "id": "24182",
-    "localitate": "GROPENI",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ GROPENI",
-    "totalVoturi": 599,
-    "totalVoturiSENS": 3,
-    "procent": "0.50%"
-  },
-  {
-    "id": "24183",
-    "localitate": "JIRLĂU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.2",
-    "totalVoturi": 538,
-    "totalVoturiSENS": 5,
-    "procent": "0.93%"
-  },
-  {
-    "id": "24184",
-    "localitate": "JIRLĂU",
-    "nume_sectie": "SCOALA GIMNAZIALĂ NR.1",
-    "totalVoturi": 469,
-    "totalVoturiSENS": 5,
-    "procent": "1.07%"
-  },
-  {
-    "id": "24185",
-    "localitate": "MĂRAŞU",
-    "nume_sectie": "CĂMINUL CULTURAL MĂRAȘU",
-    "totalVoturi": 322,
-    "totalVoturiSENS": 1,
-    "procent": "0.31%"
-  },
-  {
     "id": "24186",
     "localitate": "MĂRAŞU",
     "nume_sectie": "ȘCOALA PRIMARA BĂNDOIU",
     "totalVoturi": 163,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "24187",
-    "localitate": "MĂRAŞU",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ȚĂCĂU",
-    "totalVoturi": 206,
-    "totalVoturiSENS": 3,
-    "procent": "1.46%"
   },
   {
     "id": "24188",
@@ -1632,140 +2168,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "24190",
-    "localitate": "MĂXINENI",
-    "nume_sectie": "ȘCOALA GENERALĂ CU CLASELE I-VIII MĂXINENI",
-    "totalVoturi": 495,
-    "totalVoturiSENS": 16,
-    "procent": "3.23%"
-  },
-  {
-    "id": "24191",
-    "localitate": "MĂXINENI",
-    "nume_sectie": "CĂMINUL CULTURAL CORBU NOU",
-    "totalVoturi": 300,
-    "totalVoturiSENS": 6,
-    "procent": "2.00%"
-  },
-  {
-    "id": "24192",
-    "localitate": "MĂXINENI",
-    "nume_sectie": "CĂMINUL CULTURAL CORBU VECHI",
-    "totalVoturi": 94,
-    "totalVoturiSENS": 1,
-    "procent": "1.06%"
-  },
-  {
-    "id": "24193",
-    "localitate": "MĂXINENI",
-    "nume_sectie": "CAMIN CULTURAL LATINU",
-    "totalVoturi": 229,
-    "totalVoturiSENS": 3,
-    "procent": "1.31%"
-  },
-  {
-    "id": "24194",
-    "localitate": "MIRCEA VODĂ",
-    "nume_sectie": "SCOALA GIMNAZIALA MIRCEA VODA, JUDEȚUL BRAILA",
-    "totalVoturi": 436,
-    "totalVoturiSENS": 5,
-    "procent": "1.15%"
-  },
-  {
-    "id": "24195",
-    "localitate": "MIRCEA VODĂ",
-    "nume_sectie": "SCOALA GIMNAZIALA MIRCEA VODA, JUDETUL BRAILA",
-    "totalVoturi": 412,
-    "totalVoturiSENS": 8,
-    "procent": "1.94%"
-  },
-  {
-    "id": "24196",
-    "localitate": "MIRCEA VODĂ",
-    "nume_sectie": "SCOALA GIMNAZIALA SAT DEDULESTI",
-    "totalVoturi": 255,
-    "totalVoturiSENS": 2,
-    "procent": "0.78%"
-  },
-  {
-    "id": "24197",
-    "localitate": "MOVILA MIRESII",
-    "nume_sectie": "SCOALA VECHE",
-    "totalVoturi": 490,
-    "totalVoturiSENS": 4,
-    "procent": "0.82%"
-  },
-  {
-    "id": "24198",
-    "localitate": "MOVILA MIRESII",
-    "nume_sectie": "CAMIN CULTURAL M.MIRESII",
-    "totalVoturi": 527,
-    "totalVoturiSENS": 5,
-    "procent": "0.95%"
-  },
-  {
-    "id": "24199",
-    "localitate": "MOVILA MIRESII",
-    "nume_sectie": "SCOALA TEPES VODA",
-    "totalVoturi": 311,
-    "totalVoturiSENS": 5,
-    "procent": "1.61%"
-  },
-  {
-    "id": "24200",
-    "localitate": "MOVILA MIRESII",
-    "nume_sectie": "SCOALA ESNA",
-    "totalVoturi": 119,
-    "totalVoturiSENS": 1,
-    "procent": "0.84%"
-  },
-  {
-    "id": "24201",
-    "localitate": "RACOVIŢA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ RACOVIȚA",
-    "totalVoturi": 367,
-    "totalVoturiSENS": 1,
-    "procent": "0.27%"
-  },
-  {
     "id": "24202",
     "localitate": "RACOVIŢA",
     "nume_sectie": "SALĂ FESTIVITĂȚI CORBENI ( FOST CAMIN CULTURAL SAT CORBENI)",
     "totalVoturi": 81,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "24203",
-    "localitate": "RÂMNICELU",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ RÎMNICELU",
-    "totalVoturi": 440,
-    "totalVoturiSENS": 2,
-    "procent": "0.45%"
-  },
-  {
-    "id": "24204",
-    "localitate": "RÂMNICELU",
-    "nume_sectie": "ȘCOALA PRIMARĂ CONSTANTINEȘTI",
-    "totalVoturi": 122,
-    "totalVoturiSENS": 2,
-    "procent": "1.64%"
-  },
-  {
-    "id": "24205",
-    "localitate": "RÂMNICELU",
-    "nume_sectie": "ȘCOALA PRIMARĂ MIHAIL KOGĂLNICEANU",
-    "totalVoturi": 107,
-    "totalVoturiSENS": 2,
-    "procent": "1.87%"
-  },
-  {
-    "id": "24206",
-    "localitate": "ROMANU",
-    "nume_sectie": "ȘCOALA GIMNAZIALA ROMANU",
-    "totalVoturi": 569,
-    "totalVoturiSENS": 17,
-    "procent": "2.99%"
   },
   {
     "id": "24207",
@@ -1776,84 +2184,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "24208",
-    "localitate": "ROŞIORI",
-    "nume_sectie": "CASA DE CULTURĂ ROȘIORI",
-    "totalVoturi": 465,
-    "totalVoturiSENS": 6,
-    "procent": "1.29%"
-  },
-  {
     "id": "24209",
     "localitate": "ROŞIORI",
     "nume_sectie": "ȘCOALA CU CLASELE I-VIII COLȚEA",
     "totalVoturi": 320,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "24210",
-    "localitate": "SALCIA TUDOR",
-    "nume_sectie": "CĂMINUL CULTURAL SALCIA TUDOR",
-    "totalVoturi": 272,
-    "totalVoturiSENS": 8,
-    "procent": "2.94%"
-  },
-  {
-    "id": "24211",
-    "localitate": "SALCIA TUDOR",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ CUZA VODĂ",
-    "totalVoturi": 236,
-    "totalVoturiSENS": 1,
-    "procent": "0.42%"
-  },
-  {
-    "id": "24212",
-    "localitate": "SALCIA TUDOR",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL GULIANCA",
-    "totalVoturi": 119,
-    "totalVoturiSENS": 1,
-    "procent": "0.84%"
-  },
-  {
-    "id": "24213",
-    "localitate": "SALCIA TUDOR",
-    "nume_sectie": "CĂMINUL CULTURAL OLĂNEASCA",
-    "totalVoturi": 147,
-    "totalVoturiSENS": 4,
-    "procent": "2.72%"
-  },
-  {
-    "id": "24214",
-    "localitate": "SALCIA TUDOR",
-    "nume_sectie": "CĂMINUL CULTURAL ARICIU",
-    "totalVoturi": 60,
-    "totalVoturiSENS": 1,
-    "procent": "1.67%"
-  },
-  {
-    "id": "24215",
-    "localitate": "SCORŢARU NOU",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ SCORȚARU NOU",
-    "totalVoturi": 304,
-    "totalVoturiSENS": 1,
-    "procent": "0.33%"
-  },
-  {
-    "id": "24216",
-    "localitate": "SCORŢARU NOU",
-    "nume_sectie": "GRĂDINIȚA CU PROGRAM NORMAL SIHLEANU",
-    "totalVoturi": 215,
-    "totalVoturiSENS": 1,
-    "procent": "0.47%"
-  },
-  {
-    "id": "24217",
-    "localitate": "SILIŞTEA",
-    "nume_sectie": "CĂMINUL CULTURAL SILIȘTEA",
-    "totalVoturi": 265,
-    "totalVoturiSENS": 4,
-    "procent": "1.51%"
   },
   {
     "id": "24218",
@@ -1864,76 +2200,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "24219",
-    "localitate": "SILIŞTEA",
-    "nume_sectie": "SALĂ FESTIVITĂȚI",
-    "totalVoturi": 82,
-    "totalVoturiSENS": 1,
-    "procent": "1.22%"
-  },
-  {
     "id": "24220",
     "localitate": "SILIŞTEA",
     "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL COTU-LUNG",
     "totalVoturi": 151,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "24221",
-    "localitate": "STĂNCUŢA",
-    "nume_sectie": "ȘCOALA GIMNAZIALA STĂNCUȚA",
-    "totalVoturi": 540,
-    "totalVoturiSENS": 4,
-    "procent": "0.74%"
-  },
-  {
-    "id": "24222",
-    "localitate": "STĂNCUŢA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ CUZA - VODĂ",
-    "totalVoturi": 505,
-    "totalVoturiSENS": 2,
-    "procent": "0.40%"
-  },
-  {
-    "id": "24223",
-    "localitate": "STĂNCUŢA",
-    "nume_sectie": "ȘCOALA STANCA",
-    "totalVoturi": 176,
-    "totalVoturiSENS": 1,
-    "procent": "0.57%"
-  },
-  {
-    "id": "24224",
-    "localitate": "SURDILA-GĂISEANCA",
-    "nume_sectie": "CĂMINUL CULTURAL SURDILA GĂISEANCA",
-    "totalVoturi": 788,
-    "totalVoturiSENS": 5,
-    "procent": "0.63%"
-  },
-  {
-    "id": "24225",
-    "localitate": "SURDILA-GĂISEANCA",
-    "nume_sectie": "FOSTA ȘCOALA GIMNAZIALA FILIPESTI",
-    "totalVoturi": 336,
-    "totalVoturiSENS": 4,
-    "procent": "1.19%"
-  },
-  {
-    "id": "24226",
-    "localitate": "SURDILA-GRECI",
-    "nume_sectie": "ȘCOALA CU CLASELE I-VIII SURDILA GRECI",
-    "totalVoturi": 313,
-    "totalVoturiSENS": 9,
-    "procent": "2.88%"
-  },
-  {
-    "id": "24227",
-    "localitate": "SURDILA-GRECI",
-    "nume_sectie": "ȘCOALA CU CLASELE I-IV FĂUREI - SAT",
-    "totalVoturi": 171,
-    "totalVoturiSENS": 1,
-    "procent": "0.58%"
   },
   {
     "id": "24228",
@@ -1952,76 +2224,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "24230",
-    "localitate": "ŞUŢEŞTI",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ŞUŢEŞTI (ŞCOALA DE ARTE ŞI MESERII)",
-    "totalVoturi": 523,
-    "totalVoturiSENS": 1,
-    "procent": "0.19%"
-  },
-  {
-    "id": "24231",
-    "localitate": "ŞUŢEŞTI",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ŞUŢEŞTI (ŞCOALA DE ARTE ŞI MESERII)",
-    "totalVoturi": 382,
-    "totalVoturiSENS": 10,
-    "procent": "2.62%"
-  },
-  {
     "id": "24232",
     "localitate": "ŞUŢEŞTI",
     "nume_sectie": "GRĂDINIȚA 25 LOCURI",
     "totalVoturi": 171,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "24233",
-    "localitate": "TICHILEŞTI",
-    "nume_sectie": "SCOALA GIMNAZIALA TICHILESTI",
-    "totalVoturi": 565,
-    "totalVoturiSENS": 5,
-    "procent": "0.88%"
-  },
-  {
-    "id": "24234",
-    "localitate": "TICHILEŞTI",
-    "nume_sectie": "SCOALA GIMNAZIALA TICHILESTI",
-    "totalVoturi": 538,
-    "totalVoturiSENS": 11,
-    "procent": "2.04%"
-  },
-  {
-    "id": "24235",
-    "localitate": "TICHILEŞTI",
-    "nume_sectie": "SCOALA PRIMARA ALBINA",
-    "totalVoturi": 172,
-    "totalVoturiSENS": 1,
-    "procent": "0.58%"
-  },
-  {
-    "id": "24236",
-    "localitate": "TRAIAN",
-    "nume_sectie": "ȘCOALA CU CLASELE I-VIII TRAIAN",
-    "totalVoturi": 435,
-    "totalVoturiSENS": 9,
-    "procent": "2.07%"
-  },
-  {
-    "id": "24237",
-    "localitate": "TRAIAN",
-    "nume_sectie": "GRĂDINIȚA SILISTRARU",
-    "totalVoturi": 266,
-    "totalVoturiSENS": 2,
-    "procent": "0.75%"
-  },
-  {
-    "id": "24238",
-    "localitate": "TRAIAN",
-    "nume_sectie": "GRĂDINIȚA URLEASCA",
-    "totalVoturi": 511,
-    "totalVoturiSENS": 10,
-    "procent": "1.96%"
   },
   {
     "id": "24239",
@@ -2032,132 +2240,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "24240",
-    "localitate": "TUDOR VLADIMIRESCU",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ TUDOR VLADIMIRESCU",
-    "totalVoturi": 354,
-    "totalVoturiSENS": 3,
-    "procent": "0.85%"
-  },
-  {
-    "id": "24241",
-    "localitate": "TUDOR VLADIMIRESCU",
-    "nume_sectie": "CĂMINUL CULTURAL SCORȚARU VECHI",
-    "totalVoturi": 332,
-    "totalVoturiSENS": 2,
-    "procent": "0.60%"
-  },
-  {
-    "id": "24242",
-    "localitate": "TUDOR VLADIMIRESCU",
-    "nume_sectie": "CĂMINUL CULTURAL COMĂNEASCA",
-    "totalVoturi": 89,
-    "totalVoturiSENS": 4,
-    "procent": "4.49%"
-  },
-  {
-    "id": "24243",
-    "localitate": "TUFEŞTI",
-    "nume_sectie": "SCOALA PETRE CARP TUFESTI",
-    "totalVoturi": 377,
-    "totalVoturiSENS": 6,
-    "procent": "1.59%"
-  },
-  {
-    "id": "24244",
-    "localitate": "TUFEŞTI",
-    "nume_sectie": "CĂMINUI CULTURAL NR. 2",
-    "totalVoturi": 371,
-    "totalVoturiSENS": 3,
-    "procent": "0.81%"
-  },
-  {
-    "id": "24245",
-    "localitate": "TUFEŞTI",
-    "nume_sectie": "CAMIN CULTURAL DIN FOSTUL SAT TIBANESTI",
-    "totalVoturi": 422,
-    "totalVoturiSENS": 5,
-    "procent": "1.18%"
-  },
-  {
-    "id": "24246",
-    "localitate": "TUFEŞTI",
-    "nume_sectie": "SCOALA PETRE CARP DIN FOSTUL SAT TIBANESTI",
-    "totalVoturi": 555,
-    "totalVoturiSENS": 12,
-    "procent": "2.16%"
-  },
-  {
-    "id": "24247",
-    "localitate": "ULMU",
-    "nume_sectie": "CAMINUL CULTURAL ULMU",
-    "totalVoturi": 689,
-    "totalVoturiSENS": 2,
-    "procent": "0.29%"
-  },
-  {
-    "id": "24248",
-    "localitate": "ULMU",
-    "nume_sectie": "CAMINUL CULTURAL MOHREANU",
-    "totalVoturi": 463,
-    "totalVoturiSENS": 4,
-    "procent": "0.86%"
-  },
-  {
     "id": "24249",
     "localitate": "ULMU",
     "nume_sectie": "CAMINUL CULTURAL JUGUREANU",
     "totalVoturi": 407,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "24250",
-    "localitate": "UNIREA",
-    "nume_sectie": "CĂMIN CULTURAL",
-    "totalVoturi": 433,
-    "totalVoturiSENS": 6,
-    "procent": "1.39%"
-  },
-  {
-    "id": "24251",
-    "localitate": "UNIREA",
-    "nume_sectie": "CĂMIN CULTURAL",
-    "totalVoturi": 466,
-    "totalVoturiSENS": 5,
-    "procent": "1.07%"
-  },
-  {
-    "id": "24252",
-    "localitate": "VĂDENI",
-    "nume_sectie": "SCOALA GIMNAZIALA CU CLASELE I-VIII VADENI -SALA A",
-    "totalVoturi": 404,
-    "totalVoturiSENS": 2,
-    "procent": "0.50%"
-  },
-  {
-    "id": "24253",
-    "localitate": "VĂDENI",
-    "nume_sectie": "SCOALA GIMNAZIALA CU CLASELE I-VIII-VADENI-SALA B",
-    "totalVoturi": 412,
-    "totalVoturiSENS": 10,
-    "procent": "2.43%"
-  },
-  {
-    "id": "24254",
-    "localitate": "VĂDENI",
-    "nume_sectie": "SCOALA GIMNAZIALA CU CLASELE I-VIII BALDOVINESTI",
-    "totalVoturi": 461,
-    "totalVoturiSENS": 6,
-    "procent": "1.30%"
-  },
-  {
-    "id": "24255",
-    "localitate": "VĂDENI",
-    "nume_sectie": "SCOALA CU CLASELE I-IV PIETROIU",
-    "totalVoturi": 217,
-    "totalVoturiSENS": 4,
-    "procent": "1.84%"
   },
   {
     "id": "24256",
@@ -2168,100 +2256,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "24257",
-    "localitate": "VICTORIA",
-    "nume_sectie": "SCOALA GIMNAZIALA VICTORIA",
-    "totalVoturi": 312,
-    "totalVoturiSENS": 3,
-    "procent": "0.96%"
-  },
-  {
-    "id": "24258",
-    "localitate": "VICTORIA",
-    "nume_sectie": "SCOALA GIMNAZIALA VICTORIA STRUCTURA SCOLARA GIMNAZIALA MIHAI BRAVU",
-    "totalVoturi": 391,
-    "totalVoturiSENS": 4,
-    "procent": "1.02%"
-  },
-  {
-    "id": "24259",
-    "localitate": "VIŞANI",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ VIȘANI",
-    "totalVoturi": 597,
-    "totalVoturiSENS": 5,
-    "procent": "0.84%"
-  },
-  {
     "id": "24260",
     "localitate": "VIŞANI",
     "nume_sectie": "ȘCOALA PRIMARĂ CÂINENI-BĂI",
     "totalVoturi": 165,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "24261",
-    "localitate": "VIZIRU",
-    "nume_sectie": "SCOALA CU CLASELE I-VIII VIZIRU",
-    "totalVoturi": 689,
-    "totalVoturiSENS": 4,
-    "procent": "0.58%"
-  },
-  {
-    "id": "24262",
-    "localitate": "VIZIRU",
-    "nume_sectie": "CENTRU EDUCATIONAL VIZIRU",
-    "totalVoturi": 743,
-    "totalVoturiSENS": 3,
-    "procent": "0.40%"
-  },
-  {
-    "id": "24263",
-    "localitate": "VIZIRU",
-    "nume_sectie": "ȘCOALA LANURILE",
-    "totalVoturi": 367,
-    "totalVoturiSENS": 5,
-    "procent": "1.36%"
-  },
-  {
-    "id": "24264",
-    "localitate": "VIZIRU",
-    "nume_sectie": "ȘCOALA LANURILE",
-    "totalVoturi": 337,
-    "totalVoturiSENS": 4,
-    "procent": "1.19%"
-  },
-  {
-    "id": "24265",
-    "localitate": "ZĂVOAIA",
-    "nume_sectie": "CAMIN CULTURAL ZAVOAIA",
-    "totalVoturi": 416,
-    "totalVoturiSENS": 3,
-    "procent": "0.72%"
-  },
-  {
-    "id": "24266",
-    "localitate": "ZĂVOAIA",
-    "nume_sectie": "CĂMINUL CULTURAL ZĂVOAIA",
-    "totalVoturi": 454,
-    "totalVoturiSENS": 4,
-    "procent": "0.88%"
-  },
-  {
-    "id": "24267",
-    "localitate": "ZĂVOAIA",
-    "nume_sectie": "CĂMINUL CULTURAL DUDESCU",
-    "totalVoturi": 333,
-    "totalVoturiSENS": 3,
-    "procent": "0.90%"
-  },
-  {
-    "id": "39864",
-    "localitate": "CHISCANI",
-    "nume_sectie": "CENTRU DE INFORMARE",
-    "totalVoturi": 460,
-    "totalVoturiSENS": 20,
-    "procent": "4.35%"
   },
   {
     "id": "39865",

@@ -1,1475 +1,11 @@
 [
   {
-    "id": "38273",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "COLEGIUL NAȚIONAL ”MIHAI EMINESCU”",
-    "totalVoturi": 760,
-    "totalVoturiSENS": 26,
-    "procent": "3.42%"
-  },
-  {
-    "id": "38274",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "COLEGIUL NAȚIONAL ”MIHAI EMINESCU”",
-    "totalVoturi": 623,
-    "totalVoturiSENS": 33,
-    "procent": "5.30%"
-  },
-  {
-    "id": "38275",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "COLEGIUL NAȚIONAL ”MIHAI EMINESCU”",
-    "totalVoturi": 605,
-    "totalVoturiSENS": 34,
-    "procent": "5.62%"
-  },
-  {
-    "id": "38276",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "COLEGIUL NAȚIONAL ”MIHAI EMINESCU”",
-    "totalVoturi": 530,
-    "totalVoturiSENS": 34,
-    "procent": "6.42%"
-  },
-  {
-    "id": "38277",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "COLEGIUL NAȚIONAL ”MIHAI EMINESCU”",
-    "totalVoturi": 623,
-    "totalVoturiSENS": 45,
-    "procent": "7.22%"
-  },
-  {
-    "id": "38278",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IENĂCHIŢĂ VĂCĂRESCU”",
-    "totalVoturi": 501,
-    "totalVoturiSENS": 26,
-    "procent": "5.19%"
-  },
-  {
-    "id": "38279",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IENĂCHIŢĂ VĂCĂRESCU”",
-    "totalVoturi": 612,
-    "totalVoturiSENS": 35,
-    "procent": "5.72%"
-  },
-  {
-    "id": "38280",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IENĂCHIŢĂ VĂCĂRESCU”",
-    "totalVoturi": 522,
-    "totalVoturiSENS": 23,
-    "procent": "4.41%"
-  },
-  {
-    "id": "38281",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IENĂCHIŢĂ VĂCĂRESCU”",
-    "totalVoturi": 846,
-    "totalVoturiSENS": 40,
-    "procent": "4.73%"
-  },
-  {
-    "id": "38282",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 79",
-    "totalVoturi": 476,
-    "totalVoturiSENS": 30,
-    "procent": "6.30%"
-  },
-  {
-    "id": "38283",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 79",
-    "totalVoturi": 496,
-    "totalVoturiSENS": 22,
-    "procent": "4.44%"
-  },
-  {
-    "id": "38284",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 79",
-    "totalVoturi": 650,
-    "totalVoturiSENS": 34,
-    "procent": "5.23%"
-  },
-  {
-    "id": "38285",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "COLEGIUL NAŢIONAL ION CREANGĂ",
-    "totalVoturi": 753,
-    "totalVoturiSENS": 37,
-    "procent": "4.91%"
-  },
-  {
-    "id": "38286",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "COLEGIUL NAŢIONAL ION CREANGĂ",
-    "totalVoturi": 465,
-    "totalVoturiSENS": 24,
-    "procent": "5.16%"
-  },
-  {
-    "id": "38287",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "COLEGIUL TEHNIC GRIGORE CERCHEZ",
-    "totalVoturi": 477,
-    "totalVoturiSENS": 26,
-    "procent": "5.45%"
-  },
-  {
-    "id": "38288",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "COLEGIUL TEHNIC GRIGORE CERCHEZ",
-    "totalVoturi": 705,
-    "totalVoturiSENS": 37,
-    "procent": "5.25%"
-  },
-  {
-    "id": "38289",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
-    "totalVoturi": 616,
-    "totalVoturiSENS": 28,
-    "procent": "4.55%"
-  },
-  {
-    "id": "38290",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
-    "totalVoturi": 651,
-    "totalVoturiSENS": 22,
-    "procent": "3.38%"
-  },
-  {
-    "id": "38291",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
-    "totalVoturi": 661,
-    "totalVoturiSENS": 26,
-    "procent": "3.93%"
-  },
-  {
-    "id": "38292",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
-    "totalVoturi": 552,
-    "totalVoturiSENS": 18,
-    "procent": "3.26%"
-  },
-  {
-    "id": "38293",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
-    "totalVoturi": 770,
-    "totalVoturiSENS": 41,
-    "procent": "5.32%"
-  },
-  {
-    "id": "38294",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
-    "totalVoturi": 655,
-    "totalVoturiSENS": 32,
-    "procent": "4.89%"
-  },
-  {
-    "id": "38295",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
-    "totalVoturi": 702,
-    "totalVoturiSENS": 22,
-    "procent": "3.13%"
-  },
-  {
-    "id": "38296",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
-    "totalVoturi": 748,
-    "totalVoturiSENS": 40,
-    "procent": "5.35%"
-  },
-  {
-    "id": "38297",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
-    "totalVoturi": 678,
-    "totalVoturiSENS": 29,
-    "procent": "4.28%"
-  },
-  {
-    "id": "38298",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
-    "totalVoturi": 583,
-    "totalVoturiSENS": 33,
-    "procent": "5.66%"
-  },
-  {
-    "id": "38299",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 97",
-    "totalVoturi": 631,
-    "totalVoturiSENS": 20,
-    "procent": "3.17%"
-  },
-  {
-    "id": "38300",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 97",
-    "totalVoturi": 796,
-    "totalVoturiSENS": 33,
-    "procent": "4.15%"
-  },
-  {
-    "id": "38301",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 97",
-    "totalVoturi": 561,
-    "totalVoturiSENS": 11,
-    "procent": "1.96%"
-  },
-  {
-    "id": "38302",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 97",
-    "totalVoturi": 525,
-    "totalVoturiSENS": 21,
-    "procent": "4.00%"
-  },
-  {
-    "id": "38303",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 885,
-    "totalVoturiSENS": 51,
-    "procent": "5.76%"
-  },
-  {
-    "id": "38304",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 680,
-    "totalVoturiSENS": 38,
-    "procent": "5.59%"
-  },
-  {
-    "id": "38305",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 590,
-    "totalVoturiSENS": 24,
-    "procent": "4.07%"
-  },
-  {
-    "id": "38306",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 998,
-    "totalVoturiSENS": 50,
-    "procent": "5.01%"
-  },
-  {
-    "id": "38307",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 880,
-    "totalVoturiSENS": 26,
-    "procent": "2.95%"
-  },
-  {
-    "id": "38308",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 834,
-    "totalVoturiSENS": 48,
-    "procent": "5.76%"
-  },
-  {
-    "id": "38309",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 658,
-    "totalVoturiSENS": 27,
-    "procent": "4.10%"
-  },
-  {
-    "id": "38310",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 689,
-    "totalVoturiSENS": 47,
-    "procent": "6.82%"
-  },
-  {
-    "id": "38311",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 646,
-    "totalVoturiSENS": 26,
-    "procent": "4.02%"
-  },
-  {
-    "id": "38312",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 614,
-    "totalVoturiSENS": 33,
-    "procent": "5.37%"
-  },
-  {
-    "id": "38313",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 512,
-    "totalVoturiSENS": 34,
-    "procent": "6.64%"
-  },
-  {
-    "id": "38314",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 654,
-    "totalVoturiSENS": 39,
-    "procent": "5.96%"
-  },
-  {
-    "id": "38315",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 886,
-    "totalVoturiSENS": 43,
-    "procent": "4.85%"
-  },
-  {
-    "id": "38316",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 986,
-    "totalVoturiSENS": 56,
-    "procent": "5.68%"
-  },
-  {
-    "id": "38317",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 536,
-    "totalVoturiSENS": 29,
-    "procent": "5.41%"
-  },
-  {
-    "id": "38318",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 190",
-    "totalVoturi": 497,
-    "totalVoturiSENS": 16,
-    "procent": "3.22%"
-  },
-  {
-    "id": "38319",
+    "id": "39964",
     "localitate": "BUCUREŞTI SECTORUL 4",
     "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
-    "totalVoturi": 934,
-    "totalVoturiSENS": 70,
-    "procent": "7.49%"
-  },
-  {
-    "id": "38320",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
-    "totalVoturi": 827,
-    "totalVoturiSENS": 43,
-    "procent": "5.20%"
-  },
-  {
-    "id": "38321",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
-    "totalVoturi": 786,
-    "totalVoturiSENS": 56,
-    "procent": "7.12%"
-  },
-  {
-    "id": "38322",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
-    "totalVoturi": 880,
-    "totalVoturiSENS": 54,
-    "procent": "6.14%"
-  },
-  {
-    "id": "38323",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
-    "totalVoturi": 1003,
-    "totalVoturiSENS": 82,
-    "procent": "8.18%"
-  },
-  {
-    "id": "38324",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
-    "totalVoturi": 793,
-    "totalVoturiSENS": 56,
-    "procent": "7.06%"
-  },
-  {
-    "id": "38325",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
-    "totalVoturi": 619,
-    "totalVoturiSENS": 33,
-    "procent": "5.33%"
-  },
-  {
-    "id": "38326",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
-    "totalVoturi": 627,
-    "totalVoturiSENS": 32,
-    "procent": "5.10%"
-  },
-  {
-    "id": "38327",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "GRĂDINIȚA PANSELUȚA",
-    "totalVoturi": 680,
-    "totalVoturiSENS": 32,
-    "procent": "4.71%"
-  },
-  {
-    "id": "38328",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "GRĂDINIȚA PANSELUȚA",
-    "totalVoturi": 754,
-    "totalVoturiSENS": 35,
-    "procent": "4.64%"
-  },
-  {
-    "id": "38329",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "GRĂDINIȚA PANSELUȚA",
-    "totalVoturi": 767,
-    "totalVoturiSENS": 40,
-    "procent": "5.22%"
-  },
-  {
-    "id": "38330",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "GRĂDINIȚA PANSELUȚA",
-    "totalVoturi": 518,
-    "totalVoturiSENS": 21,
-    "procent": "4.05%"
-  },
-  {
-    "id": "38331",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 133",
-    "totalVoturi": 890,
-    "totalVoturiSENS": 43,
-    "procent": "4.83%"
-  },
-  {
-    "id": "38332",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 133",
-    "totalVoturi": 640,
-    "totalVoturiSENS": 39,
-    "procent": "6.09%"
-  },
-  {
-    "id": "38333",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 133",
-    "totalVoturi": 729,
-    "totalVoturiSENS": 18,
-    "procent": "2.47%"
-  },
-  {
-    "id": "38334",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 133",
-    "totalVoturi": 775,
-    "totalVoturiSENS": 34,
-    "procent": "4.39%"
-  },
-  {
-    "id": "38335",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ G-RAL EREMIA GRIGORESCU",
-    "totalVoturi": 896,
-    "totalVoturiSENS": 43,
-    "procent": "4.80%"
-  },
-  {
-    "id": "38336",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ G-RAL EREMIA GRIGORESCU",
-    "totalVoturi": 765,
-    "totalVoturiSENS": 46,
-    "procent": "6.01%"
-  },
-  {
-    "id": "38337",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ G-RAL EREMIA GRIGORESCU",
-    "totalVoturi": 835,
-    "totalVoturiSENS": 49,
-    "procent": "5.87%"
-  },
-  {
-    "id": "38338",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ G-RAL EREMIA GRIGORESCU",
-    "totalVoturi": 941,
-    "totalVoturiSENS": 61,
-    "procent": "6.48%"
-  },
-  {
-    "id": "38339",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ G-RAL EREMIA GRIGORESCU",
     "totalVoturi": 980,
-    "totalVoturiSENS": 55,
-    "procent": "5.61%"
-  },
-  {
-    "id": "38340",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ G-RAL EREMIA GRIGORESCU",
-    "totalVoturi": 827,
-    "totalVoturiSENS": 49,
-    "procent": "5.93%"
-  },
-  {
-    "id": "38341",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ G-RAL EREMIA GRIGORESCU",
-    "totalVoturi": 809,
-    "totalVoturiSENS": 38,
-    "procent": "4.70%"
-  },
-  {
-    "id": "38342",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
-    "totalVoturi": 721,
-    "totalVoturiSENS": 42,
-    "procent": "5.83%"
-  },
-  {
-    "id": "38343",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
-    "totalVoturi": 813,
-    "totalVoturiSENS": 36,
-    "procent": "4.43%"
-  },
-  {
-    "id": "38344",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
-    "totalVoturi": 733,
-    "totalVoturiSENS": 35,
-    "procent": "4.77%"
-  },
-  {
-    "id": "38345",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
-    "totalVoturi": 734,
-    "totalVoturiSENS": 35,
-    "procent": "4.77%"
-  },
-  {
-    "id": "38346",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
-    "totalVoturi": 898,
-    "totalVoturiSENS": 52,
-    "procent": "5.79%"
-  },
-  {
-    "id": "38347",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
-    "totalVoturi": 846,
-    "totalVoturiSENS": 23,
-    "procent": "2.72%"
-  },
-  {
-    "id": "38348",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
-    "totalVoturi": 833,
-    "totalVoturiSENS": 50,
-    "procent": "6.00%"
-  },
-  {
-    "id": "38349",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
-    "totalVoturi": 960,
-    "totalVoturiSENS": 53,
-    "procent": "5.52%"
-  },
-  {
-    "id": "38350",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
-    "totalVoturi": 1005,
-    "totalVoturiSENS": 55,
-    "procent": "5.47%"
-  },
-  {
-    "id": "38351",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
-    "totalVoturi": 996,
-    "totalVoturiSENS": 46,
-    "procent": "4.62%"
-  },
-  {
-    "id": "38352",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MĂRŢIŞOR”",
-    "totalVoturi": 769,
-    "totalVoturiSENS": 55,
-    "procent": "7.15%"
-  },
-  {
-    "id": "38353",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MĂRŢIŞOR”",
-    "totalVoturi": 1027,
-    "totalVoturiSENS": 63,
-    "procent": "6.13%"
-  },
-  {
-    "id": "38354",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MĂRŢIŞOR”",
-    "totalVoturi": 1173,
-    "totalVoturiSENS": 75,
-    "procent": "6.39%"
-  },
-  {
-    "id": "38355",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MĂRŢIŞOR”",
-    "totalVoturi": 635,
-    "totalVoturiSENS": 32,
-    "procent": "5.04%"
-  },
-  {
-    "id": "38356",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MĂRŢIŞOR”",
-    "totalVoturi": 760,
-    "totalVoturiSENS": 34,
-    "procent": "4.47%"
-  },
-  {
-    "id": "38357",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 96",
-    "totalVoturi": 494,
-    "totalVoturiSENS": 23,
-    "procent": "4.66%"
-  },
-  {
-    "id": "38358",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 96",
-    "totalVoturi": 590,
-    "totalVoturiSENS": 38,
-    "procent": "6.44%"
-  },
-  {
-    "id": "38359",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 96",
-    "totalVoturi": 500,
-    "totalVoturiSENS": 30,
-    "procent": "6.00%"
-  },
-  {
-    "id": "38360",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 96",
-    "totalVoturi": 759,
-    "totalVoturiSENS": 38,
-    "procent": "5.01%"
-  },
-  {
-    "id": "38361",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 96",
-    "totalVoturi": 570,
-    "totalVoturiSENS": 39,
-    "procent": "6.84%"
-  },
-  {
-    "id": "38362",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "COLEGIUL NAŢIONAL OCTAV ONICESCU",
-    "totalVoturi": 831,
-    "totalVoturiSENS": 45,
-    "procent": "5.42%"
-  },
-  {
-    "id": "38363",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "COLEGIUL NAŢIONAL OCTAV ONICESCU",
-    "totalVoturi": 546,
-    "totalVoturiSENS": 35,
-    "procent": "6.41%"
-  },
-  {
-    "id": "38364",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "COLEGIUL NAŢIONAL OCTAV ONICESCU",
-    "totalVoturi": 693,
-    "totalVoturiSENS": 32,
-    "procent": "4.62%"
-  },
-  {
-    "id": "38365",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "COLEGIUL NAŢIONAL OCTAV ONICESCU",
-    "totalVoturi": 716,
-    "totalVoturiSENS": 37,
-    "procent": "5.17%"
-  },
-  {
-    "id": "38366",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 108",
-    "totalVoturi": 676,
-    "totalVoturiSENS": 35,
-    "procent": "5.18%"
-  },
-  {
-    "id": "38367",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 108",
-    "totalVoturi": 676,
-    "totalVoturiSENS": 47,
-    "procent": "6.95%"
-  },
-  {
-    "id": "38368",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 108",
-    "totalVoturi": 667,
-    "totalVoturiSENS": 28,
-    "procent": "4.20%"
-  },
-  {
-    "id": "38369",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 108",
-    "totalVoturi": 685,
-    "totalVoturiSENS": 30,
-    "procent": "4.38%"
-  },
-  {
-    "id": "38370",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 108",
-    "totalVoturi": 610,
-    "totalVoturiSENS": 32,
-    "procent": "5.25%"
-  },
-  {
-    "id": "38371",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ AVRAM IANCU",
-    "totalVoturi": 1009,
-    "totalVoturiSENS": 63,
-    "procent": "6.24%"
-  },
-  {
-    "id": "38372",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ AVRAM IANCU",
-    "totalVoturi": 946,
-    "totalVoturiSENS": 60,
-    "procent": "6.34%"
-  },
-  {
-    "id": "38373",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ AVRAM IANCU",
-    "totalVoturi": 848,
-    "totalVoturiSENS": 68,
-    "procent": "8.02%"
-  },
-  {
-    "id": "38374",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ AVRAM IANCU",
-    "totalVoturi": 901,
-    "totalVoturiSENS": 50,
-    "procent": "5.55%"
-  },
-  {
-    "id": "38375",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ AVRAM IANCU",
-    "totalVoturi": 937,
-    "totalVoturiSENS": 60,
-    "procent": "6.40%"
-  },
-  {
-    "id": "38376",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "GRĂDINIȚA VISTA",
-    "totalVoturi": 646,
-    "totalVoturiSENS": 52,
-    "procent": "8.05%"
-  },
-  {
-    "id": "38377",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "GRĂDINIȚA VISTA",
-    "totalVoturi": 1055,
-    "totalVoturiSENS": 72,
-    "procent": "6.82%"
-  },
-  {
-    "id": "38378",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 189",
-    "totalVoturi": 401,
-    "totalVoturiSENS": 27,
-    "procent": "6.73%"
-  },
-  {
-    "id": "38379",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 189",
-    "totalVoturi": 637,
-    "totalVoturiSENS": 46,
-    "procent": "7.22%"
-  },
-  {
-    "id": "38380",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 189",
-    "totalVoturi": 818,
-    "totalVoturiSENS": 56,
-    "procent": "6.85%"
-  },
-  {
-    "id": "38381",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 189",
-    "totalVoturi": 754,
-    "totalVoturiSENS": 39,
-    "procent": "5.17%"
-  },
-  {
-    "id": "38382",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 189",
-    "totalVoturi": 564,
-    "totalVoturiSENS": 36,
-    "procent": "6.38%"
-  },
-  {
-    "id": "38383",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 189",
-    "totalVoturi": 471,
-    "totalVoturiSENS": 33,
-    "procent": "7.01%"
-  },
-  {
-    "id": "38384",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 189",
-    "totalVoturi": 722,
-    "totalVoturiSENS": 39,
-    "procent": "5.40%"
-  },
-  {
-    "id": "38385",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ EMIL RACOVIŢĂ",
-    "totalVoturi": 721,
-    "totalVoturiSENS": 40,
-    "procent": "5.55%"
-  },
-  {
-    "id": "38386",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ EMIL RACOVIŢĂ",
-    "totalVoturi": 988,
-    "totalVoturiSENS": 72,
-    "procent": "7.29%"
-  },
-  {
-    "id": "38387",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ EMIL RACOVIŢĂ",
-    "totalVoturi": 689,
-    "totalVoturiSENS": 42,
-    "procent": "6.10%"
-  },
-  {
-    "id": "38388",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ EMIL RACOVIŢĂ",
-    "totalVoturi": 727,
-    "totalVoturiSENS": 32,
-    "procent": "4.40%"
-  },
-  {
-    "id": "38389",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 194",
-    "totalVoturi": 506,
-    "totalVoturiSENS": 39,
-    "procent": "7.71%"
-  },
-  {
-    "id": "38390",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 194",
-    "totalVoturi": 425,
-    "totalVoturiSENS": 20,
-    "procent": "4.71%"
-  },
-  {
-    "id": "38391",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 194",
-    "totalVoturi": 599,
-    "totalVoturiSENS": 33,
-    "procent": "5.51%"
-  },
-  {
-    "id": "38392",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 194",
-    "totalVoturi": 723,
-    "totalVoturiSENS": 29,
-    "procent": "4.01%"
-  },
-  {
-    "id": "38393",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 194",
-    "totalVoturi": 524,
-    "totalVoturiSENS": 18,
-    "procent": "3.44%"
-  },
-  {
-    "id": "38394",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 194",
-    "totalVoturi": 601,
-    "totalVoturiSENS": 37,
-    "procent": "6.16%"
-  },
-  {
-    "id": "38395",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 194",
-    "totalVoturi": 456,
-    "totalVoturiSENS": 25,
-    "procent": "5.48%"
-  },
-  {
-    "id": "38396",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 194",
-    "totalVoturi": 569,
-    "totalVoturiSENS": 36,
-    "procent": "6.33%"
-  },
-  {
-    "id": "38397",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
-    "totalVoturi": 731,
-    "totalVoturiSENS": 43,
-    "procent": "5.88%"
-  },
-  {
-    "id": "38398",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
-    "totalVoturi": 693,
-    "totalVoturiSENS": 41,
-    "procent": "5.92%"
-  },
-  {
-    "id": "38399",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
-    "totalVoturi": 947,
-    "totalVoturiSENS": 54,
-    "procent": "5.70%"
-  },
-  {
-    "id": "38400",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
-    "totalVoturi": 922,
-    "totalVoturiSENS": 59,
-    "procent": "6.40%"
-  },
-  {
-    "id": "38401",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
-    "totalVoturi": 830,
-    "totalVoturiSENS": 39,
-    "procent": "4.70%"
-  },
-  {
-    "id": "38402",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
-    "totalVoturi": 918,
-    "totalVoturiSENS": 54,
-    "procent": "5.88%"
-  },
-  {
-    "id": "38403",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
-    "totalVoturi": 870,
-    "totalVoturiSENS": 43,
-    "procent": "4.94%"
-  },
-  {
-    "id": "38404",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "GRĂDINIŢA ”ALBĂ CA ZĂPADA ȘI PITICII”",
-    "totalVoturi": 632,
-    "totalVoturiSENS": 22,
-    "procent": "3.48%"
-  },
-  {
-    "id": "38405",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "GRĂDINIŢA ”ALBĂ CA ZĂPADA ȘI PITICII”",
-    "totalVoturi": 545,
-    "totalVoturiSENS": 29,
-    "procent": "5.32%"
-  },
-  {
-    "id": "38406",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "GRĂDINIŢA ”ALBĂ CA ZĂPADA ȘI PITICII”",
-    "totalVoturi": 558,
-    "totalVoturiSENS": 45,
-    "procent": "8.06%"
-  },
-  {
-    "id": "38407",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "GRĂDINIŢA ”ALBĂ CA ZĂPADA ȘI PITICII”",
-    "totalVoturi": 493,
-    "totalVoturiSENS": 21,
-    "procent": "4.26%"
-  },
-  {
-    "id": "38408",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ŞERBAN VODĂ”",
-    "totalVoturi": 673,
-    "totalVoturiSENS": 37,
-    "procent": "5.50%"
-  },
-  {
-    "id": "38409",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ŞERBAN VODĂ”",
-    "totalVoturi": 940,
-    "totalVoturiSENS": 43,
-    "procent": "4.57%"
-  },
-  {
-    "id": "38410",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ŞERBAN VODĂ”",
-    "totalVoturi": 685,
-    "totalVoturiSENS": 40,
-    "procent": "5.84%"
-  },
-  {
-    "id": "38411",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ŞERBAN VODĂ”",
-    "totalVoturi": 706,
-    "totalVoturiSENS": 40,
-    "procent": "5.67%"
-  },
-  {
-    "id": "38412",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ŞERBAN VODĂ”",
-    "totalVoturi": 738,
-    "totalVoturiSENS": 37,
-    "procent": "5.01%"
-  },
-  {
-    "id": "38413",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 308",
-    "totalVoturi": 619,
-    "totalVoturiSENS": 35,
-    "procent": "5.65%"
-  },
-  {
-    "id": "38414",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 308",
-    "totalVoturi": 683,
-    "totalVoturiSENS": 39,
-    "procent": "5.71%"
-  },
-  {
-    "id": "38415",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 308",
-    "totalVoturi": 632,
-    "totalVoturiSENS": 39,
-    "procent": "6.17%"
-  },
-  {
-    "id": "38416",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 308",
-    "totalVoturi": 601,
-    "totalVoturiSENS": 28,
-    "procent": "4.66%"
-  },
-  {
-    "id": "38417",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 308",
-    "totalVoturi": 624,
-    "totalVoturiSENS": 42,
-    "procent": "6.73%"
-  },
-  {
-    "id": "38418",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 308",
-    "totalVoturi": 651,
-    "totalVoturiSENS": 32,
-    "procent": "4.92%"
-  },
-  {
-    "id": "38419",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
-    "totalVoturi": 709,
-    "totalVoturiSENS": 35,
-    "procent": "4.94%"
-  },
-  {
-    "id": "38420",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
-    "totalVoturi": 770,
-    "totalVoturiSENS": 49,
-    "procent": "6.36%"
-  },
-  {
-    "id": "38421",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
-    "totalVoturi": 700,
-    "totalVoturiSENS": 43,
-    "procent": "6.14%"
-  },
-  {
-    "id": "38422",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
-    "totalVoturi": 719,
-    "totalVoturiSENS": 35,
-    "procent": "4.87%"
-  },
-  {
-    "id": "38423",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
-    "totalVoturi": 694,
-    "totalVoturiSENS": 44,
-    "procent": "6.34%"
-  },
-  {
-    "id": "38424",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
-    "totalVoturi": 760,
-    "totalVoturiSENS": 47,
-    "procent": "6.18%"
-  },
-  {
-    "id": "38425",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
-    "totalVoturi": 946,
-    "totalVoturiSENS": 74,
-    "procent": "7.82%"
-  },
-  {
-    "id": "38426",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
-    "totalVoturi": 887,
-    "totalVoturiSENS": 43,
-    "procent": "4.85%"
-  },
-  {
-    "id": "38427",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
-    "totalVoturi": 642,
-    "totalVoturiSENS": 39,
-    "procent": "6.07%"
-  },
-  {
-    "id": "38428",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 119",
-    "totalVoturi": 652,
-    "totalVoturiSENS": 34,
-    "procent": "5.21%"
-  },
-  {
-    "id": "38429",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 119",
-    "totalVoturi": 563,
-    "totalVoturiSENS": 25,
-    "procent": "4.44%"
-  },
-  {
-    "id": "38430",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 119",
-    "totalVoturi": 896,
-    "totalVoturiSENS": 51,
-    "procent": "5.69%"
-  },
-  {
-    "id": "38431",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 119",
-    "totalVoturi": 861,
-    "totalVoturiSENS": 50,
-    "procent": "5.81%"
-  },
-  {
-    "id": "38432",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 119",
-    "totalVoturi": 918,
-    "totalVoturiSENS": 48,
-    "procent": "5.23%"
-  },
-  {
-    "id": "38433",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 119",
-    "totalVoturi": 756,
-    "totalVoturiSENS": 35,
-    "procent": "4.63%"
-  },
-  {
-    "id": "38434",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "GRĂDINIŢA ”ÎNȘIR”TE MĂRGĂRITE”",
-    "totalVoturi": 569,
-    "totalVoturiSENS": 40,
-    "procent": "7.03%"
-  },
-  {
-    "id": "38435",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "GRĂDINIŢA ”ÎNȘIR”TE MĂRGĂRITE”",
-    "totalVoturi": 584,
-    "totalVoturiSENS": 31,
-    "procent": "5.31%"
-  },
-  {
-    "id": "38436",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ GEORGE TOPÂRCEANU",
-    "totalVoturi": 627,
-    "totalVoturiSENS": 40,
-    "procent": "6.38%"
-  },
-  {
-    "id": "38437",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ GEORGE TOPÂRCEANU",
-    "totalVoturi": 687,
-    "totalVoturiSENS": 42,
-    "procent": "6.11%"
-  },
-  {
-    "id": "38438",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ GEORGE TOPÂRCEANU",
-    "totalVoturi": 592,
-    "totalVoturiSENS": 28,
-    "procent": "4.73%"
-  },
-  {
-    "id": "38439",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ GEORGE TOPÂRCEANU",
-    "totalVoturi": 775,
-    "totalVoturiSENS": 38,
-    "procent": "4.90%"
-  },
-  {
-    "id": "38440",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 129",
-    "totalVoturi": 693,
-    "totalVoturiSENS": 37,
-    "procent": "5.34%"
-  },
-  {
-    "id": "38441",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 129",
-    "totalVoturi": 737,
-    "totalVoturiSENS": 40,
-    "procent": "5.43%"
-  },
-  {
-    "id": "38442",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 129",
-    "totalVoturi": 784,
-    "totalVoturiSENS": 38,
-    "procent": "4.85%"
-  },
-  {
-    "id": "38443",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 129",
-    "totalVoturi": 799,
-    "totalVoturiSENS": 34,
-    "procent": "4.26%"
-  },
-  {
-    "id": "38444",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 129",
-    "totalVoturi": 604,
-    "totalVoturiSENS": 46,
-    "procent": "7.62%"
-  },
-  {
-    "id": "38445",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 129",
-    "totalVoturi": 676,
-    "totalVoturiSENS": 56,
-    "procent": "8.28%"
-  },
-  {
-    "id": "38446",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IONEL TEODOREANU”",
-    "totalVoturi": 644,
-    "totalVoturiSENS": 32,
-    "procent": "4.97%"
-  },
-  {
-    "id": "38447",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IONEL TEODOREANU”",
-    "totalVoturi": 669,
-    "totalVoturiSENS": 30,
-    "procent": "4.48%"
-  },
-  {
-    "id": "38448",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IONEL TEODOREANU”",
-    "totalVoturi": 684,
-    "totalVoturiSENS": 40,
-    "procent": "5.85%"
-  },
-  {
-    "id": "38449",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IONEL TEODOREANU”",
-    "totalVoturi": 594,
-    "totalVoturiSENS": 24,
-    "procent": "4.04%"
-  },
-  {
-    "id": "38450",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IONEL TEODOREANU”",
-    "totalVoturi": 612,
-    "totalVoturiSENS": 29,
-    "procent": "4.74%"
-  },
-  {
-    "id": "38451",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IONEL TEODOREANU”",
-    "totalVoturi": 669,
-    "totalVoturiSENS": 34,
-    "procent": "5.08%"
-  },
-  {
-    "id": "38452",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 99",
-    "totalVoturi": 726,
-    "totalVoturiSENS": 49,
-    "procent": "6.75%"
-  },
-  {
-    "id": "38453",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 99",
-    "totalVoturi": 829,
-    "totalVoturiSENS": 50,
-    "procent": "6.03%"
-  },
-  {
-    "id": "38454",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 99",
-    "totalVoturi": 681,
-    "totalVoturiSENS": 39,
-    "procent": "5.73%"
-  },
-  {
-    "id": "38455",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 99",
-    "totalVoturi": 744,
-    "totalVoturiSENS": 44,
-    "procent": "5.91%"
-  },
-  {
-    "id": "38456",
-    "localitate": "BUCUREŞTI SECTORUL 4",
-    "nume_sectie": "GRAND ARENA - GRĂDINIȚA NR.4",
-    "totalVoturi": 1024,
-    "totalVoturiSENS": 60,
-    "procent": "5.86%"
+    "totalVoturiSENS": 104,
+    "procent": "10.61%"
   },
   {
     "id": "39962",
@@ -1488,12 +24,84 @@
     "procent": "8.89%"
   },
   {
-    "id": "39964",
+    "id": "38445",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 129",
+    "totalVoturi": 676,
+    "totalVoturiSENS": 56,
+    "procent": "8.28%"
+  },
+  {
+    "id": "38323",
     "localitate": "BUCUREŞTI SECTORUL 4",
     "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
-    "totalVoturi": 980,
-    "totalVoturiSENS": 104,
-    "procent": "10.61%"
+    "totalVoturi": 1003,
+    "totalVoturiSENS": 82,
+    "procent": "8.18%"
+  },
+  {
+    "id": "38406",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "GRĂDINIŢA ”ALBĂ CA ZĂPADA ȘI PITICII”",
+    "totalVoturi": 558,
+    "totalVoturiSENS": 45,
+    "procent": "8.06%"
+  },
+  {
+    "id": "38376",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "GRĂDINIȚA VISTA",
+    "totalVoturi": 646,
+    "totalVoturiSENS": 52,
+    "procent": "8.05%"
+  },
+  {
+    "id": "38373",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ AVRAM IANCU",
+    "totalVoturi": 848,
+    "totalVoturiSENS": 68,
+    "procent": "8.02%"
+  },
+  {
+    "id": "38425",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
+    "totalVoturi": 946,
+    "totalVoturiSENS": 74,
+    "procent": "7.82%"
+  },
+  {
+    "id": "38389",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 194",
+    "totalVoturi": 506,
+    "totalVoturiSENS": 39,
+    "procent": "7.71%"
+  },
+  {
+    "id": "38444",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 129",
+    "totalVoturi": 604,
+    "totalVoturiSENS": 46,
+    "procent": "7.62%"
+  },
+  {
+    "id": "38319",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
+    "totalVoturi": 934,
+    "totalVoturiSENS": 70,
+    "procent": "7.49%"
+  },
+  {
+    "id": "38386",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ EMIL RACOVIŢĂ",
+    "totalVoturi": 988,
+    "totalVoturiSENS": 72,
+    "procent": "7.29%"
   },
   {
     "id": "39965",
@@ -1504,11 +112,1403 @@
     "procent": "7.26%"
   },
   {
+    "id": "38277",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "COLEGIUL NAȚIONAL ”MIHAI EMINESCU”",
+    "totalVoturi": 623,
+    "totalVoturiSENS": 45,
+    "procent": "7.22%"
+  },
+  {
+    "id": "38379",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 189",
+    "totalVoturi": 637,
+    "totalVoturiSENS": 46,
+    "procent": "7.22%"
+  },
+  {
+    "id": "38352",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MĂRŢIŞOR”",
+    "totalVoturi": 769,
+    "totalVoturiSENS": 55,
+    "procent": "7.15%"
+  },
+  {
+    "id": "38321",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
+    "totalVoturi": 786,
+    "totalVoturiSENS": 56,
+    "procent": "7.12%"
+  },
+  {
+    "id": "38324",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
+    "totalVoturi": 793,
+    "totalVoturiSENS": 56,
+    "procent": "7.06%"
+  },
+  {
+    "id": "38434",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "GRĂDINIŢA ”ÎNȘIR”TE MĂRGĂRITE”",
+    "totalVoturi": 569,
+    "totalVoturiSENS": 40,
+    "procent": "7.03%"
+  },
+  {
+    "id": "38383",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 189",
+    "totalVoturi": 471,
+    "totalVoturiSENS": 33,
+    "procent": "7.01%"
+  },
+  {
+    "id": "38367",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 108",
+    "totalVoturi": 676,
+    "totalVoturiSENS": 47,
+    "procent": "6.95%"
+  },
+  {
+    "id": "38380",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 189",
+    "totalVoturi": 818,
+    "totalVoturiSENS": 56,
+    "procent": "6.85%"
+  },
+  {
+    "id": "38361",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 96",
+    "totalVoturi": 570,
+    "totalVoturiSENS": 39,
+    "procent": "6.84%"
+  },
+  {
+    "id": "38310",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 689,
+    "totalVoturiSENS": 47,
+    "procent": "6.82%"
+  },
+  {
+    "id": "38377",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "GRĂDINIȚA VISTA",
+    "totalVoturi": 1055,
+    "totalVoturiSENS": 72,
+    "procent": "6.82%"
+  },
+  {
+    "id": "38452",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 99",
+    "totalVoturi": 726,
+    "totalVoturiSENS": 49,
+    "procent": "6.75%"
+  },
+  {
+    "id": "38378",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 189",
+    "totalVoturi": 401,
+    "totalVoturiSENS": 27,
+    "procent": "6.73%"
+  },
+  {
+    "id": "38417",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 308",
+    "totalVoturi": 624,
+    "totalVoturiSENS": 42,
+    "procent": "6.73%"
+  },
+  {
+    "id": "38313",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 512,
+    "totalVoturiSENS": 34,
+    "procent": "6.64%"
+  },
+  {
+    "id": "38338",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ G-RAL EREMIA GRIGORESCU",
+    "totalVoturi": 941,
+    "totalVoturiSENS": 61,
+    "procent": "6.48%"
+  },
+  {
+    "id": "38358",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 96",
+    "totalVoturi": 590,
+    "totalVoturiSENS": 38,
+    "procent": "6.44%"
+  },
+  {
+    "id": "38276",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "COLEGIUL NAȚIONAL ”MIHAI EMINESCU”",
+    "totalVoturi": 530,
+    "totalVoturiSENS": 34,
+    "procent": "6.42%"
+  },
+  {
+    "id": "38363",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "COLEGIUL NAŢIONAL OCTAV ONICESCU",
+    "totalVoturi": 546,
+    "totalVoturiSENS": 35,
+    "procent": "6.41%"
+  },
+  {
+    "id": "38375",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ AVRAM IANCU",
+    "totalVoturi": 937,
+    "totalVoturiSENS": 60,
+    "procent": "6.40%"
+  },
+  {
+    "id": "38400",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
+    "totalVoturi": 922,
+    "totalVoturiSENS": 59,
+    "procent": "6.40%"
+  },
+  {
+    "id": "38354",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MĂRŢIŞOR”",
+    "totalVoturi": 1173,
+    "totalVoturiSENS": 75,
+    "procent": "6.39%"
+  },
+  {
+    "id": "38382",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 189",
+    "totalVoturi": 564,
+    "totalVoturiSENS": 36,
+    "procent": "6.38%"
+  },
+  {
+    "id": "38436",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ GEORGE TOPÂRCEANU",
+    "totalVoturi": 627,
+    "totalVoturiSENS": 40,
+    "procent": "6.38%"
+  },
+  {
+    "id": "38420",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
+    "totalVoturi": 770,
+    "totalVoturiSENS": 49,
+    "procent": "6.36%"
+  },
+  {
+    "id": "38372",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ AVRAM IANCU",
+    "totalVoturi": 946,
+    "totalVoturiSENS": 60,
+    "procent": "6.34%"
+  },
+  {
+    "id": "38423",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
+    "totalVoturi": 694,
+    "totalVoturiSENS": 44,
+    "procent": "6.34%"
+  },
+  {
+    "id": "38396",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 194",
+    "totalVoturi": 569,
+    "totalVoturiSENS": 36,
+    "procent": "6.33%"
+  },
+  {
+    "id": "38282",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 79",
+    "totalVoturi": 476,
+    "totalVoturiSENS": 30,
+    "procent": "6.30%"
+  },
+  {
+    "id": "38371",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ AVRAM IANCU",
+    "totalVoturi": 1009,
+    "totalVoturiSENS": 63,
+    "procent": "6.24%"
+  },
+  {
+    "id": "38424",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
+    "totalVoturi": 760,
+    "totalVoturiSENS": 47,
+    "procent": "6.18%"
+  },
+  {
+    "id": "38415",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 308",
+    "totalVoturi": 632,
+    "totalVoturiSENS": 39,
+    "procent": "6.17%"
+  },
+  {
+    "id": "38394",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 194",
+    "totalVoturi": 601,
+    "totalVoturiSENS": 37,
+    "procent": "6.16%"
+  },
+  {
+    "id": "38322",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
+    "totalVoturi": 880,
+    "totalVoturiSENS": 54,
+    "procent": "6.14%"
+  },
+  {
+    "id": "38421",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
+    "totalVoturi": 700,
+    "totalVoturiSENS": 43,
+    "procent": "6.14%"
+  },
+  {
+    "id": "38353",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MĂRŢIŞOR”",
+    "totalVoturi": 1027,
+    "totalVoturiSENS": 63,
+    "procent": "6.13%"
+  },
+  {
+    "id": "38437",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ GEORGE TOPÂRCEANU",
+    "totalVoturi": 687,
+    "totalVoturiSENS": 42,
+    "procent": "6.11%"
+  },
+  {
+    "id": "38387",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ EMIL RACOVIŢĂ",
+    "totalVoturi": 689,
+    "totalVoturiSENS": 42,
+    "procent": "6.10%"
+  },
+  {
+    "id": "38332",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 133",
+    "totalVoturi": 640,
+    "totalVoturiSENS": 39,
+    "procent": "6.09%"
+  },
+  {
+    "id": "38427",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
+    "totalVoturi": 642,
+    "totalVoturiSENS": 39,
+    "procent": "6.07%"
+  },
+  {
+    "id": "38453",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 99",
+    "totalVoturi": 829,
+    "totalVoturiSENS": 50,
+    "procent": "6.03%"
+  },
+  {
+    "id": "38336",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ G-RAL EREMIA GRIGORESCU",
+    "totalVoturi": 765,
+    "totalVoturiSENS": 46,
+    "procent": "6.01%"
+  },
+  {
+    "id": "38348",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
+    "totalVoturi": 833,
+    "totalVoturiSENS": 50,
+    "procent": "6.00%"
+  },
+  {
+    "id": "38359",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 96",
+    "totalVoturi": 500,
+    "totalVoturiSENS": 30,
+    "procent": "6.00%"
+  },
+  {
+    "id": "38314",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 654,
+    "totalVoturiSENS": 39,
+    "procent": "5.96%"
+  },
+  {
     "id": "39966",
     "localitate": "BUCUREŞTI SECTORUL 4",
     "nume_sectie": "GRAND ARENA - GRĂDINIȚA NR.62",
     "totalVoturi": 992,
     "totalVoturiSENS": 59,
     "procent": "5.95%"
+  },
+  {
+    "id": "38340",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ G-RAL EREMIA GRIGORESCU",
+    "totalVoturi": 827,
+    "totalVoturiSENS": 49,
+    "procent": "5.93%"
+  },
+  {
+    "id": "38398",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
+    "totalVoturi": 693,
+    "totalVoturiSENS": 41,
+    "procent": "5.92%"
+  },
+  {
+    "id": "38455",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 99",
+    "totalVoturi": 744,
+    "totalVoturiSENS": 44,
+    "procent": "5.91%"
+  },
+  {
+    "id": "38397",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
+    "totalVoturi": 731,
+    "totalVoturiSENS": 43,
+    "procent": "5.88%"
+  },
+  {
+    "id": "38402",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
+    "totalVoturi": 918,
+    "totalVoturiSENS": 54,
+    "procent": "5.88%"
+  },
+  {
+    "id": "38337",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ G-RAL EREMIA GRIGORESCU",
+    "totalVoturi": 835,
+    "totalVoturiSENS": 49,
+    "procent": "5.87%"
+  },
+  {
+    "id": "38456",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "GRAND ARENA - GRĂDINIȚA NR.4",
+    "totalVoturi": 1024,
+    "totalVoturiSENS": 60,
+    "procent": "5.86%"
+  },
+  {
+    "id": "38448",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IONEL TEODOREANU”",
+    "totalVoturi": 684,
+    "totalVoturiSENS": 40,
+    "procent": "5.85%"
+  },
+  {
+    "id": "38410",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ŞERBAN VODĂ”",
+    "totalVoturi": 685,
+    "totalVoturiSENS": 40,
+    "procent": "5.84%"
+  },
+  {
+    "id": "38342",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
+    "totalVoturi": 721,
+    "totalVoturiSENS": 42,
+    "procent": "5.83%"
+  },
+  {
+    "id": "38431",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 119",
+    "totalVoturi": 861,
+    "totalVoturiSENS": 50,
+    "procent": "5.81%"
+  },
+  {
+    "id": "38346",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
+    "totalVoturi": 898,
+    "totalVoturiSENS": 52,
+    "procent": "5.79%"
+  },
+  {
+    "id": "38303",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 885,
+    "totalVoturiSENS": 51,
+    "procent": "5.76%"
+  },
+  {
+    "id": "38308",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 834,
+    "totalVoturiSENS": 48,
+    "procent": "5.76%"
+  },
+  {
+    "id": "38454",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 99",
+    "totalVoturi": 681,
+    "totalVoturiSENS": 39,
+    "procent": "5.73%"
+  },
+  {
+    "id": "38279",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IENĂCHIŢĂ VĂCĂRESCU”",
+    "totalVoturi": 612,
+    "totalVoturiSENS": 35,
+    "procent": "5.72%"
+  },
+  {
+    "id": "38414",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 308",
+    "totalVoturi": 683,
+    "totalVoturiSENS": 39,
+    "procent": "5.71%"
+  },
+  {
+    "id": "38399",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
+    "totalVoturi": 947,
+    "totalVoturiSENS": 54,
+    "procent": "5.70%"
+  },
+  {
+    "id": "38430",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 119",
+    "totalVoturi": 896,
+    "totalVoturiSENS": 51,
+    "procent": "5.69%"
+  },
+  {
+    "id": "38316",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 986,
+    "totalVoturiSENS": 56,
+    "procent": "5.68%"
+  },
+  {
+    "id": "38411",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ŞERBAN VODĂ”",
+    "totalVoturi": 706,
+    "totalVoturiSENS": 40,
+    "procent": "5.67%"
+  },
+  {
+    "id": "38298",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
+    "totalVoturi": 583,
+    "totalVoturiSENS": 33,
+    "procent": "5.66%"
+  },
+  {
+    "id": "38413",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 308",
+    "totalVoturi": 619,
+    "totalVoturiSENS": 35,
+    "procent": "5.65%"
+  },
+  {
+    "id": "38275",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "COLEGIUL NAȚIONAL ”MIHAI EMINESCU”",
+    "totalVoturi": 605,
+    "totalVoturiSENS": 34,
+    "procent": "5.62%"
+  },
+  {
+    "id": "38339",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ G-RAL EREMIA GRIGORESCU",
+    "totalVoturi": 980,
+    "totalVoturiSENS": 55,
+    "procent": "5.61%"
+  },
+  {
+    "id": "38304",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 680,
+    "totalVoturiSENS": 38,
+    "procent": "5.59%"
+  },
+  {
+    "id": "38374",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ AVRAM IANCU",
+    "totalVoturi": 901,
+    "totalVoturiSENS": 50,
+    "procent": "5.55%"
+  },
+  {
+    "id": "38385",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ EMIL RACOVIŢĂ",
+    "totalVoturi": 721,
+    "totalVoturiSENS": 40,
+    "procent": "5.55%"
+  },
+  {
+    "id": "38349",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
+    "totalVoturi": 960,
+    "totalVoturiSENS": 53,
+    "procent": "5.52%"
+  },
+  {
+    "id": "38391",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 194",
+    "totalVoturi": 599,
+    "totalVoturiSENS": 33,
+    "procent": "5.51%"
+  },
+  {
+    "id": "38408",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ŞERBAN VODĂ”",
+    "totalVoturi": 673,
+    "totalVoturiSENS": 37,
+    "procent": "5.50%"
+  },
+  {
+    "id": "38395",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 194",
+    "totalVoturi": 456,
+    "totalVoturiSENS": 25,
+    "procent": "5.48%"
+  },
+  {
+    "id": "38350",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
+    "totalVoturi": 1005,
+    "totalVoturiSENS": 55,
+    "procent": "5.47%"
+  },
+  {
+    "id": "38287",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "COLEGIUL TEHNIC GRIGORE CERCHEZ",
+    "totalVoturi": 477,
+    "totalVoturiSENS": 26,
+    "procent": "5.45%"
+  },
+  {
+    "id": "38441",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 129",
+    "totalVoturi": 737,
+    "totalVoturiSENS": 40,
+    "procent": "5.43%"
+  },
+  {
+    "id": "38362",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "COLEGIUL NAŢIONAL OCTAV ONICESCU",
+    "totalVoturi": 831,
+    "totalVoturiSENS": 45,
+    "procent": "5.42%"
+  },
+  {
+    "id": "38317",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 536,
+    "totalVoturiSENS": 29,
+    "procent": "5.41%"
+  },
+  {
+    "id": "38384",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 189",
+    "totalVoturi": 722,
+    "totalVoturiSENS": 39,
+    "procent": "5.40%"
+  },
+  {
+    "id": "38312",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 614,
+    "totalVoturiSENS": 33,
+    "procent": "5.37%"
+  },
+  {
+    "id": "38296",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
+    "totalVoturi": 748,
+    "totalVoturiSENS": 40,
+    "procent": "5.35%"
+  },
+  {
+    "id": "38440",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 129",
+    "totalVoturi": 693,
+    "totalVoturiSENS": 37,
+    "procent": "5.34%"
+  },
+  {
+    "id": "38325",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
+    "totalVoturi": 619,
+    "totalVoturiSENS": 33,
+    "procent": "5.33%"
+  },
+  {
+    "id": "38293",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
+    "totalVoturi": 770,
+    "totalVoturiSENS": 41,
+    "procent": "5.32%"
+  },
+  {
+    "id": "38405",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "GRĂDINIŢA ”ALBĂ CA ZĂPADA ȘI PITICII”",
+    "totalVoturi": 545,
+    "totalVoturiSENS": 29,
+    "procent": "5.32%"
+  },
+  {
+    "id": "38435",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "GRĂDINIŢA ”ÎNȘIR”TE MĂRGĂRITE”",
+    "totalVoturi": 584,
+    "totalVoturiSENS": 31,
+    "procent": "5.31%"
+  },
+  {
+    "id": "38274",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "COLEGIUL NAȚIONAL ”MIHAI EMINESCU”",
+    "totalVoturi": 623,
+    "totalVoturiSENS": 33,
+    "procent": "5.30%"
+  },
+  {
+    "id": "38288",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "COLEGIUL TEHNIC GRIGORE CERCHEZ",
+    "totalVoturi": 705,
+    "totalVoturiSENS": 37,
+    "procent": "5.25%"
+  },
+  {
+    "id": "38370",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 108",
+    "totalVoturi": 610,
+    "totalVoturiSENS": 32,
+    "procent": "5.25%"
+  },
+  {
+    "id": "38284",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 79",
+    "totalVoturi": 650,
+    "totalVoturiSENS": 34,
+    "procent": "5.23%"
+  },
+  {
+    "id": "38432",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 119",
+    "totalVoturi": 918,
+    "totalVoturiSENS": 48,
+    "procent": "5.23%"
+  },
+  {
+    "id": "38329",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "GRĂDINIȚA PANSELUȚA",
+    "totalVoturi": 767,
+    "totalVoturiSENS": 40,
+    "procent": "5.22%"
+  },
+  {
+    "id": "38428",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 119",
+    "totalVoturi": 652,
+    "totalVoturiSENS": 34,
+    "procent": "5.21%"
+  },
+  {
+    "id": "38320",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
+    "totalVoturi": 827,
+    "totalVoturiSENS": 43,
+    "procent": "5.20%"
+  },
+  {
+    "id": "38278",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IENĂCHIŢĂ VĂCĂRESCU”",
+    "totalVoturi": 501,
+    "totalVoturiSENS": 26,
+    "procent": "5.19%"
+  },
+  {
+    "id": "38366",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 108",
+    "totalVoturi": 676,
+    "totalVoturiSENS": 35,
+    "procent": "5.18%"
+  },
+  {
+    "id": "38365",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "COLEGIUL NAŢIONAL OCTAV ONICESCU",
+    "totalVoturi": 716,
+    "totalVoturiSENS": 37,
+    "procent": "5.17%"
+  },
+  {
+    "id": "38381",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 189",
+    "totalVoturi": 754,
+    "totalVoturiSENS": 39,
+    "procent": "5.17%"
+  },
+  {
+    "id": "38286",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "COLEGIUL NAŢIONAL ION CREANGĂ",
+    "totalVoturi": 465,
+    "totalVoturiSENS": 24,
+    "procent": "5.16%"
+  },
+  {
+    "id": "38326",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "LICEUL TEHNOLOGIC DACIA",
+    "totalVoturi": 627,
+    "totalVoturiSENS": 32,
+    "procent": "5.10%"
+  },
+  {
+    "id": "38451",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IONEL TEODOREANU”",
+    "totalVoturi": 669,
+    "totalVoturiSENS": 34,
+    "procent": "5.08%"
+  },
+  {
+    "id": "38355",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MĂRŢIŞOR”",
+    "totalVoturi": 635,
+    "totalVoturiSENS": 32,
+    "procent": "5.04%"
+  },
+  {
+    "id": "38306",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 998,
+    "totalVoturiSENS": 50,
+    "procent": "5.01%"
+  },
+  {
+    "id": "38360",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 96",
+    "totalVoturi": 759,
+    "totalVoturiSENS": 38,
+    "procent": "5.01%"
+  },
+  {
+    "id": "38412",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ŞERBAN VODĂ”",
+    "totalVoturi": 738,
+    "totalVoturiSENS": 37,
+    "procent": "5.01%"
+  },
+  {
+    "id": "38446",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IONEL TEODOREANU”",
+    "totalVoturi": 644,
+    "totalVoturiSENS": 32,
+    "procent": "4.97%"
+  },
+  {
+    "id": "38403",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
+    "totalVoturi": 870,
+    "totalVoturiSENS": 43,
+    "procent": "4.94%"
+  },
+  {
+    "id": "38419",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
+    "totalVoturi": 709,
+    "totalVoturiSENS": 35,
+    "procent": "4.94%"
+  },
+  {
+    "id": "38418",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 308",
+    "totalVoturi": 651,
+    "totalVoturiSENS": 32,
+    "procent": "4.92%"
+  },
+  {
+    "id": "38285",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "COLEGIUL NAŢIONAL ION CREANGĂ",
+    "totalVoturi": 753,
+    "totalVoturiSENS": 37,
+    "procent": "4.91%"
+  },
+  {
+    "id": "38439",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ GEORGE TOPÂRCEANU",
+    "totalVoturi": 775,
+    "totalVoturiSENS": 38,
+    "procent": "4.90%"
+  },
+  {
+    "id": "38294",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
+    "totalVoturi": 655,
+    "totalVoturiSENS": 32,
+    "procent": "4.89%"
+  },
+  {
+    "id": "38422",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
+    "totalVoturi": 719,
+    "totalVoturiSENS": 35,
+    "procent": "4.87%"
+  },
+  {
+    "id": "38315",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 886,
+    "totalVoturiSENS": 43,
+    "procent": "4.85%"
+  },
+  {
+    "id": "38426",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 165",
+    "totalVoturi": 887,
+    "totalVoturiSENS": 43,
+    "procent": "4.85%"
+  },
+  {
+    "id": "38442",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 129",
+    "totalVoturi": 784,
+    "totalVoturiSENS": 38,
+    "procent": "4.85%"
+  },
+  {
+    "id": "38331",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 133",
+    "totalVoturi": 890,
+    "totalVoturiSENS": 43,
+    "procent": "4.83%"
+  },
+  {
+    "id": "38335",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ G-RAL EREMIA GRIGORESCU",
+    "totalVoturi": 896,
+    "totalVoturiSENS": 43,
+    "procent": "4.80%"
+  },
+  {
+    "id": "38344",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
+    "totalVoturi": 733,
+    "totalVoturiSENS": 35,
+    "procent": "4.77%"
+  },
+  {
+    "id": "38345",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
+    "totalVoturi": 734,
+    "totalVoturiSENS": 35,
+    "procent": "4.77%"
+  },
+  {
+    "id": "38450",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IONEL TEODOREANU”",
+    "totalVoturi": 612,
+    "totalVoturiSENS": 29,
+    "procent": "4.74%"
+  },
+  {
+    "id": "38281",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IENĂCHIŢĂ VĂCĂRESCU”",
+    "totalVoturi": 846,
+    "totalVoturiSENS": 40,
+    "procent": "4.73%"
+  },
+  {
+    "id": "38438",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ GEORGE TOPÂRCEANU",
+    "totalVoturi": 592,
+    "totalVoturiSENS": 28,
+    "procent": "4.73%"
+  },
+  {
+    "id": "38327",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "GRĂDINIȚA PANSELUȚA",
+    "totalVoturi": 680,
+    "totalVoturiSENS": 32,
+    "procent": "4.71%"
+  },
+  {
+    "id": "38390",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 194",
+    "totalVoturi": 425,
+    "totalVoturiSENS": 20,
+    "procent": "4.71%"
+  },
+  {
+    "id": "38341",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ G-RAL EREMIA GRIGORESCU",
+    "totalVoturi": 809,
+    "totalVoturiSENS": 38,
+    "procent": "4.70%"
+  },
+  {
+    "id": "38401",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”GEORGE BACOVIA”",
+    "totalVoturi": 830,
+    "totalVoturiSENS": 39,
+    "procent": "4.70%"
+  },
+  {
+    "id": "38357",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 96",
+    "totalVoturi": 494,
+    "totalVoturiSENS": 23,
+    "procent": "4.66%"
+  },
+  {
+    "id": "38416",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 308",
+    "totalVoturi": 601,
+    "totalVoturiSENS": 28,
+    "procent": "4.66%"
+  },
+  {
+    "id": "38328",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "GRĂDINIȚA PANSELUȚA",
+    "totalVoturi": 754,
+    "totalVoturiSENS": 35,
+    "procent": "4.64%"
+  },
+  {
+    "id": "38433",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 119",
+    "totalVoturi": 756,
+    "totalVoturiSENS": 35,
+    "procent": "4.63%"
+  },
+  {
+    "id": "38351",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
+    "totalVoturi": 996,
+    "totalVoturiSENS": 46,
+    "procent": "4.62%"
+  },
+  {
+    "id": "38364",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "COLEGIUL NAŢIONAL OCTAV ONICESCU",
+    "totalVoturi": 693,
+    "totalVoturiSENS": 32,
+    "procent": "4.62%"
+  },
+  {
+    "id": "38409",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”ŞERBAN VODĂ”",
+    "totalVoturi": 940,
+    "totalVoturiSENS": 43,
+    "procent": "4.57%"
+  },
+  {
+    "id": "38289",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
+    "totalVoturi": 616,
+    "totalVoturiSENS": 28,
+    "procent": "4.55%"
+  },
+  {
+    "id": "38447",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IONEL TEODOREANU”",
+    "totalVoturi": 669,
+    "totalVoturiSENS": 30,
+    "procent": "4.48%"
+  },
+  {
+    "id": "38356",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”MĂRŢIŞOR”",
+    "totalVoturi": 760,
+    "totalVoturiSENS": 34,
+    "procent": "4.47%"
+  },
+  {
+    "id": "38283",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 79",
+    "totalVoturi": 496,
+    "totalVoturiSENS": 22,
+    "procent": "4.44%"
+  },
+  {
+    "id": "38429",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 119",
+    "totalVoturi": 563,
+    "totalVoturiSENS": 25,
+    "procent": "4.44%"
+  },
+  {
+    "id": "38343",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
+    "totalVoturi": 813,
+    "totalVoturiSENS": 36,
+    "procent": "4.43%"
+  },
+  {
+    "id": "38280",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IENĂCHIŢĂ VĂCĂRESCU”",
+    "totalVoturi": 522,
+    "totalVoturiSENS": 23,
+    "procent": "4.41%"
+  },
+  {
+    "id": "38388",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ EMIL RACOVIŢĂ",
+    "totalVoturi": 727,
+    "totalVoturiSENS": 32,
+    "procent": "4.40%"
+  },
+  {
+    "id": "38334",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 133",
+    "totalVoturi": 775,
+    "totalVoturiSENS": 34,
+    "procent": "4.39%"
+  },
+  {
+    "id": "38369",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 108",
+    "totalVoturi": 685,
+    "totalVoturiSENS": 30,
+    "procent": "4.38%"
+  },
+  {
+    "id": "38297",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
+    "totalVoturi": 678,
+    "totalVoturiSENS": 29,
+    "procent": "4.28%"
+  },
+  {
+    "id": "38407",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "GRĂDINIŢA ”ALBĂ CA ZĂPADA ȘI PITICII”",
+    "totalVoturi": 493,
+    "totalVoturiSENS": 21,
+    "procent": "4.26%"
+  },
+  {
+    "id": "38443",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 129",
+    "totalVoturi": 799,
+    "totalVoturiSENS": 34,
+    "procent": "4.26%"
+  },
+  {
+    "id": "38368",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 108",
+    "totalVoturi": 667,
+    "totalVoturiSENS": 28,
+    "procent": "4.20%"
+  },
+  {
+    "id": "38300",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 97",
+    "totalVoturi": 796,
+    "totalVoturiSENS": 33,
+    "procent": "4.15%"
+  },
+  {
+    "id": "38309",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 658,
+    "totalVoturiSENS": 27,
+    "procent": "4.10%"
+  },
+  {
+    "id": "38305",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 590,
+    "totalVoturiSENS": 24,
+    "procent": "4.07%"
+  },
+  {
+    "id": "38330",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "GRĂDINIȚA PANSELUȚA",
+    "totalVoturi": 518,
+    "totalVoturiSENS": 21,
+    "procent": "4.05%"
+  },
+  {
+    "id": "38449",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”IONEL TEODOREANU”",
+    "totalVoturi": 594,
+    "totalVoturiSENS": 24,
+    "procent": "4.04%"
+  },
+  {
+    "id": "38311",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 646,
+    "totalVoturiSENS": 26,
+    "procent": "4.02%"
+  },
+  {
+    "id": "38392",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 194",
+    "totalVoturi": 723,
+    "totalVoturiSENS": 29,
+    "procent": "4.01%"
+  },
+  {
+    "id": "38302",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 97",
+    "totalVoturi": 525,
+    "totalVoturiSENS": 21,
+    "procent": "4.00%"
+  },
+  {
+    "id": "38291",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
+    "totalVoturi": 661,
+    "totalVoturiSENS": 26,
+    "procent": "3.93%"
+  },
+  {
+    "id": "38404",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "GRĂDINIŢA ”ALBĂ CA ZĂPADA ȘI PITICII”",
+    "totalVoturi": 632,
+    "totalVoturiSENS": 22,
+    "procent": "3.48%"
+  },
+  {
+    "id": "38393",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 194",
+    "totalVoturi": 524,
+    "totalVoturiSENS": 18,
+    "procent": "3.44%"
+  },
+  {
+    "id": "38273",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "COLEGIUL NAȚIONAL ”MIHAI EMINESCU”",
+    "totalVoturi": 760,
+    "totalVoturiSENS": 26,
+    "procent": "3.42%"
+  },
+  {
+    "id": "38290",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
+    "totalVoturi": 651,
+    "totalVoturiSENS": 22,
+    "procent": "3.38%"
+  },
+  {
+    "id": "38292",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
+    "totalVoturi": 552,
+    "totalVoturiSENS": 18,
+    "procent": "3.26%"
+  },
+  {
+    "id": "38318",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 497,
+    "totalVoturiSENS": 16,
+    "procent": "3.22%"
+  },
+  {
+    "id": "38299",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 97",
+    "totalVoturi": 631,
+    "totalVoturiSENS": 20,
+    "procent": "3.17%"
+  },
+  {
+    "id": "38295",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 97",
+    "totalVoturi": 702,
+    "totalVoturiSENS": 22,
+    "procent": "3.13%"
+  },
+  {
+    "id": "38307",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 190",
+    "totalVoturi": 880,
+    "totalVoturiSENS": 26,
+    "procent": "2.95%"
+  },
+  {
+    "id": "38347",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 113",
+    "totalVoturi": 846,
+    "totalVoturiSENS": 23,
+    "procent": "2.72%"
+  },
+  {
+    "id": "38333",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 133",
+    "totalVoturi": 729,
+    "totalVoturiSENS": 18,
+    "procent": "2.47%"
+  },
+  {
+    "id": "38301",
+    "localitate": "BUCUREŞTI SECTORUL 4",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 97",
+    "totalVoturi": 561,
+    "totalVoturiSENS": 11,
+    "procent": "1.96%"
   }
 ]

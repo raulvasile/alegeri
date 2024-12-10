@@ -1,19 +1,11 @@
 [
   {
-    "id": "38457",
+    "id": "38565",
     "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
-    "totalVoturi": 294,
-    "totalVoturiSENS": 15,
-    "procent": "5.10%"
-  },
-  {
-    "id": "38458",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
-    "totalVoturi": 735,
-    "totalVoturiSENS": 30,
-    "procent": "4.08%"
+    "nume_sectie": "FACULTATEA DE DREPT",
+    "totalVoturi": 251,
+    "totalVoturiSENS": 23,
+    "procent": "9.16%"
   },
   {
     "id": "38459",
@@ -24,748 +16,12 @@
     "procent": "9.02%"
   },
   {
-    "id": "38460",
+    "id": "38577",
     "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
-    "totalVoturi": 527,
-    "totalVoturiSENS": 15,
-    "procent": "2.85%"
-  },
-  {
-    "id": "38461",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
-    "totalVoturi": 575,
-    "totalVoturiSENS": 22,
-    "procent": "3.83%"
-  },
-  {
-    "id": "38462",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
-    "totalVoturi": 552,
-    "totalVoturiSENS": 25,
-    "procent": "4.53%"
-  },
-  {
-    "id": "38463",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
-    "totalVoturi": 687,
-    "totalVoturiSENS": 37,
-    "procent": "5.39%"
-  },
-  {
-    "id": "38464",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
-    "totalVoturi": 528,
-    "totalVoturiSENS": 34,
-    "procent": "6.44%"
-  },
-  {
-    "id": "38465",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
-    "totalVoturi": 452,
-    "totalVoturiSENS": 14,
-    "procent": "3.10%"
-  },
-  {
-    "id": "38466",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
-    "totalVoturi": 490,
-    "totalVoturiSENS": 25,
-    "procent": "5.10%"
-  },
-  {
-    "id": "38467",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
-    "totalVoturi": 478,
-    "totalVoturiSENS": 20,
-    "procent": "4.18%"
-  },
-  {
-    "id": "38468",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "COLEGIUL TEHNIC ENERGETIC",
-    "totalVoturi": 540,
-    "totalVoturiSENS": 35,
-    "procent": "6.48%"
-  },
-  {
-    "id": "38469",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "COLEGIUL TEHNIC ENERGETIC",
-    "totalVoturi": 631,
-    "totalVoturiSENS": 30,
-    "procent": "4.75%"
-  },
-  {
-    "id": "38470",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "COLEGIUL TEHNIC ENERGETIC",
-    "totalVoturi": 460,
-    "totalVoturiSENS": 36,
-    "procent": "7.83%"
-  },
-  {
-    "id": "38471",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "COLEGIUL TEHNIC ENERGETIC",
-    "totalVoturi": 471,
-    "totalVoturiSENS": 30,
-    "procent": "6.37%"
-  },
-  {
-    "id": "38472",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.136",
-    "totalVoturi": 508,
-    "totalVoturiSENS": 14,
-    "procent": "2.76%"
-  },
-  {
-    "id": "38473",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.136",
-    "totalVoturi": 337,
-    "totalVoturiSENS": 16,
-    "procent": "4.75%"
-  },
-  {
-    "id": "38474",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.136",
-    "totalVoturi": 367,
-    "totalVoturiSENS": 20,
-    "procent": "5.45%"
-  },
-  {
-    "id": "38475",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.136",
-    "totalVoturi": 387,
-    "totalVoturiSENS": 15,
-    "procent": "3.88%"
-  },
-  {
-    "id": "38476",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.136",
-    "totalVoturi": 485,
-    "totalVoturiSENS": 10,
-    "procent": "2.06%"
-  },
-  {
-    "id": "38477",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.136",
-    "totalVoturi": 519,
-    "totalVoturiSENS": 21,
-    "procent": "4.05%"
-  },
-  {
-    "id": "38478",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.136",
-    "totalVoturi": 480,
-    "totalVoturiSENS": 28,
-    "procent": "5.83%"
-  },
-  {
-    "id": "38479",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.2",
-    "totalVoturi": 430,
-    "totalVoturiSENS": 23,
-    "procent": "5.35%"
-  },
-  {
-    "id": "38480",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.2",
-    "totalVoturi": 487,
-    "totalVoturiSENS": 24,
-    "procent": "4.93%"
-  },
-  {
-    "id": "38481",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.2",
-    "totalVoturi": 443,
-    "totalVoturiSENS": 18,
-    "procent": "4.06%"
-  },
-  {
-    "id": "38482",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.2",
-    "totalVoturi": 382,
-    "totalVoturiSENS": 24,
-    "procent": "6.28%"
-  },
-  {
-    "id": "38483",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.2",
-    "totalVoturi": 518,
-    "totalVoturiSENS": 31,
-    "procent": "5.98%"
-  },
-  {
-    "id": "38484",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.188",
-    "totalVoturi": 425,
-    "totalVoturiSENS": 26,
-    "procent": "6.12%"
-  },
-  {
-    "id": "38485",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.188",
-    "totalVoturi": 650,
-    "totalVoturiSENS": 24,
-    "procent": "3.69%"
-  },
-  {
-    "id": "38486",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.188",
-    "totalVoturi": 424,
-    "totalVoturiSENS": 19,
-    "procent": "4.48%"
-  },
-  {
-    "id": "38487",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.188",
-    "totalVoturi": 445,
-    "totalVoturiSENS": 27,
-    "procent": "6.07%"
-  },
-  {
-    "id": "38488",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.188",
-    "totalVoturi": 356,
-    "totalVoturiSENS": 14,
-    "procent": "3.93%"
-  },
-  {
-    "id": "38489",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LUCEAFĂRUL”",
-    "totalVoturi": 541,
-    "totalVoturiSENS": 21,
-    "procent": "3.88%"
-  },
-  {
-    "id": "38490",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LUCEAFĂRUL”",
-    "totalVoturi": 683,
-    "totalVoturiSENS": 38,
-    "procent": "5.56%"
-  },
-  {
-    "id": "38491",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LUCEAFĂRUL”",
-    "totalVoturi": 500,
-    "totalVoturiSENS": 22,
-    "procent": "4.40%"
-  },
-  {
-    "id": "38492",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LUCEAFĂRUL”",
-    "totalVoturi": 597,
-    "totalVoturiSENS": 17,
-    "procent": "2.85%"
-  },
-  {
-    "id": "38493",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LUCEAFĂRUL”",
-    "totalVoturi": 713,
-    "totalVoturiSENS": 47,
-    "procent": "6.59%"
-  },
-  {
-    "id": "38494",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LUCEAFĂRUL”",
-    "totalVoturi": 627,
-    "totalVoturiSENS": 44,
-    "procent": "7.02%"
-  },
-  {
-    "id": "38495",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LUCEAFĂRUL”",
-    "totalVoturi": 531,
-    "totalVoturiSENS": 25,
-    "procent": "4.71%"
-  },
-  {
-    "id": "38496",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.135",
-    "totalVoturi": 551,
-    "totalVoturiSENS": 36,
-    "procent": "6.53%"
-  },
-  {
-    "id": "38497",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.135",
-    "totalVoturi": 661,
-    "totalVoturiSENS": 35,
-    "procent": "5.30%"
-  },
-  {
-    "id": "38498",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.135",
-    "totalVoturi": 541,
-    "totalVoturiSENS": 28,
-    "procent": "5.18%"
-  },
-  {
-    "id": "38499",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.135",
-    "totalVoturi": 766,
-    "totalVoturiSENS": 35,
-    "procent": "4.57%"
-  },
-  {
-    "id": "38516",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE CĂLINESCU”",
-    "totalVoturi": 498,
-    "totalVoturiSENS": 28,
-    "procent": "5.62%"
-  },
-  {
-    "id": "38517",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE CĂLINESCU”",
-    "totalVoturi": 496,
-    "totalVoturiSENS": 19,
-    "procent": "3.83%"
-  },
-  {
-    "id": "38518",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE CĂLINESCU”",
-    "totalVoturi": 589,
-    "totalVoturiSENS": 33,
-    "procent": "5.60%"
-  },
-  {
-    "id": "38519",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE CĂLINESCU”",
-    "totalVoturi": 631,
-    "totalVoturiSENS": 34,
-    "procent": "5.39%"
-  },
-  {
-    "id": "38520",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE CĂLINESCU”",
-    "totalVoturi": 633,
-    "totalVoturiSENS": 27,
-    "procent": "4.27%"
-  },
-  {
-    "id": "38521",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
-    "totalVoturi": 531,
-    "totalVoturiSENS": 21,
-    "procent": "3.95%"
-  },
-  {
-    "id": "38522",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
-    "totalVoturi": 557,
-    "totalVoturiSENS": 17,
-    "procent": "3.05%"
-  },
-  {
-    "id": "38523",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
-    "totalVoturi": 763,
-    "totalVoturiSENS": 48,
-    "procent": "6.29%"
-  },
-  {
-    "id": "38524",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
-    "totalVoturi": 774,
-    "totalVoturiSENS": 41,
-    "procent": "5.30%"
-  },
-  {
-    "id": "38525",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
-    "totalVoturi": 711,
-    "totalVoturiSENS": 36,
-    "procent": "5.06%"
-  },
-  {
-    "id": "38526",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
-    "totalVoturi": 728,
-    "totalVoturiSENS": 44,
-    "procent": "6.04%"
-  },
-  {
-    "id": "38527",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
-    "totalVoturi": 505,
-    "totalVoturiSENS": 22,
-    "procent": "4.36%"
-  },
-  {
-    "id": "38528",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
-    "totalVoturi": 700,
-    "totalVoturiSENS": 28,
-    "procent": "4.00%"
-  },
-  {
-    "id": "38529",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
-    "totalVoturi": 718,
-    "totalVoturiSENS": 30,
-    "procent": "4.18%"
-  },
-  {
-    "id": "38530",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PRINCIPESA MARGARETA”",
-    "totalVoturi": 521,
-    "totalVoturiSENS": 25,
-    "procent": "4.80%"
-  },
-  {
-    "id": "38531",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PRINCIPESA MARGARETA”",
-    "totalVoturi": 382,
-    "totalVoturiSENS": 24,
-    "procent": "6.28%"
-  },
-  {
-    "id": "38532",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PRINCIPESA MARGARETA”",
-    "totalVoturi": 408,
-    "totalVoturiSENS": 21,
-    "procent": "5.15%"
-  },
-  {
-    "id": "38533",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PRINCIPESA MARGARETA”",
-    "totalVoturi": 516,
-    "totalVoturiSENS": 41,
-    "procent": "7.95%"
-  },
-  {
-    "id": "38534",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "GRĂDINIȚA NR.168",
-    "totalVoturi": 732,
+    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
+    "totalVoturi": 590,
     "totalVoturiSENS": 53,
-    "procent": "7.24%"
-  },
-  {
-    "id": "38535",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "GRĂDINIȚA NR.168",
-    "totalVoturi": 554,
-    "totalVoturiSENS": 43,
-    "procent": "7.76%"
-  },
-  {
-    "id": "38536",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "CLUBUL COPIILOR SECTOR 5",
-    "totalVoturi": 641,
-    "totalVoturiSENS": 27,
-    "procent": "4.21%"
-  },
-  {
-    "id": "38537",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "CLUBUL COPIILOR SECTOR 5",
-    "totalVoturi": 603,
-    "totalVoturiSENS": 36,
-    "procent": "5.97%"
-  },
-  {
-    "id": "38538",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
-    "totalVoturi": 770,
-    "totalVoturiSENS": 38,
-    "procent": "4.94%"
-  },
-  {
-    "id": "38539",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
-    "totalVoturi": 533,
-    "totalVoturiSENS": 21,
-    "procent": "3.94%"
-  },
-  {
-    "id": "38540",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
-    "totalVoturi": 500,
-    "totalVoturiSENS": 31,
-    "procent": "6.20%"
-  },
-  {
-    "id": "38541",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
-    "totalVoturi": 558,
-    "totalVoturiSENS": 29,
-    "procent": "5.20%"
-  },
-  {
-    "id": "38542",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
-    "totalVoturi": 529,
-    "totalVoturiSENS": 29,
-    "procent": "5.48%"
-  },
-  {
-    "id": "38543",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
-    "totalVoturi": 546,
-    "totalVoturiSENS": 18,
-    "procent": "3.30%"
-  },
-  {
-    "id": "38544",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
-    "totalVoturi": 509,
-    "totalVoturiSENS": 29,
-    "procent": "5.70%"
-  },
-  {
-    "id": "38545",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
-    "totalVoturi": 461,
-    "totalVoturiSENS": 25,
-    "procent": "5.42%"
-  },
-  {
-    "id": "38546",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEHNOLOGIC ”DIMITRIE GUSTI”",
-    "totalVoturi": 690,
-    "totalVoturiSENS": 59,
-    "procent": "8.55%"
-  },
-  {
-    "id": "38547",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEHNOLOGIC ”DIMITRIE GUSTI”",
-    "totalVoturi": 655,
-    "totalVoturiSENS": 33,
-    "procent": "5.04%"
-  },
-  {
-    "id": "38548",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEHNOLOGIC ”DIMITRIE GUSTI”",
-    "totalVoturi": 577,
-    "totalVoturiSENS": 36,
-    "procent": "6.24%"
-  },
-  {
-    "id": "38549",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "GRĂDINIȚA NR.205",
-    "totalVoturi": 685,
-    "totalVoturiSENS": 27,
-    "procent": "3.94%"
-  },
-  {
-    "id": "38550",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "GRĂDINIȚA NR.205",
-    "totalVoturi": 528,
-    "totalVoturiSENS": 15,
-    "procent": "2.84%"
-  },
-  {
-    "id": "38551",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "GRĂDINIȚA NR.205",
-    "totalVoturi": 611,
-    "totalVoturiSENS": 37,
-    "procent": "6.06%"
-  },
-  {
-    "id": "38552",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "GRĂDINIȚA NR.205",
-    "totalVoturi": 525,
-    "totalVoturiSENS": 9,
-    "procent": "1.71%"
-  },
-  {
-    "id": "38553",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "GRĂDINIȚA NR.205",
-    "totalVoturi": 589,
-    "totalVoturiSENS": 18,
-    "procent": "3.06%"
-  },
-  {
-    "id": "38554",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
-    "totalVoturi": 484,
-    "totalVoturiSENS": 22,
-    "procent": "4.55%"
-  },
-  {
-    "id": "38555",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
-    "totalVoturi": 434,
-    "totalVoturiSENS": 23,
-    "procent": "5.30%"
-  },
-  {
-    "id": "38556",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
-    "totalVoturi": 496,
-    "totalVoturiSENS": 24,
-    "procent": "4.84%"
-  },
-  {
-    "id": "38557",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
-    "totalVoturi": 575,
-    "totalVoturiSENS": 25,
-    "procent": "4.35%"
-  },
-  {
-    "id": "38558",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
-    "totalVoturi": 552,
-    "totalVoturiSENS": 32,
-    "procent": "5.80%"
-  },
-  {
-    "id": "38559",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
-    "totalVoturi": 506,
-    "totalVoturiSENS": 28,
-    "procent": "5.53%"
-  },
-  {
-    "id": "38560",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
-    "totalVoturi": 535,
-    "totalVoturiSENS": 24,
-    "procent": "4.49%"
-  },
-  {
-    "id": "38561",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
-    "totalVoturi": 501,
-    "totalVoturiSENS": 32,
-    "procent": "6.39%"
-  },
-  {
-    "id": "38562",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
-    "totalVoturi": 418,
-    "totalVoturiSENS": 17,
-    "procent": "4.07%"
-  },
-  {
-    "id": "38563",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "FACULTATEA DE DREPT",
-    "totalVoturi": 347,
-    "totalVoturiSENS": 14,
-    "procent": "4.03%"
-  },
-  {
-    "id": "38564",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "FACULTATEA DE DREPT",
-    "totalVoturi": 273,
-    "totalVoturiSENS": 23,
-    "procent": "8.42%"
-  },
-  {
-    "id": "38565",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "FACULTATEA DE DREPT",
-    "totalVoturi": 251,
-    "totalVoturiSENS": 23,
-    "procent": "9.16%"
-  },
-  {
-    "id": "38566",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "COLEGIUL NAȚIONAL ”GHEORGHE LAZĂR”",
-    "totalVoturi": 335,
-    "totalVoturiSENS": 13,
-    "procent": "3.88%"
-  },
-  {
-    "id": "38567",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "COLEGIUL NAȚIONAL ”GHEORGHE LAZĂR”",
-    "totalVoturi": 364,
-    "totalVoturiSENS": 21,
-    "procent": "5.77%"
-  },
-  {
-    "id": "38568",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "COLEGIUL NAȚIONAL ”GHEORGHE LAZĂR”",
-    "totalVoturi": 186,
-    "totalVoturiSENS": 10,
-    "procent": "5.38%"
+    "procent": "8.98%"
   },
   {
     "id": "38569",
@@ -776,500 +32,20 @@
     "procent": "8.83%"
   },
   {
-    "id": "38570",
+    "id": "38546",
     "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "COLEGIUL NAȚIONAL ”GHEORGHE LAZĂR”",
-    "totalVoturi": 238,
-    "totalVoturiSENS": 13,
-    "procent": "5.46%"
-  },
-  {
-    "id": "38571",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "GRĂDINȚA NR.178",
-    "totalVoturi": 841,
-    "totalVoturiSENS": 49,
-    "procent": "5.83%"
-  },
-  {
-    "id": "38572",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "GRĂDINȚA NR.178",
-    "totalVoturi": 398,
-    "totalVoturiSENS": 23,
-    "procent": "5.78%"
-  },
-  {
-    "id": "38573",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "GRĂDINȚA NR.178",
-    "totalVoturi": 867,
-    "totalVoturiSENS": 58,
-    "procent": "6.69%"
-  },
-  {
-    "id": "38574",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
-    "totalVoturi": 576,
-    "totalVoturiSENS": 36,
-    "procent": "6.25%"
-  },
-  {
-    "id": "38575",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
-    "totalVoturi": 651,
-    "totalVoturiSENS": 40,
-    "procent": "6.14%"
-  },
-  {
-    "id": "38576",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
-    "totalVoturi": 556,
-    "totalVoturiSENS": 28,
-    "procent": "5.04%"
-  },
-  {
-    "id": "38577",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
-    "totalVoturi": 590,
-    "totalVoturiSENS": 53,
-    "procent": "8.98%"
-  },
-  {
-    "id": "38578",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
-    "totalVoturi": 682,
-    "totalVoturiSENS": 32,
-    "procent": "4.69%"
-  },
-  {
-    "id": "38579",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
-    "totalVoturi": 989,
-    "totalVoturiSENS": 71,
-    "procent": "7.18%"
-  },
-  {
-    "id": "38580",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
-    "totalVoturi": 562,
-    "totalVoturiSENS": 35,
-    "procent": "6.23%"
-  },
-  {
-    "id": "38581",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
-    "totalVoturi": 457,
-    "totalVoturiSENS": 27,
-    "procent": "5.91%"
-  },
-  {
-    "id": "38582",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
-    "totalVoturi": 714,
-    "totalVoturiSENS": 54,
-    "procent": "7.56%"
-  },
-  {
-    "id": "38583",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.115",
-    "totalVoturi": 697,
-    "totalVoturiSENS": 42,
-    "procent": "6.03%"
-  },
-  {
-    "id": "38584",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.115",
-    "totalVoturi": 613,
-    "totalVoturiSENS": 25,
-    "procent": "4.08%"
-  },
-  {
-    "id": "38585",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.115",
-    "totalVoturi": 733,
-    "totalVoturiSENS": 39,
-    "procent": "5.32%"
-  },
-  {
-    "id": "38586",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.115",
-    "totalVoturi": 604,
-    "totalVoturiSENS": 41,
-    "procent": "6.79%"
-  },
-  {
-    "id": "38587",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.115",
-    "totalVoturi": 679,
-    "totalVoturiSENS": 48,
-    "procent": "7.07%"
-  },
-  {
-    "id": "38588",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.115",
-    "totalVoturi": 588,
-    "totalVoturiSENS": 29,
-    "procent": "4.93%"
-  },
-  {
-    "id": "38594",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.150",
-    "totalVoturi": 374,
-    "totalVoturiSENS": 17,
-    "procent": "4.55%"
-  },
-  {
-    "id": "38595",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.150",
-    "totalVoturi": 424,
-    "totalVoturiSENS": 22,
-    "procent": "5.19%"
-  },
-  {
-    "id": "38596",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.150",
-    "totalVoturi": 349,
-    "totalVoturiSENS": 10,
-    "procent": "2.87%"
-  },
-  {
-    "id": "38597",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.150",
-    "totalVoturi": 374,
-    "totalVoturiSENS": 17,
-    "procent": "4.55%"
-  },
-  {
-    "id": "38598",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.150",
-    "totalVoturi": 374,
-    "totalVoturiSENS": 25,
-    "procent": "6.68%"
-  },
-  {
-    "id": "38599",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.150",
-    "totalVoturi": 429,
-    "totalVoturiSENS": 27,
-    "procent": "6.29%"
-  },
-  {
-    "id": "38600",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
-    "totalVoturi": 577,
-    "totalVoturiSENS": 18,
-    "procent": "3.12%"
-  },
-  {
-    "id": "38601",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
-    "totalVoturi": 521,
-    "totalVoturiSENS": 27,
-    "procent": "5.18%"
-  },
-  {
-    "id": "38602",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
-    "totalVoturi": 513,
-    "totalVoturiSENS": 36,
-    "procent": "7.02%"
-  },
-  {
-    "id": "38603",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
-    "totalVoturi": 499,
-    "totalVoturiSENS": 18,
-    "procent": "3.61%"
-  },
-  {
-    "id": "38604",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
-    "totalVoturi": 651,
-    "totalVoturiSENS": 27,
-    "procent": "4.15%"
-  },
-  {
-    "id": "38605",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
-    "totalVoturi": 460,
-    "totalVoturiSENS": 28,
-    "procent": "6.09%"
-  },
-  {
-    "id": "38606",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
-    "totalVoturi": 327,
-    "totalVoturiSENS": 20,
-    "procent": "6.12%"
-  },
-  {
-    "id": "38607",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.125",
-    "totalVoturi": 909,
-    "totalVoturiSENS": 42,
-    "procent": "4.62%"
-  },
-  {
-    "id": "38608",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.125",
-    "totalVoturi": 881,
-    "totalVoturiSENS": 50,
-    "procent": "5.68%"
-  },
-  {
-    "id": "38609",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.125",
-    "totalVoturi": 623,
-    "totalVoturiSENS": 25,
-    "procent": "4.01%"
-  },
-  {
-    "id": "38610",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.131",
-    "totalVoturi": 707,
-    "totalVoturiSENS": 29,
-    "procent": "4.10%"
-  },
-  {
-    "id": "38611",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.131",
-    "totalVoturi": 743,
-    "totalVoturiSENS": 29,
-    "procent": "3.90%"
-  },
-  {
-    "id": "38612",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.131",
-    "totalVoturi": 627,
-    "totalVoturiSENS": 30,
-    "procent": "4.78%"
-  },
-  {
-    "id": "38613",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.131",
-    "totalVoturi": 864,
-    "totalVoturiSENS": 38,
-    "procent": "4.40%"
-  },
-  {
-    "id": "38614",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.131",
-    "totalVoturi": 739,
-    "totalVoturiSENS": 43,
-    "procent": "5.82%"
-  },
-  {
-    "id": "38615",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.131",
-    "totalVoturi": 877,
-    "totalVoturiSENS": 40,
-    "procent": "4.56%"
-  },
-  {
-    "id": "38616",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.126",
-    "totalVoturi": 1044,
-    "totalVoturiSENS": 44,
-    "procent": "4.21%"
-  },
-  {
-    "id": "38617",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.126",
-    "totalVoturi": 547,
-    "totalVoturiSENS": 27,
-    "procent": "4.94%"
-  },
-  {
-    "id": "38618",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.126",
-    "totalVoturi": 521,
-    "totalVoturiSENS": 22,
-    "procent": "4.22%"
-  },
-  {
-    "id": "38619",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.126",
-    "totalVoturi": 502,
-    "totalVoturiSENS": 27,
-    "procent": "5.38%"
-  },
-  {
-    "id": "38623",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIRCEA SÂNTIMBREANU”",
-    "totalVoturi": 516,
-    "totalVoturiSENS": 39,
-    "procent": "7.56%"
-  },
-  {
-    "id": "38624",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIRCEA SÂNTIMBREANU”",
-    "totalVoturi": 439,
-    "totalVoturiSENS": 22,
-    "procent": "5.01%"
-  },
-  {
-    "id": "38625",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIRCEA SÂNTIMBREANU”",
-    "totalVoturi": 492,
-    "totalVoturiSENS": 37,
-    "procent": "7.52%"
-  },
-  {
-    "id": "38626",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIRCEA SÂNTIMBREANU”",
-    "totalVoturi": 483,
-    "totalVoturiSENS": 30,
-    "procent": "6.21%"
-  },
-  {
-    "id": "38627",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIRCEA SÂNTIMBREANU”",
-    "totalVoturi": 431,
-    "totalVoturiSENS": 13,
-    "procent": "3.02%"
-  },
-  {
-    "id": "38637",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.144",
-    "totalVoturi": 836,
-    "totalVoturiSENS": 69,
-    "procent": "8.25%"
-  },
-  {
-    "id": "38638",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.144",
-    "totalVoturi": 936,
-    "totalVoturiSENS": 64,
-    "procent": "6.84%"
-  },
-  {
-    "id": "38639",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.144",
-    "totalVoturi": 901,
+    "nume_sectie": "LICEUL TEHNOLOGIC ”DIMITRIE GUSTI”",
+    "totalVoturi": 690,
     "totalVoturiSENS": 59,
-    "procent": "6.55%"
+    "procent": "8.55%"
   },
   {
-    "id": "38640",
+    "id": "38564",
     "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
-    "totalVoturi": 483,
-    "totalVoturiSENS": 22,
-    "procent": "4.55%"
-  },
-  {
-    "id": "38641",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
-    "totalVoturi": 503,
-    "totalVoturiSENS": 34,
-    "procent": "6.76%"
-  },
-  {
-    "id": "38642",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
-    "totalVoturi": 457,
-    "totalVoturiSENS": 14,
-    "procent": "3.06%"
-  },
-  {
-    "id": "38643",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
-    "totalVoturi": 541,
+    "nume_sectie": "FACULTATEA DE DREPT",
+    "totalVoturi": 273,
     "totalVoturiSENS": 23,
-    "procent": "4.25%"
-  },
-  {
-    "id": "38644",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
-    "totalVoturi": 484,
-    "totalVoturiSENS": 22,
-    "procent": "4.55%"
-  },
-  {
-    "id": "38645",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
-    "totalVoturi": 580,
-    "totalVoturiSENS": 26,
-    "procent": "4.48%"
-  },
-  {
-    "id": "38646",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
-    "totalVoturi": 502,
-    "totalVoturiSENS": 22,
-    "procent": "4.38%"
-  },
-  {
-    "id": "38647",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
-    "totalVoturi": 499,
-    "totalVoturiSENS": 33,
-    "procent": "6.61%"
-  },
-  {
-    "id": "38648",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
-    "totalVoturi": 600,
-    "totalVoturiSENS": 31,
-    "procent": "5.17%"
+    "procent": "8.42%"
   },
   {
     "id": "38649",
@@ -1280,126 +56,6 @@
     "procent": "8.38%"
   },
   {
-    "id": "38650",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
-    "totalVoturi": 545,
-    "totalVoturiSENS": 22,
-    "procent": "4.04%"
-  },
-  {
-    "id": "38651",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
-    "totalVoturi": 398,
-    "totalVoturiSENS": 24,
-    "procent": "6.03%"
-  },
-  {
-    "id": "38652",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
-    "totalVoturi": 444,
-    "totalVoturiSENS": 22,
-    "procent": "4.95%"
-  },
-  {
-    "id": "38653",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
-    "totalVoturi": 450,
-    "totalVoturiSENS": 22,
-    "procent": "4.89%"
-  },
-  {
-    "id": "39967",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
-    "totalVoturi": 539,
-    "totalVoturiSENS": 38,
-    "procent": "7.05%"
-  },
-  {
-    "id": "39968",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
-    "totalVoturi": 513,
-    "totalVoturiSENS": 21,
-    "procent": "4.09%"
-  },
-  {
-    "id": "39969",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
-    "totalVoturi": 656,
-    "totalVoturiSENS": 25,
-    "procent": "3.81%"
-  },
-  {
-    "id": "39970",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
-    "totalVoturi": 538,
-    "totalVoturiSENS": 30,
-    "procent": "5.58%"
-  },
-  {
-    "id": "39971",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
-    "totalVoturi": 582,
-    "totalVoturiSENS": 27,
-    "procent": "4.64%"
-  },
-  {
-    "id": "39972",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
-    "totalVoturi": 480,
-    "totalVoturiSENS": 29,
-    "procent": "6.04%"
-  },
-  {
-    "id": "39973",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
-    "totalVoturi": 344,
-    "totalVoturiSENS": 15,
-    "procent": "4.36%"
-  },
-  {
-    "id": "39974",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
-    "totalVoturi": 404,
-    "totalVoturiSENS": 15,
-    "procent": "3.71%"
-  },
-  {
-    "id": "39975",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
-    "totalVoturi": 457,
-    "totalVoturiSENS": 28,
-    "procent": "6.13%"
-  },
-  {
-    "id": "39976",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
-    "totalVoturi": 518,
-    "totalVoturiSENS": 29,
-    "procent": "5.60%"
-  },
-  {
-    "id": "39977",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
-    "totalVoturi": 547,
-    "totalVoturiSENS": 29,
-    "procent": "5.30%"
-  },
-  {
     "id": "39978",
     "localitate": "BUCUREŞTI SECTORUL 5",
     "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
@@ -1408,140 +64,20 @@
     "procent": "8.37%"
   },
   {
-    "id": "39979",
+    "id": "38637",
     "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
-    "totalVoturi": 396,
-    "totalVoturiSENS": 17,
-    "procent": "4.29%"
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.144",
+    "totalVoturi": 836,
+    "totalVoturiSENS": 69,
+    "procent": "8.25%"
   },
   {
-    "id": "39980",
+    "id": "38533",
     "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
-    "totalVoturi": 381,
-    "totalVoturiSENS": 15,
-    "procent": "3.94%"
-  },
-  {
-    "id": "39981",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
-    "totalVoturi": 688,
-    "totalVoturiSENS": 32,
-    "procent": "4.65%"
-  },
-  {
-    "id": "39982",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
-    "totalVoturi": 468,
-    "totalVoturiSENS": 16,
-    "procent": "3.42%"
-  },
-  {
-    "id": "39983",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.127",
-    "totalVoturi": 739,
-    "totalVoturiSENS": 40,
-    "procent": "5.41%"
-  },
-  {
-    "id": "39984",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.127",
-    "totalVoturi": 829,
-    "totalVoturiSENS": 49,
-    "procent": "5.91%"
-  },
-  {
-    "id": "39985",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.127",
-    "totalVoturi": 890,
-    "totalVoturiSENS": 58,
-    "procent": "6.52%"
-  },
-  {
-    "id": "39986",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.127",
-    "totalVoturi": 841,
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PRINCIPESA MARGARETA”",
+    "totalVoturi": 516,
     "totalVoturiSENS": 41,
-    "procent": "4.88%"
-  },
-  {
-    "id": "39987",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.127",
-    "totalVoturi": 921,
-    "totalVoturiSENS": 41,
-    "procent": "4.45%"
-  },
-  {
-    "id": "39988",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
-    "totalVoturi": 539,
-    "totalVoturiSENS": 31,
-    "procent": "5.75%"
-  },
-  {
-    "id": "39989",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
-    "totalVoturi": 521,
-    "totalVoturiSENS": 25,
-    "procent": "4.80%"
-  },
-  {
-    "id": "39990",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
-    "totalVoturi": 536,
-    "totalVoturiSENS": 24,
-    "procent": "4.48%"
-  },
-  {
-    "id": "39991",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
-    "totalVoturi": 508,
-    "totalVoturiSENS": 32,
-    "procent": "6.30%"
-  },
-  {
-    "id": "39992",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
-    "totalVoturi": 514,
-    "totalVoturiSENS": 26,
-    "procent": "5.06%"
-  },
-  {
-    "id": "39993",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
-    "totalVoturi": 452,
-    "totalVoturiSENS": 26,
-    "procent": "5.75%"
-  },
-  {
-    "id": "39994",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
-    "totalVoturi": 476,
-    "totalVoturiSENS": 30,
-    "procent": "6.30%"
-  },
-  {
-    "id": "39995",
-    "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
-    "totalVoturi": 482,
-    "totalVoturiSENS": 25,
-    "procent": "5.19%"
+    "procent": "7.95%"
   },
   {
     "id": "39996",
@@ -1552,12 +88,420 @@
     "procent": "7.87%"
   },
   {
-    "id": "39997",
+    "id": "38470",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "COLEGIUL TEHNIC ENERGETIC",
+    "totalVoturi": 460,
+    "totalVoturiSENS": 36,
+    "procent": "7.83%"
+  },
+  {
+    "id": "38535",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "GRĂDINIȚA NR.168",
+    "totalVoturi": 554,
+    "totalVoturiSENS": 43,
+    "procent": "7.76%"
+  },
+  {
+    "id": "38582",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
+    "totalVoturi": 714,
+    "totalVoturiSENS": 54,
+    "procent": "7.56%"
+  },
+  {
+    "id": "38623",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIRCEA SÂNTIMBREANU”",
+    "totalVoturi": 516,
+    "totalVoturiSENS": 39,
+    "procent": "7.56%"
+  },
+  {
+    "id": "38625",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIRCEA SÂNTIMBREANU”",
+    "totalVoturi": 492,
+    "totalVoturiSENS": 37,
+    "procent": "7.52%"
+  },
+  {
+    "id": "40000",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.144",
+    "totalVoturi": 716,
+    "totalVoturiSENS": 53,
+    "procent": "7.40%"
+  },
+  {
+    "id": "38534",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "GRĂDINIȚA NR.168",
+    "totalVoturi": 732,
+    "totalVoturiSENS": 53,
+    "procent": "7.24%"
+  },
+  {
+    "id": "38579",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
+    "totalVoturi": 989,
+    "totalVoturiSENS": 71,
+    "procent": "7.18%"
+  },
+  {
+    "id": "38587",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.115",
+    "totalVoturi": 679,
+    "totalVoturiSENS": 48,
+    "procent": "7.07%"
+  },
+  {
+    "id": "39967",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
+    "totalVoturi": 539,
+    "totalVoturiSENS": 38,
+    "procent": "7.05%"
+  },
+  {
+    "id": "38494",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LUCEAFĂRUL”",
+    "totalVoturi": 627,
+    "totalVoturiSENS": 44,
+    "procent": "7.02%"
+  },
+  {
+    "id": "38602",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
+    "totalVoturi": 513,
+    "totalVoturiSENS": 36,
+    "procent": "7.02%"
+  },
+  {
+    "id": "38638",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.144",
+    "totalVoturi": 936,
+    "totalVoturiSENS": 64,
+    "procent": "6.84%"
+  },
+  {
+    "id": "38586",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.115",
+    "totalVoturi": 604,
+    "totalVoturiSENS": 41,
+    "procent": "6.79%"
+  },
+  {
+    "id": "38641",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
+    "totalVoturi": 503,
+    "totalVoturiSENS": 34,
+    "procent": "6.76%"
+  },
+  {
+    "id": "38573",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "GRĂDINȚA NR.178",
+    "totalVoturi": 867,
+    "totalVoturiSENS": 58,
+    "procent": "6.69%"
+  },
+  {
+    "id": "38598",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.150",
+    "totalVoturi": 374,
+    "totalVoturiSENS": 25,
+    "procent": "6.68%"
+  },
+  {
+    "id": "38647",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
+    "totalVoturi": 499,
+    "totalVoturiSENS": 33,
+    "procent": "6.61%"
+  },
+  {
+    "id": "38493",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LUCEAFĂRUL”",
+    "totalVoturi": 713,
+    "totalVoturiSENS": 47,
+    "procent": "6.59%"
+  },
+  {
+    "id": "38639",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.144",
+    "totalVoturi": 901,
+    "totalVoturiSENS": 59,
+    "procent": "6.55%"
+  },
+  {
+    "id": "38496",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.135",
+    "totalVoturi": 551,
+    "totalVoturiSENS": 36,
+    "procent": "6.53%"
+  },
+  {
+    "id": "39985",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.127",
+    "totalVoturi": 890,
+    "totalVoturiSENS": 58,
+    "procent": "6.52%"
+  },
+  {
+    "id": "38468",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "COLEGIUL TEHNIC ENERGETIC",
+    "totalVoturi": 540,
+    "totalVoturiSENS": 35,
+    "procent": "6.48%"
+  },
+  {
+    "id": "38464",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
+    "totalVoturi": 528,
+    "totalVoturiSENS": 34,
+    "procent": "6.44%"
+  },
+  {
+    "id": "38561",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
+    "totalVoturi": 501,
+    "totalVoturiSENS": 32,
+    "procent": "6.39%"
+  },
+  {
+    "id": "38471",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "COLEGIUL TEHNIC ENERGETIC",
+    "totalVoturi": 471,
+    "totalVoturiSENS": 30,
+    "procent": "6.37%"
+  },
+  {
+    "id": "39991",
     "localitate": "BUCUREŞTI SECTORUL 5",
     "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
-    "totalVoturi": 517,
+    "totalVoturi": 508,
+    "totalVoturiSENS": 32,
+    "procent": "6.30%"
+  },
+  {
+    "id": "39994",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
+    "totalVoturi": 476,
+    "totalVoturiSENS": 30,
+    "procent": "6.30%"
+  },
+  {
+    "id": "38523",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
+    "totalVoturi": 763,
+    "totalVoturiSENS": 48,
+    "procent": "6.29%"
+  },
+  {
+    "id": "38599",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.150",
+    "totalVoturi": 429,
+    "totalVoturiSENS": 27,
+    "procent": "6.29%"
+  },
+  {
+    "id": "38482",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.2",
+    "totalVoturi": 382,
+    "totalVoturiSENS": 24,
+    "procent": "6.28%"
+  },
+  {
+    "id": "38531",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PRINCIPESA MARGARETA”",
+    "totalVoturi": 382,
+    "totalVoturiSENS": 24,
+    "procent": "6.28%"
+  },
+  {
+    "id": "38574",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
+    "totalVoturi": 576,
+    "totalVoturiSENS": 36,
+    "procent": "6.25%"
+  },
+  {
+    "id": "38548",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”DIMITRIE GUSTI”",
+    "totalVoturi": 577,
+    "totalVoturiSENS": 36,
+    "procent": "6.24%"
+  },
+  {
+    "id": "38580",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
+    "totalVoturi": 562,
+    "totalVoturiSENS": 35,
+    "procent": "6.23%"
+  },
+  {
+    "id": "38626",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIRCEA SÂNTIMBREANU”",
+    "totalVoturi": 483,
+    "totalVoturiSENS": 30,
+    "procent": "6.21%"
+  },
+  {
+    "id": "38540",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
+    "totalVoturi": 500,
+    "totalVoturiSENS": 31,
+    "procent": "6.20%"
+  },
+  {
+    "id": "38575",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
+    "totalVoturi": 651,
+    "totalVoturiSENS": 40,
+    "procent": "6.14%"
+  },
+  {
+    "id": "39975",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
+    "totalVoturi": 457,
     "totalVoturiSENS": 28,
-    "procent": "5.42%"
+    "procent": "6.13%"
+  },
+  {
+    "id": "38484",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.188",
+    "totalVoturi": 425,
+    "totalVoturiSENS": 26,
+    "procent": "6.12%"
+  },
+  {
+    "id": "38606",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
+    "totalVoturi": 327,
+    "totalVoturiSENS": 20,
+    "procent": "6.12%"
+  },
+  {
+    "id": "38605",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
+    "totalVoturi": 460,
+    "totalVoturiSENS": 28,
+    "procent": "6.09%"
+  },
+  {
+    "id": "38487",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.188",
+    "totalVoturi": 445,
+    "totalVoturiSENS": 27,
+    "procent": "6.07%"
+  },
+  {
+    "id": "38551",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "GRĂDINIȚA NR.205",
+    "totalVoturi": 611,
+    "totalVoturiSENS": 37,
+    "procent": "6.06%"
+  },
+  {
+    "id": "38526",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
+    "totalVoturi": 728,
+    "totalVoturiSENS": 44,
+    "procent": "6.04%"
+  },
+  {
+    "id": "39972",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
+    "totalVoturi": 480,
+    "totalVoturiSENS": 29,
+    "procent": "6.04%"
+  },
+  {
+    "id": "38583",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.115",
+    "totalVoturi": 697,
+    "totalVoturiSENS": 42,
+    "procent": "6.03%"
+  },
+  {
+    "id": "38651",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
+    "totalVoturi": 398,
+    "totalVoturiSENS": 24,
+    "procent": "6.03%"
+  },
+  {
+    "id": "38483",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.2",
+    "totalVoturi": 518,
+    "totalVoturiSENS": 31,
+    "procent": "5.98%"
+  },
+  {
+    "id": "38537",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "CLUBUL COPIILOR SECTOR 5",
+    "totalVoturi": 603,
+    "totalVoturiSENS": 36,
+    "procent": "5.97%"
+  },
+  {
+    "id": "38581",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
+    "totalVoturi": 457,
+    "totalVoturiSENS": 27,
+    "procent": "5.91%"
+  },
+  {
+    "id": "39984",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.127",
+    "totalVoturi": 829,
+    "totalVoturiSENS": 49,
+    "procent": "5.91%"
   },
   {
     "id": "39998",
@@ -1568,6 +512,966 @@
     "procent": "5.85%"
   },
   {
+    "id": "38478",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.136",
+    "totalVoturi": 480,
+    "totalVoturiSENS": 28,
+    "procent": "5.83%"
+  },
+  {
+    "id": "38571",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "GRĂDINȚA NR.178",
+    "totalVoturi": 841,
+    "totalVoturiSENS": 49,
+    "procent": "5.83%"
+  },
+  {
+    "id": "38614",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.131",
+    "totalVoturi": 739,
+    "totalVoturiSENS": 43,
+    "procent": "5.82%"
+  },
+  {
+    "id": "38558",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
+    "totalVoturi": 552,
+    "totalVoturiSENS": 32,
+    "procent": "5.80%"
+  },
+  {
+    "id": "38572",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "GRĂDINȚA NR.178",
+    "totalVoturi": 398,
+    "totalVoturiSENS": 23,
+    "procent": "5.78%"
+  },
+  {
+    "id": "38567",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "COLEGIUL NAȚIONAL ”GHEORGHE LAZĂR”",
+    "totalVoturi": 364,
+    "totalVoturiSENS": 21,
+    "procent": "5.77%"
+  },
+  {
+    "id": "39988",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
+    "totalVoturi": 539,
+    "totalVoturiSENS": 31,
+    "procent": "5.75%"
+  },
+  {
+    "id": "39993",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
+    "totalVoturi": 452,
+    "totalVoturiSENS": 26,
+    "procent": "5.75%"
+  },
+  {
+    "id": "38544",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
+    "totalVoturi": 509,
+    "totalVoturiSENS": 29,
+    "procent": "5.70%"
+  },
+  {
+    "id": "38608",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.125",
+    "totalVoturi": 881,
+    "totalVoturiSENS": 50,
+    "procent": "5.68%"
+  },
+  {
+    "id": "38516",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE CĂLINESCU”",
+    "totalVoturi": 498,
+    "totalVoturiSENS": 28,
+    "procent": "5.62%"
+  },
+  {
+    "id": "38518",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE CĂLINESCU”",
+    "totalVoturi": 589,
+    "totalVoturiSENS": 33,
+    "procent": "5.60%"
+  },
+  {
+    "id": "39976",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
+    "totalVoturi": 518,
+    "totalVoturiSENS": 29,
+    "procent": "5.60%"
+  },
+  {
+    "id": "39970",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
+    "totalVoturi": 538,
+    "totalVoturiSENS": 30,
+    "procent": "5.58%"
+  },
+  {
+    "id": "38490",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LUCEAFĂRUL”",
+    "totalVoturi": 683,
+    "totalVoturiSENS": 38,
+    "procent": "5.56%"
+  },
+  {
+    "id": "38559",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
+    "totalVoturi": 506,
+    "totalVoturiSENS": 28,
+    "procent": "5.53%"
+  },
+  {
+    "id": "38542",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
+    "totalVoturi": 529,
+    "totalVoturiSENS": 29,
+    "procent": "5.48%"
+  },
+  {
+    "id": "38570",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "COLEGIUL NAȚIONAL ”GHEORGHE LAZĂR”",
+    "totalVoturi": 238,
+    "totalVoturiSENS": 13,
+    "procent": "5.46%"
+  },
+  {
+    "id": "38474",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.136",
+    "totalVoturi": 367,
+    "totalVoturiSENS": 20,
+    "procent": "5.45%"
+  },
+  {
+    "id": "38545",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
+    "totalVoturi": 461,
+    "totalVoturiSENS": 25,
+    "procent": "5.42%"
+  },
+  {
+    "id": "39997",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
+    "totalVoturi": 517,
+    "totalVoturiSENS": 28,
+    "procent": "5.42%"
+  },
+  {
+    "id": "39983",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.127",
+    "totalVoturi": 739,
+    "totalVoturiSENS": 40,
+    "procent": "5.41%"
+  },
+  {
+    "id": "38463",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
+    "totalVoturi": 687,
+    "totalVoturiSENS": 37,
+    "procent": "5.39%"
+  },
+  {
+    "id": "38519",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE CĂLINESCU”",
+    "totalVoturi": 631,
+    "totalVoturiSENS": 34,
+    "procent": "5.39%"
+  },
+  {
+    "id": "38568",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "COLEGIUL NAȚIONAL ”GHEORGHE LAZĂR”",
+    "totalVoturi": 186,
+    "totalVoturiSENS": 10,
+    "procent": "5.38%"
+  },
+  {
+    "id": "38619",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.126",
+    "totalVoturi": 502,
+    "totalVoturiSENS": 27,
+    "procent": "5.38%"
+  },
+  {
+    "id": "38479",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.2",
+    "totalVoturi": 430,
+    "totalVoturiSENS": 23,
+    "procent": "5.35%"
+  },
+  {
+    "id": "38585",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.115",
+    "totalVoturi": 733,
+    "totalVoturiSENS": 39,
+    "procent": "5.32%"
+  },
+  {
+    "id": "38497",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.135",
+    "totalVoturi": 661,
+    "totalVoturiSENS": 35,
+    "procent": "5.30%"
+  },
+  {
+    "id": "38524",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
+    "totalVoturi": 774,
+    "totalVoturiSENS": 41,
+    "procent": "5.30%"
+  },
+  {
+    "id": "38555",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
+    "totalVoturi": 434,
+    "totalVoturiSENS": 23,
+    "procent": "5.30%"
+  },
+  {
+    "id": "39977",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
+    "totalVoturi": 547,
+    "totalVoturiSENS": 29,
+    "procent": "5.30%"
+  },
+  {
+    "id": "38541",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
+    "totalVoturi": 558,
+    "totalVoturiSENS": 29,
+    "procent": "5.20%"
+  },
+  {
+    "id": "38595",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.150",
+    "totalVoturi": 424,
+    "totalVoturiSENS": 22,
+    "procent": "5.19%"
+  },
+  {
+    "id": "39995",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
+    "totalVoturi": 482,
+    "totalVoturiSENS": 25,
+    "procent": "5.19%"
+  },
+  {
+    "id": "38498",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.135",
+    "totalVoturi": 541,
+    "totalVoturiSENS": 28,
+    "procent": "5.18%"
+  },
+  {
+    "id": "38601",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
+    "totalVoturi": 521,
+    "totalVoturiSENS": 27,
+    "procent": "5.18%"
+  },
+  {
+    "id": "38648",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
+    "totalVoturi": 600,
+    "totalVoturiSENS": 31,
+    "procent": "5.17%"
+  },
+  {
+    "id": "38532",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PRINCIPESA MARGARETA”",
+    "totalVoturi": 408,
+    "totalVoturiSENS": 21,
+    "procent": "5.15%"
+  },
+  {
+    "id": "38457",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
+    "totalVoturi": 294,
+    "totalVoturiSENS": 15,
+    "procent": "5.10%"
+  },
+  {
+    "id": "38466",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
+    "totalVoturi": 490,
+    "totalVoturiSENS": 25,
+    "procent": "5.10%"
+  },
+  {
+    "id": "38525",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
+    "totalVoturi": 711,
+    "totalVoturiSENS": 36,
+    "procent": "5.06%"
+  },
+  {
+    "id": "39992",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
+    "totalVoturi": 514,
+    "totalVoturiSENS": 26,
+    "procent": "5.06%"
+  },
+  {
+    "id": "38547",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”DIMITRIE GUSTI”",
+    "totalVoturi": 655,
+    "totalVoturiSENS": 33,
+    "procent": "5.04%"
+  },
+  {
+    "id": "38576",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
+    "totalVoturi": 556,
+    "totalVoturiSENS": 28,
+    "procent": "5.04%"
+  },
+  {
+    "id": "38624",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIRCEA SÂNTIMBREANU”",
+    "totalVoturi": 439,
+    "totalVoturiSENS": 22,
+    "procent": "5.01%"
+  },
+  {
+    "id": "38652",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
+    "totalVoturi": 444,
+    "totalVoturiSENS": 22,
+    "procent": "4.95%"
+  },
+  {
+    "id": "38538",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
+    "totalVoturi": 770,
+    "totalVoturiSENS": 38,
+    "procent": "4.94%"
+  },
+  {
+    "id": "38617",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.126",
+    "totalVoturi": 547,
+    "totalVoturiSENS": 27,
+    "procent": "4.94%"
+  },
+  {
+    "id": "38480",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.2",
+    "totalVoturi": 487,
+    "totalVoturiSENS": 24,
+    "procent": "4.93%"
+  },
+  {
+    "id": "38588",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.115",
+    "totalVoturi": 588,
+    "totalVoturiSENS": 29,
+    "procent": "4.93%"
+  },
+  {
+    "id": "38653",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
+    "totalVoturi": 450,
+    "totalVoturiSENS": 22,
+    "procent": "4.89%"
+  },
+  {
+    "id": "39986",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.127",
+    "totalVoturi": 841,
+    "totalVoturiSENS": 41,
+    "procent": "4.88%"
+  },
+  {
+    "id": "38556",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
+    "totalVoturi": 496,
+    "totalVoturiSENS": 24,
+    "procent": "4.84%"
+  },
+  {
+    "id": "38530",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PRINCIPESA MARGARETA”",
+    "totalVoturi": 521,
+    "totalVoturiSENS": 25,
+    "procent": "4.80%"
+  },
+  {
+    "id": "39989",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
+    "totalVoturi": 521,
+    "totalVoturiSENS": 25,
+    "procent": "4.80%"
+  },
+  {
+    "id": "38612",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.131",
+    "totalVoturi": 627,
+    "totalVoturiSENS": 30,
+    "procent": "4.78%"
+  },
+  {
+    "id": "38469",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "COLEGIUL TEHNIC ENERGETIC",
+    "totalVoturi": 631,
+    "totalVoturiSENS": 30,
+    "procent": "4.75%"
+  },
+  {
+    "id": "38473",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.136",
+    "totalVoturi": 337,
+    "totalVoturiSENS": 16,
+    "procent": "4.75%"
+  },
+  {
+    "id": "38495",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LUCEAFĂRUL”",
+    "totalVoturi": 531,
+    "totalVoturiSENS": 25,
+    "procent": "4.71%"
+  },
+  {
+    "id": "38578",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”ION BARBU”",
+    "totalVoturi": 682,
+    "totalVoturiSENS": 32,
+    "procent": "4.69%"
+  },
+  {
+    "id": "39981",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
+    "totalVoturi": 688,
+    "totalVoturiSENS": 32,
+    "procent": "4.65%"
+  },
+  {
+    "id": "39971",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
+    "totalVoturi": 582,
+    "totalVoturiSENS": 27,
+    "procent": "4.64%"
+  },
+  {
+    "id": "38607",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.125",
+    "totalVoturi": 909,
+    "totalVoturiSENS": 42,
+    "procent": "4.62%"
+  },
+  {
+    "id": "38499",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.135",
+    "totalVoturi": 766,
+    "totalVoturiSENS": 35,
+    "procent": "4.57%"
+  },
+  {
+    "id": "38615",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.131",
+    "totalVoturi": 877,
+    "totalVoturiSENS": 40,
+    "procent": "4.56%"
+  },
+  {
+    "id": "38554",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
+    "totalVoturi": 484,
+    "totalVoturiSENS": 22,
+    "procent": "4.55%"
+  },
+  {
+    "id": "38594",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.150",
+    "totalVoturi": 374,
+    "totalVoturiSENS": 17,
+    "procent": "4.55%"
+  },
+  {
+    "id": "38597",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.150",
+    "totalVoturi": 374,
+    "totalVoturiSENS": 17,
+    "procent": "4.55%"
+  },
+  {
+    "id": "38640",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
+    "totalVoturi": 483,
+    "totalVoturiSENS": 22,
+    "procent": "4.55%"
+  },
+  {
+    "id": "38644",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
+    "totalVoturi": 484,
+    "totalVoturiSENS": 22,
+    "procent": "4.55%"
+  },
+  {
+    "id": "38462",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
+    "totalVoturi": 552,
+    "totalVoturiSENS": 25,
+    "procent": "4.53%"
+  },
+  {
+    "id": "38560",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
+    "totalVoturi": 535,
+    "totalVoturiSENS": 24,
+    "procent": "4.49%"
+  },
+  {
+    "id": "38486",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.188",
+    "totalVoturi": 424,
+    "totalVoturiSENS": 19,
+    "procent": "4.48%"
+  },
+  {
+    "id": "38645",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
+    "totalVoturi": 580,
+    "totalVoturiSENS": 26,
+    "procent": "4.48%"
+  },
+  {
+    "id": "39990",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
+    "totalVoturi": 536,
+    "totalVoturiSENS": 24,
+    "procent": "4.48%"
+  },
+  {
+    "id": "39987",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.127",
+    "totalVoturi": 921,
+    "totalVoturiSENS": 41,
+    "procent": "4.45%"
+  },
+  {
+    "id": "38491",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LUCEAFĂRUL”",
+    "totalVoturi": 500,
+    "totalVoturiSENS": 22,
+    "procent": "4.40%"
+  },
+  {
+    "id": "38613",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.131",
+    "totalVoturi": 864,
+    "totalVoturiSENS": 38,
+    "procent": "4.40%"
+  },
+  {
+    "id": "38646",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
+    "totalVoturi": 502,
+    "totalVoturiSENS": 22,
+    "procent": "4.38%"
+  },
+  {
+    "id": "38527",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
+    "totalVoturi": 505,
+    "totalVoturiSENS": 22,
+    "procent": "4.36%"
+  },
+  {
+    "id": "39973",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
+    "totalVoturi": 344,
+    "totalVoturiSENS": 15,
+    "procent": "4.36%"
+  },
+  {
+    "id": "38557",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
+    "totalVoturi": 575,
+    "totalVoturiSENS": 25,
+    "procent": "4.35%"
+  },
+  {
+    "id": "39979",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
+    "totalVoturi": 396,
+    "totalVoturiSENS": 17,
+    "procent": "4.29%"
+  },
+  {
+    "id": "38520",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE CĂLINESCU”",
+    "totalVoturi": 633,
+    "totalVoturiSENS": 27,
+    "procent": "4.27%"
+  },
+  {
+    "id": "38643",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
+    "totalVoturi": 541,
+    "totalVoturiSENS": 23,
+    "procent": "4.25%"
+  },
+  {
+    "id": "38618",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.126",
+    "totalVoturi": 521,
+    "totalVoturiSENS": 22,
+    "procent": "4.22%"
+  },
+  {
+    "id": "38536",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "CLUBUL COPIILOR SECTOR 5",
+    "totalVoturi": 641,
+    "totalVoturiSENS": 27,
+    "procent": "4.21%"
+  },
+  {
+    "id": "38616",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.126",
+    "totalVoturi": 1044,
+    "totalVoturiSENS": 44,
+    "procent": "4.21%"
+  },
+  {
+    "id": "38467",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
+    "totalVoturi": 478,
+    "totalVoturiSENS": 20,
+    "procent": "4.18%"
+  },
+  {
+    "id": "38529",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
+    "totalVoturi": 718,
+    "totalVoturiSENS": 30,
+    "procent": "4.18%"
+  },
+  {
+    "id": "38604",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
+    "totalVoturi": 651,
+    "totalVoturiSENS": 27,
+    "procent": "4.15%"
+  },
+  {
+    "id": "38610",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.131",
+    "totalVoturi": 707,
+    "totalVoturiSENS": 29,
+    "procent": "4.10%"
+  },
+  {
+    "id": "39968",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
+    "totalVoturi": 513,
+    "totalVoturiSENS": 21,
+    "procent": "4.09%"
+  },
+  {
+    "id": "38458",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
+    "totalVoturi": 735,
+    "totalVoturiSENS": 30,
+    "procent": "4.08%"
+  },
+  {
+    "id": "38584",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.115",
+    "totalVoturi": 613,
+    "totalVoturiSENS": 25,
+    "procent": "4.08%"
+  },
+  {
+    "id": "38562",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "LICEUL TEORETIC ”DIMITRIE BOLINTINEANU”",
+    "totalVoturi": 418,
+    "totalVoturiSENS": 17,
+    "procent": "4.07%"
+  },
+  {
+    "id": "38481",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.2",
+    "totalVoturi": 443,
+    "totalVoturiSENS": 18,
+    "procent": "4.06%"
+  },
+  {
+    "id": "38477",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.136",
+    "totalVoturi": 519,
+    "totalVoturiSENS": 21,
+    "procent": "4.05%"
+  },
+  {
+    "id": "38650",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
+    "totalVoturi": 545,
+    "totalVoturiSENS": 22,
+    "procent": "4.04%"
+  },
+  {
+    "id": "38563",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "FACULTATEA DE DREPT",
+    "totalVoturi": 347,
+    "totalVoturiSENS": 14,
+    "procent": "4.03%"
+  },
+  {
+    "id": "38609",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.125",
+    "totalVoturi": 623,
+    "totalVoturiSENS": 25,
+    "procent": "4.01%"
+  },
+  {
+    "id": "38528",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
+    "totalVoturi": 700,
+    "totalVoturiSENS": 28,
+    "procent": "4.00%"
+  },
+  {
+    "id": "38521",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
+    "totalVoturi": 531,
+    "totalVoturiSENS": 21,
+    "procent": "3.95%"
+  },
+  {
+    "id": "38539",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
+    "totalVoturi": 533,
+    "totalVoturiSENS": 21,
+    "procent": "3.94%"
+  },
+  {
+    "id": "38549",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "GRĂDINIȚA NR.205",
+    "totalVoturi": 685,
+    "totalVoturiSENS": 27,
+    "procent": "3.94%"
+  },
+  {
+    "id": "39980",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
+    "totalVoturi": 381,
+    "totalVoturiSENS": 15,
+    "procent": "3.94%"
+  },
+  {
+    "id": "38488",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.188",
+    "totalVoturi": 356,
+    "totalVoturiSENS": 14,
+    "procent": "3.93%"
+  },
+  {
+    "id": "38611",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.131",
+    "totalVoturi": 743,
+    "totalVoturiSENS": 29,
+    "procent": "3.90%"
+  },
+  {
+    "id": "38475",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.136",
+    "totalVoturi": 387,
+    "totalVoturiSENS": 15,
+    "procent": "3.88%"
+  },
+  {
+    "id": "38489",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LUCEAFĂRUL”",
+    "totalVoturi": 541,
+    "totalVoturiSENS": 21,
+    "procent": "3.88%"
+  },
+  {
+    "id": "38566",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "COLEGIUL NAȚIONAL ”GHEORGHE LAZĂR”",
+    "totalVoturi": 335,
+    "totalVoturiSENS": 13,
+    "procent": "3.88%"
+  },
+  {
+    "id": "38461",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
+    "totalVoturi": 575,
+    "totalVoturiSENS": 22,
+    "procent": "3.83%"
+  },
+  {
+    "id": "38517",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”GEORGE CĂLINESCU”",
+    "totalVoturi": 496,
+    "totalVoturiSENS": 19,
+    "procent": "3.83%"
+  },
+  {
+    "id": "39969",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
+    "totalVoturi": 656,
+    "totalVoturiSENS": 25,
+    "procent": "3.81%"
+  },
+  {
+    "id": "39974",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ION I.C. BRĂTIANU",
+    "totalVoturi": 404,
+    "totalVoturiSENS": 15,
+    "procent": "3.71%"
+  },
+  {
+    "id": "38485",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.188",
+    "totalVoturi": 650,
+    "totalVoturiSENS": 24,
+    "procent": "3.69%"
+  },
+  {
+    "id": "38603",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
+    "totalVoturi": 499,
+    "totalVoturiSENS": 18,
+    "procent": "3.61%"
+  },
+  {
+    "id": "39982",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
+    "totalVoturi": 468,
+    "totalVoturiSENS": 16,
+    "procent": "3.42%"
+  },
+  {
+    "id": "38543",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.280",
+    "totalVoturi": 546,
+    "totalVoturiSENS": 18,
+    "procent": "3.30%"
+  },
+  {
     "id": "39999",
     "localitate": "BUCUREŞTI SECTORUL 5",
     "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.124",
@@ -1576,11 +1480,107 @@
     "procent": "3.20%"
   },
   {
-    "id": "40000",
+    "id": "38600",
     "localitate": "BUCUREŞTI SECTORUL 5",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.144",
-    "totalVoturi": 716,
-    "totalVoturiSENS": 53,
-    "procent": "7.40%"
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.128",
+    "totalVoturi": 577,
+    "totalVoturiSENS": 18,
+    "procent": "3.12%"
+  },
+  {
+    "id": "38465",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
+    "totalVoturi": 452,
+    "totalVoturiSENS": 14,
+    "procent": "3.10%"
+  },
+  {
+    "id": "38553",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "GRĂDINIȚA NR.205",
+    "totalVoturi": 589,
+    "totalVoturiSENS": 18,
+    "procent": "3.06%"
+  },
+  {
+    "id": "38642",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.143",
+    "totalVoturi": 457,
+    "totalVoturiSENS": 14,
+    "procent": "3.06%"
+  },
+  {
+    "id": "38522",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”PETRACHE POENARU”",
+    "totalVoturi": 557,
+    "totalVoturiSENS": 17,
+    "procent": "3.05%"
+  },
+  {
+    "id": "38627",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIRCEA SÂNTIMBREANU”",
+    "totalVoturi": 431,
+    "totalVoturiSENS": 13,
+    "procent": "3.02%"
+  },
+  {
+    "id": "38596",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.150",
+    "totalVoturi": 349,
+    "totalVoturiSENS": 10,
+    "procent": "2.87%"
+  },
+  {
+    "id": "38460",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.134",
+    "totalVoturi": 527,
+    "totalVoturiSENS": 15,
+    "procent": "2.85%"
+  },
+  {
+    "id": "38492",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”LUCEAFĂRUL”",
+    "totalVoturi": 597,
+    "totalVoturiSENS": 17,
+    "procent": "2.85%"
+  },
+  {
+    "id": "38550",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "GRĂDINIȚA NR.205",
+    "totalVoturi": 528,
+    "totalVoturiSENS": 15,
+    "procent": "2.84%"
+  },
+  {
+    "id": "38472",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.136",
+    "totalVoturi": 508,
+    "totalVoturiSENS": 14,
+    "procent": "2.76%"
+  },
+  {
+    "id": "38476",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.136",
+    "totalVoturi": 485,
+    "totalVoturiSENS": 10,
+    "procent": "2.06%"
+  },
+  {
+    "id": "38552",
+    "localitate": "BUCUREŞTI SECTORUL 5",
+    "nume_sectie": "GRĂDINIȚA NR.205",
+    "totalVoturi": 525,
+    "totalVoturiSENS": 9,
+    "procent": "1.71%"
   }
 ]

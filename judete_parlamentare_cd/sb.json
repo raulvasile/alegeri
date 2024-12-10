@@ -1,587 +1,19 @@
 [
   {
-    "id": "34208",
+    "id": "39826",
     "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 10 CU STRUCTURA GRADINIŢA CU PROGRAM PRELUNGIT NR. 20",
-    "totalVoturi": 817,
-    "totalVoturiSENS": 40,
-    "procent": "4.90%"
+    "nume_sectie": "LICEUL TEHNOLOGIC CONSTRUCȚII ȘI ARHITECTURĂ CAROL I SIBIU",
+    "totalVoturi": 904,
+    "totalVoturiSENS": 74,
+    "procent": "8.19%"
   },
   {
-    "id": "34209",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 10 CU STRUCTURA GRADINIŢA CU PROGRAM PRELUNGIT NR. 20",
-    "totalVoturi": 835,
-    "totalVoturiSENS": 43,
-    "procent": "5.15%"
-  },
-  {
-    "id": "34210",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.10",
-    "totalVoturi": 962,
-    "totalVoturiSENS": 48,
-    "procent": "4.99%"
-  },
-  {
-    "id": "34211",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.10",
-    "totalVoturi": 882,
-    "totalVoturiSENS": 34,
-    "procent": "3.85%"
-  },
-  {
-    "id": "34212",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.10",
-    "totalVoturi": 944,
-    "totalVoturiSENS": 38,
-    "procent": "4.03%"
-  },
-  {
-    "id": "34213",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 13 CU STRUCTURA ŞCOALA GIMNAZIALĂ NR. 12",
-    "totalVoturi": 922,
-    "totalVoturiSENS": 46,
-    "procent": "4.99%"
-  },
-  {
-    "id": "34214",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 13 CU STRUCTURA ŞCOALA GIMNAZIALĂ NR. 12",
-    "totalVoturi": 931,
-    "totalVoturiSENS": 53,
-    "procent": "5.69%"
-  },
-  {
-    "id": "34215",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 13 CU STRUCTURA ŞCOALA GIMNAZIALĂ NR. 12",
-    "totalVoturi": 829,
-    "totalVoturiSENS": 37,
-    "procent": "4.46%"
-  },
-  {
-    "id": "34216",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "LICEUL TEHNOLOGIC CONSTRUCȚII ŞI ARHITECTURĂ CAROL I SIBIU",
-    "totalVoturi": 546,
-    "totalVoturiSENS": 21,
-    "procent": "3.85%"
-  },
-  {
-    "id": "34217",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.13",
-    "totalVoturi": 570,
-    "totalVoturiSENS": 32,
-    "procent": "5.61%"
-  },
-  {
-    "id": "34218",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.13",
-    "totalVoturi": 602,
-    "totalVoturiSENS": 31,
-    "procent": "5.15%"
-  },
-  {
-    "id": "34219",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.13",
-    "totalVoturi": 677,
-    "totalVoturiSENS": 36,
-    "procent": "5.32%"
-  },
-  {
-    "id": "34220",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.23",
-    "totalVoturi": 1135,
-    "totalVoturiSENS": 61,
-    "procent": "5.37%"
-  },
-  {
-    "id": "34221",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.23",
-    "totalVoturi": 899,
-    "totalVoturiSENS": 41,
-    "procent": "4.56%"
-  },
-  {
-    "id": "34222",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.23",
-    "totalVoturi": 729,
-    "totalVoturiSENS": 40,
-    "procent": "5.49%"
-  },
-  {
-    "id": "34223",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIUL TEHNIC INDEPENDENŢA",
-    "totalVoturi": 634,
-    "totalVoturiSENS": 38,
-    "procent": "5.99%"
-  },
-  {
-    "id": "34224",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARĂ TEREZIANUM SIBIU",
-    "totalVoturi": 791,
-    "totalVoturiSENS": 34,
-    "procent": "4.30%"
-  },
-  {
-    "id": "34225",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARĂ TEREZIANUM SIBIU",
-    "totalVoturi": 786,
-    "totalVoturiSENS": 48,
-    "procent": "6.11%"
-  },
-  {
-    "id": "34226",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.18",
-    "totalVoturi": 1025,
-    "totalVoturiSENS": 48,
-    "procent": "4.68%"
-  },
-  {
-    "id": "34227",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.18",
-    "totalVoturi": 954,
-    "totalVoturiSENS": 60,
-    "procent": "6.29%"
-  },
-  {
-    "id": "34228",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI CU STRUCTURA ŞCOALA GIMNAZIALĂ NR. 11",
-    "totalVoturi": 667,
-    "totalVoturiSENS": 27,
-    "procent": "4.05%"
-  },
-  {
-    "id": "34229",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI CU STRUCTURA ŞCOALA GIMNAZIALĂ NR. 11",
-    "totalVoturi": 856,
-    "totalVoturiSENS": 49,
-    "procent": "5.72%"
-  },
-  {
-    "id": "34230",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI",
-    "totalVoturi": 1041,
-    "totalVoturiSENS": 51,
-    "procent": "4.90%"
-  },
-  {
-    "id": "34231",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI",
-    "totalVoturi": 875,
-    "totalVoturiSENS": 40,
-    "procent": "4.57%"
-  },
-  {
-    "id": "34232",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "LICEUL TEHNOLOGIC HENRI COANDĂ",
-    "totalVoturi": 471,
-    "totalVoturiSENS": 32,
-    "procent": "6.79%"
-  },
-  {
-    "id": "34233",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "LICEUL TEHNOLOGIC HENRI COANDĂ",
-    "totalVoturi": 539,
-    "totalVoturiSENS": 15,
-    "procent": "2.78%"
-  },
-  {
-    "id": "34234",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "LICEUL TEHNOLOGIC HENRI COANDĂ",
-    "totalVoturi": 714,
-    "totalVoturiSENS": 19,
-    "procent": "2.66%"
-  },
-  {
-    "id": "34235",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8",
-    "totalVoturi": 647,
-    "totalVoturiSENS": 28,
-    "procent": "4.33%"
-  },
-  {
-    "id": "34236",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8",
-    "totalVoturi": 735,
-    "totalVoturiSENS": 43,
-    "procent": "5.85%"
-  },
-  {
-    "id": "34237",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8",
-    "totalVoturi": 727,
-    "totalVoturiSENS": 21,
-    "procent": "2.89%"
-  },
-  {
-    "id": "34238",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8",
-    "totalVoturi": 971,
-    "totalVoturiSENS": 43,
-    "procent": "4.43%"
-  },
-  {
-    "id": "34239",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 17",
-    "totalVoturi": 435,
-    "totalVoturiSENS": 6,
-    "procent": "1.38%"
-  },
-  {
-    "id": "34240",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 37",
-    "totalVoturi": 562,
-    "totalVoturiSENS": 26,
-    "procent": "4.63%"
-  },
-  {
-    "id": "34241",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.2 SIBIU",
-    "totalVoturi": 615,
-    "totalVoturiSENS": 41,
-    "procent": "6.67%"
-  },
-  {
-    "id": "34242",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.2 SIBIU",
-    "totalVoturi": 558,
-    "totalVoturiSENS": 29,
-    "procent": "5.20%"
-  },
-  {
-    "id": "34243",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.2",
-    "totalVoturi": 517,
-    "totalVoturiSENS": 32,
-    "procent": "6.19%"
-  },
-  {
-    "id": "34244",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIUL NAŢIONAL GHEORGHE LAZĂR SIBIU",
-    "totalVoturi": 573,
-    "totalVoturiSENS": 39,
-    "procent": "6.81%"
-  },
-  {
-    "id": "34245",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "LICEUL DE ARTĂ SIBIU",
-    "totalVoturi": 343,
-    "totalVoturiSENS": 21,
-    "procent": "6.12%"
-  },
-  {
-    "id": "34246",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "LICEUL DE ARTĂ SIBIU",
-    "totalVoturi": 403,
-    "totalVoturiSENS": 15,
-    "procent": "3.72%"
-  },
-  {
-    "id": "34247",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIUL TEHNIC INDEPENDENŢA SIBIU",
-    "totalVoturi": 484,
-    "totalVoturiSENS": 30,
-    "procent": "6.20%"
-  },
-  {
-    "id": "34248",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIUL NAŢIONAL OCTAVIAN GOGA SIBIU",
-    "totalVoturi": 427,
-    "totalVoturiSENS": 22,
-    "procent": "5.15%"
-  },
-  {
-    "id": "34249",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIUL NAŢIONAL OCTAVIAN GOGA CU STRUCTURĂ ŞCOALA CU CLASELE I-VIII NR. 15",
-    "totalVoturi": 556,
-    "totalVoturiSENS": 26,
-    "procent": "4.68%"
-  },
-  {
-    "id": "34250",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGINA MARIA",
-    "totalVoturi": 682,
-    "totalVoturiSENS": 34,
-    "procent": "4.99%"
-  },
-  {
-    "id": "34251",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGINA MARIA",
-    "totalVoturi": 557,
-    "totalVoturiSENS": 26,
-    "procent": "4.67%"
-  },
-  {
-    "id": "34252",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIUL AGRICOL DANIIL POPOVICI BARCIANU SIBIU",
-    "totalVoturi": 558,
-    "totalVoturiSENS": 28,
-    "procent": "5.02%"
-  },
-  {
-    "id": "34253",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "CASA CORPULUI DIDACTIC",
-    "totalVoturi": 801,
-    "totalVoturiSENS": 54,
-    "procent": "6.74%"
-  },
-  {
-    "id": "34254",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "LICEUL TEORETIC ONISIFOR GHIBU",
-    "totalVoturi": 677,
-    "totalVoturiSENS": 35,
-    "procent": "5.17%"
-  },
-  {
-    "id": "34255",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 1",
-    "totalVoturi": 799,
-    "totalVoturiSENS": 36,
-    "procent": "4.51%"
-  },
-  {
-    "id": "34256",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 1",
-    "totalVoturi": 807,
+    "id": "34566",
+    "localitate": "ŞELIMBĂR",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM PRELUNGIT ”DOAMNA STANCA”ȘELIMBĂR",
+    "totalVoturi": 404,
     "totalVoturiSENS": 33,
-    "procent": "4.09%"
-  },
-  {
-    "id": "34257",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 1",
-    "totalVoturi": 825,
-    "totalVoturiSENS": 27,
-    "procent": "3.27%"
-  },
-  {
-    "id": "34258",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 1",
-    "totalVoturi": 958,
-    "totalVoturiSENS": 61,
-    "procent": "6.37%"
-  },
-  {
-    "id": "34259",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 22",
-    "totalVoturi": 936,
-    "totalVoturiSENS": 40,
-    "procent": "4.27%"
-  },
-  {
-    "id": "34260",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 22",
-    "totalVoturi": 805,
-    "totalVoturiSENS": 36,
-    "procent": "4.47%"
-  },
-  {
-    "id": "34261",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 22",
-    "totalVoturi": 1064,
-    "totalVoturiSENS": 65,
-    "procent": "6.11%"
-  },
-  {
-    "id": "34262",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 22",
-    "totalVoturi": 539,
-    "totalVoturiSENS": 32,
-    "procent": "5.94%"
-  },
-  {
-    "id": "34263",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 25",
-    "totalVoturi": 694,
-    "totalVoturiSENS": 41,
-    "procent": "5.91%"
-  },
-  {
-    "id": "34264",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 25",
-    "totalVoturi": 662,
-    "totalVoturiSENS": 27,
-    "procent": "4.08%"
-  },
-  {
-    "id": "34265",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 25",
-    "totalVoturi": 704,
-    "totalVoturiSENS": 35,
-    "procent": "4.97%"
-  },
-  {
-    "id": "34266",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 25",
-    "totalVoturi": 850,
-    "totalVoturiSENS": 34,
-    "procent": "4.00%"
-  },
-  {
-    "id": "34267",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE",
-    "totalVoturi": 875,
-    "totalVoturiSENS": 32,
-    "procent": "3.66%"
-  },
-  {
-    "id": "34268",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE",
-    "totalVoturi": 712,
-    "totalVoturiSENS": 35,
-    "procent": "4.92%"
-  },
-  {
-    "id": "34269",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE",
-    "totalVoturi": 716,
-    "totalVoturiSENS": 36,
-    "procent": "5.03%"
-  },
-  {
-    "id": "34270",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "FACULTATEA DE INGINERIE",
-    "totalVoturi": 623,
-    "totalVoturiSENS": 40,
-    "procent": "6.42%"
-  },
-  {
-    "id": "34271",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIU ECONOMIC GEORGE BARIŢIU",
-    "totalVoturi": 563,
-    "totalVoturiSENS": 28,
-    "procent": "4.97%"
-  },
-  {
-    "id": "34272",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIU ECONOMIC GEORGE BARIŢIU",
-    "totalVoturi": 662,
-    "totalVoturiSENS": 41,
-    "procent": "6.19%"
-  },
-  {
-    "id": "34273",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIUL ECONOMIC GEORGE BARIŢIU, SIBIU",
-    "totalVoturi": 704,
-    "totalVoturiSENS": 33,
-    "procent": "4.69%"
-  },
-  {
-    "id": "34274",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.4 SIBIU",
-    "totalVoturi": 741,
-    "totalVoturiSENS": 27,
-    "procent": "3.64%"
-  },
-  {
-    "id": "34275",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.4",
-    "totalVoturi": 721,
-    "totalVoturiSENS": 48,
-    "procent": "6.66%"
-  },
-  {
-    "id": "34276",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.4",
-    "totalVoturi": 607,
-    "totalVoturiSENS": 30,
-    "procent": "4.94%"
-  },
-  {
-    "id": "34277",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.4",
-    "totalVoturi": 791,
-    "totalVoturiSENS": 30,
-    "procent": "3.79%"
-  },
-  {
-    "id": "34278",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIUL TEHNIC ENERGETIC",
-    "totalVoturi": 895,
-    "totalVoturiSENS": 43,
-    "procent": "4.80%"
-  },
-  {
-    "id": "34279",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIUL TEHNIC ENERGETIC",
-    "totalVoturi": 552,
-    "totalVoturiSENS": 25,
-    "procent": "4.53%"
-  },
-  {
-    "id": "34280",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIUL TEHNIC ENERGETIC",
-    "totalVoturi": 733,
-    "totalVoturiSENS": 29,
-    "procent": "3.96%"
+    "procent": "8.17%"
   },
   {
     "id": "34281",
@@ -592,52 +24,164 @@
     "procent": "7.45%"
   },
   {
-    "id": "34282",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND",
-    "totalVoturi": 546,
-    "totalVoturiSENS": 25,
-    "procent": "4.58%"
+    "id": "34320",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "SC HULA VECHE SRL",
+    "totalVoturi": 554,
+    "totalVoturiSENS": 38,
+    "procent": "6.86%"
   },
   {
-    "id": "34283",
+    "id": "34244",
     "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND",
-    "totalVoturi": 556,
-    "totalVoturiSENS": 17,
-    "procent": "3.06%"
+    "nume_sectie": "COLEGIUL NAŢIONAL GHEORGHE LAZĂR SIBIU",
+    "totalVoturi": 573,
+    "totalVoturiSENS": 39,
+    "procent": "6.81%"
   },
   {
-    "id": "34284",
+    "id": "34232",
     "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND",
-    "totalVoturi": 658,
-    "totalVoturiSENS": 36,
-    "procent": "5.47%"
+    "nume_sectie": "LICEUL TEHNOLOGIC HENRI COANDĂ",
+    "totalVoturi": 471,
+    "totalVoturiSENS": 32,
+    "procent": "6.79%"
   },
   {
-    "id": "34285",
+    "id": "34253",
     "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND",
-    "totalVoturi": 643,
-    "totalVoturiSENS": 27,
-    "procent": "4.20%"
+    "nume_sectie": "CASA CORPULUI DIDACTIC",
+    "totalVoturi": 801,
+    "totalVoturiSENS": 54,
+    "procent": "6.74%"
   },
   {
-    "id": "34286",
+    "id": "34241",
     "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND",
-    "totalVoturi": 486,
-    "totalVoturiSENS": 15,
-    "procent": "3.09%"
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.2 SIBIU",
+    "totalVoturi": 615,
+    "totalVoturiSENS": 41,
+    "procent": "6.67%"
   },
   {
-    "id": "34287",
+    "id": "34275",
     "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND",
-    "totalVoturi": 598,
-    "totalVoturiSENS": 26,
-    "procent": "4.35%"
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.4",
+    "totalVoturi": 721,
+    "totalVoturiSENS": 48,
+    "procent": "6.66%"
+  },
+  {
+    "id": "39855",
+    "localitate": "ŞELIMBĂR",
+    "nume_sectie": "GRĂDINITA CU PROGRAM PRELUNGIT”DOAMNA STANCA” ȘELIMBĂR",
+    "totalVoturi": 572,
+    "totalVoturiSENS": 37,
+    "procent": "6.47%"
+  },
+  {
+    "id": "34270",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "FACULTATEA DE INGINERIE",
+    "totalVoturi": 623,
+    "totalVoturiSENS": 40,
+    "procent": "6.42%"
+  },
+  {
+    "id": "34472",
+    "localitate": "CRISTIAN",
+    "nume_sectie": "SCOALA GIMNAZIALA , CRISTIAN",
+    "totalVoturi": 674,
+    "totalVoturiSENS": 43,
+    "procent": "6.38%"
+  },
+  {
+    "id": "34258",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 1",
+    "totalVoturi": 958,
+    "totalVoturiSENS": 61,
+    "procent": "6.37%"
+  },
+  {
+    "id": "34227",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.18",
+    "totalVoturi": 954,
+    "totalVoturiSENS": 60,
+    "procent": "6.29%"
+  },
+  {
+    "id": "34382",
+    "localitate": "ORAŞ CISNĂDIE",
+    "nume_sectie": "LICEUL TEHNOLOGIC",
+    "totalVoturi": 637,
+    "totalVoturiSENS": 40,
+    "procent": "6.28%"
+  },
+  {
+    "id": "34559",
+    "localitate": "ŞELIMBĂR",
+    "nume_sectie": "ȘCOALA GENERALĂ”MIHAI VITEAZU”ȘELIMBĂR, CORP B",
+    "totalVoturi": 1092,
+    "totalVoturiSENS": 68,
+    "procent": "6.23%"
+  },
+  {
+    "id": "34247",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "COLEGIUL TEHNIC INDEPENDENŢA SIBIU",
+    "totalVoturi": 484,
+    "totalVoturiSENS": 30,
+    "procent": "6.20%"
+  },
+  {
+    "id": "34243",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.2",
+    "totalVoturi": 517,
+    "totalVoturiSENS": 32,
+    "procent": "6.19%"
+  },
+  {
+    "id": "34272",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "COLEGIU ECONOMIC GEORGE BARIŢIU",
+    "totalVoturi": 662,
+    "totalVoturiSENS": 41,
+    "procent": "6.19%"
+  },
+  {
+    "id": "34565",
+    "localitate": "ŞELIMBĂR",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM PRELUNGIT ȘELIMBĂR, CORP NOU, PARTER",
+    "totalVoturi": 1249,
+    "totalVoturiSENS": 77,
+    "procent": "6.16%"
+  },
+  {
+    "id": "34245",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "LICEUL DE ARTĂ SIBIU",
+    "totalVoturi": 343,
+    "totalVoturiSENS": 21,
+    "procent": "6.12%"
+  },
+  {
+    "id": "34225",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARĂ TEREZIANUM SIBIU",
+    "totalVoturi": 786,
+    "totalVoturiSENS": 48,
+    "procent": "6.11%"
+  },
+  {
+    "id": "34261",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 22",
+    "totalVoturi": 1064,
+    "totalVoturiSENS": 65,
+    "procent": "6.11%"
   },
   {
     "id": "34288",
@@ -648,54 +192,6 @@
     "procent": "6.09%"
   },
   {
-    "id": "34289",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.29",
-    "totalVoturi": 644,
-    "totalVoturiSENS": 24,
-    "procent": "3.73%"
-  },
-  {
-    "id": "34290",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ RADU SELEJAN",
-    "totalVoturi": 529,
-    "totalVoturiSENS": 17,
-    "procent": "3.21%"
-  },
-  {
-    "id": "34291",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ RADU SELEJAN",
-    "totalVoturi": 486,
-    "totalVoturiSENS": 25,
-    "procent": "5.14%"
-  },
-  {
-    "id": "34292",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.33",
-    "totalVoturi": 581,
-    "totalVoturiSENS": 32,
-    "procent": "5.51%"
-  },
-  {
-    "id": "34293",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 21",
-    "totalVoturi": 676,
-    "totalVoturiSENS": 19,
-    "procent": "2.81%"
-  },
-  {
-    "id": "34294",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 21",
-    "totalVoturi": 475,
-    "totalVoturiSENS": 28,
-    "procent": "5.89%"
-  },
-  {
     "id": "34295",
     "localitate": "MUNICIPIUL SIBIU",
     "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 21",
@@ -704,36 +200,36 @@
     "procent": "6.08%"
   },
   {
-    "id": "34296",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 21",
-    "totalVoturi": 563,
-    "totalVoturiSENS": 33,
-    "procent": "5.86%"
+    "id": "34567",
+    "localitate": "ŞELIMBĂR",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM PRELUNGIT ”DOAMNA STANCA”ȘELIMBĂR",
+    "totalVoturi": 1170,
+    "totalVoturiSENS": 71,
+    "procent": "6.07%"
   },
   {
-    "id": "34297",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA - CORP NOU",
-    "totalVoturi": 713,
-    "totalVoturiSENS": 22,
-    "procent": "3.09%"
+    "id": "34354",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "UNIVERSITATEA LUCIAN BLAGA",
+    "totalVoturi": 533,
+    "totalVoturiSENS": 32,
+    "procent": "6.00%"
   },
   {
-    "id": "34298",
+    "id": "34223",
     "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA - CORP NOU",
-    "totalVoturi": 735,
-    "totalVoturiSENS": 31,
-    "procent": "4.22%"
-  },
-  {
-    "id": "34299",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA - CORP NOU",
-    "totalVoturi": 675,
+    "nume_sectie": "COLEGIUL TEHNIC INDEPENDENŢA",
+    "totalVoturi": 634,
     "totalVoturiSENS": 38,
-    "procent": "5.63%"
+    "procent": "5.99%"
+  },
+  {
+    "id": "34262",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 22",
+    "totalVoturi": 539,
+    "totalVoturiSENS": 32,
+    "procent": "5.94%"
   },
   {
     "id": "34300",
@@ -744,52 +240,20 @@
     "procent": "5.93%"
   },
   {
-    "id": "34301",
+    "id": "34263",
     "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "LICEUL TEORETIC CONSTANTIN NOICA",
-    "totalVoturi": 659,
-    "totalVoturiSENS": 20,
-    "procent": "3.03%"
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 25",
+    "totalVoturi": 694,
+    "totalVoturiSENS": 41,
+    "procent": "5.91%"
   },
   {
-    "id": "34302",
+    "id": "34294",
     "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "LICEUL TEORETIC CONSTANTIN NOICA",
-    "totalVoturi": 681,
-    "totalVoturiSENS": 33,
-    "procent": "4.85%"
-  },
-  {
-    "id": "34303",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "LICEUL TEORETIC CONSTANTIN NOICA",
-    "totalVoturi": 680,
-    "totalVoturiSENS": 40,
-    "procent": "5.88%"
-  },
-  {
-    "id": "34304",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT ELEFĂNŢELUL CURIOS",
-    "totalVoturi": 687,
-    "totalVoturiSENS": 34,
-    "procent": "4.95%"
-  },
-  {
-    "id": "34305",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIUL NAŢIONAL PEDAGOGIC ANDREI ŞAGUNA",
-    "totalVoturi": 683,
-    "totalVoturiSENS": 38,
-    "procent": "5.56%"
-  },
-  {
-    "id": "34306",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "COLEGIUL NAŢIONAL PEDAGOGIC ANDREI ŞAGUNA",
-    "totalVoturi": 645,
-    "totalVoturiSENS": 16,
-    "procent": "2.48%"
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 21",
+    "totalVoturi": 475,
+    "totalVoturiSENS": 28,
+    "procent": "5.89%"
   },
   {
     "id": "34307",
@@ -800,116 +264,156 @@
     "procent": "5.89%"
   },
   {
-    "id": "34308",
+    "id": "34303",
     "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 43",
-    "totalVoturi": 1030,
-    "totalVoturiSENS": 46,
-    "procent": "4.47%"
+    "nume_sectie": "LICEUL TEORETIC CONSTANTIN NOICA",
+    "totalVoturi": 680,
+    "totalVoturiSENS": 40,
+    "procent": "5.88%"
   },
   {
-    "id": "34309",
+    "id": "34296",
     "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 43",
-    "totalVoturi": 877,
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 21",
+    "totalVoturi": 563,
     "totalVoturiSENS": 33,
-    "procent": "3.76%"
+    "procent": "5.86%"
   },
   {
-    "id": "34310",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 5",
-    "totalVoturi": 877,
-    "totalVoturiSENS": 38,
-    "procent": "4.33%"
+    "id": "34393",
+    "localitate": "ORAŞ DUMBRĂVENI",
+    "nume_sectie": "CASA DE CULTURĂ DUMBRĂVENI",
+    "totalVoturi": 461,
+    "totalVoturiSENS": 27,
+    "procent": "5.86%"
   },
   {
-    "id": "34311",
+    "id": "34236",
     "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 5",
-    "totalVoturi": 862,
-    "totalVoturiSENS": 41,
-    "procent": "4.76%"
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8",
+    "totalVoturi": 735,
+    "totalVoturiSENS": 43,
+    "procent": "5.85%"
   },
   {
-    "id": "34312",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "PĂLTINIŞ",
-    "totalVoturi": 19,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
+    "id": "34351",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ",
+    "totalVoturi": 482,
+    "totalVoturiSENS": 28,
+    "procent": "5.81%"
   },
   {
-    "id": "34313",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.10",
-    "totalVoturi": 703,
+    "id": "34378",
+    "localitate": "ORAŞ CISNĂDIE",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 3",
+    "totalVoturi": 588,
     "totalVoturiSENS": 34,
-    "procent": "4.84%"
+    "procent": "5.78%"
   },
   {
-    "id": "34314",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "LICEUL TEORETIC ”ROTH - OBERTH”",
-    "totalVoturi": 379,
-    "totalVoturiSENS": 15,
-    "procent": "3.96%"
+    "id": "34377",
+    "localitate": "ORAŞ CISNĂDIE",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.7",
+    "totalVoturi": 678,
+    "totalVoturiSENS": 39,
+    "procent": "5.75%"
   },
   {
-    "id": "34315",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.12",
-    "totalVoturi": 388,
-    "totalVoturiSENS": 18,
-    "procent": "4.64%"
+    "id": "34229",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI CU STRUCTURA ŞCOALA GIMNAZIALĂ NR. 11",
+    "totalVoturi": 856,
+    "totalVoturiSENS": 49,
+    "procent": "5.72%"
   },
   {
-    "id": "34316",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
-    "totalVoturi": 492,
-    "totalVoturiSENS": 14,
-    "procent": "2.85%"
+    "id": "34214",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 13 CU STRUCTURA ŞCOALA GIMNAZIALĂ NR. 12",
+    "totalVoturi": 931,
+    "totalVoturiSENS": 53,
+    "procent": "5.69%"
   },
   {
-    "id": "34317",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT BUCURIA COPIILOR",
-    "totalVoturi": 498,
-    "totalVoturiSENS": 12,
-    "procent": "2.41%"
-  },
-  {
-    "id": "34318",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "VESTIAR SPARTA",
-    "totalVoturi": 331,
-    "totalVoturiSENS": 10,
-    "procent": "3.02%"
-  },
-  {
-    "id": "34319",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "STADIONUL MUNICIPAL GAZ METAN",
-    "totalVoturi": 405,
-    "totalVoturiSENS": 21,
-    "procent": "5.19%"
-  },
-  {
-    "id": "34320",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "SC HULA VECHE SRL",
-    "totalVoturi": 554,
+    "id": "34299",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA - CORP NOU",
+    "totalVoturi": 675,
     "totalVoturiSENS": 38,
-    "procent": "6.86%"
+    "procent": "5.63%"
   },
   {
-    "id": "34321",
+    "id": "34404",
+    "localitate": "ORAŞ OCNA SIBIULUI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ OCNA SIBIULUI",
+    "totalVoturi": 409,
+    "totalVoturiSENS": 23,
+    "procent": "5.62%"
+  },
+  {
+    "id": "39854",
+    "localitate": "ŞELIMBĂR",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZU” ȘELIMBĂR",
+    "totalVoturi": 730,
+    "totalVoturiSENS": 41,
+    "procent": "5.62%"
+  },
+  {
+    "id": "34217",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.13",
+    "totalVoturi": 570,
+    "totalVoturiSENS": 32,
+    "procent": "5.61%"
+  },
+  {
+    "id": "34305",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "COLEGIUL NAŢIONAL PEDAGOGIC ANDREI ŞAGUNA",
+    "totalVoturi": 683,
+    "totalVoturiSENS": 38,
+    "procent": "5.56%"
+  },
+  {
+    "id": "34292",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.33",
+    "totalVoturi": 581,
+    "totalVoturiSENS": 32,
+    "procent": "5.51%"
+  },
+  {
+    "id": "34222",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.23",
+    "totalVoturi": 729,
+    "totalVoturiSENS": 40,
+    "procent": "5.49%"
+  },
+  {
+    "id": "34284",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND",
+    "totalVoturi": 658,
+    "totalVoturiSENS": 36,
+    "procent": "5.47%"
+  },
+  {
+    "id": "34220",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.23",
+    "totalVoturi": 1135,
+    "totalVoturiSENS": 61,
+    "procent": "5.37%"
+  },
+  {
+    "id": "34343",
     "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "CLUBUL COPIILOR",
-    "totalVoturi": 443,
-    "totalVoturiSENS": 17,
-    "procent": "3.84%"
+    "nume_sectie": "CASA DE OASPETI",
+    "totalVoturi": 335,
+    "totalVoturiSENS": 18,
+    "procent": "5.37%"
   },
   {
     "id": "34322",
@@ -920,84 +424,12 @@
     "procent": "5.36%"
   },
   {
-    "id": "34323",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.7",
-    "totalVoturi": 500,
-    "totalVoturiSENS": 19,
-    "procent": "3.80%"
-  },
-  {
-    "id": "34324",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.7",
-    "totalVoturi": 320,
-    "totalVoturiSENS": 15,
-    "procent": "4.69%"
-  },
-  {
-    "id": "34325",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.7",
-    "totalVoturi": 440,
-    "totalVoturiSENS": 22,
-    "procent": "5.00%"
-  },
-  {
-    "id": "34326",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.7",
-    "totalVoturi": 315,
-    "totalVoturiSENS": 7,
-    "procent": "2.22%"
-  },
-  {
-    "id": "34327",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT RAZĂ DE SOARE",
-    "totalVoturi": 493,
-    "totalVoturiSENS": 21,
-    "procent": "4.26%"
-  },
-  {
-    "id": "34328",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.7 CORP A",
-    "totalVoturi": 356,
-    "totalVoturiSENS": 18,
-    "procent": "5.06%"
-  },
-  {
-    "id": "34329",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.7 CORP A",
-    "totalVoturi": 305,
-    "totalVoturiSENS": 15,
-    "procent": "4.92%"
-  },
-  {
-    "id": "34330",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.7 CORP A",
-    "totalVoturi": 346,
-    "totalVoturiSENS": 12,
-    "procent": "3.47%"
-  },
-  {
-    "id": "34331",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT PITICOT",
-    "totalVoturi": 509,
-    "totalVoturiSENS": 9,
-    "procent": "1.77%"
-  },
-  {
-    "id": "34332",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "AUTOGARA MEDIAŞ",
-    "totalVoturi": 460,
-    "totalVoturiSENS": 14,
-    "procent": "3.04%"
+    "id": "34219",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.13",
+    "totalVoturi": 677,
+    "totalVoturiSENS": 36,
+    "procent": "5.32%"
   },
   {
     "id": "34333",
@@ -1008,6 +440,878 @@
     "procent": "5.29%"
   },
   {
+    "id": "39827",
+    "localitate": "ORAŞ CISNĂDIE",
+    "nume_sectie": "CASA DE CULTURĂ CISNĂDIE",
+    "totalVoturi": 759,
+    "totalVoturiSENS": 40,
+    "procent": "5.27%"
+  },
+  {
+    "id": "34242",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.2 SIBIU",
+    "totalVoturi": 558,
+    "totalVoturiSENS": 29,
+    "procent": "5.20%"
+  },
+  {
+    "id": "34319",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "STADIONUL MUNICIPAL GAZ METAN",
+    "totalVoturi": 405,
+    "totalVoturiSENS": 21,
+    "procent": "5.19%"
+  },
+  {
+    "id": "34254",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "LICEUL TEORETIC ONISIFOR GHIBU",
+    "totalVoturi": 677,
+    "totalVoturiSENS": 35,
+    "procent": "5.17%"
+  },
+  {
+    "id": "34209",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 10 CU STRUCTURA GRADINIŢA CU PROGRAM PRELUNGIT NR. 20",
+    "totalVoturi": 835,
+    "totalVoturiSENS": 43,
+    "procent": "5.15%"
+  },
+  {
+    "id": "34218",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.13",
+    "totalVoturi": 602,
+    "totalVoturiSENS": 31,
+    "procent": "5.15%"
+  },
+  {
+    "id": "34248",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "COLEGIUL NAŢIONAL OCTAVIAN GOGA SIBIU",
+    "totalVoturi": 427,
+    "totalVoturiSENS": 22,
+    "procent": "5.15%"
+  },
+  {
+    "id": "34291",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ RADU SELEJAN",
+    "totalVoturi": 486,
+    "totalVoturiSENS": 25,
+    "procent": "5.14%"
+  },
+  {
+    "id": "34438",
+    "localitate": "AXENTE SEVER",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ AXENTE SEVER",
+    "totalVoturi": 393,
+    "totalVoturiSENS": 20,
+    "procent": "5.09%"
+  },
+  {
+    "id": "34328",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.7 CORP A",
+    "totalVoturi": 356,
+    "totalVoturiSENS": 18,
+    "procent": "5.06%"
+  },
+  {
+    "id": "34380",
+    "localitate": "ORAŞ CISNĂDIE",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.3 CISNĂDIE",
+    "totalVoturi": 693,
+    "totalVoturiSENS": 35,
+    "procent": "5.05%"
+  },
+  {
+    "id": "34269",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE",
+    "totalVoturi": 716,
+    "totalVoturiSENS": 36,
+    "procent": "5.03%"
+  },
+  {
+    "id": "34252",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "COLEGIUL AGRICOL DANIIL POPOVICI BARCIANU SIBIU",
+    "totalVoturi": 558,
+    "totalVoturiSENS": 28,
+    "procent": "5.02%"
+  },
+  {
+    "id": "34325",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.7",
+    "totalVoturi": 440,
+    "totalVoturiSENS": 22,
+    "procent": "5.00%"
+  },
+  {
+    "id": "34210",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.10",
+    "totalVoturi": 962,
+    "totalVoturiSENS": 48,
+    "procent": "4.99%"
+  },
+  {
+    "id": "34213",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 13 CU STRUCTURA ŞCOALA GIMNAZIALĂ NR. 12",
+    "totalVoturi": 922,
+    "totalVoturiSENS": 46,
+    "procent": "4.99%"
+  },
+  {
+    "id": "34250",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGINA MARIA",
+    "totalVoturi": 682,
+    "totalVoturiSENS": 34,
+    "procent": "4.99%"
+  },
+  {
+    "id": "34265",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 25",
+    "totalVoturi": 704,
+    "totalVoturiSENS": 35,
+    "procent": "4.97%"
+  },
+  {
+    "id": "34271",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "COLEGIU ECONOMIC GEORGE BARIŢIU",
+    "totalVoturi": 563,
+    "totalVoturiSENS": 28,
+    "procent": "4.97%"
+  },
+  {
+    "id": "34304",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT ELEFĂNŢELUL CURIOS",
+    "totalVoturi": 687,
+    "totalVoturiSENS": 34,
+    "procent": "4.95%"
+  },
+  {
+    "id": "34417",
+    "localitate": "ORAŞ TĂLMACIU",
+    "nume_sectie": "LICEUL TEHOLOGIC ” JOHANNES LEBEL” TĂLMACIU/ȘCOALA GIMNAZIALĂ TĂLMACIU",
+    "totalVoturi": 525,
+    "totalVoturiSENS": 26,
+    "procent": "4.95%"
+  },
+  {
+    "id": "34276",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.4",
+    "totalVoturi": 607,
+    "totalVoturiSENS": 30,
+    "procent": "4.94%"
+  },
+  {
+    "id": "34268",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE",
+    "totalVoturi": 712,
+    "totalVoturiSENS": 35,
+    "procent": "4.92%"
+  },
+  {
+    "id": "34329",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.7 CORP A",
+    "totalVoturi": 305,
+    "totalVoturiSENS": 15,
+    "procent": "4.92%"
+  },
+  {
+    "id": "34208",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 10 CU STRUCTURA GRADINIŢA CU PROGRAM PRELUNGIT NR. 20",
+    "totalVoturi": 817,
+    "totalVoturiSENS": 40,
+    "procent": "4.90%"
+  },
+  {
+    "id": "34230",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI",
+    "totalVoturi": 1041,
+    "totalVoturiSENS": 51,
+    "procent": "4.90%"
+  },
+  {
+    "id": "34578",
+    "localitate": "TURNU ROŞU",
+    "nume_sectie": "CĂMINUL CULTURAL ”REGELE MIHAI I”",
+    "totalVoturi": 720,
+    "totalVoturiSENS": 35,
+    "procent": "4.86%"
+  },
+  {
+    "id": "40061",
+    "localitate": "ORAŞ CISNĂDIE",
+    "nume_sectie": "CASA DE CULTURĂ CISNĂDIE",
+    "totalVoturi": 762,
+    "totalVoturiSENS": 37,
+    "procent": "4.86%"
+  },
+  {
+    "id": "34302",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "LICEUL TEORETIC CONSTANTIN NOICA",
+    "totalVoturi": 681,
+    "totalVoturiSENS": 33,
+    "procent": "4.85%"
+  },
+  {
+    "id": "34313",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.10",
+    "totalVoturi": 703,
+    "totalVoturiSENS": 34,
+    "procent": "4.84%"
+  },
+  {
+    "id": "34419",
+    "localitate": "ORAŞ TĂLMACIU",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”JOHANNES LEBEL” TĂLMACIU CORP A",
+    "totalVoturi": 540,
+    "totalVoturiSENS": 26,
+    "procent": "4.81%"
+  },
+  {
+    "id": "34561",
+    "localitate": "ŞELIMBĂR",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM PRELUNGIT",
+    "totalVoturi": 1290,
+    "totalVoturiSENS": 62,
+    "procent": "4.81%"
+  },
+  {
+    "id": "34278",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "COLEGIUL TEHNIC ENERGETIC",
+    "totalVoturi": 895,
+    "totalVoturiSENS": 43,
+    "procent": "4.80%"
+  },
+  {
+    "id": "34311",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 5",
+    "totalVoturi": 862,
+    "totalVoturiSENS": 41,
+    "procent": "4.76%"
+  },
+  {
+    "id": "34273",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "COLEGIUL ECONOMIC GEORGE BARIŢIU, SIBIU",
+    "totalVoturi": 704,
+    "totalVoturiSENS": 33,
+    "procent": "4.69%"
+  },
+  {
+    "id": "34324",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.7",
+    "totalVoturi": 320,
+    "totalVoturiSENS": 15,
+    "procent": "4.69%"
+  },
+  {
+    "id": "34226",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.18",
+    "totalVoturi": 1025,
+    "totalVoturiSENS": 48,
+    "procent": "4.68%"
+  },
+  {
+    "id": "34249",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "COLEGIUL NAŢIONAL OCTAVIAN GOGA CU STRUCTURĂ ŞCOALA CU CLASELE I-VIII NR. 15",
+    "totalVoturi": 556,
+    "totalVoturiSENS": 26,
+    "procent": "4.68%"
+  },
+  {
+    "id": "34251",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGINA MARIA",
+    "totalVoturi": 557,
+    "totalVoturiSENS": 26,
+    "procent": "4.67%"
+  },
+  {
+    "id": "34536",
+    "localitate": "RĂŞINARI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ SAVA POPOVICI BARCIANU RĂŞINARI",
+    "totalVoturi": 599,
+    "totalVoturiSENS": 28,
+    "procent": "4.67%"
+  },
+  {
+    "id": "34577",
+    "localitate": "TILIŞCA",
+    "nume_sectie": "ŞCOALA PRIMARĂ ROD",
+    "totalVoturi": 215,
+    "totalVoturiSENS": 10,
+    "procent": "4.65%"
+  },
+  {
+    "id": "34315",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.12",
+    "totalVoturi": 388,
+    "totalVoturiSENS": 18,
+    "procent": "4.64%"
+  },
+  {
+    "id": "34387",
+    "localitate": "ORAŞ CISNĂDIE",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL NR.1",
+    "totalVoturi": 754,
+    "totalVoturiSENS": 35,
+    "procent": "4.64%"
+  },
+  {
+    "id": "34240",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 37",
+    "totalVoturi": 562,
+    "totalVoturiSENS": 26,
+    "procent": "4.63%"
+  },
+  {
+    "id": "34282",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND",
+    "totalVoturi": 546,
+    "totalVoturiSENS": 25,
+    "procent": "4.58%"
+  },
+  {
+    "id": "34231",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI",
+    "totalVoturi": 875,
+    "totalVoturiSENS": 40,
+    "procent": "4.57%"
+  },
+  {
+    "id": "34221",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.23",
+    "totalVoturi": 899,
+    "totalVoturiSENS": 41,
+    "procent": "4.56%"
+  },
+  {
+    "id": "34563",
+    "localitate": "ŞELIMBĂR",
+    "nume_sectie": "CĂMIN CULTURAL MOHU",
+    "totalVoturi": 263,
+    "totalVoturiSENS": 12,
+    "procent": "4.56%"
+  },
+  {
+    "id": "34375",
+    "localitate": "ORAŞ AVRIG",
+    "nume_sectie": "ŞCOALA PRIMARĂ GLÎMBOACA",
+    "totalVoturi": 110,
+    "totalVoturiSENS": 5,
+    "procent": "4.55%"
+  },
+  {
+    "id": "34381",
+    "localitate": "ORAŞ CISNĂDIE",
+    "nume_sectie": "LICEUL TEORETIC ”GUSTAV GUNDISCH” CISNĂDIE",
+    "totalVoturi": 683,
+    "totalVoturiSENS": 31,
+    "procent": "4.54%"
+  },
+  {
+    "id": "34560",
+    "localitate": "ŞELIMBĂR",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ `MIHAI VITEAZU~ ŞELIMBĂR",
+    "totalVoturi": 1167,
+    "totalVoturiSENS": 53,
+    "procent": "4.54%"
+  },
+  {
+    "id": "34279",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "COLEGIUL TEHNIC ENERGETIC",
+    "totalVoturi": 552,
+    "totalVoturiSENS": 25,
+    "procent": "4.53%"
+  },
+  {
+    "id": "34546",
+    "localitate": "SLIMNIC",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ SLIMNIC",
+    "totalVoturi": 486,
+    "totalVoturiSENS": 22,
+    "procent": "4.53%"
+  },
+  {
+    "id": "34255",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 1",
+    "totalVoturi": 799,
+    "totalVoturiSENS": 36,
+    "procent": "4.51%"
+  },
+  {
+    "id": "34418",
+    "localitate": "ORAŞ TĂLMACIU",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”JOHANNES LEBEL” TĂLMACIU/ȘCOALA GIMNAZIALĂ TĂLMACIU",
+    "totalVoturi": 576,
+    "totalVoturiSENS": 26,
+    "procent": "4.51%"
+  },
+  {
+    "id": "34260",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 22",
+    "totalVoturi": 805,
+    "totalVoturiSENS": 36,
+    "procent": "4.47%"
+  },
+  {
+    "id": "34308",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 43",
+    "totalVoturi": 1030,
+    "totalVoturiSENS": 46,
+    "procent": "4.47%"
+  },
+  {
+    "id": "34215",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 13 CU STRUCTURA ŞCOALA GIMNAZIALĂ NR. 12",
+    "totalVoturi": 829,
+    "totalVoturiSENS": 37,
+    "procent": "4.46%"
+  },
+  {
+    "id": "34238",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8",
+    "totalVoturi": 971,
+    "totalVoturiSENS": 43,
+    "procent": "4.43%"
+  },
+  {
+    "id": "34403",
+    "localitate": "ORAŞ OCNA SIBIULUI",
+    "nume_sectie": "ŞCOALA GIMNAZIALA OCNA SIBIULUI",
+    "totalVoturi": 456,
+    "totalVoturiSENS": 20,
+    "procent": "4.39%"
+  },
+  {
+    "id": "34287",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND",
+    "totalVoturi": 598,
+    "totalVoturiSENS": 26,
+    "procent": "4.35%"
+  },
+  {
+    "id": "34350",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ",
+    "totalVoturi": 438,
+    "totalVoturiSENS": 19,
+    "procent": "4.34%"
+  },
+  {
+    "id": "34385",
+    "localitate": "ORAŞ CISNĂDIE",
+    "nume_sectie": "LICEUL TEHNOLOGIC CISNĂDIE",
+    "totalVoturi": 415,
+    "totalVoturiSENS": 18,
+    "procent": "4.34%"
+  },
+  {
+    "id": "34420",
+    "localitate": "ORAŞ TĂLMACIU",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”JOHANNES LEBEL” TĂLMACIU CORP B",
+    "totalVoturi": 738,
+    "totalVoturiSENS": 32,
+    "procent": "4.34%"
+  },
+  {
+    "id": "34235",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8",
+    "totalVoturi": 647,
+    "totalVoturiSENS": 28,
+    "procent": "4.33%"
+  },
+  {
+    "id": "34310",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 5",
+    "totalVoturi": 877,
+    "totalVoturiSENS": 38,
+    "procent": "4.33%"
+  },
+  {
+    "id": "34388",
+    "localitate": "ORAŞ CISNĂDIE",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM NORMAL NR. 1",
+    "totalVoturi": 533,
+    "totalVoturiSENS": 23,
+    "procent": "4.32%"
+  },
+  {
+    "id": "34224",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "COLEGIUL TEHNIC DE INDUSTRIE ALIMENTARĂ TEREZIANUM SIBIU",
+    "totalVoturi": 791,
+    "totalVoturiSENS": 34,
+    "procent": "4.30%"
+  },
+  {
+    "id": "34339",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ GEORGE POPA",
+    "totalVoturi": 488,
+    "totalVoturiSENS": 21,
+    "procent": "4.30%"
+  },
+  {
+    "id": "34421",
+    "localitate": "ORAŞ TĂLMACIU",
+    "nume_sectie": "IMOBIL APARȚINÂND PRIMĂRIEI ORAȘULUI TĂLMACIU (FOSTA ȘCOALĂ COLONIA TĂLMACIU II)",
+    "totalVoturi": 93,
+    "totalVoturiSENS": 4,
+    "procent": "4.30%"
+  },
+  {
+    "id": "34347",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ",
+    "totalVoturi": 420,
+    "totalVoturiSENS": 18,
+    "procent": "4.29%"
+  },
+  {
+    "id": "34259",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 22",
+    "totalVoturi": 936,
+    "totalVoturiSENS": 40,
+    "procent": "4.27%"
+  },
+  {
+    "id": "34327",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT RAZĂ DE SOARE",
+    "totalVoturi": 493,
+    "totalVoturiSENS": 21,
+    "procent": "4.26%"
+  },
+  {
+    "id": "34379",
+    "localitate": "ORAŞ CISNĂDIE",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.6",
+    "totalVoturi": 567,
+    "totalVoturiSENS": 24,
+    "procent": "4.23%"
+  },
+  {
+    "id": "34298",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA - CORP NOU",
+    "totalVoturi": 735,
+    "totalVoturiSENS": 31,
+    "procent": "4.22%"
+  },
+  {
+    "id": "34285",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND",
+    "totalVoturi": 643,
+    "totalVoturiSENS": 27,
+    "procent": "4.20%"
+  },
+  {
+    "id": "34569",
+    "localitate": "ŞURA MARE",
+    "nume_sectie": "SALĂ SPORT",
+    "totalVoturi": 761,
+    "totalVoturiSENS": 32,
+    "procent": "4.20%"
+  },
+  {
+    "id": "34471",
+    "localitate": "CRISTIAN",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ CRISTIAN-CORP IV, ȘCOALA ROMÂNEASCĂ",
+    "totalVoturi": 645,
+    "totalVoturiSENS": 27,
+    "procent": "4.19%"
+  },
+  {
+    "id": "34432",
+    "localitate": "ARPAŞU DE JOS",
+    "nume_sectie": "CLĂDIREA ȘCOLII GIMNAZIALE AUREL POPA- ARPAȘU DE SUS",
+    "totalVoturi": 456,
+    "totalVoturiSENS": 19,
+    "procent": "4.17%"
+  },
+  {
+    "id": "34344",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”MEDIENSIS”",
+    "totalVoturi": 584,
+    "totalVoturiSENS": 24,
+    "procent": "4.11%"
+  },
+  {
+    "id": "34356",
+    "localitate": "ORAŞ AGNITA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ G.D.TEUTSCH",
+    "totalVoturi": 366,
+    "totalVoturiSENS": 15,
+    "procent": "4.10%"
+  },
+  {
+    "id": "34256",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 1",
+    "totalVoturi": 807,
+    "totalVoturiSENS": 33,
+    "procent": "4.09%"
+  },
+  {
+    "id": "34264",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 25",
+    "totalVoturi": 662,
+    "totalVoturiSENS": 27,
+    "procent": "4.08%"
+  },
+  {
+    "id": "34228",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ IOAN SLAVICI CU STRUCTURA ŞCOALA GIMNAZIALĂ NR. 11",
+    "totalVoturi": 667,
+    "totalVoturiSENS": 27,
+    "procent": "4.05%"
+  },
+  {
+    "id": "34212",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.10",
+    "totalVoturi": 944,
+    "totalVoturiSENS": 38,
+    "procent": "4.03%"
+  },
+  {
+    "id": "34399",
+    "localitate": "ORAŞ MIERCUREA SIBIULUI",
+    "nume_sectie": "PRIMĂRIA ORAŞULUI MIERCUREA SIBIULUI",
+    "totalVoturi": 398,
+    "totalVoturiSENS": 16,
+    "procent": "4.02%"
+  },
+  {
+    "id": "34266",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 25",
+    "totalVoturi": 850,
+    "totalVoturiSENS": 34,
+    "procent": "4.00%"
+  },
+  {
+    "id": "34412",
+    "localitate": "ORAŞ SĂLIŞTE",
+    "nume_sectie": "CĂMIN CULTURAL FÂNTÂNELE",
+    "totalVoturi": 125,
+    "totalVoturiSENS": 5,
+    "procent": "4.00%"
+  },
+  {
+    "id": "34280",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "COLEGIUL TEHNIC ENERGETIC",
+    "totalVoturi": 733,
+    "totalVoturiSENS": 29,
+    "procent": "3.96%"
+  },
+  {
+    "id": "34314",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "LICEUL TEORETIC ”ROTH - OBERTH”",
+    "totalVoturi": 379,
+    "totalVoturiSENS": 15,
+    "procent": "3.96%"
+  },
+  {
+    "id": "34537",
+    "localitate": "RĂŞINARI",
+    "nume_sectie": "CĂMINUL CULTURAL RĂȘINARI",
+    "totalVoturi": 690,
+    "totalVoturiSENS": 27,
+    "procent": "3.91%"
+  },
+  {
+    "id": "34211",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.10",
+    "totalVoturi": 882,
+    "totalVoturiSENS": 34,
+    "procent": "3.85%"
+  },
+  {
+    "id": "34216",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "LICEUL TEHNOLOGIC CONSTRUCȚII ŞI ARHITECTURĂ CAROL I SIBIU",
+    "totalVoturi": 546,
+    "totalVoturiSENS": 21,
+    "procent": "3.85%"
+  },
+  {
+    "id": "34508",
+    "localitate": "MIHĂILENI",
+    "nume_sectie": "ȘCOALA PRIMARĂ METIȘ - CORP NOU",
+    "totalVoturi": 52,
+    "totalVoturiSENS": 2,
+    "procent": "3.85%"
+  },
+  {
+    "id": "34321",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "CLUBUL COPIILOR",
+    "totalVoturi": 443,
+    "totalVoturiSENS": 17,
+    "procent": "3.84%"
+  },
+  {
+    "id": "34405",
+    "localitate": "ORAŞ OCNA SIBIULUI",
+    "nume_sectie": "CLĂDIREA PAROHIALĂ ORTODOXĂ NR.1 OCNA SIBIULUI",
+    "totalVoturi": 683,
+    "totalVoturiSENS": 26,
+    "procent": "3.81%"
+  },
+  {
+    "id": "34323",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.7",
+    "totalVoturi": 500,
+    "totalVoturiSENS": 19,
+    "procent": "3.80%"
+  },
+  {
+    "id": "34277",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.4",
+    "totalVoturi": 791,
+    "totalVoturiSENS": 30,
+    "procent": "3.79%"
+  },
+  {
+    "id": "34573",
+    "localitate": "ŞURA MICĂ",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ CLASELE I-IV ȘURA MICĂ",
+    "totalVoturi": 610,
+    "totalVoturiSENS": 23,
+    "procent": "3.77%"
+  },
+  {
+    "id": "34309",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 43",
+    "totalVoturi": 877,
+    "totalVoturiSENS": 33,
+    "procent": "3.76%"
+  },
+  {
+    "id": "34557",
+    "localitate": "ŞEICA MICĂ",
+    "nume_sectie": "PRIMARIA",
+    "totalVoturi": 294,
+    "totalVoturiSENS": 11,
+    "procent": "3.74%"
+  },
+  {
+    "id": "34289",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.29",
+    "totalVoturi": 644,
+    "totalVoturiSENS": 24,
+    "procent": "3.73%"
+  },
+  {
+    "id": "34246",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "LICEUL DE ARTĂ SIBIU",
+    "totalVoturi": 403,
+    "totalVoturiSENS": 15,
+    "procent": "3.72%"
+  },
+  {
+    "id": "34376",
+    "localitate": "ORAŞ CISNĂDIE",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL CISNĂDIOARA",
+    "totalVoturi": 354,
+    "totalVoturiSENS": 13,
+    "procent": "3.67%"
+  },
+  {
+    "id": "34267",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ION LUCA CARAGIALE",
+    "totalVoturi": 875,
+    "totalVoturiSENS": 32,
+    "procent": "3.66%"
+  },
+  {
+    "id": "34341",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "COMPLEX COMERCIAL",
+    "totalVoturi": 601,
+    "totalVoturiSENS": 22,
+    "procent": "3.66%"
+  },
+  {
+    "id": "34274",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR.4 SIBIU",
+    "totalVoturi": 741,
+    "totalVoturiSENS": 27,
+    "procent": "3.64%"
+  },
+  {
+    "id": "34386",
+    "localitate": "ORAŞ CISNĂDIE",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL NR.1",
+    "totalVoturi": 686,
+    "totalVoturiSENS": 25,
+    "procent": "3.64%"
+  },
+  {
+    "id": "34372",
+    "localitate": "ORAŞ AVRIG",
+    "nume_sectie": "LICEUL ”TEHNOLOGIC MÂRŞA",
+    "totalVoturi": 557,
+    "totalVoturiSENS": 20,
+    "procent": "3.59%"
+  },
+  {
     "id": "34334",
     "localitate": "MUNICIPIUL MEDIAŞ",
     "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.4",
@@ -1016,20 +1320,140 @@
     "procent": "3.58%"
   },
   {
-    "id": "34335",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "CREŞA NR.3",
-    "totalVoturi": 481,
-    "totalVoturiSENS": 14,
-    "procent": "2.91%"
+    "id": "34489",
+    "localitate": "LASLEA",
+    "nume_sectie": "CĂMIN CULTURAL LASLEA",
+    "totalVoturi": 477,
+    "totalVoturiSENS": 17,
+    "procent": "3.56%"
   },
   {
-    "id": "34336",
+    "id": "34359",
+    "localitate": "ORAŞ AGNITA",
+    "nume_sectie": "PRIMĂRIA ORAȘULUI AGNITA",
+    "totalVoturi": 423,
+    "totalVoturiSENS": 15,
+    "procent": "3.55%"
+  },
+  {
+    "id": "34366",
+    "localitate": "ORAŞ AVRIG",
+    "nume_sectie": "SCOALA GIMNAZIALA AVRIG",
+    "totalVoturi": 651,
+    "totalVoturiSENS": 23,
+    "procent": "3.53%"
+  },
+  {
+    "id": "34511",
+    "localitate": "MOŞNA",
+    "nume_sectie": "CĂMINUL CULTURAL AL COMUNEI MOȘNA",
+    "totalVoturi": 429,
+    "totalVoturiSENS": 15,
+    "procent": "3.50%"
+  },
+  {
+    "id": "34513",
+    "localitate": "MOŞNA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NEMȘA",
+    "totalVoturi": 172,
+    "totalVoturiSENS": 6,
+    "procent": "3.49%"
+  },
+  {
+    "id": "34330",
     "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "SC AUTOMECANICA SA",
-    "totalVoturi": 240,
-    "totalVoturiSENS": 5,
-    "procent": "2.08%"
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.7 CORP A",
+    "totalVoturi": 346,
+    "totalVoturiSENS": 12,
+    "procent": "3.47%"
+  },
+  {
+    "id": "34477",
+    "localitate": "GURA RÂULUI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”AUREL DECEI” GURA RÂULUI",
+    "totalVoturi": 815,
+    "totalVoturiSENS": 28,
+    "procent": "3.44%"
+  },
+  {
+    "id": "34407",
+    "localitate": "ORAŞ SĂLIŞTE",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”IOAN LUPAȘ”",
+    "totalVoturi": 585,
+    "totalVoturiSENS": 20,
+    "procent": "3.42%"
+  },
+  {
+    "id": "34357",
+    "localitate": "ORAŞ AGNITA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ G.D.TEUTSCH",
+    "totalVoturi": 416,
+    "totalVoturiSENS": 14,
+    "procent": "3.37%"
+  },
+  {
+    "id": "34571",
+    "localitate": "ŞURA MICĂ",
+    "nume_sectie": "SCOALA GIMNAZIALA SURA MICA",
+    "totalVoturi": 565,
+    "totalVoturiSENS": 19,
+    "procent": "3.36%"
+  },
+  {
+    "id": "34444",
+    "localitate": "BÂRGHIŞ",
+    "nume_sectie": "GRĂDINIȚA CU PROGRAM NORMAL BÎRGHIȘ",
+    "totalVoturi": 210,
+    "totalVoturiSENS": 7,
+    "procent": "3.33%"
+  },
+  {
+    "id": "34506",
+    "localitate": "MICĂSASA",
+    "nume_sectie": "DISPENSARUL MEDICAL CHESLER",
+    "totalVoturi": 30,
+    "totalVoturiSENS": 1,
+    "procent": "3.33%"
+  },
+  {
+    "id": "34353",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "UNIVERSITATEA LUCIAN BLAGA",
+    "totalVoturi": 422,
+    "totalVoturiSENS": 14,
+    "procent": "3.32%"
+  },
+  {
+    "id": "34544",
+    "localitate": "SADU",
+    "nume_sectie": "CĂMINUL CULTURAL AL COMUNEI SADU",
+    "totalVoturi": 519,
+    "totalVoturiSENS": 17,
+    "procent": "3.28%"
+  },
+  {
+    "id": "34257",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 1",
+    "totalVoturi": 825,
+    "totalVoturiSENS": 27,
+    "procent": "3.27%"
+  },
+  {
+    "id": "34348",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ",
+    "totalVoturi": 460,
+    "totalVoturiSENS": 15,
+    "procent": "3.26%"
+  },
+  {
+    "id": "34570",
+    "localitate": "ŞURA MARE",
+    "nume_sectie": "CĂMIN CULTURAL",
+    "totalVoturi": 338,
+    "totalVoturiSENS": 11,
+    "procent": "3.25%"
   },
   {
     "id": "34337",
@@ -1048,356 +1472,12 @@
     "procent": "3.23%"
   },
   {
-    "id": "34339",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ GEORGE POPA",
-    "totalVoturi": 488,
-    "totalVoturiSENS": 21,
-    "procent": "4.30%"
-  },
-  {
-    "id": "34340",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "LICEUL TEORECTIC ”AXENTE SEVER”",
-    "totalVoturi": 471,
-    "totalVoturiSENS": 15,
-    "procent": "3.18%"
-  },
-  {
-    "id": "34341",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "COMPLEX COMERCIAL",
-    "totalVoturi": 601,
-    "totalVoturiSENS": 22,
-    "procent": "3.66%"
-  },
-  {
-    "id": "34342",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "COLEGIUL ”ŞCOALA NAŢIONALĂ DE GAZ”",
-    "totalVoturi": 435,
-    "totalVoturiSENS": 8,
-    "procent": "1.84%"
-  },
-  {
-    "id": "34343",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "CASA DE OASPETI",
-    "totalVoturi": 335,
-    "totalVoturiSENS": 18,
-    "procent": "5.37%"
-  },
-  {
-    "id": "34344",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "LICEUL TEHNOLOGIC ”MEDIENSIS”",
-    "totalVoturi": 584,
-    "totalVoturiSENS": 24,
-    "procent": "4.11%"
-  },
-  {
-    "id": "34345",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ CIREŞARII",
-    "totalVoturi": 544,
-    "totalVoturiSENS": 17,
-    "procent": "3.13%"
-  },
-  {
-    "id": "34346",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT PINOCCHIO",
-    "totalVoturi": 447,
-    "totalVoturiSENS": 13,
-    "procent": "2.91%"
-  },
-  {
-    "id": "34347",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ",
-    "totalVoturi": 420,
-    "totalVoturiSENS": 18,
-    "procent": "4.29%"
-  },
-  {
-    "id": "34348",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ",
-    "totalVoturi": 460,
-    "totalVoturiSENS": 15,
-    "procent": "3.26%"
-  },
-  {
-    "id": "34349",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ",
-    "totalVoturi": 464,
-    "totalVoturiSENS": 11,
-    "procent": "2.37%"
-  },
-  {
-    "id": "34350",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ",
-    "totalVoturi": 438,
-    "totalVoturiSENS": 19,
-    "procent": "4.34%"
-  },
-  {
-    "id": "34351",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ",
-    "totalVoturi": 482,
-    "totalVoturiSENS": 28,
-    "procent": "5.81%"
-  },
-  {
-    "id": "34352",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ",
-    "totalVoturi": 408,
-    "totalVoturiSENS": 5,
-    "procent": "1.23%"
-  },
-  {
-    "id": "34353",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "UNIVERSITATEA LUCIAN BLAGA",
-    "totalVoturi": 422,
-    "totalVoturiSENS": 14,
-    "procent": "3.32%"
-  },
-  {
-    "id": "34354",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "UNIVERSITATEA LUCIAN BLAGA",
-    "totalVoturi": 533,
-    "totalVoturiSENS": 32,
-    "procent": "6.00%"
-  },
-  {
-    "id": "34355",
-    "localitate": "MUNICIPIUL MEDIAŞ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ",
-    "totalVoturi": 408,
-    "totalVoturiSENS": 6,
-    "procent": "1.47%"
-  },
-  {
-    "id": "34356",
-    "localitate": "ORAŞ AGNITA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ G.D.TEUTSCH",
-    "totalVoturi": 366,
-    "totalVoturiSENS": 15,
-    "procent": "4.10%"
-  },
-  {
-    "id": "34357",
-    "localitate": "ORAŞ AGNITA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ G.D.TEUTSCH",
-    "totalVoturi": 416,
-    "totalVoturiSENS": 14,
-    "procent": "3.37%"
-  },
-  {
-    "id": "34358",
-    "localitate": "ORAŞ AGNITA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ G.D. TEUTSCH",
-    "totalVoturi": 334,
-    "totalVoturiSENS": 8,
-    "procent": "2.40%"
-  },
-  {
-    "id": "34359",
-    "localitate": "ORAŞ AGNITA",
-    "nume_sectie": "PRIMĂRIA ORAȘULUI AGNITA",
-    "totalVoturi": 423,
-    "totalVoturiSENS": 15,
-    "procent": "3.55%"
-  },
-  {
-    "id": "34360",
-    "localitate": "ORAŞ AGNITA",
-    "nume_sectie": "COLEGIUL TEHNIC A.T. LAUREAN",
-    "totalVoturi": 324,
-    "totalVoturiSENS": 4,
-    "procent": "1.23%"
-  },
-  {
-    "id": "34361",
-    "localitate": "ORAŞ AGNITA",
-    "nume_sectie": "CASA DE CULTURĂ ”ILARION COCIȘIU”",
-    "totalVoturi": 354,
-    "totalVoturiSENS": 7,
-    "procent": "1.98%"
-  },
-  {
-    "id": "34362",
-    "localitate": "ORAŞ AGNITA",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.2",
-    "totalVoturi": 456,
-    "totalVoturiSENS": 11,
-    "procent": "2.41%"
-  },
-  {
-    "id": "34363",
-    "localitate": "ORAŞ AGNITA",
-    "nume_sectie": "SPAȚIU COMERCIAL",
-    "totalVoturi": 211,
-    "totalVoturiSENS": 3,
-    "procent": "1.42%"
-  },
-  {
-    "id": "34364",
-    "localitate": "ORAŞ AGNITA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ RUJA",
-    "totalVoturi": 374,
-    "totalVoturiSENS": 2,
-    "procent": "0.53%"
-  },
-  {
-    "id": "34365",
-    "localitate": "ORAŞ AVRIG",
-    "nume_sectie": "GRADINITA NR.3 PROGRAM PRELUNGIT",
-    "totalVoturi": 609,
-    "totalVoturiSENS": 11,
-    "procent": "1.81%"
-  },
-  {
-    "id": "34366",
-    "localitate": "ORAŞ AVRIG",
-    "nume_sectie": "SCOALA GIMNAZIALA AVRIG",
-    "totalVoturi": 651,
-    "totalVoturiSENS": 23,
-    "procent": "3.53%"
-  },
-  {
-    "id": "34367",
-    "localitate": "ORAŞ AVRIG",
-    "nume_sectie": "ŞCOALA GIMNAZIALA AVRIG",
-    "totalVoturi": 604,
-    "totalVoturiSENS": 16,
-    "procent": "2.65%"
-  },
-  {
-    "id": "34368",
-    "localitate": "ORAŞ AVRIG",
-    "nume_sectie": "GRADINITA NR,1 PROGRAM NORMAL",
-    "totalVoturi": 718,
-    "totalVoturiSENS": 22,
-    "procent": "3.06%"
-  },
-  {
-    "id": "34369",
-    "localitate": "ORAŞ AVRIG",
-    "nume_sectie": "LICEUL ”GHEORGHE LAZĂR”, AVRIG",
-    "totalVoturi": 561,
-    "totalVoturiSENS": 15,
-    "procent": "2.67%"
-  },
-  {
-    "id": "34370",
-    "localitate": "ORAŞ AVRIG",
-    "nume_sectie": "LICEUL ”GHEORGHE LAZĂR”, AVRIG",
-    "totalVoturi": 644,
-    "totalVoturiSENS": 10,
-    "procent": "1.55%"
-  },
-  {
-    "id": "34371",
-    "localitate": "ORAŞ AVRIG",
-    "nume_sectie": "LICEUL ”TEHNOLOGIC MÂRŞA",
-    "totalVoturi": 541,
-    "totalVoturiSENS": 15,
-    "procent": "2.77%"
-  },
-  {
-    "id": "34372",
-    "localitate": "ORAŞ AVRIG",
-    "nume_sectie": "LICEUL ”TEHNOLOGIC MÂRŞA",
-    "totalVoturi": 557,
-    "totalVoturiSENS": 20,
-    "procent": "3.59%"
-  },
-  {
-    "id": "34373",
-    "localitate": "ORAŞ AVRIG",
-    "nume_sectie": "ŞCOLA GIMNAZIALĂ BRADU",
-    "totalVoturi": 367,
-    "totalVoturiSENS": 5,
-    "procent": "1.36%"
-  },
-  {
-    "id": "34374",
-    "localitate": "ORAŞ AVRIG",
-    "nume_sectie": "ŞCOLA PRIMARĂ SĂCĂDATE",
-    "totalVoturi": 223,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "34375",
-    "localitate": "ORAŞ AVRIG",
-    "nume_sectie": "ŞCOALA PRIMARĂ GLÎMBOACA",
-    "totalVoturi": 110,
-    "totalVoturiSENS": 5,
-    "procent": "4.55%"
-  },
-  {
-    "id": "34376",
-    "localitate": "ORAŞ CISNĂDIE",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL CISNĂDIOARA",
-    "totalVoturi": 354,
-    "totalVoturiSENS": 13,
-    "procent": "3.67%"
-  },
-  {
-    "id": "34377",
-    "localitate": "ORAŞ CISNĂDIE",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.7",
-    "totalVoturi": 678,
-    "totalVoturiSENS": 39,
-    "procent": "5.75%"
-  },
-  {
-    "id": "34378",
-    "localitate": "ORAŞ CISNĂDIE",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NR. 3",
-    "totalVoturi": 588,
-    "totalVoturiSENS": 34,
-    "procent": "5.78%"
-  },
-  {
-    "id": "34379",
-    "localitate": "ORAŞ CISNĂDIE",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.6",
-    "totalVoturi": 567,
-    "totalVoturiSENS": 24,
-    "procent": "4.23%"
-  },
-  {
-    "id": "34380",
-    "localitate": "ORAŞ CISNĂDIE",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.3 CISNĂDIE",
-    "totalVoturi": 693,
-    "totalVoturiSENS": 35,
-    "procent": "5.05%"
-  },
-  {
-    "id": "34381",
-    "localitate": "ORAŞ CISNĂDIE",
-    "nume_sectie": "LICEUL TEORETIC ”GUSTAV GUNDISCH” CISNĂDIE",
-    "totalVoturi": 683,
-    "totalVoturiSENS": 31,
-    "procent": "4.54%"
-  },
-  {
-    "id": "34382",
-    "localitate": "ORAŞ CISNĂDIE",
-    "nume_sectie": "LICEUL TEHNOLOGIC",
-    "totalVoturi": 637,
-    "totalVoturiSENS": 40,
-    "procent": "6.28%"
+    "id": "34529",
+    "localitate": "PORUMBACU DE JOS",
+    "nume_sectie": "CĂMINUL CULTURAL PORUMBACU DE SUS",
+    "totalVoturi": 371,
+    "totalVoturiSENS": 12,
+    "procent": "3.23%"
   },
   {
     "id": "34383",
@@ -1408,6 +1488,22 @@
     "procent": "3.22%"
   },
   {
+    "id": "34290",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ RADU SELEJAN",
+    "totalVoturi": 529,
+    "totalVoturiSENS": 17,
+    "procent": "3.21%"
+  },
+  {
+    "id": "34510",
+    "localitate": "MOŞNA",
+    "nume_sectie": "CĂMINUL CULTURAL AL COMUNEI MOȘNA",
+    "totalVoturi": 280,
+    "totalVoturiSENS": 9,
+    "procent": "3.21%"
+  },
+  {
     "id": "34384",
     "localitate": "ORAŞ CISNĂDIE",
     "nume_sectie": "LICEUL TEHNOLOGIC CISNĂDIE",
@@ -1416,684 +1512,20 @@
     "procent": "3.20%"
   },
   {
-    "id": "34385",
-    "localitate": "ORAŞ CISNĂDIE",
-    "nume_sectie": "LICEUL TEHNOLOGIC CISNĂDIE",
-    "totalVoturi": 415,
-    "totalVoturiSENS": 18,
-    "procent": "4.34%"
+    "id": "34340",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "LICEUL TEORECTIC ”AXENTE SEVER”",
+    "totalVoturi": 471,
+    "totalVoturiSENS": 15,
+    "procent": "3.18%"
   },
   {
-    "id": "34386",
-    "localitate": "ORAŞ CISNĂDIE",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL NR.1",
-    "totalVoturi": 686,
-    "totalVoturiSENS": 25,
-    "procent": "3.64%"
-  },
-  {
-    "id": "34387",
-    "localitate": "ORAŞ CISNĂDIE",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL NR.1",
-    "totalVoturi": 754,
-    "totalVoturiSENS": 35,
-    "procent": "4.64%"
-  },
-  {
-    "id": "34388",
-    "localitate": "ORAŞ CISNĂDIE",
-    "nume_sectie": "GRĂDINIȚA CU PROGRAM NORMAL NR. 1",
-    "totalVoturi": 533,
+    "id": "34562",
+    "localitate": "ŞELIMBĂR",
+    "nume_sectie": "CĂMIN CULTURAL VEȘTEM",
+    "totalVoturi": 725,
     "totalVoturiSENS": 23,
-    "procent": "4.32%"
-  },
-  {
-    "id": "34389",
-    "localitate": "ORAŞ COPŞA MICĂ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ COPŞA MICĂ, STRADA COLONIA LABORATOR, NR.45",
-    "totalVoturi": 369,
-    "totalVoturiSENS": 7,
-    "procent": "1.90%"
-  },
-  {
-    "id": "34390",
-    "localitate": "ORAŞ COPŞA MICĂ",
-    "nume_sectie": "LICEUL TEHNOLOGIC ”NICOLAE TECLU” COPŞA MICĂ, STRADA ŞOSEAUA SIBIULUI, NR.61",
-    "totalVoturi": 450,
-    "totalVoturiSENS": 9,
-    "procent": "2.00%"
-  },
-  {
-    "id": "34391",
-    "localitate": "ORAŞ COPŞA MICĂ",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.1 COPŞA MICĂ,STRADA ŞOSEAUA MEDIAŞULUI, NR.93",
-    "totalVoturi": 375,
-    "totalVoturiSENS": 11,
-    "procent": "2.93%"
-  },
-  {
-    "id": "34392",
-    "localitate": "ORAŞ COPŞA MICĂ",
-    "nume_sectie": "ŞCOALA PRIMARĂ NR. 2 COPŞA MICĂ, STRADA TÂRNĂVIOARA, NR.76",
-    "totalVoturi": 125,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "34393",
-    "localitate": "ORAŞ DUMBRĂVENI",
-    "nume_sectie": "CASA DE CULTURĂ DUMBRĂVENI",
-    "totalVoturi": 461,
-    "totalVoturiSENS": 27,
-    "procent": "5.86%"
-  },
-  {
-    "id": "34394",
-    "localitate": "ORAŞ DUMBRĂVENI",
-    "nume_sectie": "LICEUL ”TIMOTEI CIPARIU” DUMBRĂVENI",
-    "totalVoturi": 319,
-    "totalVoturiSENS": 7,
-    "procent": "2.19%"
-  },
-  {
-    "id": "34395",
-    "localitate": "ORAŞ DUMBRĂVENI",
-    "nume_sectie": "LICEUL ”TIMOTEI CIPARIU” DUMBRĂVENI",
-    "totalVoturi": 455,
-    "totalVoturiSENS": 12,
-    "procent": "2.64%"
-  },
-  {
-    "id": "34396",
-    "localitate": "ORAŞ DUMBRĂVENI",
-    "nume_sectie": "CENTRUL ŞCOLAR PENTRU EDUCAŢIE INCLUZIVĂ DUMBRĂVENI",
-    "totalVoturi": 420,
-    "totalVoturiSENS": 9,
-    "procent": "2.14%"
-  },
-  {
-    "id": "34397",
-    "localitate": "ORAŞ DUMBRĂVENI",
-    "nume_sectie": "CLĂDIRE PUBLICĂ A ADMINISTRAȚIEI LOCALE ORAȘ DUMBRĂVENI",
-    "totalVoturi": 482,
-    "totalVoturiSENS": 7,
-    "procent": "1.45%"
-  },
-  {
-    "id": "34398",
-    "localitate": "ORAŞ DUMBRĂVENI",
-    "nume_sectie": "CĂMINUL CULTURAL ERNEA",
-    "totalVoturi": 144,
-    "totalVoturiSENS": 1,
-    "procent": "0.69%"
-  },
-  {
-    "id": "34399",
-    "localitate": "ORAŞ MIERCUREA SIBIULUI",
-    "nume_sectie": "PRIMĂRIA ORAŞULUI MIERCUREA SIBIULUI",
-    "totalVoturi": 398,
-    "totalVoturiSENS": 16,
-    "procent": "4.02%"
-  },
-  {
-    "id": "34400",
-    "localitate": "ORAŞ MIERCUREA SIBIULUI",
-    "nume_sectie": "PRIMĂRIA ORAŞULUI MIERCUREA SIBIULUI",
-    "totalVoturi": 391,
-    "totalVoturiSENS": 12,
-    "procent": "3.07%"
-  },
-  {
-    "id": "34401",
-    "localitate": "ORAŞ MIERCUREA SIBIULUI",
-    "nume_sectie": "CAMIN CULTURAL",
-    "totalVoturi": 341,
-    "totalVoturiSENS": 9,
-    "procent": "2.64%"
-  },
-  {
-    "id": "34402",
-    "localitate": "ORAŞ MIERCUREA SIBIULUI",
-    "nume_sectie": "CAMIN CULTURAL",
-    "totalVoturi": 191,
-    "totalVoturiSENS": 2,
-    "procent": "1.05%"
-  },
-  {
-    "id": "34403",
-    "localitate": "ORAŞ OCNA SIBIULUI",
-    "nume_sectie": "ŞCOALA GIMNAZIALA OCNA SIBIULUI",
-    "totalVoturi": 456,
-    "totalVoturiSENS": 20,
-    "procent": "4.39%"
-  },
-  {
-    "id": "34404",
-    "localitate": "ORAŞ OCNA SIBIULUI",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ OCNA SIBIULUI",
-    "totalVoturi": 409,
-    "totalVoturiSENS": 23,
-    "procent": "5.62%"
-  },
-  {
-    "id": "34405",
-    "localitate": "ORAŞ OCNA SIBIULUI",
-    "nume_sectie": "CLĂDIREA PAROHIALĂ ORTODOXĂ NR.1 OCNA SIBIULUI",
-    "totalVoturi": 683,
-    "totalVoturiSENS": 26,
-    "procent": "3.81%"
-  },
-  {
-    "id": "34406",
-    "localitate": "ORAŞ OCNA SIBIULUI",
-    "nume_sectie": "CLADIRE (FOST SEDIU PRIMARIE),TOPÎRCEA",
-    "totalVoturi": 81,
-    "totalVoturiSENS": 1,
-    "procent": "1.23%"
-  },
-  {
-    "id": "34407",
-    "localitate": "ORAŞ SĂLIŞTE",
-    "nume_sectie": "LICEUL TEHNOLOGIC ”IOAN LUPAȘ”",
-    "totalVoturi": 585,
-    "totalVoturiSENS": 20,
-    "procent": "3.42%"
-  },
-  {
-    "id": "34408",
-    "localitate": "ORAŞ SĂLIŞTE",
-    "nume_sectie": "LICEUL TEHNOLOGIC ”IOAN LUPAȘ”",
-    "totalVoturi": 607,
-    "totalVoturiSENS": 11,
-    "procent": "1.81%"
-  },
-  {
-    "id": "34409",
-    "localitate": "ORAŞ SĂLIŞTE",
-    "nume_sectie": "MUZEUL ETNOGRAFIC ”MARIA COSTACHESCU",
-    "totalVoturi": 156,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "34410",
-    "localitate": "ORAŞ SĂLIŞTE",
-    "nume_sectie": "CLĂDIREA FOSTEI PRIMĂRII",
-    "totalVoturi": 166,
-    "totalVoturiSENS": 3,
-    "procent": "1.81%"
-  },
-  {
-    "id": "34411",
-    "localitate": "ORAŞ SĂLIŞTE",
-    "nume_sectie": "CENTRU DE DOCUMENTARE ȘI INFORMARE SIBIEL",
-    "totalVoturi": 227,
-    "totalVoturiSENS": 3,
-    "procent": "1.32%"
-  },
-  {
-    "id": "34412",
-    "localitate": "ORAŞ SĂLIŞTE",
-    "nume_sectie": "CĂMIN CULTURAL FÂNTÂNELE",
-    "totalVoturi": 125,
-    "totalVoturiSENS": 5,
-    "procent": "4.00%"
-  },
-  {
-    "id": "34413",
-    "localitate": "ORAŞ SĂLIŞTE",
-    "nume_sectie": "ŞCOALA GENERALĂ SĂCEL",
-    "totalVoturi": 255,
-    "totalVoturiSENS": 6,
-    "procent": "2.35%"
-  },
-  {
-    "id": "34414",
-    "localitate": "ORAŞ SĂLIŞTE",
-    "nume_sectie": "ŞCOALA PRIMARĂ MAG",
-    "totalVoturi": 176,
-    "totalVoturiSENS": 1,
-    "procent": "0.57%"
-  },
-  {
-    "id": "34415",
-    "localitate": "ORAŞ SĂLIŞTE",
-    "nume_sectie": "ŞCOALA PRIMARĂ AMNAŞ",
-    "totalVoturi": 139,
-    "totalVoturiSENS": 1,
-    "procent": "0.72%"
-  },
-  {
-    "id": "34416",
-    "localitate": "ORAŞ SĂLIŞTE",
-    "nume_sectie": "CĂMIN CULTURAL ACILIU",
-    "totalVoturi": 98,
-    "totalVoturiSENS": 3,
-    "procent": "3.06%"
-  },
-  {
-    "id": "34417",
-    "localitate": "ORAŞ TĂLMACIU",
-    "nume_sectie": "LICEUL TEHOLOGIC ” JOHANNES LEBEL” TĂLMACIU/ȘCOALA GIMNAZIALĂ TĂLMACIU",
-    "totalVoturi": 525,
-    "totalVoturiSENS": 26,
-    "procent": "4.95%"
-  },
-  {
-    "id": "34418",
-    "localitate": "ORAŞ TĂLMACIU",
-    "nume_sectie": "LICEUL TEHNOLOGIC ”JOHANNES LEBEL” TĂLMACIU/ȘCOALA GIMNAZIALĂ TĂLMACIU",
-    "totalVoturi": 576,
-    "totalVoturiSENS": 26,
-    "procent": "4.51%"
-  },
-  {
-    "id": "34419",
-    "localitate": "ORAŞ TĂLMACIU",
-    "nume_sectie": "LICEUL TEHNOLOGIC ”JOHANNES LEBEL” TĂLMACIU CORP A",
-    "totalVoturi": 540,
-    "totalVoturiSENS": 26,
-    "procent": "4.81%"
-  },
-  {
-    "id": "34420",
-    "localitate": "ORAŞ TĂLMACIU",
-    "nume_sectie": "LICEUL TEHNOLOGIC ”JOHANNES LEBEL” TĂLMACIU CORP B",
-    "totalVoturi": 738,
-    "totalVoturiSENS": 32,
-    "procent": "4.34%"
-  },
-  {
-    "id": "34421",
-    "localitate": "ORAŞ TĂLMACIU",
-    "nume_sectie": "IMOBIL APARȚINÂND PRIMĂRIEI ORAȘULUI TĂLMACIU (FOSTA ȘCOALĂ COLONIA TĂLMACIU II)",
-    "totalVoturi": 93,
-    "totalVoturiSENS": 4,
-    "procent": "4.30%"
-  },
-  {
-    "id": "34422",
-    "localitate": "ORAŞ TĂLMACIU",
-    "nume_sectie": "LICEUL TEHNOLOGIC ”JOHANNES LEBEL” TĂLMACIU/ȘCOALA GIMNAZIALĂ TĂLMĂCEL",
-    "totalVoturi": 394,
-    "totalVoturiSENS": 6,
-    "procent": "1.52%"
-  },
-  {
-    "id": "34423",
-    "localitate": "ALMA",
-    "nume_sectie": "CĂMINUL CULTURAL ALMA",
-    "totalVoturi": 358,
-    "totalVoturiSENS": 1,
-    "procent": "0.28%"
-  },
-  {
-    "id": "34424",
-    "localitate": "ALMA",
-    "nume_sectie": "CĂMINUL CULTURAL GIACĂŞ",
-    "totalVoturi": 93,
-    "totalVoturiSENS": 1,
-    "procent": "1.08%"
-  },
-  {
-    "id": "34425",
-    "localitate": "ALMA",
-    "nume_sectie": "CĂMINUL CULTURAL ŞMIG",
-    "totalVoturi": 465,
-    "totalVoturiSENS": 11,
-    "procent": "2.37%"
-  },
-  {
-    "id": "34426",
-    "localitate": "ALŢINA",
-    "nume_sectie": "SEDIU PRIMARIA",
-    "totalVoturi": 445,
-    "totalVoturiSENS": 2,
-    "procent": "0.45%"
-  },
-  {
-    "id": "34427",
-    "localitate": "ALŢINA",
-    "nume_sectie": "FOST SEDIU CAP",
-    "totalVoturi": 92,
-    "totalVoturiSENS": 1,
-    "procent": "1.09%"
-  },
-  {
-    "id": "34428",
-    "localitate": "ALŢINA",
-    "nume_sectie": "FOST SEDIU CAP",
-    "totalVoturi": 79,
-    "totalVoturiSENS": 1,
-    "procent": "1.27%"
-  },
-  {
-    "id": "34429",
-    "localitate": "APOLDU DE JOS",
-    "nume_sectie": "CĂMINUL CULTURAL APOLDU DE JOS",
-    "totalVoturi": 385,
-    "totalVoturiSENS": 4,
-    "procent": "1.04%"
-  },
-  {
-    "id": "34430",
-    "localitate": "APOLDU DE JOS",
-    "nume_sectie": "CĂMINUL CULTURAL SÂNGĂTIN",
-    "totalVoturi": 132,
-    "totalVoturiSENS": 1,
-    "procent": "0.76%"
-  },
-  {
-    "id": "34431",
-    "localitate": "ARPAŞU DE JOS",
-    "nume_sectie": "CĂMIN CULTURAL ARPAȘU DE JOS",
-    "totalVoturi": 394,
-    "totalVoturiSENS": 11,
-    "procent": "2.79%"
-  },
-  {
-    "id": "34432",
-    "localitate": "ARPAŞU DE JOS",
-    "nume_sectie": "CLĂDIREA ȘCOLII GIMNAZIALE AUREL POPA- ARPAȘU DE SUS",
-    "totalVoturi": 456,
-    "totalVoturiSENS": 19,
-    "procent": "4.17%"
-  },
-  {
-    "id": "34433",
-    "localitate": "ARPAŞU DE JOS",
-    "nume_sectie": "CĂMINUL CULTURAL NOU ROMÂN",
-    "totalVoturi": 152,
-    "totalVoturiSENS": 3,
-    "procent": "1.97%"
-  },
-  {
-    "id": "34434",
-    "localitate": "AŢEL",
-    "nume_sectie": "PRIMARIA ATEL",
-    "totalVoturi": 430,
-    "totalVoturiSENS": 6,
-    "procent": "1.40%"
-  },
-  {
-    "id": "34435",
-    "localitate": "AŢEL",
-    "nume_sectie": "CLADIREA PRIMARIEI (FOSTA SCOALA), DUPUS NR. 107.",
-    "totalVoturi": 64,
-    "totalVoturiSENS": 2,
-    "procent": "3.13%"
-  },
-  {
-    "id": "34436",
-    "localitate": "AXENTE SEVER",
-    "nume_sectie": "CĂMIN CULTURAL",
-    "totalVoturi": 497,
-    "totalVoturiSENS": 5,
-    "procent": "1.01%"
-  },
-  {
-    "id": "34437",
-    "localitate": "AXENTE SEVER",
-    "nume_sectie": "CĂMIN CULTURAL",
-    "totalVoturi": 119,
-    "totalVoturiSENS": 2,
-    "procent": "1.68%"
-  },
-  {
-    "id": "34438",
-    "localitate": "AXENTE SEVER",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ AXENTE SEVER",
-    "totalVoturi": 393,
-    "totalVoturiSENS": 20,
-    "procent": "5.09%"
-  },
-  {
-    "id": "34439",
-    "localitate": "AXENTE SEVER",
-    "nume_sectie": "SALA DE FESTIVITĂȚI",
-    "totalVoturi": 431,
-    "totalVoturiSENS": 8,
-    "procent": "1.86%"
-  },
-  {
-    "id": "34440",
-    "localitate": "BAZNA",
-    "nume_sectie": "PRIMARIA BAZNA",
-    "totalVoturi": 466,
-    "totalVoturiSENS": 9,
-    "procent": "1.93%"
-  },
-  {
-    "id": "34441",
-    "localitate": "BAZNA",
-    "nume_sectie": "SCOALA GIMNAZIALA BOIAN",
-    "totalVoturi": 405,
-    "totalVoturiSENS": 2,
-    "procent": "0.49%"
-  },
-  {
-    "id": "34442",
-    "localitate": "BAZNA",
-    "nume_sectie": "SCOALA PRIMARĂ VELȚ",
-    "totalVoturi": 180,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "34443",
-    "localitate": "BÂRGHIŞ",
-    "nume_sectie": "CĂMIN CULTURAL IGHIŞU VECHI",
-    "totalVoturi": 84,
-    "totalVoturiSENS": 1,
-    "procent": "1.19%"
-  },
-  {
-    "id": "34444",
-    "localitate": "BÂRGHIŞ",
-    "nume_sectie": "GRĂDINIȚA CU PROGRAM NORMAL BÎRGHIȘ",
-    "totalVoturi": 210,
-    "totalVoturiSENS": 7,
-    "procent": "3.33%"
-  },
-  {
-    "id": "34445",
-    "localitate": "BÂRGHIŞ",
-    "nume_sectie": "ŞCOALA PRIMARĂ APOȘ",
-    "totalVoturi": 97,
-    "totalVoturiSENS": 1,
-    "procent": "1.03%"
-  },
-  {
-    "id": "34446",
-    "localitate": "BÂRGHIŞ",
-    "nume_sectie": "ŞCOALA PRIMARĂ PELIȘOR",
-    "totalVoturi": 136,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "34447",
-    "localitate": "BÂRGHIŞ",
-    "nume_sectie": "ŞCOALA PRIMARĂ ZLAGNA",
-    "totalVoturi": 58,
-    "totalVoturiSENS": 1,
-    "procent": "1.72%"
-  },
-  {
-    "id": "34448",
-    "localitate": "BÂRGHIŞ",
-    "nume_sectie": "DISPENSAR UMAN VECERD",
-    "totalVoturi": 35,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "34449",
-    "localitate": "BIERTAN",
-    "nume_sectie": "PRIMARIA COMUNEI BIERTAN",
-    "totalVoturi": 448,
-    "totalVoturiSENS": 9,
-    "procent": "2.01%"
-  },
-  {
-    "id": "34450",
-    "localitate": "BIERTAN",
-    "nume_sectie": "SCOALA PRIMARA RICHIS",
-    "totalVoturi": 239,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "34451",
-    "localitate": "BIERTAN",
-    "nume_sectie": "SCOALA PRIMARA COPSA MARE",
-    "totalVoturi": 139,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "34452",
-    "localitate": "BLĂJEL",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ",
-    "totalVoturi": 191,
-    "totalVoturiSENS": 2,
-    "procent": "1.05%"
-  },
-  {
-    "id": "34453",
-    "localitate": "BLĂJEL",
-    "nume_sectie": "FOSTA ŞCOALĂ GENERALĂ",
-    "totalVoturi": 36,
-    "totalVoturiSENS": 1,
-    "procent": "2.78%"
-  },
-  {
-    "id": "34454",
-    "localitate": "BLĂJEL",
-    "nume_sectie": "CĂMIN CULTURAL",
-    "totalVoturi": 587,
-    "totalVoturiSENS": 14,
-    "procent": "2.39%"
-  },
-  {
-    "id": "34455",
-    "localitate": "BOIŢA",
-    "nume_sectie": "PRIMĂRIA COMUNEI BOIŢA",
-    "totalVoturi": 698,
-    "totalVoturiSENS": 5,
-    "procent": "0.72%"
-  },
-  {
-    "id": "34456",
-    "localitate": "BRATEIU",
-    "nume_sectie": "CĂMINUL CULTURAL BRATEIU",
-    "totalVoturi": 325,
-    "totalVoturiSENS": 7,
-    "procent": "2.15%"
-  },
-  {
-    "id": "34457",
-    "localitate": "BRATEIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ BRATEIU",
-    "totalVoturi": 245,
-    "totalVoturiSENS": 7,
-    "procent": "2.86%"
-  },
-  {
-    "id": "34458",
-    "localitate": "BRATEIU",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ BUZD",
-    "totalVoturi": 306,
-    "totalVoturiSENS": 1,
-    "procent": "0.33%"
-  },
-  {
-    "id": "34459",
-    "localitate": "BRĂDENI",
-    "nume_sectie": "SALA MARE-PRIMĂRIE",
-    "totalVoturi": 288,
-    "totalVoturiSENS": 9,
-    "procent": "3.13%"
-  },
-  {
-    "id": "34460",
-    "localitate": "BRĂDENI",
-    "nume_sectie": "SALA MARE FOSTĂ PRIMĂRIE",
-    "totalVoturi": 159,
-    "totalVoturiSENS": 4,
-    "procent": "2.52%"
-  },
-  {
-    "id": "34461",
-    "localitate": "BRĂDENI",
-    "nume_sectie": "FOSTA ŞCOALĂ ŢELINE",
-    "totalVoturi": 57,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "34462",
-    "localitate": "BRUIU",
-    "nume_sectie": "PRIMĂRIA BRUIU",
-    "totalVoturi": 134,
-    "totalVoturiSENS": 1,
-    "procent": "0.75%"
-  },
-  {
-    "id": "34463",
-    "localitate": "BRUIU",
-    "nume_sectie": "ȘCOALA PRIMARĂ ȘOMARTIN",
-    "totalVoturi": 96,
-    "totalVoturiSENS": 2,
-    "procent": "2.08%"
-  },
-  {
-    "id": "34464",
-    "localitate": "CÂRŢA",
-    "nume_sectie": "PRIMARIA CIRTA",
-    "totalVoturi": 338,
-    "totalVoturiSENS": 3,
-    "procent": "0.89%"
-  },
-  {
-    "id": "34465",
-    "localitate": "CÂRŢIŞOARA",
-    "nume_sectie": "PRIMĂRIA COMUNEI CÎRȚIȘOARA",
-    "totalVoturi": 534,
-    "totalVoturiSENS": 7,
-    "procent": "1.31%"
-  },
-  {
-    "id": "34466",
-    "localitate": "CHIRPĂR",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ CHIRPĂR",
-    "totalVoturi": 261,
-    "totalVoturiSENS": 1,
-    "procent": "0.38%"
-  },
-  {
-    "id": "34467",
-    "localitate": "CHIRPĂR",
-    "nume_sectie": "CĂMINUL CULTURAL VĂRD",
-    "totalVoturi": 137,
-    "totalVoturiSENS": 2,
-    "procent": "1.46%"
-  },
-  {
-    "id": "34468",
-    "localitate": "CHIRPĂR",
-    "nume_sectie": "ŞCOALA PRIMARĂ VESEUD",
-    "totalVoturi": 47,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "34469",
-    "localitate": "CHIRPĂR",
-    "nume_sectie": "CĂMINUL CULTURAL SĂSĂUŞ",
-    "totalVoturi": 51,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
+    "procent": "3.17%"
   },
   {
     "id": "34470",
@@ -2104,28 +1536,236 @@
     "procent": "3.15%"
   },
   {
-    "id": "34471",
-    "localitate": "CRISTIAN",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ CRISTIAN-CORP IV, ȘCOALA ROMÂNEASCĂ",
-    "totalVoturi": 645,
-    "totalVoturiSENS": 27,
-    "procent": "4.19%"
+    "id": "34345",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ CIREŞARII",
+    "totalVoturi": 544,
+    "totalVoturiSENS": 17,
+    "procent": "3.13%"
   },
   {
-    "id": "34472",
-    "localitate": "CRISTIAN",
-    "nume_sectie": "SCOALA GIMNAZIALA , CRISTIAN",
-    "totalVoturi": 674,
-    "totalVoturiSENS": 43,
-    "procent": "6.38%"
+    "id": "34435",
+    "localitate": "AŢEL",
+    "nume_sectie": "CLADIREA PRIMARIEI (FOSTA SCOALA), DUPUS NR. 107.",
+    "totalVoturi": 64,
+    "totalVoturiSENS": 2,
+    "procent": "3.13%"
   },
   {
-    "id": "34473",
-    "localitate": "DÂRLOS",
-    "nume_sectie": "CĂMINUL CULTURAL DÂRLOS",
-    "totalVoturi": 329,
+    "id": "34459",
+    "localitate": "BRĂDENI",
+    "nume_sectie": "SALA MARE-PRIMĂRIE",
+    "totalVoturi": 288,
+    "totalVoturiSENS": 9,
+    "procent": "3.13%"
+  },
+  {
+    "id": "34541",
+    "localitate": "ROŞIA",
+    "nume_sectie": "SCOALA GIMAZIALA DAIA",
+    "totalVoturi": 385,
+    "totalVoturiSENS": 12,
+    "procent": "3.12%"
+  },
+  {
+    "id": "34286",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND",
+    "totalVoturi": 486,
+    "totalVoturiSENS": 15,
+    "procent": "3.09%"
+  },
+  {
+    "id": "34297",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NICOLAE IORGA - CORP NOU",
+    "totalVoturi": 713,
+    "totalVoturiSENS": 22,
+    "procent": "3.09%"
+  },
+  {
+    "id": "34400",
+    "localitate": "ORAŞ MIERCUREA SIBIULUI",
+    "nume_sectie": "PRIMĂRIA ORAŞULUI MIERCUREA SIBIULUI",
+    "totalVoturi": 391,
+    "totalVoturiSENS": 12,
+    "procent": "3.07%"
+  },
+  {
+    "id": "34283",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ REGELE FERDINAND",
+    "totalVoturi": 556,
+    "totalVoturiSENS": 17,
+    "procent": "3.06%"
+  },
+  {
+    "id": "34368",
+    "localitate": "ORAŞ AVRIG",
+    "nume_sectie": "GRADINITA NR,1 PROGRAM NORMAL",
+    "totalVoturi": 718,
+    "totalVoturiSENS": 22,
+    "procent": "3.06%"
+  },
+  {
+    "id": "34416",
+    "localitate": "ORAŞ SĂLIŞTE",
+    "nume_sectie": "CĂMIN CULTURAL ACILIU",
+    "totalVoturi": 98,
+    "totalVoturiSENS": 3,
+    "procent": "3.06%"
+  },
+  {
+    "id": "34332",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "AUTOGARA MEDIAŞ",
+    "totalVoturi": 460,
+    "totalVoturiSENS": 14,
+    "procent": "3.04%"
+  },
+  {
+    "id": "34301",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "LICEUL TEORETIC CONSTANTIN NOICA",
+    "totalVoturi": 659,
+    "totalVoturiSENS": 20,
+    "procent": "3.03%"
+  },
+  {
+    "id": "34318",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "VESTIAR SPARTA",
+    "totalVoturi": 331,
+    "totalVoturiSENS": 10,
+    "procent": "3.02%"
+  },
+  {
+    "id": "34568",
+    "localitate": "ŞURA MARE",
+    "nume_sectie": "SALĂ SPORT",
+    "totalVoturi": 975,
+    "totalVoturiSENS": 29,
+    "procent": "2.97%"
+  },
+  {
+    "id": "34391",
+    "localitate": "ORAŞ COPŞA MICĂ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.1 COPŞA MICĂ,STRADA ŞOSEAUA MEDIAŞULUI, NR.93",
+    "totalVoturi": 375,
+    "totalVoturiSENS": 11,
+    "procent": "2.93%"
+  },
+  {
+    "id": "34519",
+    "localitate": "ORLAT",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL ORLAT",
+    "totalVoturi": 581,
+    "totalVoturiSENS": 17,
+    "procent": "2.93%"
+  },
+  {
+    "id": "34335",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "CREŞA NR.3",
+    "totalVoturi": 481,
+    "totalVoturiSENS": 14,
+    "procent": "2.91%"
+  },
+  {
+    "id": "34346",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT PINOCCHIO",
+    "totalVoturi": 447,
+    "totalVoturiSENS": 13,
+    "procent": "2.91%"
+  },
+  {
+    "id": "34551",
+    "localitate": "ŞEICA MARE",
+    "nume_sectie": "SCOALA GIMNAZIALA SEICA MARE",
+    "totalVoturi": 309,
+    "totalVoturiSENS": 9,
+    "procent": "2.91%"
+  },
+  {
+    "id": "34564",
+    "localitate": "ŞELIMBĂR",
+    "nume_sectie": "CĂMIN CULTURAL BUNGRAD",
+    "totalVoturi": 241,
     "totalVoturiSENS": 7,
-    "procent": "2.13%"
+    "procent": "2.90%"
+  },
+  {
+    "id": "34237",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 8",
+    "totalVoturi": 727,
+    "totalVoturiSENS": 21,
+    "procent": "2.89%"
+  },
+  {
+    "id": "34457",
+    "localitate": "BRATEIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ BRATEIU",
+    "totalVoturi": 245,
+    "totalVoturiSENS": 7,
+    "procent": "2.86%"
+  },
+  {
+    "id": "34518",
+    "localitate": "NOCRICH",
+    "nume_sectie": "SCOALA PRIMARA ŢICHINDEAL",
+    "totalVoturi": 70,
+    "totalVoturiSENS": 2,
+    "procent": "2.86%"
+  },
+  {
+    "id": "34316",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ MIHAI EMINESCU",
+    "totalVoturi": 492,
+    "totalVoturiSENS": 14,
+    "procent": "2.85%"
+  },
+  {
+    "id": "34293",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR. 21",
+    "totalVoturi": 676,
+    "totalVoturiSENS": 19,
+    "procent": "2.81%"
+  },
+  {
+    "id": "34431",
+    "localitate": "ARPAŞU DE JOS",
+    "nume_sectie": "CĂMIN CULTURAL ARPAȘU DE JOS",
+    "totalVoturi": 394,
+    "totalVoturiSENS": 11,
+    "procent": "2.79%"
+  },
+  {
+    "id": "34233",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "LICEUL TEHNOLOGIC HENRI COANDĂ",
+    "totalVoturi": 539,
+    "totalVoturiSENS": 15,
+    "procent": "2.78%"
+  },
+  {
+    "id": "34453",
+    "localitate": "BLĂJEL",
+    "nume_sectie": "FOSTA ŞCOALĂ GENERALĂ",
+    "totalVoturi": 36,
+    "totalVoturiSENS": 1,
+    "procent": "2.78%"
+  },
+  {
+    "id": "34371",
+    "localitate": "ORAŞ AVRIG",
+    "nume_sectie": "LICEUL ”TEHNOLOGIC MÂRŞA",
+    "totalVoturi": 541,
+    "totalVoturiSENS": 15,
+    "procent": "2.77%"
   },
   {
     "id": "34474",
@@ -2136,156 +1776,92 @@
     "procent": "2.74%"
   },
   {
-    "id": "34475",
-    "localitate": "DÂRLOS",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ CURCIU",
-    "totalVoturi": 263,
-    "totalVoturiSENS": 2,
-    "procent": "0.76%"
+    "id": "34369",
+    "localitate": "ORAŞ AVRIG",
+    "nume_sectie": "LICEUL ”GHEORGHE LAZĂR”, AVRIG",
+    "totalVoturi": 561,
+    "totalVoturiSENS": 15,
+    "procent": "2.67%"
   },
   {
-    "id": "34476",
-    "localitate": "DÂRLOS",
-    "nume_sectie": "CĂMIN CULTURAL VALEA LUNGĂ",
-    "totalVoturi": 108,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
+    "id": "34234",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "LICEUL TEHNOLOGIC HENRI COANDĂ",
+    "totalVoturi": 714,
+    "totalVoturiSENS": 19,
+    "procent": "2.66%"
   },
   {
-    "id": "34477",
-    "localitate": "GURA RÂULUI",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ ”AUREL DECEI” GURA RÂULUI",
-    "totalVoturi": 815,
-    "totalVoturiSENS": 28,
-    "procent": "3.44%"
+    "id": "34545",
+    "localitate": "SADU",
+    "nume_sectie": "CĂMINUL CULTURAL AL COMUNEI SADU",
+    "totalVoturi": 751,
+    "totalVoturiSENS": 20,
+    "procent": "2.66%"
   },
   {
-    "id": "34478",
-    "localitate": "GURA RÂULUI",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL NR.2 GURA RÂULUI",
-    "totalVoturi": 734,
-    "totalVoturiSENS": 13,
-    "procent": "1.77%"
+    "id": "34367",
+    "localitate": "ORAŞ AVRIG",
+    "nume_sectie": "ŞCOALA GIMNAZIALA AVRIG",
+    "totalVoturi": 604,
+    "totalVoturiSENS": 16,
+    "procent": "2.65%"
   },
   {
-    "id": "34479",
-    "localitate": "HOGHILAG",
-    "nume_sectie": "PRIMĂRIA HOGHILAG",
-    "totalVoturi": 429,
-    "totalVoturiSENS": 3,
-    "procent": "0.70%"
+    "id": "34395",
+    "localitate": "ORAŞ DUMBRĂVENI",
+    "nume_sectie": "LICEUL ”TIMOTEI CIPARIU” DUMBRĂVENI",
+    "totalVoturi": 455,
+    "totalVoturiSENS": 12,
+    "procent": "2.64%"
   },
   {
-    "id": "34480",
-    "localitate": "HOGHILAG",
-    "nume_sectie": "SCOALA PRIMARĂ PROD",
-    "totalVoturi": 136,
-    "totalVoturiSENS": 1,
-    "procent": "0.74%"
+    "id": "34401",
+    "localitate": "ORAŞ MIERCUREA SIBIULUI",
+    "nume_sectie": "CAMIN CULTURAL",
+    "totalVoturi": 341,
+    "totalVoturiSENS": 9,
+    "procent": "2.64%"
   },
   {
-    "id": "34481",
-    "localitate": "HOGHILAG",
-    "nume_sectie": "FOSTA PRIMĂRIE VALCHID",
-    "totalVoturi": 324,
-    "totalVoturiSENS": 2,
-    "procent": "0.62%"
+    "id": "34520",
+    "localitate": "ORLAT",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL ORLAT",
+    "totalVoturi": 707,
+    "totalVoturiSENS": 18,
+    "procent": "2.55%"
   },
   {
-    "id": "34482",
-    "localitate": "IACOBENI",
-    "nume_sectie": "LICEUL TEHNOLOGIC IACOBENI",
-    "totalVoturi": 292,
-    "totalVoturiSENS": 3,
-    "procent": "1.03%"
+    "id": "34460",
+    "localitate": "BRĂDENI",
+    "nume_sectie": "SALA MARE FOSTĂ PRIMĂRIE",
+    "totalVoturi": 159,
+    "totalVoturiSENS": 4,
+    "procent": "2.52%"
   },
   {
-    "id": "34483",
-    "localitate": "IACOBENI",
-    "nume_sectie": "ȘCOALA PRIMARĂ STEJĂRIȘU",
-    "totalVoturi": 141,
-    "totalVoturiSENS": 1,
-    "procent": "0.71%"
+    "id": "34535",
+    "localitate": "RĂŞINARI",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ OCTAVIAN GOGA RĂŞINARI",
+    "totalVoturi": 559,
+    "totalVoturiSENS": 14,
+    "procent": "2.50%"
   },
   {
-    "id": "34484",
-    "localitate": "IACOBENI",
-    "nume_sectie": "ȘCOALA PRIMARĂ NETUȘ",
-    "totalVoturi": 146,
-    "totalVoturiSENS": 1,
-    "procent": "0.68%"
+    "id": "34306",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "COLEGIUL NAŢIONAL PEDAGOGIC ANDREI ŞAGUNA",
+    "totalVoturi": 645,
+    "totalVoturiSENS": 16,
+    "procent": "2.48%"
   },
   {
-    "id": "34485",
-    "localitate": "IACOBENI",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NOIȘTAT",
-    "totalVoturi": 143,
-    "totalVoturiSENS": 1,
-    "procent": "0.70%"
-  },
-  {
-    "id": "34486",
-    "localitate": "IACOBENI",
-    "nume_sectie": "ȘCOALA PRIMARĂ MOVILE",
-    "totalVoturi": 109,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "34487",
-    "localitate": "JINA",
-    "nume_sectie": "PRIMĂRIA COMUNEI JINA",
-    "totalVoturi": 674,
-    "totalVoturiSENS": 1,
-    "procent": "0.15%"
-  },
-  {
-    "id": "34488",
-    "localitate": "JINA",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ JINA BĂIEŞI",
-    "totalVoturi": 465,
-    "totalVoturiSENS": 6,
-    "procent": "1.29%"
-  },
-  {
-    "id": "34489",
-    "localitate": "LASLEA",
-    "nume_sectie": "CĂMIN CULTURAL LASLEA",
-    "totalVoturi": 477,
-    "totalVoturiSENS": 17,
-    "procent": "3.56%"
-  },
-  {
-    "id": "34490",
-    "localitate": "LASLEA",
-    "nume_sectie": "CĂMIN CULTURAL MĂLÎNCRAV",
-    "totalVoturi": 340,
-    "totalVoturiSENS": 3,
-    "procent": "0.88%"
-  },
-  {
-    "id": "34491",
-    "localitate": "LASLEA",
-    "nume_sectie": "CĂMIN CULTURAL FLOREŞTI",
-    "totalVoturi": 67,
-    "totalVoturiSENS": 1,
-    "procent": "1.49%"
-  },
-  {
-    "id": "34492",
-    "localitate": "LASLEA",
-    "nume_sectie": "ȘCOALA PRIMARĂ ROANDOLA",
-    "totalVoturi": 65,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "34493",
-    "localitate": "LASLEA",
-    "nume_sectie": "ȘCOALA PRIMARĂ NOU SĂSESC",
-    "totalVoturi": 117,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
+    "id": "34542",
+    "localitate": "ROŞIA",
+    "nume_sectie": "SCOALA GIMNAZIALA CAŞOLŢ",
+    "totalVoturi": 367,
+    "totalVoturiSENS": 9,
+    "procent": "2.45%"
   },
   {
     "id": "34494",
@@ -2296,12 +1872,244 @@
     "procent": "2.42%"
   },
   {
-    "id": "34495",
+    "id": "34317",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT BUCURIA COPIILOR",
+    "totalVoturi": 498,
+    "totalVoturiSENS": 12,
+    "procent": "2.41%"
+  },
+  {
+    "id": "34362",
+    "localitate": "ORAŞ AGNITA",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR.2",
+    "totalVoturi": 456,
+    "totalVoturiSENS": 11,
+    "procent": "2.41%"
+  },
+  {
+    "id": "34358",
+    "localitate": "ORAŞ AGNITA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ G.D. TEUTSCH",
+    "totalVoturi": 334,
+    "totalVoturiSENS": 8,
+    "procent": "2.40%"
+  },
+  {
+    "id": "34454",
+    "localitate": "BLĂJEL",
+    "nume_sectie": "CĂMIN CULTURAL",
+    "totalVoturi": 587,
+    "totalVoturiSENS": 14,
+    "procent": "2.39%"
+  },
+  {
+    "id": "34517",
+    "localitate": "NOCRICH",
+    "nume_sectie": "FOSTA SCOALA GHIJASA DE JOS",
+    "totalVoturi": 42,
+    "totalVoturiSENS": 1,
+    "procent": "2.38%"
+  },
+  {
+    "id": "34527",
+    "localitate": "POPLACA",
+    "nume_sectie": "CĂMINUL CULTURAL POPLACA",
+    "totalVoturi": 839,
+    "totalVoturiSENS": 20,
+    "procent": "2.38%"
+  },
+  {
+    "id": "34349",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ",
+    "totalVoturi": 464,
+    "totalVoturiSENS": 11,
+    "procent": "2.37%"
+  },
+  {
+    "id": "34425",
+    "localitate": "ALMA",
+    "nume_sectie": "CĂMINUL CULTURAL ŞMIG",
+    "totalVoturi": 465,
+    "totalVoturiSENS": 11,
+    "procent": "2.37%"
+  },
+  {
+    "id": "34515",
+    "localitate": "NOCRICH",
+    "nume_sectie": "SCOALA GIMNAZIALA HOSMAN",
+    "totalVoturi": 253,
+    "totalVoturiSENS": 6,
+    "procent": "2.37%"
+  },
+  {
+    "id": "34572",
+    "localitate": "ŞURA MICĂ",
+    "nume_sectie": "SCOALA PRIMARA RUSCIORI",
+    "totalVoturi": 337,
+    "totalVoturiSENS": 8,
+    "procent": "2.37%"
+  },
+  {
+    "id": "34413",
+    "localitate": "ORAŞ SĂLIŞTE",
+    "nume_sectie": "ŞCOALA GENERALĂ SĂCEL",
+    "totalVoturi": 255,
+    "totalVoturiSENS": 6,
+    "procent": "2.35%"
+  },
+  {
+    "id": "34326",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ NR.7",
+    "totalVoturi": 315,
+    "totalVoturiSENS": 7,
+    "procent": "2.22%"
+  },
+  {
+    "id": "34534",
+    "localitate": "RACOVIŢA",
+    "nume_sectie": "CĂMINUL CULTURAL RACOVIŢA",
+    "totalVoturi": 905,
+    "totalVoturiSENS": 20,
+    "procent": "2.21%"
+  },
+  {
+    "id": "34498",
     "localitate": "LOAMNEŞ",
-    "nume_sectie": "CĂMIN CULTURAL MÎNDRA",
-    "totalVoturi": 175,
+    "nume_sectie": "ŞCOALA PRIMARĂ HAŞAG",
+    "totalVoturi": 273,
+    "totalVoturiSENS": 6,
+    "procent": "2.20%"
+  },
+  {
+    "id": "34394",
+    "localitate": "ORAŞ DUMBRĂVENI",
+    "nume_sectie": "LICEUL ”TIMOTEI CIPARIU” DUMBRĂVENI",
+    "totalVoturi": 319,
+    "totalVoturiSENS": 7,
+    "procent": "2.19%"
+  },
+  {
+    "id": "34456",
+    "localitate": "BRATEIU",
+    "nume_sectie": "CĂMINUL CULTURAL BRATEIU",
+    "totalVoturi": 325,
+    "totalVoturiSENS": 7,
+    "procent": "2.15%"
+  },
+  {
+    "id": "34538",
+    "localitate": "RÂU SADULUI",
+    "nume_sectie": "PRIMĂRIA",
+    "totalVoturi": 279,
+    "totalVoturiSENS": 6,
+    "procent": "2.15%"
+  },
+  {
+    "id": "34396",
+    "localitate": "ORAŞ DUMBRĂVENI",
+    "nume_sectie": "CENTRUL ŞCOLAR PENTRU EDUCAŢIE INCLUZIVĂ DUMBRĂVENI",
+    "totalVoturi": 420,
+    "totalVoturiSENS": 9,
+    "procent": "2.14%"
+  },
+  {
+    "id": "34473",
+    "localitate": "DÂRLOS",
+    "nume_sectie": "CĂMINUL CULTURAL DÂRLOS",
+    "totalVoturi": 329,
+    "totalVoturiSENS": 7,
+    "procent": "2.13%"
+  },
+  {
+    "id": "34547",
+    "localitate": "SLIMNIC",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ SLIMNIC",
+    "totalVoturi": 475,
+    "totalVoturiSENS": 10,
+    "procent": "2.11%"
+  },
+  {
+    "id": "34553",
+    "localitate": "ŞEICA MARE",
+    "nume_sectie": "SCOALA PRIMARA BOARTA",
+    "totalVoturi": 143,
+    "totalVoturiSENS": 3,
+    "procent": "2.10%"
+  },
+  {
+    "id": "34336",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "SC AUTOMECANICA SA",
+    "totalVoturi": 240,
+    "totalVoturiSENS": 5,
+    "procent": "2.08%"
+  },
+  {
+    "id": "34463",
+    "localitate": "BRUIU",
+    "nume_sectie": "ȘCOALA PRIMARĂ ȘOMARTIN",
+    "totalVoturi": 96,
     "totalVoturiSENS": 2,
-    "procent": "1.14%"
+    "procent": "2.08%"
+  },
+  {
+    "id": "34543",
+    "localitate": "ROŞIA",
+    "nume_sectie": "SEDIUL ADMINISTRATIV DISPENSAR",
+    "totalVoturi": 243,
+    "totalVoturiSENS": 5,
+    "procent": "2.06%"
+  },
+  {
+    "id": "34575",
+    "localitate": "TÂRNAVA",
+    "nume_sectie": "GRĂDINIŢA CU ORAR NORMAL TÎRNAVA",
+    "totalVoturi": 390,
+    "totalVoturiSENS": 8,
+    "procent": "2.05%"
+  },
+  {
+    "id": "34449",
+    "localitate": "BIERTAN",
+    "nume_sectie": "PRIMARIA COMUNEI BIERTAN",
+    "totalVoturi": 448,
+    "totalVoturiSENS": 9,
+    "procent": "2.01%"
+  },
+  {
+    "id": "34504",
+    "localitate": "MICĂSASA",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”CORNELIU PĂCURARIU” MICĂSASA",
+    "totalVoturi": 498,
+    "totalVoturiSENS": 10,
+    "procent": "2.01%"
+  },
+  {
+    "id": "34390",
+    "localitate": "ORAŞ COPŞA MICĂ",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”NICOLAE TECLU” COPŞA MICĂ, STRADA ŞOSEAUA SIBIULUI, NR.61",
+    "totalVoturi": 450,
+    "totalVoturiSENS": 9,
+    "procent": "2.00%"
+  },
+  {
+    "id": "34361",
+    "localitate": "ORAŞ AGNITA",
+    "nume_sectie": "CASA DE CULTURĂ ”ILARION COCIȘIU”",
+    "totalVoturi": 354,
+    "totalVoturiSENS": 7,
+    "procent": "1.98%"
+  },
+  {
+    "id": "34433",
+    "localitate": "ARPAŞU DE JOS",
+    "nume_sectie": "CĂMINUL CULTURAL NOU ROMÂN",
+    "totalVoturi": 152,
+    "totalVoturiSENS": 3,
+    "procent": "1.97%"
   },
   {
     "id": "34496",
@@ -2312,20 +2120,252 @@
     "procent": "1.97%"
   },
   {
-    "id": "34497",
-    "localitate": "LOAMNEŞ",
-    "nume_sectie": "ŞCOALA PRIMARĂ ARMENI",
-    "totalVoturi": 152,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
+    "id": "34440",
+    "localitate": "BAZNA",
+    "nume_sectie": "PRIMARIA BAZNA",
+    "totalVoturi": 466,
+    "totalVoturiSENS": 9,
+    "procent": "1.93%"
   },
   {
-    "id": "34498",
-    "localitate": "LOAMNEŞ",
-    "nume_sectie": "ŞCOALA PRIMARĂ HAŞAG",
-    "totalVoturi": 273,
+    "id": "34389",
+    "localitate": "ORAŞ COPŞA MICĂ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ COPŞA MICĂ, STRADA COLONIA LABORATOR, NR.45",
+    "totalVoturi": 369,
+    "totalVoturiSENS": 7,
+    "procent": "1.90%"
+  },
+  {
+    "id": "34439",
+    "localitate": "AXENTE SEVER",
+    "nume_sectie": "SALA DE FESTIVITĂȚI",
+    "totalVoturi": 431,
+    "totalVoturiSENS": 8,
+    "procent": "1.86%"
+  },
+  {
+    "id": "34342",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "COLEGIUL ”ŞCOALA NAŢIONALĂ DE GAZ”",
+    "totalVoturi": 435,
+    "totalVoturiSENS": 8,
+    "procent": "1.84%"
+  },
+  {
+    "id": "34365",
+    "localitate": "ORAŞ AVRIG",
+    "nume_sectie": "GRADINITA NR.3 PROGRAM PRELUNGIT",
+    "totalVoturi": 609,
+    "totalVoturiSENS": 11,
+    "procent": "1.81%"
+  },
+  {
+    "id": "34408",
+    "localitate": "ORAŞ SĂLIŞTE",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”IOAN LUPAȘ”",
+    "totalVoturi": 607,
+    "totalVoturiSENS": 11,
+    "procent": "1.81%"
+  },
+  {
+    "id": "34410",
+    "localitate": "ORAŞ SĂLIŞTE",
+    "nume_sectie": "CLĂDIREA FOSTEI PRIMĂRII",
+    "totalVoturi": 166,
+    "totalVoturiSENS": 3,
+    "procent": "1.81%"
+  },
+  {
+    "id": "34522",
+    "localitate": "PĂUCA",
+    "nume_sectie": "ŞCOALA GIMNAZIALA BOGATU-ROMÂN",
+    "totalVoturi": 168,
+    "totalVoturiSENS": 3,
+    "procent": "1.79%"
+  },
+  {
+    "id": "34552",
+    "localitate": "ŞEICA MARE",
+    "nume_sectie": "SCOALA PRIMARA SEICA MARE",
+    "totalVoturi": 390,
+    "totalVoturiSENS": 7,
+    "procent": "1.79%"
+  },
+  {
+    "id": "34331",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT PITICOT",
+    "totalVoturi": 509,
+    "totalVoturiSENS": 9,
+    "procent": "1.77%"
+  },
+  {
+    "id": "34478",
+    "localitate": "GURA RÂULUI",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL NR.2 GURA RÂULUI",
+    "totalVoturi": 734,
+    "totalVoturiSENS": 13,
+    "procent": "1.77%"
+  },
+  {
+    "id": "34447",
+    "localitate": "BÂRGHIŞ",
+    "nume_sectie": "ŞCOALA PRIMARĂ ZLAGNA",
+    "totalVoturi": 58,
+    "totalVoturiSENS": 1,
+    "procent": "1.72%"
+  },
+  {
+    "id": "34502",
+    "localitate": "MERGHINDEAL",
+    "nume_sectie": "ȘCOALA PRIMARĂ CLASELE I-IV MERGHINDEAL",
+    "totalVoturi": 294,
+    "totalVoturiSENS": 5,
+    "procent": "1.70%"
+  },
+  {
+    "id": "34533",
+    "localitate": "RACOVIŢA",
+    "nume_sectie": "CĂMINUL CULTURAL SEBEȘU DE SUS",
+    "totalVoturi": 296,
+    "totalVoturiSENS": 5,
+    "procent": "1.69%"
+  },
+  {
+    "id": "34437",
+    "localitate": "AXENTE SEVER",
+    "nume_sectie": "CĂMIN CULTURAL",
+    "totalVoturi": 119,
+    "totalVoturiSENS": 2,
+    "procent": "1.68%"
+  },
+  {
+    "id": "34574",
+    "localitate": "TÂRNAVA",
+    "nume_sectie": "GRĂDINIŢA CU ORAR NORMAL TÎRNAVA",
+    "totalVoturi": 380,
     "totalVoturiSENS": 6,
-    "procent": "2.20%"
+    "procent": "1.58%"
+  },
+  {
+    "id": "34370",
+    "localitate": "ORAŞ AVRIG",
+    "nume_sectie": "LICEUL ”GHEORGHE LAZĂR”, AVRIG",
+    "totalVoturi": 644,
+    "totalVoturiSENS": 10,
+    "procent": "1.55%"
+  },
+  {
+    "id": "34550",
+    "localitate": "ŞEICA MARE",
+    "nume_sectie": "SCOALA GIMNAZIALA SEICA MARE",
+    "totalVoturi": 323,
+    "totalVoturiSENS": 5,
+    "procent": "1.55%"
+  },
+  {
+    "id": "34422",
+    "localitate": "ORAŞ TĂLMACIU",
+    "nume_sectie": "LICEUL TEHNOLOGIC ”JOHANNES LEBEL” TĂLMACIU/ȘCOALA GIMNAZIALĂ TĂLMĂCEL",
+    "totalVoturi": 394,
+    "totalVoturiSENS": 6,
+    "procent": "1.52%"
+  },
+  {
+    "id": "34491",
+    "localitate": "LASLEA",
+    "nume_sectie": "CĂMIN CULTURAL FLOREŞTI",
+    "totalVoturi": 67,
+    "totalVoturiSENS": 1,
+    "procent": "1.49%"
+  },
+  {
+    "id": "34355",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ",
+    "totalVoturi": 408,
+    "totalVoturiSENS": 6,
+    "procent": "1.47%"
+  },
+  {
+    "id": "34467",
+    "localitate": "CHIRPĂR",
+    "nume_sectie": "CĂMINUL CULTURAL VĂRD",
+    "totalVoturi": 137,
+    "totalVoturiSENS": 2,
+    "procent": "1.46%"
+  },
+  {
+    "id": "34397",
+    "localitate": "ORAŞ DUMBRĂVENI",
+    "nume_sectie": "CLĂDIRE PUBLICĂ A ADMINISTRAȚIEI LOCALE ORAȘ DUMBRĂVENI",
+    "totalVoturi": 482,
+    "totalVoturiSENS": 7,
+    "procent": "1.45%"
+  },
+  {
+    "id": "34530",
+    "localitate": "PORUMBACU DE JOS",
+    "nume_sectie": "CĂMINUL CULTURAL SCOREIU",
+    "totalVoturi": 210,
+    "totalVoturiSENS": 3,
+    "procent": "1.43%"
+  },
+  {
+    "id": "34363",
+    "localitate": "ORAŞ AGNITA",
+    "nume_sectie": "SPAȚIU COMERCIAL",
+    "totalVoturi": 211,
+    "totalVoturiSENS": 3,
+    "procent": "1.42%"
+  },
+  {
+    "id": "34434",
+    "localitate": "AŢEL",
+    "nume_sectie": "PRIMARIA ATEL",
+    "totalVoturi": 430,
+    "totalVoturiSENS": 6,
+    "procent": "1.40%"
+  },
+  {
+    "id": "34239",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "GRĂDINIŢA CU PROGRAM PRELUNGIT NR. 17",
+    "totalVoturi": 435,
+    "totalVoturiSENS": 6,
+    "procent": "1.38%"
+  },
+  {
+    "id": "34373",
+    "localitate": "ORAŞ AVRIG",
+    "nume_sectie": "ŞCOLA GIMNAZIALĂ BRADU",
+    "totalVoturi": 367,
+    "totalVoturiSENS": 5,
+    "procent": "1.36%"
+  },
+  {
+    "id": "34411",
+    "localitate": "ORAŞ SĂLIŞTE",
+    "nume_sectie": "CENTRU DE DOCUMENTARE ȘI INFORMARE SIBIEL",
+    "totalVoturi": 227,
+    "totalVoturiSENS": 3,
+    "procent": "1.32%"
+  },
+  {
+    "id": "34465",
+    "localitate": "CÂRŢIŞOARA",
+    "nume_sectie": "PRIMĂRIA COMUNEI CÎRȚIȘOARA",
+    "totalVoturi": 534,
+    "totalVoturiSENS": 7,
+    "procent": "1.31%"
+  },
+  {
+    "id": "34505",
+    "localitate": "MICĂSASA",
+    "nume_sectie": "ȘCOALA PRIMARĂ ŢAPU",
+    "totalVoturi": 229,
+    "totalVoturiSENS": 3,
+    "procent": "1.31%"
   },
   {
     "id": "34499",
@@ -2344,164 +2384,28 @@
     "procent": "1.30%"
   },
   {
-    "id": "34501",
-    "localitate": "MARPOD",
-    "nume_sectie": "FOSTĂ ŞCOALĂ GENERALĂ ILIMBAV",
-    "totalVoturi": 97,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "34502",
-    "localitate": "MERGHINDEAL",
-    "nume_sectie": "ȘCOALA PRIMARĂ CLASELE I-IV MERGHINDEAL",
-    "totalVoturi": 294,
-    "totalVoturiSENS": 5,
-    "procent": "1.70%"
-  },
-  {
-    "id": "34503",
-    "localitate": "MERGHINDEAL",
-    "nume_sectie": "ȘCOALA PRIMARĂ DEALU FRUMOS",
-    "totalVoturi": 240,
-    "totalVoturiSENS": 2,
-    "procent": "0.83%"
-  },
-  {
-    "id": "34504",
-    "localitate": "MICĂSASA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”CORNELIU PĂCURARIU” MICĂSASA",
-    "totalVoturi": 498,
-    "totalVoturiSENS": 10,
-    "procent": "2.01%"
-  },
-  {
-    "id": "34505",
-    "localitate": "MICĂSASA",
-    "nume_sectie": "ȘCOALA PRIMARĂ ŢAPU",
-    "totalVoturi": 229,
-    "totalVoturiSENS": 3,
-    "procent": "1.31%"
-  },
-  {
-    "id": "34506",
-    "localitate": "MICĂSASA",
-    "nume_sectie": "DISPENSARUL MEDICAL CHESLER",
-    "totalVoturi": 30,
-    "totalVoturiSENS": 1,
-    "procent": "3.33%"
-  },
-  {
-    "id": "34507",
-    "localitate": "MIHĂILENI",
-    "nume_sectie": "PRIMĂRIA COMUNEI MIHĂILENI",
-    "totalVoturi": 100,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "34508",
-    "localitate": "MIHĂILENI",
-    "nume_sectie": "ȘCOALA PRIMARĂ METIȘ - CORP NOU",
-    "totalVoturi": 52,
-    "totalVoturiSENS": 2,
-    "procent": "3.85%"
-  },
-  {
-    "id": "34509",
-    "localitate": "MIHĂILENI",
-    "nume_sectie": "ȘCOALA PRIMARĂ RĂVĂȘEL",
-    "totalVoturi": 87,
-    "totalVoturiSENS": 0,
-    "procent": "0.00%"
-  },
-  {
-    "id": "34510",
-    "localitate": "MOŞNA",
-    "nume_sectie": "CĂMINUL CULTURAL AL COMUNEI MOȘNA",
-    "totalVoturi": 280,
-    "totalVoturiSENS": 9,
-    "procent": "3.21%"
-  },
-  {
-    "id": "34511",
-    "localitate": "MOŞNA",
-    "nume_sectie": "CĂMINUL CULTURAL AL COMUNEI MOȘNA",
-    "totalVoturi": 429,
-    "totalVoturiSENS": 15,
-    "procent": "3.50%"
-  },
-  {
-    "id": "34512",
-    "localitate": "MOŞNA",
-    "nume_sectie": "PUNCT DE LUCRU PRIMĂRIE (FOSTA GRĂDINIȚĂ CU PROGRAM NORMAL ALMA VII)",
-    "totalVoturi": 102,
-    "totalVoturiSENS": 1,
-    "procent": "0.98%"
-  },
-  {
-    "id": "34513",
-    "localitate": "MOŞNA",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ NEMȘA",
-    "totalVoturi": 172,
+    "id": "34488",
+    "localitate": "JINA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ JINA BĂIEŞI",
+    "totalVoturi": 465,
     "totalVoturiSENS": 6,
-    "procent": "3.49%"
+    "procent": "1.29%"
   },
   {
-    "id": "34514",
-    "localitate": "NOCRICH",
-    "nume_sectie": "CAMINUL CULTURAL NOCRICH",
-    "totalVoturi": 502,
-    "totalVoturiSENS": 3,
-    "procent": "0.60%"
-  },
-  {
-    "id": "34515",
-    "localitate": "NOCRICH",
-    "nume_sectie": "SCOALA GIMNAZIALA HOSMAN",
-    "totalVoturi": 253,
+    "id": "34576",
+    "localitate": "TILIŞCA",
+    "nume_sectie": "PRIMĂRIA TILIŞCA",
+    "totalVoturi": 464,
     "totalVoturiSENS": 6,
-    "procent": "2.37%"
+    "procent": "1.29%"
   },
   {
-    "id": "34516",
-    "localitate": "NOCRICH",
-    "nume_sectie": "SCOALA PRIMARA FOFELDEA",
-    "totalVoturi": 198,
-    "totalVoturiSENS": 2,
-    "procent": "1.01%"
-  },
-  {
-    "id": "34517",
-    "localitate": "NOCRICH",
-    "nume_sectie": "FOSTA SCOALA GHIJASA DE JOS",
-    "totalVoturi": 42,
+    "id": "34428",
+    "localitate": "ALŢINA",
+    "nume_sectie": "FOST SEDIU CAP",
+    "totalVoturi": 79,
     "totalVoturiSENS": 1,
-    "procent": "2.38%"
-  },
-  {
-    "id": "34518",
-    "localitate": "NOCRICH",
-    "nume_sectie": "SCOALA PRIMARA ŢICHINDEAL",
-    "totalVoturi": 70,
-    "totalVoturiSENS": 2,
-    "procent": "2.86%"
-  },
-  {
-    "id": "34519",
-    "localitate": "ORLAT",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL ORLAT",
-    "totalVoturi": 581,
-    "totalVoturiSENS": 17,
-    "procent": "2.93%"
-  },
-  {
-    "id": "34520",
-    "localitate": "ORLAT",
-    "nume_sectie": "GRĂDINIŢA CU PROGRAM NORMAL ORLAT",
-    "totalVoturi": 707,
-    "totalVoturiSENS": 18,
-    "procent": "2.55%"
+    "procent": "1.27%"
   },
   {
     "id": "34521",
@@ -2512,12 +2416,564 @@
     "procent": "1.26%"
   },
   {
-    "id": "34522",
-    "localitate": "PĂUCA",
-    "nume_sectie": "ŞCOALA GIMNAZIALA BOGATU-ROMÂN",
-    "totalVoturi": 168,
+    "id": "34352",
+    "localitate": "MUNICIPIUL MEDIAŞ",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ CONSTANTIN IOAN MOTAŞ",
+    "totalVoturi": 408,
+    "totalVoturiSENS": 5,
+    "procent": "1.23%"
+  },
+  {
+    "id": "34360",
+    "localitate": "ORAŞ AGNITA",
+    "nume_sectie": "COLEGIUL TEHNIC A.T. LAUREAN",
+    "totalVoturi": 324,
+    "totalVoturiSENS": 4,
+    "procent": "1.23%"
+  },
+  {
+    "id": "34406",
+    "localitate": "ORAŞ OCNA SIBIULUI",
+    "nume_sectie": "CLADIRE (FOST SEDIU PRIMARIE),TOPÎRCEA",
+    "totalVoturi": 81,
+    "totalVoturiSENS": 1,
+    "procent": "1.23%"
+  },
+  {
+    "id": "34580",
+    "localitate": "VALEA VIILOR",
+    "nume_sectie": "CĂMIN VALEA VIILOR",
+    "totalVoturi": 486,
+    "totalVoturiSENS": 6,
+    "procent": "1.23%"
+  },
+  {
+    "id": "34526",
+    "localitate": "POIANA SIBIULUI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”IOAN BAN - DASCĂLU”, POIANA SIBIULUI, NR. 1332",
+    "totalVoturi": 332,
+    "totalVoturiSENS": 4,
+    "procent": "1.20%"
+  },
+  {
+    "id": "34443",
+    "localitate": "BÂRGHIŞ",
+    "nume_sectie": "CĂMIN CULTURAL IGHIŞU VECHI",
+    "totalVoturi": 84,
+    "totalVoturiSENS": 1,
+    "procent": "1.19%"
+  },
+  {
+    "id": "34495",
+    "localitate": "LOAMNEŞ",
+    "nume_sectie": "CĂMIN CULTURAL MÎNDRA",
+    "totalVoturi": 175,
+    "totalVoturiSENS": 2,
+    "procent": "1.14%"
+  },
+  {
+    "id": "34582",
+    "localitate": "VURPĂR",
+    "nume_sectie": "GRADINITA 80 LOCURI",
+    "totalVoturi": 355,
+    "totalVoturiSENS": 4,
+    "procent": "1.13%"
+  },
+  {
+    "id": "34427",
+    "localitate": "ALŢINA",
+    "nume_sectie": "FOST SEDIU CAP",
+    "totalVoturi": 92,
+    "totalVoturiSENS": 1,
+    "procent": "1.09%"
+  },
+  {
+    "id": "34424",
+    "localitate": "ALMA",
+    "nume_sectie": "CĂMINUL CULTURAL GIACĂŞ",
+    "totalVoturi": 93,
+    "totalVoturiSENS": 1,
+    "procent": "1.08%"
+  },
+  {
+    "id": "34548",
+    "localitate": "SLIMNIC",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ RUŞI (CORP C2)",
+    "totalVoturi": 280,
     "totalVoturiSENS": 3,
-    "procent": "1.79%"
+    "procent": "1.07%"
+  },
+  {
+    "id": "34402",
+    "localitate": "ORAŞ MIERCUREA SIBIULUI",
+    "nume_sectie": "CAMIN CULTURAL",
+    "totalVoturi": 191,
+    "totalVoturiSENS": 2,
+    "procent": "1.05%"
+  },
+  {
+    "id": "34452",
+    "localitate": "BLĂJEL",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ",
+    "totalVoturi": 191,
+    "totalVoturiSENS": 2,
+    "procent": "1.05%"
+  },
+  {
+    "id": "34429",
+    "localitate": "APOLDU DE JOS",
+    "nume_sectie": "CĂMINUL CULTURAL APOLDU DE JOS",
+    "totalVoturi": 385,
+    "totalVoturiSENS": 4,
+    "procent": "1.04%"
+  },
+  {
+    "id": "34445",
+    "localitate": "BÂRGHIŞ",
+    "nume_sectie": "ŞCOALA PRIMARĂ APOȘ",
+    "totalVoturi": 97,
+    "totalVoturiSENS": 1,
+    "procent": "1.03%"
+  },
+  {
+    "id": "34482",
+    "localitate": "IACOBENI",
+    "nume_sectie": "LICEUL TEHNOLOGIC IACOBENI",
+    "totalVoturi": 292,
+    "totalVoturiSENS": 3,
+    "procent": "1.03%"
+  },
+  {
+    "id": "34436",
+    "localitate": "AXENTE SEVER",
+    "nume_sectie": "CĂMIN CULTURAL",
+    "totalVoturi": 497,
+    "totalVoturiSENS": 5,
+    "procent": "1.01%"
+  },
+  {
+    "id": "34516",
+    "localitate": "NOCRICH",
+    "nume_sectie": "SCOALA PRIMARA FOFELDEA",
+    "totalVoturi": 198,
+    "totalVoturiSENS": 2,
+    "procent": "1.01%"
+  },
+  {
+    "id": "34512",
+    "localitate": "MOŞNA",
+    "nume_sectie": "PUNCT DE LUCRU PRIMĂRIE (FOSTA GRĂDINIȚĂ CU PROGRAM NORMAL ALMA VII)",
+    "totalVoturi": 102,
+    "totalVoturiSENS": 1,
+    "procent": "0.98%"
+  },
+  {
+    "id": "34464",
+    "localitate": "CÂRŢA",
+    "nume_sectie": "PRIMARIA CIRTA",
+    "totalVoturi": 338,
+    "totalVoturiSENS": 3,
+    "procent": "0.89%"
+  },
+  {
+    "id": "34490",
+    "localitate": "LASLEA",
+    "nume_sectie": "CĂMIN CULTURAL MĂLÎNCRAV",
+    "totalVoturi": 340,
+    "totalVoturiSENS": 3,
+    "procent": "0.88%"
+  },
+  {
+    "id": "34539",
+    "localitate": "ROŞIA",
+    "nume_sectie": "PRIMARIA ROSIA",
+    "totalVoturi": 349,
+    "totalVoturiSENS": 3,
+    "procent": "0.86%"
+  },
+  {
+    "id": "34503",
+    "localitate": "MERGHINDEAL",
+    "nume_sectie": "ȘCOALA PRIMARĂ DEALU FRUMOS",
+    "totalVoturi": 240,
+    "totalVoturiSENS": 2,
+    "procent": "0.83%"
+  },
+  {
+    "id": "34531",
+    "localitate": "PORUMBACU DE JOS",
+    "nume_sectie": "CĂMINUL CULTURAL SARATA",
+    "totalVoturi": 122,
+    "totalVoturiSENS": 1,
+    "procent": "0.82%"
+  },
+  {
+    "id": "34540",
+    "localitate": "ROŞIA",
+    "nume_sectie": "SCOALA GIMNAZIALA NOU",
+    "totalVoturi": 386,
+    "totalVoturiSENS": 3,
+    "procent": "0.78%"
+  },
+  {
+    "id": "34430",
+    "localitate": "APOLDU DE JOS",
+    "nume_sectie": "CĂMINUL CULTURAL SÂNGĂTIN",
+    "totalVoturi": 132,
+    "totalVoturiSENS": 1,
+    "procent": "0.76%"
+  },
+  {
+    "id": "34475",
+    "localitate": "DÂRLOS",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ CURCIU",
+    "totalVoturi": 263,
+    "totalVoturiSENS": 2,
+    "procent": "0.76%"
+  },
+  {
+    "id": "34462",
+    "localitate": "BRUIU",
+    "nume_sectie": "PRIMĂRIA BRUIU",
+    "totalVoturi": 134,
+    "totalVoturiSENS": 1,
+    "procent": "0.75%"
+  },
+  {
+    "id": "34480",
+    "localitate": "HOGHILAG",
+    "nume_sectie": "SCOALA PRIMARĂ PROD",
+    "totalVoturi": 136,
+    "totalVoturiSENS": 1,
+    "procent": "0.74%"
+  },
+  {
+    "id": "34415",
+    "localitate": "ORAŞ SĂLIŞTE",
+    "nume_sectie": "ŞCOALA PRIMARĂ AMNAŞ",
+    "totalVoturi": 139,
+    "totalVoturiSENS": 1,
+    "procent": "0.72%"
+  },
+  {
+    "id": "34455",
+    "localitate": "BOIŢA",
+    "nume_sectie": "PRIMĂRIA COMUNEI BOIŢA",
+    "totalVoturi": 698,
+    "totalVoturiSENS": 5,
+    "procent": "0.72%"
+  },
+  {
+    "id": "34483",
+    "localitate": "IACOBENI",
+    "nume_sectie": "ȘCOALA PRIMARĂ STEJĂRIȘU",
+    "totalVoturi": 141,
+    "totalVoturiSENS": 1,
+    "procent": "0.71%"
+  },
+  {
+    "id": "34479",
+    "localitate": "HOGHILAG",
+    "nume_sectie": "PRIMĂRIA HOGHILAG",
+    "totalVoturi": 429,
+    "totalVoturiSENS": 3,
+    "procent": "0.70%"
+  },
+  {
+    "id": "34485",
+    "localitate": "IACOBENI",
+    "nume_sectie": "ȘCOALA GIMNAZIALĂ NOIȘTAT",
+    "totalVoturi": 143,
+    "totalVoturiSENS": 1,
+    "procent": "0.70%"
+  },
+  {
+    "id": "34398",
+    "localitate": "ORAŞ DUMBRĂVENI",
+    "nume_sectie": "CĂMINUL CULTURAL ERNEA",
+    "totalVoturi": 144,
+    "totalVoturiSENS": 1,
+    "procent": "0.69%"
+  },
+  {
+    "id": "34484",
+    "localitate": "IACOBENI",
+    "nume_sectie": "ȘCOALA PRIMARĂ NETUȘ",
+    "totalVoturi": 146,
+    "totalVoturiSENS": 1,
+    "procent": "0.68%"
+  },
+  {
+    "id": "34481",
+    "localitate": "HOGHILAG",
+    "nume_sectie": "FOSTA PRIMĂRIE VALCHID",
+    "totalVoturi": 324,
+    "totalVoturiSENS": 2,
+    "procent": "0.62%"
+  },
+  {
+    "id": "34514",
+    "localitate": "NOCRICH",
+    "nume_sectie": "CAMINUL CULTURAL NOCRICH",
+    "totalVoturi": 502,
+    "totalVoturiSENS": 3,
+    "procent": "0.60%"
+  },
+  {
+    "id": "34414",
+    "localitate": "ORAŞ SĂLIŞTE",
+    "nume_sectie": "ŞCOALA PRIMARĂ MAG",
+    "totalVoturi": 176,
+    "totalVoturiSENS": 1,
+    "procent": "0.57%"
+  },
+  {
+    "id": "34528",
+    "localitate": "PORUMBACU DE JOS",
+    "nume_sectie": "SALA DE SPORT A ȘCOLII GIMNAZIALE PORUMBACU DE JOS",
+    "totalVoturi": 359,
+    "totalVoturiSENS": 2,
+    "procent": "0.56%"
+  },
+  {
+    "id": "34364",
+    "localitate": "ORAŞ AGNITA",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ RUJA",
+    "totalVoturi": 374,
+    "totalVoturiSENS": 2,
+    "procent": "0.53%"
+  },
+  {
+    "id": "34441",
+    "localitate": "BAZNA",
+    "nume_sectie": "SCOALA GIMNAZIALA BOIAN",
+    "totalVoturi": 405,
+    "totalVoturiSENS": 2,
+    "procent": "0.49%"
+  },
+  {
+    "id": "34426",
+    "localitate": "ALŢINA",
+    "nume_sectie": "SEDIU PRIMARIA",
+    "totalVoturi": 445,
+    "totalVoturiSENS": 2,
+    "procent": "0.45%"
+  },
+  {
+    "id": "34558",
+    "localitate": "ŞEICA MICĂ",
+    "nume_sectie": "FOSTUL SEDIU CAP SOROŞTIN",
+    "totalVoturi": 237,
+    "totalVoturiSENS": 1,
+    "procent": "0.42%"
+  },
+  {
+    "id": "34466",
+    "localitate": "CHIRPĂR",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ CHIRPĂR",
+    "totalVoturi": 261,
+    "totalVoturiSENS": 1,
+    "procent": "0.38%"
+  },
+  {
+    "id": "34579",
+    "localitate": "TURNU ROŞU",
+    "nume_sectie": "CĂMINUL CULTURAL",
+    "totalVoturi": 273,
+    "totalVoturiSENS": 1,
+    "procent": "0.37%"
+  },
+  {
+    "id": "34583",
+    "localitate": "VURPĂR",
+    "nume_sectie": "CAMINUL CULTURAL VURPAR",
+    "totalVoturi": 267,
+    "totalVoturiSENS": 1,
+    "procent": "0.37%"
+  },
+  {
+    "id": "34458",
+    "localitate": "BRATEIU",
+    "nume_sectie": "ŞCOALA GIMNAZIALĂ BUZD",
+    "totalVoturi": 306,
+    "totalVoturiSENS": 1,
+    "procent": "0.33%"
+  },
+  {
+    "id": "34423",
+    "localitate": "ALMA",
+    "nume_sectie": "CĂMINUL CULTURAL ALMA",
+    "totalVoturi": 358,
+    "totalVoturiSENS": 1,
+    "procent": "0.28%"
+  },
+  {
+    "id": "34487",
+    "localitate": "JINA",
+    "nume_sectie": "PRIMĂRIA COMUNEI JINA",
+    "totalVoturi": 674,
+    "totalVoturiSENS": 1,
+    "procent": "0.15%"
+  },
+  {
+    "id": "34312",
+    "localitate": "MUNICIPIUL SIBIU",
+    "nume_sectie": "PĂLTINIŞ",
+    "totalVoturi": 19,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34374",
+    "localitate": "ORAŞ AVRIG",
+    "nume_sectie": "ŞCOLA PRIMARĂ SĂCĂDATE",
+    "totalVoturi": 223,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34392",
+    "localitate": "ORAŞ COPŞA MICĂ",
+    "nume_sectie": "ŞCOALA PRIMARĂ NR. 2 COPŞA MICĂ, STRADA TÂRNĂVIOARA, NR.76",
+    "totalVoturi": 125,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34409",
+    "localitate": "ORAŞ SĂLIŞTE",
+    "nume_sectie": "MUZEUL ETNOGRAFIC ”MARIA COSTACHESCU",
+    "totalVoturi": 156,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34442",
+    "localitate": "BAZNA",
+    "nume_sectie": "SCOALA PRIMARĂ VELȚ",
+    "totalVoturi": 180,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34446",
+    "localitate": "BÂRGHIŞ",
+    "nume_sectie": "ŞCOALA PRIMARĂ PELIȘOR",
+    "totalVoturi": 136,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34448",
+    "localitate": "BÂRGHIŞ",
+    "nume_sectie": "DISPENSAR UMAN VECERD",
+    "totalVoturi": 35,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34450",
+    "localitate": "BIERTAN",
+    "nume_sectie": "SCOALA PRIMARA RICHIS",
+    "totalVoturi": 239,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34451",
+    "localitate": "BIERTAN",
+    "nume_sectie": "SCOALA PRIMARA COPSA MARE",
+    "totalVoturi": 139,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34461",
+    "localitate": "BRĂDENI",
+    "nume_sectie": "FOSTA ŞCOALĂ ŢELINE",
+    "totalVoturi": 57,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34468",
+    "localitate": "CHIRPĂR",
+    "nume_sectie": "ŞCOALA PRIMARĂ VESEUD",
+    "totalVoturi": 47,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34469",
+    "localitate": "CHIRPĂR",
+    "nume_sectie": "CĂMINUL CULTURAL SĂSĂUŞ",
+    "totalVoturi": 51,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34476",
+    "localitate": "DÂRLOS",
+    "nume_sectie": "CĂMIN CULTURAL VALEA LUNGĂ",
+    "totalVoturi": 108,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34486",
+    "localitate": "IACOBENI",
+    "nume_sectie": "ȘCOALA PRIMARĂ MOVILE",
+    "totalVoturi": 109,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34492",
+    "localitate": "LASLEA",
+    "nume_sectie": "ȘCOALA PRIMARĂ ROANDOLA",
+    "totalVoturi": 65,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34493",
+    "localitate": "LASLEA",
+    "nume_sectie": "ȘCOALA PRIMARĂ NOU SĂSESC",
+    "totalVoturi": 117,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34497",
+    "localitate": "LOAMNEŞ",
+    "nume_sectie": "ŞCOALA PRIMARĂ ARMENI",
+    "totalVoturi": 152,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34501",
+    "localitate": "MARPOD",
+    "nume_sectie": "FOSTĂ ŞCOALĂ GENERALĂ ILIMBAV",
+    "totalVoturi": 97,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34507",
+    "localitate": "MIHĂILENI",
+    "nume_sectie": "PRIMĂRIA COMUNEI MIHĂILENI",
+    "totalVoturi": 100,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
+  },
+  {
+    "id": "34509",
+    "localitate": "MIHĂILENI",
+    "nume_sectie": "ȘCOALA PRIMARĂ RĂVĂȘEL",
+    "totalVoturi": 87,
+    "totalVoturiSENS": 0,
+    "procent": "0.00%"
   },
   {
     "id": "34523",
@@ -2544,54 +3000,6 @@
     "procent": "0.00%"
   },
   {
-    "id": "34526",
-    "localitate": "POIANA SIBIULUI",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”IOAN BAN - DASCĂLU”, POIANA SIBIULUI, NR. 1332",
-    "totalVoturi": 332,
-    "totalVoturiSENS": 4,
-    "procent": "1.20%"
-  },
-  {
-    "id": "34527",
-    "localitate": "POPLACA",
-    "nume_sectie": "CĂMINUL CULTURAL POPLACA",
-    "totalVoturi": 839,
-    "totalVoturiSENS": 20,
-    "procent": "2.38%"
-  },
-  {
-    "id": "34528",
-    "localitate": "PORUMBACU DE JOS",
-    "nume_sectie": "SALA DE SPORT A ȘCOLII GIMNAZIALE PORUMBACU DE JOS",
-    "totalVoturi": 359,
-    "totalVoturiSENS": 2,
-    "procent": "0.56%"
-  },
-  {
-    "id": "34529",
-    "localitate": "PORUMBACU DE JOS",
-    "nume_sectie": "CĂMINUL CULTURAL PORUMBACU DE SUS",
-    "totalVoturi": 371,
-    "totalVoturiSENS": 12,
-    "procent": "3.23%"
-  },
-  {
-    "id": "34530",
-    "localitate": "PORUMBACU DE JOS",
-    "nume_sectie": "CĂMINUL CULTURAL SCOREIU",
-    "totalVoturi": 210,
-    "totalVoturiSENS": 3,
-    "procent": "1.43%"
-  },
-  {
-    "id": "34531",
-    "localitate": "PORUMBACU DE JOS",
-    "nume_sectie": "CĂMINUL CULTURAL SARATA",
-    "totalVoturi": 122,
-    "totalVoturiSENS": 1,
-    "procent": "0.82%"
-  },
-  {
     "id": "34532",
     "localitate": "PORUMBACU DE JOS",
     "nume_sectie": "CĂMINUL CULTURAL COLUN",
@@ -2600,172 +3008,12 @@
     "procent": "0.00%"
   },
   {
-    "id": "34533",
-    "localitate": "RACOVIŢA",
-    "nume_sectie": "CĂMINUL CULTURAL SEBEȘU DE SUS",
-    "totalVoturi": 296,
-    "totalVoturiSENS": 5,
-    "procent": "1.69%"
-  },
-  {
-    "id": "34534",
-    "localitate": "RACOVIŢA",
-    "nume_sectie": "CĂMINUL CULTURAL RACOVIŢA",
-    "totalVoturi": 905,
-    "totalVoturiSENS": 20,
-    "procent": "2.21%"
-  },
-  {
-    "id": "34535",
-    "localitate": "RĂŞINARI",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ OCTAVIAN GOGA RĂŞINARI",
-    "totalVoturi": 559,
-    "totalVoturiSENS": 14,
-    "procent": "2.50%"
-  },
-  {
-    "id": "34536",
-    "localitate": "RĂŞINARI",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ SAVA POPOVICI BARCIANU RĂŞINARI",
-    "totalVoturi": 599,
-    "totalVoturiSENS": 28,
-    "procent": "4.67%"
-  },
-  {
-    "id": "34537",
-    "localitate": "RĂŞINARI",
-    "nume_sectie": "CĂMINUL CULTURAL RĂȘINARI",
-    "totalVoturi": 690,
-    "totalVoturiSENS": 27,
-    "procent": "3.91%"
-  },
-  {
-    "id": "34538",
-    "localitate": "RÂU SADULUI",
-    "nume_sectie": "PRIMĂRIA",
-    "totalVoturi": 279,
-    "totalVoturiSENS": 6,
-    "procent": "2.15%"
-  },
-  {
-    "id": "34539",
-    "localitate": "ROŞIA",
-    "nume_sectie": "PRIMARIA ROSIA",
-    "totalVoturi": 349,
-    "totalVoturiSENS": 3,
-    "procent": "0.86%"
-  },
-  {
-    "id": "34540",
-    "localitate": "ROŞIA",
-    "nume_sectie": "SCOALA GIMNAZIALA NOU",
-    "totalVoturi": 386,
-    "totalVoturiSENS": 3,
-    "procent": "0.78%"
-  },
-  {
-    "id": "34541",
-    "localitate": "ROŞIA",
-    "nume_sectie": "SCOALA GIMAZIALA DAIA",
-    "totalVoturi": 385,
-    "totalVoturiSENS": 12,
-    "procent": "3.12%"
-  },
-  {
-    "id": "34542",
-    "localitate": "ROŞIA",
-    "nume_sectie": "SCOALA GIMNAZIALA CAŞOLŢ",
-    "totalVoturi": 367,
-    "totalVoturiSENS": 9,
-    "procent": "2.45%"
-  },
-  {
-    "id": "34543",
-    "localitate": "ROŞIA",
-    "nume_sectie": "SEDIUL ADMINISTRATIV DISPENSAR",
-    "totalVoturi": 243,
-    "totalVoturiSENS": 5,
-    "procent": "2.06%"
-  },
-  {
-    "id": "34544",
-    "localitate": "SADU",
-    "nume_sectie": "CĂMINUL CULTURAL AL COMUNEI SADU",
-    "totalVoturi": 519,
-    "totalVoturiSENS": 17,
-    "procent": "3.28%"
-  },
-  {
-    "id": "34545",
-    "localitate": "SADU",
-    "nume_sectie": "CĂMINUL CULTURAL AL COMUNEI SADU",
-    "totalVoturi": 751,
-    "totalVoturiSENS": 20,
-    "procent": "2.66%"
-  },
-  {
-    "id": "34546",
-    "localitate": "SLIMNIC",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ SLIMNIC",
-    "totalVoturi": 486,
-    "totalVoturiSENS": 22,
-    "procent": "4.53%"
-  },
-  {
-    "id": "34547",
-    "localitate": "SLIMNIC",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ SLIMNIC",
-    "totalVoturi": 475,
-    "totalVoturiSENS": 10,
-    "procent": "2.11%"
-  },
-  {
-    "id": "34548",
-    "localitate": "SLIMNIC",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ RUŞI (CORP C2)",
-    "totalVoturi": 280,
-    "totalVoturiSENS": 3,
-    "procent": "1.07%"
-  },
-  {
     "id": "34549",
     "localitate": "SLIMNIC",
     "nume_sectie": "ŞCOALA GIMNAZIALA VESEUD",
     "totalVoturi": 69,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "34550",
-    "localitate": "ŞEICA MARE",
-    "nume_sectie": "SCOALA GIMNAZIALA SEICA MARE",
-    "totalVoturi": 323,
-    "totalVoturiSENS": 5,
-    "procent": "1.55%"
-  },
-  {
-    "id": "34551",
-    "localitate": "ŞEICA MARE",
-    "nume_sectie": "SCOALA GIMNAZIALA SEICA MARE",
-    "totalVoturi": 309,
-    "totalVoturiSENS": 9,
-    "procent": "2.91%"
-  },
-  {
-    "id": "34552",
-    "localitate": "ŞEICA MARE",
-    "nume_sectie": "SCOALA PRIMARA SEICA MARE",
-    "totalVoturi": 390,
-    "totalVoturiSENS": 7,
-    "procent": "1.79%"
-  },
-  {
-    "id": "34553",
-    "localitate": "ŞEICA MARE",
-    "nume_sectie": "SCOALA PRIMARA BOARTA",
-    "totalVoturi": 143,
-    "totalVoturiSENS": 3,
-    "procent": "2.10%"
   },
   {
     "id": "34554",
@@ -2792,259 +3040,11 @@
     "procent": "0.00%"
   },
   {
-    "id": "34557",
-    "localitate": "ŞEICA MICĂ",
-    "nume_sectie": "PRIMARIA",
-    "totalVoturi": 294,
-    "totalVoturiSENS": 11,
-    "procent": "3.74%"
-  },
-  {
-    "id": "34558",
-    "localitate": "ŞEICA MICĂ",
-    "nume_sectie": "FOSTUL SEDIU CAP SOROŞTIN",
-    "totalVoturi": 237,
-    "totalVoturiSENS": 1,
-    "procent": "0.42%"
-  },
-  {
-    "id": "34559",
-    "localitate": "ŞELIMBĂR",
-    "nume_sectie": "ȘCOALA GENERALĂ”MIHAI VITEAZU”ȘELIMBĂR, CORP B",
-    "totalVoturi": 1092,
-    "totalVoturiSENS": 68,
-    "procent": "6.23%"
-  },
-  {
-    "id": "34560",
-    "localitate": "ŞELIMBĂR",
-    "nume_sectie": "ŞCOALA GIMNAZIALĂ `MIHAI VITEAZU~ ŞELIMBĂR",
-    "totalVoturi": 1167,
-    "totalVoturiSENS": 53,
-    "procent": "4.54%"
-  },
-  {
-    "id": "34561",
-    "localitate": "ŞELIMBĂR",
-    "nume_sectie": "GRĂDINIȚA CU PROGRAM PRELUNGIT",
-    "totalVoturi": 1290,
-    "totalVoturiSENS": 62,
-    "procent": "4.81%"
-  },
-  {
-    "id": "34562",
-    "localitate": "ŞELIMBĂR",
-    "nume_sectie": "CĂMIN CULTURAL VEȘTEM",
-    "totalVoturi": 725,
-    "totalVoturiSENS": 23,
-    "procent": "3.17%"
-  },
-  {
-    "id": "34563",
-    "localitate": "ŞELIMBĂR",
-    "nume_sectie": "CĂMIN CULTURAL MOHU",
-    "totalVoturi": 263,
-    "totalVoturiSENS": 12,
-    "procent": "4.56%"
-  },
-  {
-    "id": "34564",
-    "localitate": "ŞELIMBĂR",
-    "nume_sectie": "CĂMIN CULTURAL BUNGRAD",
-    "totalVoturi": 241,
-    "totalVoturiSENS": 7,
-    "procent": "2.90%"
-  },
-  {
-    "id": "34565",
-    "localitate": "ŞELIMBĂR",
-    "nume_sectie": "GRĂDINIȚA CU PROGRAM PRELUNGIT ȘELIMBĂR, CORP NOU, PARTER",
-    "totalVoturi": 1249,
-    "totalVoturiSENS": 77,
-    "procent": "6.16%"
-  },
-  {
-    "id": "34566",
-    "localitate": "ŞELIMBĂR",
-    "nume_sectie": "GRĂDINIȚA CU PROGRAM PRELUNGIT ”DOAMNA STANCA”ȘELIMBĂR",
-    "totalVoturi": 404,
-    "totalVoturiSENS": 33,
-    "procent": "8.17%"
-  },
-  {
-    "id": "34567",
-    "localitate": "ŞELIMBĂR",
-    "nume_sectie": "GRĂDINIȚA CU PROGRAM PRELUNGIT ”DOAMNA STANCA”ȘELIMBĂR",
-    "totalVoturi": 1170,
-    "totalVoturiSENS": 71,
-    "procent": "6.07%"
-  },
-  {
-    "id": "34568",
-    "localitate": "ŞURA MARE",
-    "nume_sectie": "SALĂ SPORT",
-    "totalVoturi": 975,
-    "totalVoturiSENS": 29,
-    "procent": "2.97%"
-  },
-  {
-    "id": "34569",
-    "localitate": "ŞURA MARE",
-    "nume_sectie": "SALĂ SPORT",
-    "totalVoturi": 761,
-    "totalVoturiSENS": 32,
-    "procent": "4.20%"
-  },
-  {
-    "id": "34570",
-    "localitate": "ŞURA MARE",
-    "nume_sectie": "CĂMIN CULTURAL",
-    "totalVoturi": 338,
-    "totalVoturiSENS": 11,
-    "procent": "3.25%"
-  },
-  {
-    "id": "34571",
-    "localitate": "ŞURA MICĂ",
-    "nume_sectie": "SCOALA GIMNAZIALA SURA MICA",
-    "totalVoturi": 565,
-    "totalVoturiSENS": 19,
-    "procent": "3.36%"
-  },
-  {
-    "id": "34572",
-    "localitate": "ŞURA MICĂ",
-    "nume_sectie": "SCOALA PRIMARA RUSCIORI",
-    "totalVoturi": 337,
-    "totalVoturiSENS": 8,
-    "procent": "2.37%"
-  },
-  {
-    "id": "34573",
-    "localitate": "ŞURA MICĂ",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ CLASELE I-IV ȘURA MICĂ",
-    "totalVoturi": 610,
-    "totalVoturiSENS": 23,
-    "procent": "3.77%"
-  },
-  {
-    "id": "34574",
-    "localitate": "TÂRNAVA",
-    "nume_sectie": "GRĂDINIŢA CU ORAR NORMAL TÎRNAVA",
-    "totalVoturi": 380,
-    "totalVoturiSENS": 6,
-    "procent": "1.58%"
-  },
-  {
-    "id": "34575",
-    "localitate": "TÂRNAVA",
-    "nume_sectie": "GRĂDINIŢA CU ORAR NORMAL TÎRNAVA",
-    "totalVoturi": 390,
-    "totalVoturiSENS": 8,
-    "procent": "2.05%"
-  },
-  {
-    "id": "34576",
-    "localitate": "TILIŞCA",
-    "nume_sectie": "PRIMĂRIA TILIŞCA",
-    "totalVoturi": 464,
-    "totalVoturiSENS": 6,
-    "procent": "1.29%"
-  },
-  {
-    "id": "34577",
-    "localitate": "TILIŞCA",
-    "nume_sectie": "ŞCOALA PRIMARĂ ROD",
-    "totalVoturi": 215,
-    "totalVoturiSENS": 10,
-    "procent": "4.65%"
-  },
-  {
-    "id": "34578",
-    "localitate": "TURNU ROŞU",
-    "nume_sectie": "CĂMINUL CULTURAL ”REGELE MIHAI I”",
-    "totalVoturi": 720,
-    "totalVoturiSENS": 35,
-    "procent": "4.86%"
-  },
-  {
-    "id": "34579",
-    "localitate": "TURNU ROŞU",
-    "nume_sectie": "CĂMINUL CULTURAL",
-    "totalVoturi": 273,
-    "totalVoturiSENS": 1,
-    "procent": "0.37%"
-  },
-  {
-    "id": "34580",
-    "localitate": "VALEA VIILOR",
-    "nume_sectie": "CĂMIN VALEA VIILOR",
-    "totalVoturi": 486,
-    "totalVoturiSENS": 6,
-    "procent": "1.23%"
-  },
-  {
     "id": "34581",
     "localitate": "VALEA VIILOR",
     "nume_sectie": "CĂMIN MOTIȘ",
     "totalVoturi": 176,
     "totalVoturiSENS": 0,
     "procent": "0.00%"
-  },
-  {
-    "id": "34582",
-    "localitate": "VURPĂR",
-    "nume_sectie": "GRADINITA 80 LOCURI",
-    "totalVoturi": 355,
-    "totalVoturiSENS": 4,
-    "procent": "1.13%"
-  },
-  {
-    "id": "34583",
-    "localitate": "VURPĂR",
-    "nume_sectie": "CAMINUL CULTURAL VURPAR",
-    "totalVoturi": 267,
-    "totalVoturiSENS": 1,
-    "procent": "0.37%"
-  },
-  {
-    "id": "39826",
-    "localitate": "MUNICIPIUL SIBIU",
-    "nume_sectie": "LICEUL TEHNOLOGIC CONSTRUCȚII ȘI ARHITECTURĂ CAROL I SIBIU",
-    "totalVoturi": 904,
-    "totalVoturiSENS": 74,
-    "procent": "8.19%"
-  },
-  {
-    "id": "39827",
-    "localitate": "ORAŞ CISNĂDIE",
-    "nume_sectie": "CASA DE CULTURĂ CISNĂDIE",
-    "totalVoturi": 759,
-    "totalVoturiSENS": 40,
-    "procent": "5.27%"
-  },
-  {
-    "id": "39854",
-    "localitate": "ŞELIMBĂR",
-    "nume_sectie": "ȘCOALA GIMNAZIALĂ ”MIHAI VITEAZU” ȘELIMBĂR",
-    "totalVoturi": 730,
-    "totalVoturiSENS": 41,
-    "procent": "5.62%"
-  },
-  {
-    "id": "39855",
-    "localitate": "ŞELIMBĂR",
-    "nume_sectie": "GRĂDINITA CU PROGRAM PRELUNGIT”DOAMNA STANCA” ȘELIMBĂR",
-    "totalVoturi": 572,
-    "totalVoturiSENS": 37,
-    "procent": "6.47%"
-  },
-  {
-    "id": "40061",
-    "localitate": "ORAŞ CISNĂDIE",
-    "nume_sectie": "CASA DE CULTURĂ CISNĂDIE",
-    "totalVoturi": 762,
-    "totalVoturiSENS": 37,
-    "procent": "4.86%"
   }
 ]
